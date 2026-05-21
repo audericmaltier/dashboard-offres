@@ -1,22 +1,40 @@
 #!/usr/bin/env python3
 """
-Fetches job offers from multiple sources, scores them against Audéric Maltier's
-profile (Ingénieur Méthodes & Maintenance, ENSAM), and writes data/jobs.json.
+Collecte les offres d'emploi depuis des sources PUBLIQUES, sans clé API.
 
-Sources: France Travail, APEC, Adzuna, JSearch (LinkedIn/Indeed), HelloWork
+Sources gratuites (RSS + scraping JSON-LD) :
+  - France Travail  → flux RSS public
+  - Indeed France   → flux RSS public
+  - APEC            → flux RSS public
+  - HelloWork       → données JSON-LD dans les pages de résultats
+
+Les offres sont scorées par rapport au profil (profile.json) et
+sauvegardées dans data/jobs.json pour le dashboard GitHub Pages.
 """
 
 import json
 import math
 import os
 import re
+import time
 from datetime import datetime, timezone
+from urllib.parse import quote_plus
 
+import feedparser
 import requests
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROFILE_PATH = os.path.join(BASE_DIR, "profile.json")
 OUTPUT_PATH = os.path.join(BASE_DIR, "data", "jobs.json")
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0 Safari/537.36"
+    ),
+    "Accept-Language": "fr-FR,fr;q=0.9",
+}
 
 
 def load_profile():
@@ -29,27 +47,26 @@ def load_profile():
 # ---------------------------------------------------------------------------
 
 def score_job(job, profile):
-    """Returns (score 0-100, breakdown dict)."""
+    """Retourne (score 0-100, breakdown dict)."""
     breakdown = {}
     total = 0
 
     title_lower = (job.get("title") or "").lower()
     text = f"{job.get('title', '')} {job.get('description', '')}".lower()
 
-    # Title match — 40 pts
+    # Titre — 40 pts
     title_score = 0
     for target in profile.get("target_titles", []):
         words = target.lower().split()
         if all(w in title_lower for w in words):
             title_score = 40
             break
-        matched_words = sum(1 for w in words if len(w) > 3 and w in title_lower)
-        partial = int(30 * matched_words / max(len(words), 1))
-        title_score = max(title_score, partial)
+        matched = sum(1 for w in words if len(w) > 3 and w in title_lower)
+        title_score = max(title_score, int(35 * matched / max(len(words), 1)))
     breakdown["title"] = title_score
     total += title_score
 
-    # Skill match — 30 pts
+    # Compétences — 30 pts
     skills = profile.get("skills", [])
     matched_skills = [s for s in skills if s.lower() in text]
     skill_score = int(30 * len(matched_skills) / max(len(skills), 1))
@@ -57,14 +74,13 @@ def score_job(job, profile):
     breakdown["matched_skills"] = matched_skills
     total += skill_score
 
-    # Sector relevance — 10 pts (bonus if sector mentioned)
+    # Secteur — 10 pts
     sectors = profile.get("sectors", [])
-    sector_hit = any(s.lower() in text for s in sectors)
-    sector_score = 10 if sector_hit else 0
+    sector_score = 10 if any(s.lower() in text for s in sectors) else 0
     breakdown["sector"] = sector_score
     total += sector_score
 
-    # Recency — 10 pts
+    # Fraîcheur — 10 pts
     recency_score = 5
     date_str = job.get("date_posted")
     if date_str:
@@ -77,7 +93,7 @@ def score_job(job, profile):
     breakdown["recency"] = recency_score
     total += recency_score
 
-    # Contract type — 10 pts
+    # Contrat — 10 pts
     contract = (job.get("contract_type") or "").upper()
     target_contracts = [c.upper() for c in profile.get("contract_types", [])]
     contract_score = 10 if any(c in contract for c in target_contracts) else 0
@@ -88,318 +104,261 @@ def score_job(job, profile):
 
 
 # ---------------------------------------------------------------------------
-# France Travail
+# Utilitaires RSS
 # ---------------------------------------------------------------------------
 
-def _ft_token(client_id, client_secret):
-    resp = requests.post(
-        "https://entreprise.francetravail.fr/connexion/oauth2/access_token?realm=%2Fpartenaire",
-        data={
-            "grant_type": "client_credentials",
-            "client_id": client_id,
-            "client_secret": client_secret,
-            "scope": "api_offresdemploiv2 o2dsoffre",
-        },
-        headers={"Content-Type": "application/x-www-form-urlencoded"},
-        timeout=15,
-    )
-    resp.raise_for_status()
-    return resp.json()["access_token"]
+def parse_rss_date(entry):
+    """Convertit une date feedparser en ISO 8601."""
+    if hasattr(entry, "published_parsed") and entry.published_parsed:
+        try:
+            return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc).isoformat()
+        except Exception:
+            pass
+    return ""
 
 
-def _ft_search(token, commune, radius, keywords, start=0):
-    resp = requests.get(
-        "https://api.emploi-store.fr/partenaire/offresdemploi/v2/offres/search",
-        params={
-            "commune": commune,
-            "distance": radius,
-            "motsCles": keywords,
-            "range": f"{start}-{start + 49}",
-            "sort": 1,
-        },
-        headers={"Authorization": f"Bearer {token}", "Accept": "application/json"},
-        timeout=20,
-    )
-    if resp.status_code not in (200, 206):
-        return []
-    data = resp.json()
+def strip_html(text):
+    return re.sub(r"<[^>]+>", " ", text or "").strip()
 
-    jobs = []
-    for o in data.get("resultats", []):
-        lieu = o.get("lieuTravail", {})
-        jobs.append({
-            "id": f"ft_{o.get('id', '')}",
-            "title": o.get("intitule", ""),
-            "company": o.get("entreprise", {}).get("nom") or "Non précisé",
-            "location": lieu.get("libelle", ""),
-            "description": (o.get("description") or "")[:900],
-            "url": o.get("origineOffre", {}).get("urlOrigine")
-                or f"https://www.francetravail.fr/offres-emploi/offre/{o.get('id', '')}",
-            "source": "france_travail",
-            "date_posted": o.get("dateCreation", ""),
-            "contract_type": o.get("typeContratLibelle", ""),
-            "salary": o.get("salaire", {}).get("libelle", ""),
-        })
-    return jobs
 
+# ---------------------------------------------------------------------------
+# France Travail — flux RSS public (aucune clé requise)
+# ---------------------------------------------------------------------------
 
 def fetch_france_travail(profile):
-    client_id = os.environ.get("FRANCE_TRAVAIL_CLIENT_ID")
-    client_secret = os.environ.get("FRANCE_TRAVAIL_CLIENT_SECRET")
-    if not client_id or not client_secret:
-        print("France Travail: credentials not set, skipping")
-        return []
-
-    try:
-        token = _ft_token(client_id, client_secret)
-    except Exception as e:
-        print(f"France Travail auth error: {e}")
-        return []
-
+    """
+    France Travail expose un flux RSS public pour les recherches d'offres.
+    URL : https://candidat.francetravail.fr/offres/recherche/rss
+    Paramètres : motsCles, communes (code INSEE), distance, tri
+    """
     loc = profile["target_location"]
     commune = loc.get("commune_insee", "33049")
     radius = loc.get("radius_km", 40)
 
-    # Multiple keyword queries for better coverage
     search_queries = [
-        "ingénieur méthodes maintenance",
+        "ingénieur méthodes",
+        "ingénieur maintenance",
         "ingénieur fiabilisation",
         "GMAO AMDEC",
     ]
 
     all_jobs = []
-    for kw in search_queries:
-        jobs = _ft_search(token, commune, radius, kw)
-        all_jobs.extend(jobs)
+    seen_ids = set()
 
-    print(f"France Travail: {len(all_jobs)} offres (avant dédup)")
+    for keywords in search_queries:
+        url = (
+            f"https://candidat.francetravail.fr/offres/recherche/rss"
+            f"?motsCles={quote_plus(keywords)}"
+            f"&communes={commune}"
+            f"&distance={radius}"
+            f"&tri=0"
+        )
+        try:
+            feed = feedparser.parse(url)
+            for entry in feed.entries:
+                job_id = f"ft_{entry.get('id', entry.get('link', ''))}"
+                if job_id in seen_ids:
+                    continue
+                seen_ids.add(job_id)
+
+                summary = strip_html(entry.get("summary", ""))
+                # Le résumé FT contient souvent : "Entreprise : X | Lieu : Y | Contrat : Z"
+                company = ""
+                location = ""
+                contract = ""
+                for line in summary.split("|"):
+                    line = line.strip()
+                    if line.lower().startswith("entreprise"):
+                        company = line.split(":", 1)[-1].strip()
+                    elif line.lower().startswith("lieu"):
+                        location = line.split(":", 1)[-1].strip()
+                    elif line.lower().startswith("contrat") or line.lower().startswith("type"):
+                        contract = line.split(":", 1)[-1].strip()
+
+                all_jobs.append({
+                    "id": job_id,
+                    "title": entry.get("title", ""),
+                    "company": company or "Non précisé",
+                    "location": location or loc.get("city", ""),
+                    "description": summary[:900],
+                    "url": entry.get("link", ""),
+                    "source": "france_travail",
+                    "date_posted": parse_rss_date(entry),
+                    "contract_type": contract,
+                    "salary": "",
+                })
+        except Exception as e:
+            print(f"France Travail RSS ({keywords}): erreur — {e}")
+
+        time.sleep(0.5)  # politesse
+
+    print(f"France Travail RSS: {len(all_jobs)} offres")
     return all_jobs
 
 
 # ---------------------------------------------------------------------------
-# APEC (Association Pour l'Emploi des Cadres) — parfait pour ingénieurs
+# Indeed France — flux RSS public (aucune clé requise)
 # ---------------------------------------------------------------------------
 
-def fetch_apec(profile):
-    loc = profile["target_location"]
-    titles = profile.get("target_titles", [])
-    keyword = " ".join(titles[:3])
-
-    try:
-        resp = requests.get(
-            "https://api.apec.fr/cms-diffusion/v1/offres",
-            params={
-                "motsCles": keyword,
-                "lieu": "33",          # département Gironde
-                "distance": loc.get("radius_km", 40),
-                "page": 0,
-                "par_page": 50,
-                "tri": "date",
-            },
-            headers={
-                "Accept": "application/json",
-                "User-Agent": "Mozilla/5.0 (compatible; job-dashboard/1.0)",
-            },
-            timeout=20,
-        )
-        resp.raise_for_status()
-        data = resp.json()
-    except Exception as e:
-        print(f"APEC error: {e}")
-        return []
-
-    jobs = []
-    for o in data.get("resultats", []):
-        lieu = o.get("lieu", {})
-        sal = o.get("salaire", {})
-        salary = ""
-        if sal.get("commentaire"):
-            salary = sal["commentaire"]
-        elif sal.get("fourchetteBasse") and sal.get("fourchetteHaute"):
-            salary = f"{sal['fourchetteBasse']}–{sal['fourchetteHaute']} k€/an"
-
-        jobs.append({
-            "id": f"apec_{o.get('numOffre', '')}",
-            "title": o.get("intitule", ""),
-            "company": o.get("nomEntreprise") or "Non précisé",
-            "location": lieu.get("libelle", ""),
-            "description": (o.get("texteHtml") or o.get("texte") or "")[:900],
-            "url": f"https://www.apec.fr/candidat/recherche-emploi.html/emploi/{o.get('numOffre', '')}",
-            "source": "apec",
-            "date_posted": o.get("dateCreation", ""),
-            "contract_type": o.get("typeContrat", {}).get("libelle", ""),
-            "salary": salary,
-        })
-
-    print(f"APEC: {len(jobs)} offres")
-    return jobs
-
-
-# ---------------------------------------------------------------------------
-# Adzuna
-# ---------------------------------------------------------------------------
-
-def fetch_adzuna(profile):
-    app_id = os.environ.get("ADZUNA_APP_ID")
-    app_key = os.environ.get("ADZUNA_APP_KEY")
-    if not app_id or not app_key:
-        print("Adzuna: credentials not set, skipping")
-        return []
-
-    loc = profile["target_location"]
-    keyword = "ingénieur méthodes maintenance"
-
-    try:
-        resp = requests.get(
-            "https://api.adzuna.com/v1/api/jobs/fr/search/1",
-            params={
-                "app_id": app_id,
-                "app_key": app_key,
-                "results_per_page": 50,
-                "what": keyword,
-                "where": loc.get("search_city", "Bordeaux"),
-                "distance": loc.get("radius_km", 40),
-                "content-type": "application/json",
-            },
-            timeout=20,
-        )
-        resp.raise_for_status()
-        data = resp.json()
-    except Exception as e:
-        print(f"Adzuna error: {e}")
-        return []
-
-    jobs = []
-    for job in data.get("results", []):
-        display = job.get("location", {}).get("display_name", "")
-        loc_str = ", ".join(display.split(",")[:2])
-        sal_min = job.get("salary_min")
-        sal_max = job.get("salary_max")
-        salary = ""
-        if sal_min and sal_max:
-            salary = f"{int(sal_min):,}–{int(sal_max):,} €/an".replace(",", " ")
-
-        jobs.append({
-            "id": f"az_{job.get('id', '')}",
-            "title": job.get("title", ""),
-            "company": job.get("company", {}).get("display_name") or "Non précisé",
-            "location": loc_str,
-            "description": (job.get("description") or "")[:900],
-            "url": job.get("redirect_url", ""),
-            "source": "adzuna",
-            "date_posted": job.get("created", ""),
-            "contract_type": job.get("contract_type", ""),
-            "salary": salary,
-        })
-
-    print(f"Adzuna: {len(jobs)} offres")
-    return jobs
-
-
-# ---------------------------------------------------------------------------
-# JSearch via RapidAPI (LinkedIn + Indeed + Glassdoor)
-# ---------------------------------------------------------------------------
-
-def fetch_jsearch(profile):
-    api_key = os.environ.get("RAPIDAPI_KEY")
-    if not api_key:
-        print("JSearch: API key not set, skipping")
-        return []
-
+def fetch_indeed(profile):
+    """
+    Indeed expose des flux RSS publics pour les recherches d'offres.
+    URL : https://fr.indeed.com/rss
+    Paramètres : q (mots-clés), l (lieu), radius (km), sort (date/relevance)
+    """
     loc = profile["target_location"]
     city = loc.get("search_city", "Bordeaux")
+    radius_miles = int(loc.get("radius_km", 40) * 0.621)  # Indeed utilise les miles
 
-    SOURCE_MAP = {
-        "linkedin": "linkedin",
-        "indeed": "indeed",
-        "glassdoor": "glassdoor",
-    }
-
-    queries = [
-        f"ingénieur méthodes maintenance {city}",
-        f"ingénieur fiabilisation AMDEC {city}",
+    search_queries = [
+        "ingénieur méthodes maintenance",
+        "ingénieur fiabilisation industriel",
+        "GMAO AMDEC ingénieur",
     ]
 
     all_jobs = []
-    try:
-        for query in queries:
-            resp = requests.get(
-                "https://jsearch.p.rapidapi.com/search",
-                headers={
-                    "X-RapidAPI-Key": api_key,
-                    "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
-                },
-                params={
-                    "query": query,
-                    "page": "1",
-                    "num_pages": "2",
-                    "date_posted": "month",
-                    "country": "fr",
-                },
-                timeout=25,
-            )
-            resp.raise_for_status()
-            data = resp.json()
+    seen_ids = set()
 
-            for job in data.get("data", []):
-                publisher = (job.get("job_publisher") or "").lower()
-                source = next((v for k, v in SOURCE_MAP.items() if k in publisher), "jsearch")
+    for keywords in search_queries:
+        url = (
+            f"https://fr.indeed.com/rss"
+            f"?q={quote_plus(keywords)}"
+            f"&l={quote_plus(city)}"
+            f"&radius={radius_miles}"
+            f"&sort=date"
+        )
+        try:
+            feed = feedparser.parse(url, request_headers=HEADERS)
+            for entry in feed.entries:
+                job_id = f"in_{entry.get('id', entry.get('link', ''))}"
+                if job_id in seen_ids:
+                    continue
+                seen_ids.add(job_id)
+
                 all_jobs.append({
-                    "id": f"js_{job.get('job_id', '')}",
-                    "title": job.get("job_title", ""),
-                    "company": job.get("employer_name") or "Non précisé",
-                    "location": f"{job.get('job_city', '')}, {job.get('job_state', '') or job.get('job_country', '')}".strip(", "),
-                    "description": (job.get("job_description") or "")[:900],
-                    "url": job.get("job_apply_link", ""),
-                    "source": source,
-                    "date_posted": job.get("job_posted_at_datetime_utc", ""),
-                    "contract_type": job.get("job_employment_type", ""),
-                    "salary": "",
+                    "id": job_id,
+                    "title": entry.get("title", ""),
+                    "company": entry.get("source", {}).get("value", "Non précisé")
+                               if hasattr(entry.get("source", {}), "get")
+                               else "Non précisé",
+                    "location": entry.get("indeed_city", city),
+                    "description": strip_html(entry.get("summary", ""))[:900],
+                    "url": entry.get("link", ""),
+                    "source": "indeed",
+                    "date_posted": parse_rss_date(entry),
+                    "contract_type": "",
+                    "salary": entry.get("indeed_salary", ""),
                 })
-    except Exception as e:
-        print(f"JSearch error: {e}")
+        except Exception as e:
+            print(f"Indeed RSS ({keywords}): erreur — {e}")
 
-    print(f"JSearch: {len(all_jobs)} offres (LinkedIn/Indeed/Glassdoor)")
+        time.sleep(0.5)
+
+    print(f"Indeed RSS: {len(all_jobs)} offres")
     return all_jobs
 
 
 # ---------------------------------------------------------------------------
-# HelloWork (structured data scraping)
+# APEC — flux RSS public (aucune clé requise)
+# ---------------------------------------------------------------------------
+
+def fetch_apec(profile):
+    """
+    L'APEC expose un flux RSS public pour les offres cadres.
+    URL : https://www.apec.fr/candidat/recherche-emploi.html/emploi/rss
+    """
+    loc = profile["target_location"]
+    search_queries = [
+        "ingénieur méthodes",
+        "ingénieur maintenance",
+        "ingénieur fiabilisation",
+    ]
+
+    all_jobs = []
+    seen_ids = set()
+
+    for keywords in search_queries:
+        # APEC RSS feed pour les cadres
+        url = (
+            f"https://www.apec.fr/candidat/recherche-emploi.html/emploi/rss"
+            f"?motsCles={quote_plus(keywords)}"
+            f"&lieu=100-33"   # Gironde
+            f"&distance={loc.get('radius_km', 40)}"
+        )
+        try:
+            feed = feedparser.parse(url, request_headers=HEADERS)
+            for entry in feed.entries:
+                job_id = f"apec_{entry.get('id', entry.get('link', ''))}"
+                if job_id in seen_ids:
+                    continue
+                seen_ids.add(job_id)
+
+                summary = strip_html(entry.get("summary", ""))
+                all_jobs.append({
+                    "id": job_id,
+                    "title": entry.get("title", ""),
+                    "company": "Non précisé",
+                    "location": loc.get("search_city", "Bordeaux"),
+                    "description": summary[:900],
+                    "url": entry.get("link", ""),
+                    "source": "apec",
+                    "date_posted": parse_rss_date(entry),
+                    "contract_type": "CDI",
+                    "salary": "",
+                })
+        except Exception as e:
+            print(f"APEC RSS ({keywords}): erreur — {e}")
+
+        time.sleep(0.5)
+
+    print(f"APEC RSS: {len(all_jobs)} offres")
+    return all_jobs
+
+
+# ---------------------------------------------------------------------------
+# HelloWork — scraping JSON-LD (aucune clé requise)
 # ---------------------------------------------------------------------------
 
 def fetch_hellowork(profile):
+    """
+    HelloWork intègre des données JSON-LD (schema.org/JobPosting) dans ses
+    pages de résultats, accessibles publiquement sans authentification.
+    """
     loc = profile["target_location"]
     city = loc.get("search_city", "Bordeaux")
-    keyword = "ingénieur méthodes maintenance"
 
-    try:
-        resp = requests.get(
-            "https://www.hellowork.com/fr-fr/emploi/recherche.html",
-            params={
-                "k": keyword,
-                "l": city,
-                "ray": str(loc.get("radius_km", 40)),
-            },
-            headers={
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
-                "Accept": "text/html,application/xhtml+xml",
-                "Accept-Language": "fr-FR,fr;q=0.9",
-            },
-            timeout=20,
-        )
-    except Exception as e:
-        print(f"HelloWork error: {e}")
-        return []
+    search_queries = [
+        ("ingénieur méthodes", city),
+        ("ingénieur maintenance", city),
+        ("GMAO fiabilisation", city),
+    ]
 
-    jobs = []
-    try:
-        matches = re.findall(
-            r'<script type="application/ld\+json">(.*?)</script>',
-            resp.text, re.DOTALL
-        )
-        for match in matches:
-            try:
-                data = json.loads(match)
+    all_jobs = []
+    seen_ids = set()
+
+    for keywords, location in search_queries:
+        url = "https://www.hellowork.com/fr-fr/emploi/recherche.html"
+        params = {
+            "k": keywords,
+            "l": location,
+            "ray": str(loc.get("radius_km", 40)),
+        }
+        try:
+            resp = requests.get(url, params=params, headers=HEADERS, timeout=20)
+            resp.raise_for_status()
+
+            # Extraire les blocs JSON-LD de la page
+            blocks = re.findall(
+                r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+                resp.text,
+                re.DOTALL | re.IGNORECASE,
+            )
+            for block in blocks:
+                try:
+                    data = json.loads(block)
+                except Exception:
+                    continue
+
                 items = []
                 if isinstance(data, list):
                     items = data
@@ -411,32 +370,38 @@ def fetch_hellowork(profile):
                 for item in items:
                     if item.get("@type") != "JobPosting":
                         continue
+                    job_id = f"hw_{item.get('url', '')}"
+                    if job_id in seen_ids:
+                        continue
+                    seen_ids.add(job_id)
+
                     org = item.get("hiringOrganization", {})
                     addr = item.get("jobLocation", {}).get("address", {})
-                    loc_str = f"{addr.get('addressLocality', '')}, {addr.get('addressRegion', '')}".strip(", ")
-                    jobs.append({
-                        "id": f"hw_{len(jobs)}",
+                    loc_str = addr.get("addressLocality", location)
+
+                    all_jobs.append({
+                        "id": job_id,
                         "title": item.get("title", ""),
                         "company": org.get("name") or "Non précisé",
                         "location": loc_str,
-                        "description": re.sub(r"<[^>]+>", " ", item.get("description") or "")[:900],
+                        "description": strip_html(item.get("description", ""))[:900],
                         "url": item.get("url", "https://www.hellowork.com"),
                         "source": "hellowork",
                         "date_posted": item.get("datePosted", ""),
                         "contract_type": item.get("employmentType", ""),
                         "salary": "",
                     })
-            except Exception:
-                continue
-    except Exception as e:
-        print(f"HelloWork parse error: {e}")
+        except Exception as e:
+            print(f"HelloWork ({keywords}): erreur — {e}")
 
-    print(f"HelloWork: {len(jobs)} offres")
-    return jobs
+        time.sleep(1)
+
+    print(f"HelloWork: {len(all_jobs)} offres")
+    return all_jobs
 
 
 # ---------------------------------------------------------------------------
-# Deduplication & main
+# Déduplication & main
 # ---------------------------------------------------------------------------
 
 def deduplicate(jobs):
@@ -459,8 +424,7 @@ def main():
     all_jobs: list = []
     all_jobs += fetch_france_travail(profile)
     all_jobs += fetch_apec(profile)
-    all_jobs += fetch_adzuna(profile)
-    all_jobs += fetch_jsearch(profile)
+    all_jobs += fetch_indeed(profile)
     all_jobs += fetch_hellowork(profile)
 
     all_jobs = deduplicate(all_jobs)
@@ -489,17 +453,14 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"\n✓ {len(all_jobs)} offres sauvegardées")
+    labels = {
+        "france_travail": "France Travail",
+        "apec": "APEC",
+        "indeed": "Indeed",
+        "hellowork": "HelloWork",
+    }
     for src, cnt in sorted(sources.items(), key=lambda x: -x[1]):
-        src_info = {
-            "france_travail": "France Travail",
-            "apec": "APEC",
-            "adzuna": "Adzuna",
-            "linkedin": "LinkedIn",
-            "indeed": "Indeed",
-            "glassdoor": "Glassdoor",
-            "hellowork": "HelloWork",
-        }.get(src, src)
-        print(f"  {src_info:20s}: {cnt}")
+        print(f"  {labels.get(src, src):20s}: {cnt}")
 
 
 if __name__ == "__main__":

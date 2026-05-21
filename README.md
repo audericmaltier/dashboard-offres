@@ -2,53 +2,32 @@
 
 Dashboard mobile-first (iPhone-ready) qui centralise et classe les offres d'emploi par correspondance avec votre profil.
 
+**Aucune clé API requise** — toutes les sources utilisées exposent leurs offres publiquement (flux RSS ou données JSON-LD intégrées dans leurs pages).
+
 ## Fonctionnalités
 
-- Agrégation depuis **France Travail**, **Indeed**, **LinkedIn**, **Adzuna**, **HelloWork**
-- Classement par **score de correspondance** (titre, compétences, contrat, fraîcheur)
+- Agrégation depuis **France Travail**, **APEC**, **Indeed**, **HelloWork** — données publiques
+- Classement par **score de correspondance** (titre, compétences, secteur, contrat, fraîcheur)
 - Filtres : source, type de contrat, score minimum, mot-clé
-- **Actualisation automatique** toutes les 6 heures via GitHub Actions
+- **Actualisation automatique** 3×/jour via GitHub Actions
 - Interface optimisée **iPhone** (PWA installable)
 
 ---
 
 ## Mise en place
 
-### 1. Personnaliser votre profil
+### 1. Personnaliser votre profil (optionnel)
 
-Éditez `profile.json` avec vos informations réelles :
+`profile.json` est déjà configuré avec votre profil. Vous pouvez ajuster les titres et compétences :
 
 ```json
 {
-  "target_titles": ["votre métier", "autre titre"],
-  "skills": ["Compétence1", "Compétence2", ...],
-  "contract_types": ["CDI", "CDD"],
-  "target_location": {
-    "city": "Biganos",
-    "commune_insee": "33049",
-    "lat": 44.6544,
-    "lon": -0.9764,
-    "radius_km": 40,
-    "search_city": "Bordeaux"
-  }
+  "target_titles": ["ingénieur méthodes", "ingénieur maintenance", ...],
+  "skills": ["AMDEC", "GMAO", "Power BI", ...]
 }
 ```
 
-### 2. Configurer les clés API (GitHub Secrets)
-
-Allez dans **Settings → Secrets and variables → Actions** de votre dépôt.
-
-| Secret | Source | Inscription |
-|--------|--------|-------------|
-| `FRANCE_TRAVAIL_CLIENT_ID` | France Travail | [francetravail.io](https://francetravail.io/data/api) |
-| `FRANCE_TRAVAIL_CLIENT_SECRET` | France Travail | — |
-| `ADZUNA_APP_ID` | Adzuna | [developer.adzuna.com](https://developer.adzuna.com) |
-| `ADZUNA_APP_KEY` | Adzuna | — |
-| `RAPIDAPI_KEY` | RapidAPI (JSearch) | [rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) |
-
-> Le dashboard fonctionne avec zéro clé (les sources sans clé sont ignorées). Ajoutez-les progressivement.
-
-### 3. Activer GitHub Pages
+### 2. Activer GitHub Pages
 
 Dans **Settings → Pages** : source = `Deploy from a branch` → branche `main` → dossier `/` (root).
 
