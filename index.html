@@ -8,7 +8,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="Offres Emploi">
   <link rel="manifest" href="manifest.json">
-  <title>Dashboard Offres d'Emploi</title>
+  <title>Offres Emploi — Audéric Maltier</title>
   <style>
     :root {
       --primary: #2563eb;
@@ -267,6 +267,7 @@
       white-space: nowrap;
     }
     .src-france_travail { background: #dbeafe; color: #1d4ed8; }
+    .src-apec           { background: #fef3c7; color: #92400e; }
     .src-linkedin       { background: #e0f2fe; color: #0369a1; }
     .src-indeed         { background: #fef9c3; color: #854d0e; }
     .src-adzuna         { background: #fce7f3; color: #9d174d; }
@@ -459,7 +460,7 @@
       <button id="refresh-btn" title="Actualiser">↻</button>
     </div>
     <div class="header-sub">
-      <span class="location-badge">📍 Biganos · rayon 40 km</span>
+      <span class="location-badge">📍 Biganos · 40 km · Ingénieur Méthodes</span>
       <span id="last-updated"></span>
     </div>
   </header>
@@ -520,6 +521,7 @@
 
     const SOURCES = {
       france_travail: { label: 'France Travail', emoji: '🇫🇷' },
+      apec:           { label: 'APEC',           emoji: '🎓' },
       linkedin:       { label: 'LinkedIn',        emoji: '💼' },
       indeed:         { label: 'Indeed',          emoji: '🔎' },
       adzuna:         { label: 'Adzuna',          emoji: '🌐' },

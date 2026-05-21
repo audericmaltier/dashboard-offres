@@ -1,25 +1,44 @@
 {
-  "name": "Auderic Maltier",
+  "name": "Audéric Maltier",
+  "current_title": "Ingénieur Méthodes & Maintenance",
   "target_titles": [
-    "développeur",
-    "ingénieur",
-    "chef de projet",
-    "consultant",
-    "analyste"
+    "ingénieur méthodes",
+    "ingénieur maintenance",
+    "ingénieur fiabilisation",
+    "ingénieur production",
+    "ingénieur industriel",
+    "chargé de méthodes",
+    "ingénieur amélioration continue",
+    "ingénieur process"
   ],
   "skills": [
-    "Python",
-    "JavaScript",
-    "React",
-    "SQL",
-    "Docker",
-    "Git",
-    "API",
-    "Linux",
-    "Agile",
-    "Scrum"
+    "AMDEC",
+    "GMAO",
+    "SAM FM",
+    "CARL Source",
+    "Power BI",
+    "Excel",
+    "fiabilisation",
+    "maintenance préventive",
+    "maintenance corrective",
+    "amélioration continue",
+    "Industrie 4.0",
+    "indicateurs de performance",
+    "KPI",
+    "mécanique",
+    "gestion d'actifs",
+    "méthodes",
+    "lean",
+    "5S",
+    "analyse de données",
+    "documentation technique"
   ],
-  "experience_years": 5,
+  "education": {
+    "school": "ENSAM Talence",
+    "degree": "Ingénieur Production Maintenance - Spécialité Mécanique",
+    "graduation": "2026-09"
+  },
+  "experience_years": 3,
   "target_location": {
     "city": "Biganos",
     "commune_insee": "33049",
@@ -30,6 +49,13 @@
   },
   "languages": ["Français", "Anglais"],
   "contract_types": ["CDI", "CDD"],
-  "remote_ok": true,
-  "salary_min": 35000
+  "remote_ok": false,
+  "sectors": [
+    "aéronautique",
+    "industrie",
+    "agroalimentaire",
+    "automobile",
+    "énergie",
+    "défense"
+  ]
 }
