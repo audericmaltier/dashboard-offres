@@ -1,0 +1,61 @@
+{
+  "name": "Audéric Maltier",
+  "current_title": "Ingénieur Méthodes & Maintenance",
+  "target_titles": [
+    "ingénieur méthodes",
+    "ingénieur maintenance",
+    "ingénieur fiabilisation",
+    "ingénieur production",
+    "ingénieur industriel",
+    "chargé de méthodes",
+    "ingénieur amélioration continue",
+    "ingénieur process"
+  ],
+  "skills": [
+    "AMDEC",
+    "GMAO",
+    "SAM FM",
+    "CARL Source",
+    "Power BI",
+    "Excel",
+    "fiabilisation",
+    "maintenance préventive",
+    "maintenance corrective",
+    "amélioration continue",
+    "Industrie 4.0",
+    "indicateurs de performance",
+    "KPI",
+    "mécanique",
+    "gestion d'actifs",
+    "méthodes",
+    "lean",
+    "5S",
+    "analyse de données",
+    "documentation technique"
+  ],
+  "education": {
+    "school": "ENSAM Talence",
+    "degree": "Ingénieur Production Maintenance - Spécialité Mécanique",
+    "graduation": "2026-09"
+  },
+  "experience_years": 3,
+  "target_location": {
+    "city": "Biganos",
+    "commune_insee": "33049",
+    "lat": 44.6544,
+    "lon": -0.9764,
+    "radius_km": 40,
+    "search_city": "Bordeaux"
+  },
+  "languages": ["Français", "Anglais"],
+  "contract_types": ["CDI", "CDD"],
+  "remote_ok": false,
+  "sectors": [
+    "aéronautique",
+    "industrie",
+    "agroalimentaire",
+    "automobile",
+    "énergie",
+    "défense"
+  ]
+}
