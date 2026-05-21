@@ -1,0 +1,35 @@
+{
+  "name": "Auderic Maltier",
+  "target_titles": [
+    "développeur",
+    "ingénieur",
+    "chef de projet",
+    "consultant",
+    "analyste"
+  ],
+  "skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "SQL",
+    "Docker",
+    "Git",
+    "API",
+    "Linux",
+    "Agile",
+    "Scrum"
+  ],
+  "experience_years": 5,
+  "target_location": {
+    "city": "Biganos",
+    "commune_insee": "33049",
+    "lat": 44.6544,
+    "lon": -0.9764,
+    "radius_km": 40,
+    "search_city": "Bordeaux"
+  },
+  "languages": ["Français", "Anglais"],
+  "contract_types": ["CDI", "CDD"],
+  "remote_ok": true,
+  "salary_min": 35000
+}

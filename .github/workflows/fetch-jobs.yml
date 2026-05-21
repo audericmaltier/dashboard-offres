@@ -1,0 +1,41 @@
+name: Fetch Job Offers
+
+on:
+  schedule:
+    - cron: "0 6,12,18 * * *"   # 3x par jour (6h, 12h, 18h UTC)
+  workflow_dispatch:              # Déclenchement manuel
+
+jobs:
+  fetch-jobs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch job offers
+        env:
+          FRANCE_TRAVAIL_CLIENT_ID: ${{ secrets.FRANCE_TRAVAIL_CLIENT_ID }}
+          FRANCE_TRAVAIL_CLIENT_SECRET: ${{ secrets.FRANCE_TRAVAIL_CLIENT_SECRET }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python scripts/fetch_jobs.py
+
+      - name: Commit & push updated data
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/jobs.json
+          git diff --staged --quiet || git commit -m "chore: refresh job offers [skip ci]"
+          git push

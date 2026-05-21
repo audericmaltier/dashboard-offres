@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#2563eb">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Offres Emploi">
+  <link rel="manifest" href="manifest.json">
+  <title>Dashboard Offres d'Emploi</title>
+  <style>
+    :root {
+      --primary: #2563eb;
+      --primary-dark: #1d4ed8;
+      --success: #16a34a;
+      --warning: #d97706;
+      --danger: #dc2626;
+      --bg: #f1f5f9;
+      --card: #ffffff;
+      --text: #1e293b;
+      --muted: #64748b;
+      --border: #e2e8f0;
+      --shadow: 0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.05);
+      --radius: 14px;
+      --safe-top: env(safe-area-inset-top, 0px);
+      --safe-right: env(safe-area-inset-right, 0px);
+      --safe-bottom: env(safe-area-inset-bottom, 0px);
+      --safe-left: env(safe-area-inset-left, 0px);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100dvh;
+      padding-bottom: calc(24px + var(--safe-bottom));
+    }
+
+    /* ── Header ──────────────────────────────────────────────── */
+    header {
+      background: linear-gradient(135deg, #1d4ed8, #2563eb);
+      color: #fff;
+      padding-top: calc(14px + var(--safe-top));
+      padding-bottom: 14px;
+      padding-left: calc(16px + var(--safe-left));
+      padding-right: calc(16px + var(--safe-right));
+      position: sticky;
+      top: 0;
+      z-index: 200;
+      box-shadow: 0 2px 12px rgba(0,0,0,.25);
+    }
+
+    .header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .header-title {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .header-title h1 {
+      font-size: 19px;
+      font-weight: 800;
+      letter-spacing: -.3px;
+    }
+
+    .header-sub {
+      margin-top: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      font-size: 12px;
+      opacity: .9;
+    }
+
+    .location-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: rgba(255,255,255,.18);
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-weight: 500;
+    }
+
+    #last-updated { font-size: 11px; opacity: .75; flex-shrink: 0; }
+
+    #refresh-btn {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      background: rgba(255,255,255,.2);
+      border: none;
+      color: #fff;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      flex-shrink: 0;
+      transition: background .2s;
+    }
+    #refresh-btn:active { background: rgba(255,255,255,.35); }
+    .spinning { animation: spin 1s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Stats bar ───────────────────────────────────────────── */
+    .stats-bar {
+      background: var(--card);
+      padding: 10px 12px;
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      border-bottom: 1px solid var(--border);
+      scrollbar-width: none;
+    }
+    .stats-bar::-webkit-scrollbar { display: none; }
+
+    .stat-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 5px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 500;
+      white-space: nowrap;
+      flex-shrink: 0;
+      background: var(--bg);
+      color: var(--muted);
+    }
+    .stat-pill .n {
+      font-weight: 700;
+      color: var(--primary);
+    }
+    .stat-pill.active {
+      background: #dbeafe;
+      color: #1d4ed8;
+    }
+
+    /* ── Filters ─────────────────────────────────────────────── */
+    .filters {
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .row { display: flex; gap: 8px; align-items: center; }
+
+    .search-wrap {
+      position: relative;
+      flex: 1;
+    }
+    .search-wrap input {
+      width: 100%;
+      padding: 10px 12px 10px 38px;
+      border: 1.5px solid var(--border);
+      border-radius: 10px;
+      font-size: 15px;
+      background: var(--bg);
+      color: var(--text);
+      transition: border-color .2s;
+    }
+    .search-wrap input:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+    .search-wrap .ico {
+      position: absolute;
+      left: 11px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 16px;
+      pointer-events: none;
+    }
+
+    select, .filter-btn {
+      flex: 1;
+      padding: 9px 8px;
+      border: 1.5px solid var(--border);
+      border-radius: 10px;
+      font-size: 13px;
+      background: var(--bg);
+      color: var(--text);
+      min-width: 0;
+    }
+    select:focus { outline: none; border-color: var(--primary); }
+
+    .score-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .score-row label {
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    input[type=range] {
+      flex: 1;
+      accent-color: var(--primary);
+      height: 4px;
+    }
+    #score-val {
+      font-weight: 700;
+      color: var(--primary);
+      font-size: 13px;
+      min-width: 34px;
+      text-align: right;
+    }
+
+    /* ── Jobs list ───────────────────────────────────────────── */
+    #jobs-container {
+      padding: 12px 12px 0;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    /* ── Job card ────────────────────────────────────────────── */
+    .job-card {
+      background: var(--card);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 11px;
+      border: 1.5px solid transparent;
+      transition: border-color .2s, transform .15s;
+    }
+    .job-card:active { transform: scale(0.985); }
+
+    /* Score bar on top of card */
+    .score-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .source-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .4px;
+      white-space: nowrap;
+    }
+    .src-france_travail { background: #dbeafe; color: #1d4ed8; }
+    .src-linkedin       { background: #e0f2fe; color: #0369a1; }
+    .src-indeed         { background: #fef9c3; color: #854d0e; }
+    .src-adzuna         { background: #fce7f3; color: #9d174d; }
+    .src-glassdoor      { background: #dcfce7; color: #166534; }
+    .src-hellowork      { background: #fee2e2; color: #991b1b; }
+    .src-jsearch        { background: #ede9fe; color: #5b21b6; }
+
+    .score-wrap {
+      text-align: center;
+      flex-shrink: 0;
+      min-width: 54px;
+    }
+    .score-num {
+      font-size: 26px;
+      font-weight: 900;
+      line-height: 1;
+      letter-spacing: -1px;
+    }
+    .sc-high  { color: var(--success); }
+    .sc-mid   { color: var(--warning); }
+    .sc-low   { color: var(--danger);  }
+    .score-lbl {
+      font-size: 9px;
+      text-transform: uppercase;
+      letter-spacing: .6px;
+      color: var(--muted);
+      margin-top: 1px;
+    }
+
+    .score-bar {
+      height: 4px;
+      background: var(--border);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    .score-bar-fill {
+      height: 100%;
+      border-radius: 2px;
+    }
+    .fill-high { background: var(--success); }
+    .fill-mid  { background: var(--warning); }
+    .fill-low  { background: var(--danger);  }
+
+    .job-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.3;
+    }
+
+    .job-company {
+      font-size: 13px;
+      color: var(--muted);
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      margin-top: 2px;
+    }
+
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      background: var(--bg);
+      padding: 3px 9px;
+      border-radius: 7px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .skill-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+    .skill-tag {
+      background: #eff6ff;
+      color: #1d4ed8;
+      padding: 2px 8px;
+      border-radius: 5px;
+      font-size: 11px;
+      font-weight: 500;
+    }
+
+    .job-desc {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.55;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+      gap: 8px;
+    }
+
+    .job-date {
+      font-size: 12px;
+      color: var(--muted);
+      flex-shrink: 0;
+    }
+
+    .apply-btn {
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      padding: 9px 20px;
+      border-radius: 9px;
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      cursor: pointer;
+      transition: background .2s;
+      white-space: nowrap;
+    }
+    .apply-btn:active { background: var(--primary-dark); }
+
+    /* ── States ──────────────────────────────────────────────── */
+    .state-box {
+      text-align: center;
+      padding: 64px 24px;
+      color: var(--muted);
+      grid-column: 1 / -1;
+    }
+    .state-box .icon { font-size: 52px; margin-bottom: 16px; display: block; }
+    .state-box p { font-size: 16px; font-weight: 500; margin-bottom: 8px; }
+    .state-box small { font-size: 13px; line-height: 1.5; display: block; }
+    .state-box a { color: var(--primary); text-decoration: none; font-weight: 600; }
+
+    .loader {
+      width: 38px; height: 38px;
+      border: 3px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin .8s linear infinite;
+      margin: 0 auto 18px;
+    }
+
+    /* ── Result count ────────────────────────────────────────── */
+    .result-count {
+      font-size: 12px;
+      color: var(--muted);
+      padding: 0 14px 4px;
+      text-align: right;
+    }
+
+    /* ── Responsive grid ─────────────────────────────────────── */
+    @media (min-width: 600px) {
+      #jobs-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    @media (min-width: 1024px) {
+      #jobs-container {
+        grid-template-columns: repeat(3, 1fr);
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+      .filters { max-width: 1200px; margin: 0 auto; }
+      .stats-bar { max-width: 1200px; margin: 0 auto; }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ── HEADER ──────────────────────────────────────────────── -->
+  <header>
+    <div class="header-row">
+      <div class="header-title">
+        <span style="font-size:22px">💼</span>
+        <h1>Offres d'Emploi</h1>
+      </div>
+      <button id="refresh-btn" title="Actualiser">↻</button>
+    </div>
+    <div class="header-sub">
+      <span class="location-badge">📍 Biganos · rayon 40 km</span>
+      <span id="last-updated"></span>
+    </div>
+  </header>
+
+  <!-- ── STATS ───────────────────────────────────────────────── -->
+  <div class="stats-bar" id="stats-bar">
+    <span class="stat-pill"><span class="n" id="count-display">—</span> offres</span>
+  </div>
+
+  <!-- ── FILTERS ─────────────────────────────────────────────── -->
+  <div class="filters">
+    <div class="row">
+      <div class="search-wrap">
+        <span class="ico">🔍</span>
+        <input type="search" id="search" placeholder="Titre, entreprise, compétence…"
+               autocorrect="off" autocapitalize="off" spellcheck="false">
+      </div>
+    </div>
+    <div class="row">
+      <select id="source-filter">
+        <option value="">Toutes sources</option>
+      </select>
+      <select id="contract-filter">
+        <option value="">Tous contrats</option>
+        <option value="CDI">CDI</option>
+        <option value="CDD">CDD</option>
+        <option value="Intérim">Intérim</option>
+        <option value="Freelance">Freelance</option>
+      </select>
+    </div>
+    <div class="row">
+      <div class="score-row" style="flex:1">
+        <label>Score min :</label>
+        <input type="range" id="score-filter" min="0" max="100" step="5" value="0">
+        <span id="score-val">0%</span>
+      </div>
+      <select id="sort-by" style="flex:0 0 auto;width:auto;padding-left:6px;padding-right:6px">
+        <option value="score">↓ Match</option>
+        <option value="date">↓ Date</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- ── JOBS ────────────────────────────────────────────────── -->
+  <p class="result-count" id="result-count"></p>
+  <div id="jobs-container">
+    <div class="state-box">
+      <div class="loader"></div>
+      <p>Chargement des offres…</p>
+    </div>
+  </div>
+
+  <!-- ── SCRIPT ──────────────────────────────────────────────── -->
+  <script>
+    'use strict';
+
+    const DATA_URL = 'data/jobs.json';
+
+    const SOURCES = {
+      france_travail: { label: 'France Travail', emoji: '🇫🇷' },
+      linkedin:       { label: 'LinkedIn',        emoji: '💼' },
+      indeed:         { label: 'Indeed',          emoji: '🔎' },
+      adzuna:         { label: 'Adzuna',          emoji: '🌐' },
+      glassdoor:      { label: 'Glassdoor',       emoji: '🪟' },
+      hellowork:      { label: 'HelloWork',       emoji: '👋' },
+      jsearch:        { label: 'JSearch',         emoji: '🔗' },
+    };
+
+    let allJobs = [];
+    let filteredJobs = [];
+
+    const $ = id => document.getElementById(id);
+
+    // ── Helpers ──────────────────────────────────────────────
+
+    function relativeDate(iso) {
+      if (!iso) return '';
+      try {
+        const d = new Date(iso);
+        const days = Math.floor((Date.now() - d) / 86400000);
+        if (days === 0) return "Aujourd'hui";
+        if (days === 1) return 'Hier';
+        if (days < 7)  return `Il y a ${days} j`;
+        if (days < 30) return `Il y a ${Math.floor(days / 7)} sem.`;
+        return d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'short' });
+      } catch { return ''; }
+    }
+
+    function scoreClass(s) {
+      return s >= 70 ? 'high' : s >= 45 ? 'mid' : 'low';
+    }
+
+    function esc(str) {
+      return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function formatUpdated(iso) {
+      if (!iso) return '';
+      try {
+        const d = new Date(iso);
+        return 'MàJ ' + d.toLocaleString('fr-FR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+      } catch { return ''; }
+    }
+
+    // ── Card rendering ────────────────────────────────────────
+
+    function renderCard(job) {
+      const sc = scoreClass(job.score ?? 0);
+      const src = SOURCES[job.source] || { label: job.source, emoji: '📋' };
+      const skills = (job.score_breakdown?.matched_skills || []);
+      const skillsHtml = skills.length
+        ? `<div class="skill-tags">${skills.map(s => `<span class="skill-tag">${esc(s)}</span>`).join('')}</div>`
+        : '';
+      const desc = job.description
+        ? `<p class="job-desc">${esc(job.description)}</p>` : '';
+      const salary = job.salary
+        ? `<span class="chip">💰 ${esc(job.salary)}</span>` : '';
+      const contract = job.contract_type
+        ? `<span class="chip">📄 ${esc(job.contract_type)}</span>` : '';
+
+      return `
+        <article class="job-card">
+          <div class="score-top">
+            <span class="source-badge src-${job.source}">${src.emoji} ${esc(src.label)}</span>
+            <div class="score-wrap">
+              <div class="score-num sc-${sc}">${job.score ?? '?'}</div>
+              <div class="score-lbl">match %</div>
+            </div>
+          </div>
+          <div class="score-bar">
+            <div class="score-bar-fill fill-${sc}" style="width:${job.score ?? 0}%"></div>
+          </div>
+          <div>
+            <div class="job-title">${esc(job.title || 'Poste non précisé')}</div>
+            <div class="job-company">🏢 ${esc(job.company || 'Entreprise non précisée')}</div>
+          </div>
+          <div class="meta-row">
+            <span class="chip">📍 ${esc(job.location || 'Non précisé')}</span>
+            ${contract}${salary}
+          </div>
+          ${skillsHtml}
+          ${desc}
+          <div class="card-footer">
+            <span class="job-date">${relativeDate(job.date_posted)}</span>
+            <a href="${esc(job.url || '#')}" target="_blank" rel="noopener noreferrer" class="apply-btn">
+              Voir l'offre →
+            </a>
+          </div>
+        </article>`;
+    }
+
+    // ── Filtering & sorting ───────────────────────────────────
+
+    function applyFilters() {
+      const search   = ($('search').value || '').toLowerCase().trim();
+      const source   = $('source-filter').value;
+      const contract = $('contract-filter').value;
+      const minScore = parseInt($('score-filter').value, 10);
+      const sortBy   = $('sort-by').value;
+
+      filteredJobs = allJobs.filter(job => {
+        if (source && job.source !== source) return false;
+        if (contract && !(job.contract_type || '').toLowerCase().includes(contract.toLowerCase())) return false;
+        if ((job.score ?? 0) < minScore) return false;
+        if (search) {
+          const hay = `${job.title} ${job.company} ${job.description} ${job.location}`.toLowerCase();
+          if (!hay.includes(search)) return false;
+        }
+        return true;
+      });
+
+      filteredJobs.sort((a, b) =>
+        sortBy === 'date'
+          ? new Date(b.date_posted || 0) - new Date(a.date_posted || 0)
+          : (b.score ?? 0) - (a.score ?? 0)
+      );
+
+      renderJobs();
+    }
+
+    function renderJobs() {
+      const container = $('jobs-container');
+      const rc = $('result-count');
+
+      $('count-display').textContent = filteredJobs.length;
+      rc.textContent = filteredJobs.length
+        ? `${filteredJobs.length} offre${filteredJobs.length > 1 ? 's' : ''} affichée${filteredJobs.length > 1 ? 's' : ''}`
+        : '';
+
+      if (filteredJobs.length === 0) {
+        container.innerHTML = `
+          <div class="state-box">
+            <span class="icon">🔍</span>
+            <p>Aucune offre trouvée</p>
+            <small>Essayez d'élargir vos filtres ou de réduire le score minimum.</small>
+          </div>`;
+        return;
+      }
+
+      container.innerHTML = filteredJobs.map(renderCard).join('');
+    }
+
+    // ── Stats bar ─────────────────────────────────────────────
+
+    function buildStats(data) {
+      const sources = data.stats?.sources || {};
+      let html = `<span class="stat-pill active"><span class="n" id="count-display">${filteredJobs.length}</span> offres</span>`;
+      for (const [src, count] of Object.entries(sources)) {
+        const info = SOURCES[src] || { emoji: '📋', label: src };
+        html += `<span class="stat-pill">${info.emoji} ${info.label} <span class="n">${count}</span></span>`;
+      }
+      $('stats-bar').innerHTML = html;
+    }
+
+    // ── Source filter population ──────────────────────────────
+
+    function buildSourceFilter(jobs) {
+      const sources = [...new Set(jobs.map(j => j.source))].sort();
+      const sel = $('source-filter');
+      sel.innerHTML = '<option value="">Toutes sources</option>';
+      sources.forEach(src => {
+        const info = SOURCES[src] || { emoji: '📋', label: src };
+        const o = document.createElement('option');
+        o.value = src;
+        o.textContent = `${info.emoji} ${info.label}`;
+        sel.appendChild(o);
+      });
+    }
+
+    // ── Load data ─────────────────────────────────────────────
+
+    async function loadData() {
+      const btn = $('refresh-btn');
+      btn.classList.add('spinning');
+      $('jobs-container').innerHTML = `<div class="state-box"><div class="loader"></div><p>Chargement…</p></div>`;
+
+      try {
+        const res = await fetch(`${DATA_URL}?_=${Date.now()}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+
+        allJobs = data.jobs || [];
+        $('last-updated').textContent = formatUpdated(data.last_updated);
+
+        buildSourceFilter(allJobs);
+        applyFilters();
+        buildStats(data);
+
+        if (allJobs.length === 0) {
+          $('jobs-container').innerHTML = `
+            <div class="state-box">
+              <span class="icon">⚙️</span>
+              <p>Aucune offre disponible</p>
+              <small>
+                Le fichier <code>data/jobs.json</code> est vide.<br>
+                <a href="https://github.com/audericmaltier/dashboard-offres/actions" target="_blank">
+                  Lancez le workflow GitHub Actions
+                </a> pour récupérer les offres.
+              </small>
+            </div>`;
+        }
+      } catch (err) {
+        console.error(err);
+        $('jobs-container').innerHTML = `
+          <div class="state-box">
+            <span class="icon">⚙️</span>
+            <p>Données non disponibles</p>
+            <small>
+              Configurez vos clés API dans les secrets GitHub, puis<br>
+              <a href="https://github.com/audericmaltier/dashboard-offres/actions" target="_blank">
+                lancez le workflow "Fetch Job Offers"
+              </a>.
+            </small>
+          </div>`;
+      } finally {
+        btn.classList.remove('spinning');
+      }
+    }
+
+    // ── Event listeners ───────────────────────────────────────
+
+    ['search', 'source-filter', 'contract-filter', 'sort-by'].forEach(id => {
+      $(id).addEventListener('input',  applyFilters);
+      $(id).addEventListener('change', applyFilters);
+    });
+
+    $('score-filter').addEventListener('input', e => {
+      $('score-val').textContent = `${e.target.value}%`;
+      applyFilters();
+    });
+
+    $('refresh-btn').addEventListener('click', loadData);
+
+    // Auto-refresh toutes les 30 min
+    setInterval(loadData, 30 * 60 * 1000);
+
+    // Démarrage
+    loadData();
+  </script>
+</body>
+</html>
