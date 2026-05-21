@@ -223,6 +223,109 @@ def fetch_france_travail(profile) -> list:
 
 
 # ---------------------------------------------------------------------------
+# LinkedIn — scraping guest API (aucune auth requise)
+# ---------------------------------------------------------------------------
+
+LI_GUEST_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+LI_JOB_URL   = "https://www.linkedin.com/jobs/view"
+
+LI_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0 Safari/537.36"
+    ),
+    "Accept-Language": "fr-FR,fr;q=0.9",
+    "Accept": "text/html,application/xhtml+xml",
+}
+
+
+def _parse_li_date(dt_attr: str) -> str:
+    """datetime='2026-05-16' → '2026-05-16' (déjà ISO)."""
+    return dt_attr.strip() if dt_attr else ""
+
+
+def fetch_linkedin(profile) -> list:
+    """
+    LinkedIn expose une API guest publique (sans connexion) qui retourne
+    du HTML parsable avec les offres d'emploi.
+    Si LinkedIn retourne une réponse vide (<100 octets), on s'arrête.
+    """
+    loc = profile["target_location"]
+    city = loc.get("search_city", "Bordeaux")
+
+    search_queries = [
+        ("ingenieur methodes maintenance", f"{city}, Gironde, France"),
+        ("ingenieur fiabilisation GMAO",  f"{city}, Gironde, France"),
+        ("ingenieur process industriel",  f"{city}, Gironde, France"),
+        ("ingenieur amelioration continue", f"{city}, France"),
+    ]
+
+    all_jobs: list = []
+    seen_ids: set = set()
+
+    for keywords, location in search_queries:
+        for start in [0, 25]:
+            params = {"keywords": keywords, "location": location, "start": start}
+            try:
+                resp = requests.get(
+                    LI_GUEST_URL, params=params, headers=LI_HEADERS, timeout=20
+                )
+                # LinkedIn renvoie une réponse vide quand il rate-limite
+                if len(resp.text) < 100:
+                    print(f"LinkedIn ({keywords}): rate-limité, arrêt")
+                    break
+
+                soup = BeautifulSoup(resp.text, "html.parser")
+                cards = soup.find_all("div", class_="base-search-card")
+                if not cards:
+                    break
+
+                for card in cards:
+                    urn = card.get("data-entity-urn", "")
+                    job_id = urn.split(":")[-1] if urn else ""
+                    if not job_id or job_id in seen_ids:
+                        continue
+                    seen_ids.add(job_id)
+
+                    title_el  = card.find("h3", class_="base-search-card__title")
+                    comp_el   = card.find("h4", class_="base-search-card__subtitle")
+                    loc_el    = card.find("span", class_="job-search-card__location")
+                    time_el   = card.find("time")
+                    link_el   = card.find("a", class_="base-card__full-link")
+
+                    title    = title_el.get_text(strip=True) if title_el else ""
+                    company  = comp_el.get_text(strip=True)  if comp_el  else "Non précisé"
+                    location = loc_el.get_text(strip=True)   if loc_el   else city
+                    date_posted = _parse_li_date(time_el.get("datetime", "") if time_el else "")
+                    url = link_el.get("href", f"{LI_JOB_URL}/{job_id}") if link_el else f"{LI_JOB_URL}/{job_id}"
+                    # Nettoie les paramètres de tracking de l'URL
+                    url = url.split("?")[0] if "?" in url else url
+
+                    all_jobs.append({
+                        "id": f"li_{job_id}",
+                        "title": title,
+                        "company": company,
+                        "location": location,
+                        "description": "",
+                        "url": url,
+                        "source": "linkedin",
+                        "date_posted": date_posted,
+                        "contract_type": "",
+                        "salary": "",
+                    })
+
+            except Exception as e:
+                print(f"LinkedIn ({keywords}, start={start}): erreur — {e}")
+                break
+
+            time.sleep(2)  # pause entre requêtes pour éviter le rate-limit
+
+    print(f"LinkedIn scraping: {len(all_jobs)} offres")
+    return all_jobs
+
+
+# ---------------------------------------------------------------------------
 # Déduplication & main
 # ---------------------------------------------------------------------------
 
@@ -245,6 +348,7 @@ def main():
 
     all_jobs: list = []
     all_jobs += fetch_france_travail(profile)
+    all_jobs += fetch_linkedin(profile)
 
     all_jobs = deduplicate(all_jobs)
     print(f"\n{len(all_jobs)} offres uniques après déduplication")
@@ -272,7 +376,7 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"\n✓ {len(all_jobs)} offres sauvegardées dans data/jobs.json")
-    labels = {"france_travail": "France Travail"}
+    labels = {"france_travail": "France Travail", "linkedin": "LinkedIn"}
     for src, cnt in sorted(sources.items(), key=lambda x: -x[1]):
         print(f"  {labels.get(src, src):20s}: {cnt}")
 
