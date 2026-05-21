@@ -2,26 +2,22 @@
 """
 Collecte les offres d'emploi depuis des sources PUBLIQUES, sans clé API.
 
-Sources gratuites (RSS + scraping JSON-LD) :
-  - France Travail  → flux RSS public
-  - Indeed France   → flux RSS public
-  - APEC            → flux RSS public
-  - HelloWork       → données JSON-LD dans les pages de résultats
+Sources :
+  - France Travail  → scraping HTML (rendu côté serveur, pas de JS requis)
 
 Les offres sont scorées par rapport au profil (profile.json) et
 sauvegardées dans data/jobs.json pour le dashboard GitHub Pages.
 """
 
 import json
-import math
 import os
 import re
 import time
-from datetime import datetime, timezone
-from urllib.parse import quote_plus
+from datetime import datetime, timedelta, timezone
+from urllib.parse import urlencode
 
-import feedparser
 import requests
+from bs4 import BeautifulSoup, NavigableString
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROFILE_PATH = os.path.join(BASE_DIR, "profile.json")
@@ -34,7 +30,11 @@ HEADERS = {
         "Chrome/124.0 Safari/537.36"
     ),
     "Accept-Language": "fr-FR,fr;q=0.9",
+    "Accept": "text/html,application/xhtml+xml",
 }
+
+FT_BASE = "https://candidat.francetravail.fr/offres/recherche"
+FT_DETAIL = "https://candidat.francetravail.fr/offres/recherche/detail"
 
 
 def load_profile():
@@ -104,299 +104,121 @@ def score_job(job, profile):
 
 
 # ---------------------------------------------------------------------------
-# Utilitaires RSS
+# Utilitaire date France Travail
 # ---------------------------------------------------------------------------
 
-def parse_rss_date(entry):
-    """Convertit une date feedparser en ISO 8601."""
-    if hasattr(entry, "published_parsed") and entry.published_parsed:
-        try:
-            return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc).isoformat()
-        except Exception:
-            pass
+def parse_ft_date(text: str) -> str:
+    """Convertit 'Publié aujourd'hui', 'hier', 'il y a X jours' → ISO 8601."""
+    now = datetime.now(timezone.utc)
+    t = (text or "").lower().strip()
+    if "aujourd" in t:
+        return now.date().isoformat()
+    if "hier" in t:
+        return (now - timedelta(days=1)).date().isoformat()
+    m = re.search(r"(\d+)\s+jours?", t)
+    if m:
+        return (now - timedelta(days=int(m.group(1)))).date().isoformat()
     return ""
 
 
-def strip_html(text):
-    return re.sub(r"<[^>]+>", " ", text or "").strip()
-
-
 # ---------------------------------------------------------------------------
-# France Travail — flux RSS public (aucune clé requise)
+# France Travail — scraping HTML (SSR, aucune JS requise)
 # ---------------------------------------------------------------------------
 
-def fetch_france_travail(profile):
+def fetch_france_travail(profile) -> list:
     """
-    France Travail expose un flux RSS public pour les recherches d'offres.
-    URL : https://candidat.francetravail.fr/offres/recherche/rss
-    Paramètres : motsCles, communes (code INSEE), distance, tri
-    """
-    loc = profile["target_location"]
-    commune = loc.get("commune_insee", "33049")
-    radius = loc.get("radius_km", 40)
-
-    search_queries = [
-        "ingénieur méthodes",
-        "ingénieur maintenance",
-        "ingénieur fiabilisation",
-        "GMAO AMDEC",
-    ]
-
-    all_jobs = []
-    seen_ids = set()
-
-    for keywords in search_queries:
-        url = (
-            f"https://candidat.francetravail.fr/offres/recherche/rss"
-            f"?motsCles={quote_plus(keywords)}"
-            f"&communes={commune}"
-            f"&distance={radius}"
-            f"&tri=0"
-        )
-        try:
-            feed = feedparser.parse(url)
-            for entry in feed.entries:
-                job_id = f"ft_{entry.get('id', entry.get('link', ''))}"
-                if job_id in seen_ids:
-                    continue
-                seen_ids.add(job_id)
-
-                summary = strip_html(entry.get("summary", ""))
-                # Le résumé FT contient souvent : "Entreprise : X | Lieu : Y | Contrat : Z"
-                company = ""
-                location = ""
-                contract = ""
-                for line in summary.split("|"):
-                    line = line.strip()
-                    if line.lower().startswith("entreprise"):
-                        company = line.split(":", 1)[-1].strip()
-                    elif line.lower().startswith("lieu"):
-                        location = line.split(":", 1)[-1].strip()
-                    elif line.lower().startswith("contrat") or line.lower().startswith("type"):
-                        contract = line.split(":", 1)[-1].strip()
-
-                all_jobs.append({
-                    "id": job_id,
-                    "title": entry.get("title", ""),
-                    "company": company or "Non précisé",
-                    "location": location or loc.get("city", ""),
-                    "description": summary[:900],
-                    "url": entry.get("link", ""),
-                    "source": "france_travail",
-                    "date_posted": parse_rss_date(entry),
-                    "contract_type": contract,
-                    "salary": "",
-                })
-        except Exception as e:
-            print(f"France Travail RSS ({keywords}): erreur — {e}")
-
-        time.sleep(0.5)  # politesse
-
-    print(f"France Travail RSS: {len(all_jobs)} offres")
-    return all_jobs
-
-
-# ---------------------------------------------------------------------------
-# Indeed France — flux RSS public (aucune clé requise)
-# ---------------------------------------------------------------------------
-
-def fetch_indeed(profile):
-    """
-    Indeed expose des flux RSS publics pour les recherches d'offres.
-    URL : https://fr.indeed.com/rss
-    Paramètres : q (mots-clés), l (lieu), radius (km), sort (date/relevance)
+    France Travail rend ses résultats côté serveur (HTML statique).
+    On scrape directement la page de résultats pour extraire les offres.
     """
     loc = profile["target_location"]
     city = loc.get("search_city", "Bordeaux")
-    radius_miles = int(loc.get("radius_km", 40) * 0.621)  # Indeed utilise les miles
+    dept = "Gironde"
 
+    # Plusieurs requêtes couvrant le profil de l'utilisateur
     search_queries = [
-        "ingénieur méthodes maintenance",
-        "ingénieur fiabilisation industriel",
-        "GMAO AMDEC ingénieur",
+        f"ingénieur méthodes {dept}",
+        f"ingénieur méthodes {city}",
+        f"ingénieur maintenance {dept}",
+        f"ingénieur fiabilisation {dept}",
+        f"GMAO AMDEC {dept}",
+        f"amélioration continue {dept}",
+        f"ingénieur process {dept}",
     ]
 
-    all_jobs = []
-    seen_ids = set()
+    all_jobs: list = []
+    seen_ids: set = set()
 
     for keywords in search_queries:
-        url = (
-            f"https://fr.indeed.com/rss"
-            f"?q={quote_plus(keywords)}"
-            f"&l={quote_plus(city)}"
-            f"&radius={radius_miles}"
-            f"&sort=date"
-        )
-        try:
-            feed = feedparser.parse(url, request_headers=HEADERS)
-            for entry in feed.entries:
-                job_id = f"in_{entry.get('id', entry.get('link', ''))}"
-                if job_id in seen_ids:
-                    continue
-                seen_ids.add(job_id)
+        for page_start in [0, 20]:  # 2 pages × 20 = 40 résultats par query
+            params = {"motsCles": keywords, "tri": "0", "start": page_start}
+            url = f"{FT_BASE}?{urlencode(params)}"
+            try:
+                resp = requests.get(url, headers=HEADERS, timeout=20)
+                resp.raise_for_status()
+                soup = BeautifulSoup(resp.text, "html.parser")
 
-                all_jobs.append({
-                    "id": job_id,
-                    "title": entry.get("title", ""),
-                    "company": entry.get("source", {}).get("value", "Non précisé")
-                               if hasattr(entry.get("source", {}), "get")
-                               else "Non précisé",
-                    "location": entry.get("indeed_city", city),
-                    "description": strip_html(entry.get("summary", ""))[:900],
-                    "url": entry.get("link", ""),
-                    "source": "indeed",
-                    "date_posted": parse_rss_date(entry),
-                    "contract_type": "",
-                    "salary": entry.get("indeed_salary", ""),
-                })
-        except Exception as e:
-            print(f"Indeed RSS ({keywords}): erreur — {e}")
+                items = soup.find_all("li", class_="result")
+                if not items:
+                    break  # plus de résultats
 
-        time.sleep(0.5)
-
-    print(f"Indeed RSS: {len(all_jobs)} offres")
-    return all_jobs
-
-
-# ---------------------------------------------------------------------------
-# APEC — flux RSS public (aucune clé requise)
-# ---------------------------------------------------------------------------
-
-def fetch_apec(profile):
-    """
-    L'APEC expose un flux RSS public pour les offres cadres.
-    URL : https://www.apec.fr/candidat/recherche-emploi.html/emploi/rss
-    """
-    loc = profile["target_location"]
-    search_queries = [
-        "ingénieur méthodes",
-        "ingénieur maintenance",
-        "ingénieur fiabilisation",
-    ]
-
-    all_jobs = []
-    seen_ids = set()
-
-    for keywords in search_queries:
-        # APEC RSS feed pour les cadres
-        url = (
-            f"https://www.apec.fr/candidat/recherche-emploi.html/emploi/rss"
-            f"?motsCles={quote_plus(keywords)}"
-            f"&lieu=100-33"   # Gironde
-            f"&distance={loc.get('radius_km', 40)}"
-        )
-        try:
-            feed = feedparser.parse(url, request_headers=HEADERS)
-            for entry in feed.entries:
-                job_id = f"apec_{entry.get('id', entry.get('link', ''))}"
-                if job_id in seen_ids:
-                    continue
-                seen_ids.add(job_id)
-
-                summary = strip_html(entry.get("summary", ""))
-                all_jobs.append({
-                    "id": job_id,
-                    "title": entry.get("title", ""),
-                    "company": "Non précisé",
-                    "location": loc.get("search_city", "Bordeaux"),
-                    "description": summary[:900],
-                    "url": entry.get("link", ""),
-                    "source": "apec",
-                    "date_posted": parse_rss_date(entry),
-                    "contract_type": "CDI",
-                    "salary": "",
-                })
-        except Exception as e:
-            print(f"APEC RSS ({keywords}): erreur — {e}")
-
-        time.sleep(0.5)
-
-    print(f"APEC RSS: {len(all_jobs)} offres")
-    return all_jobs
-
-
-# ---------------------------------------------------------------------------
-# HelloWork — scraping JSON-LD (aucune clé requise)
-# ---------------------------------------------------------------------------
-
-def fetch_hellowork(profile):
-    """
-    HelloWork intègre des données JSON-LD (schema.org/JobPosting) dans ses
-    pages de résultats, accessibles publiquement sans authentification.
-    """
-    loc = profile["target_location"]
-    city = loc.get("search_city", "Bordeaux")
-
-    search_queries = [
-        ("ingénieur méthodes", city),
-        ("ingénieur maintenance", city),
-        ("GMAO fiabilisation", city),
-    ]
-
-    all_jobs = []
-    seen_ids = set()
-
-    for keywords, location in search_queries:
-        url = "https://www.hellowork.com/fr-fr/emploi/recherche.html"
-        params = {
-            "k": keywords,
-            "l": location,
-            "ray": str(loc.get("radius_km", 40)),
-        }
-        try:
-            resp = requests.get(url, params=params, headers=HEADERS, timeout=20)
-            resp.raise_for_status()
-
-            # Extraire les blocs JSON-LD de la page
-            blocks = re.findall(
-                r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
-                resp.text,
-                re.DOTALL | re.IGNORECASE,
-            )
-            for block in blocks:
-                try:
-                    data = json.loads(block)
-                except Exception:
-                    continue
-
-                items = []
-                if isinstance(data, list):
-                    items = data
-                elif data.get("@type") == "ItemList":
-                    items = [e.get("item", {}) for e in data.get("itemListElement", [])]
-                elif data.get("@type") == "JobPosting":
-                    items = [data]
-
-                for item in items:
-                    if item.get("@type") != "JobPosting":
-                        continue
-                    job_id = f"hw_{item.get('url', '')}"
-                    if job_id in seen_ids:
+                for li in items:
+                    job_id = li.get("data-id-offre", "")
+                    if not job_id or job_id in seen_ids:
                         continue
                     seen_ids.add(job_id)
 
-                    org = item.get("hiringOrganization", {})
-                    addr = item.get("jobLocation", {}).get("address", {})
-                    loc_str = addr.get("addressLocality", location)
+                    title_el = li.find("span", class_="media-heading-title")
+                    title = title_el.get_text(strip=True) if title_el else ""
+
+                    subtext = li.find("p", class_="subtext")
+                    company, location = "", ""
+                    if subtext:
+                        # Structure: NavigableString (company) + <span>location</span>
+                        span = subtext.find("span")
+                        location = span.get_text(strip=True) if span else ""
+                        nav = next(
+                            (c for c in subtext.children
+                             if isinstance(c, NavigableString)
+                             and c.strip().replace(" ", "").replace("-", "").strip()),
+                            None,
+                        )
+                        company = nav.strip().replace(" ", "").replace("-", "").strip() if nav else ""
+
+                    desc_el = li.find("p", class_="description")
+                    desc = desc_el.get_text(strip=True) if desc_el else ""
+
+                    # Contrat (hors mobile pour éviter doublon)
+                    contract_el = li.find("div", class_="media-right")
+                    contract = ""
+                    if contract_el:
+                        p = contract_el.find("p", class_="contrat")
+                        if p:
+                            contract = p.get_text(" ", strip=True).split(" ")[0]
+
+                    date_el = li.find("p", class_="date")
+                    date_text = date_el.get_text(strip=True) if date_el else ""
+                    date_posted = parse_ft_date(date_text)
 
                     all_jobs.append({
-                        "id": job_id,
-                        "title": item.get("title", ""),
-                        "company": org.get("name") or "Non précisé",
-                        "location": loc_str,
-                        "description": strip_html(item.get("description", ""))[:900],
-                        "url": item.get("url", "https://www.hellowork.com"),
-                        "source": "hellowork",
-                        "date_posted": item.get("datePosted", ""),
-                        "contract_type": item.get("employmentType", ""),
+                        "id": f"ft_{job_id}",
+                        "title": title,
+                        "company": company or "Non précisé",
+                        "location": location or city,
+                        "description": desc[:900],
+                        "url": f"{FT_DETAIL}/{job_id}",
+                        "source": "france_travail",
+                        "date_posted": date_posted,
+                        "contract_type": contract,
                         "salary": "",
                     })
-        except Exception as e:
-            print(f"HelloWork ({keywords}): erreur — {e}")
 
-        time.sleep(1)
+            except Exception as e:
+                print(f"France Travail ({keywords}, start={page_start}): erreur — {e}")
+                break
 
-    print(f"HelloWork: {len(all_jobs)} offres")
+            time.sleep(1)
+
+    print(f"France Travail scraping: {len(all_jobs)} offres")
     return all_jobs
 
 
@@ -423,9 +245,6 @@ def main():
 
     all_jobs: list = []
     all_jobs += fetch_france_travail(profile)
-    all_jobs += fetch_apec(profile)
-    all_jobs += fetch_indeed(profile)
-    all_jobs += fetch_hellowork(profile)
 
     all_jobs = deduplicate(all_jobs)
     print(f"\n{len(all_jobs)} offres uniques après déduplication")
@@ -452,13 +271,8 @@ def main():
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✓ {len(all_jobs)} offres sauvegardées")
-    labels = {
-        "france_travail": "France Travail",
-        "apec": "APEC",
-        "indeed": "Indeed",
-        "hellowork": "HelloWork",
-    }
+    print(f"\n✓ {len(all_jobs)} offres sauvegardées dans data/jobs.json")
+    labels = {"france_travail": "France Travail"}
     for src, cnt in sorted(sources.items(), key=lambda x: -x[1]):
         print(f"  {labels.get(src, src):20s}: {cnt}")
 
