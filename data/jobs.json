@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T08:26:18.659473+00:00",
+  "last_updated": "2026-05-24T13:20:18.320432+00:00",
   "jobs": [
     {
       "id": "ft_2962383",
@@ -892,27 +892,6 @@
       }
     },
     {
-      "id": "li_4417152184",
-      "title": "Ingénieur Management de Projet - Bâtiments ou Constructions Industrielles",
-      "company": "IM Projet",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-management-de-projet-b%C3%A2timents-ou-constructions-industrielles-at-im-projet-4417152184",
-      "source": "linkedin",
-      "date_posted": "2026-05-22",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4406449773",
       "title": "Ingénieur projets industriel - expérimenté - H/F",
       "company": "MIGSO-PCUBED",
@@ -942,6 +921,27 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-robotique-industriel-h-f-at-fortil-4406580636",
       "source": "linkedin",
       "date_posted": "2026-04-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4417152184",
+      "title": "Ingénieur Management de Projet - Bâtiments ou Constructions Industrielles",
+      "company": "IM Projet",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-management-de-projet-b%C3%A2timents-ou-constructions-industrielles-at-im-projet-4417152184",
+      "source": "linkedin",
+      "date_posted": "2026-05-22",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1090,14 +1090,37 @@
       }
     },
     {
-      "id": "li_4383928491",
-      "title": "Ingénieur Méthodes Maintenances- H/F",
-      "company": "LGM",
+      "id": "li_4413747340",
+      "title": "Ingénieur méthodes et industrialisation F/H",
+      "company": "Thales",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-maintenances-h-f-at-lgm-4383928491",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-industrialisation-f-h-at-thales-4413747340",
       "source": "linkedin",
-      "date_posted": "2026-05-15",
+      "date_posted": "2026-05-12",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4417198448",
+      "title": "CDI- Ingénieure/Ingénieur Méthodes Procédés",
+      "company": "ArianeGroup",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-proc%C3%A9d%C3%A9s-at-arianegroup-4417198448",
+      "source": "linkedin",
+      "date_posted": "2026-05-22",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1152,29 +1175,6 @@
         "skills": 1,
         "matched_skills": [
           "amélioration continue"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4417198448",
-      "title": "CDI- Ingénieure/Ingénieur Méthodes Procédés",
-      "company": "ArianeGroup",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-proc%C3%A9d%C3%A9s-at-arianegroup-4417198448",
-      "source": "linkedin",
-      "date_posted": "2026-05-22",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
         ],
         "sector": 0,
         "recency": 5,
@@ -1292,14 +1292,14 @@
       }
     },
     {
-      "id": "li_4383222308",
-      "title": "Ingénieur Méthode Maintenance - H/F",
-      "company": "LGM",
-      "location": "Le Barp",
+      "id": "li_4406582479",
+      "title": "Ingénieur Process (H/F)",
+      "company": "fortil",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thode-maintenance-h-f-at-lgm-4383222308",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-fortil-4406582479",
       "source": "linkedin",
-      "date_posted": "2026-05-16",
+      "date_posted": "2026-04-28",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1313,14 +1313,35 @@
       }
     },
     {
-      "id": "li_4413316019",
-      "title": "Ingénieur Maintenance Prédictive - Bordeaux",
-      "company": "I-care Group",
-      "location": "Gironde",
+      "id": "li_4178437209",
+      "title": "Ingénieur Process et Innovation (H/F)",
+      "company": "SUEZ",
+      "location": "Villenave-d'Ornon",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-maintenance-pr%C3%A9dictive-bordeaux-at-i-care-group-4413316019",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-et-innovation-h-f-at-suez-4178437209",
       "source": "linkedin",
-      "date_posted": "2026-05-18",
+      "date_posted": "2025-03-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4414135783",
+      "title": "Ingénieur process (H/F)",
+      "company": "France Travail",
+      "location": "Bègles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-france-travail-4414135783",
+      "source": "linkedin",
+      "date_posted": "2026-05-13",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1534,48 +1555,6 @@
       }
     },
     {
-      "id": "li_4351521045",
-      "title": "Responsable Maintenance Industrielle International H/F",
-      "company": "CEVA SANTE ANIMALE",
-      "location": "Libourne",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-industrielle-international-h-f-at-ceva-sante-animale-4351521045",
-      "source": "linkedin",
-      "date_posted": "2026-05-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4314163006",
-      "title": "Superviseur de maintenance industrielle (H/F), Maintenance, Robotique & Systèmes Automatisés",
-      "company": "Amazon",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/superviseur-de-maintenance-industrielle-h-f-maintenance-robotique-syst%C3%A8mes-automatis%C3%A9s-at-amazon-4314163006",
-      "source": "linkedin",
-      "date_posted": "2026-05-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_208PBDS",
       "title": "Responsable d'amélioration continue (H/F)",
       "company": "PROMAN",
@@ -1731,14 +1710,14 @@
       }
     },
     {
-      "id": "li_4413954338",
-      "title": "Maintenance Engineer",
-      "company": "AVENTA",
-      "location": "Nouvelle-Aquitaine, France",
+      "id": "li_4411760075",
+      "title": "Référent Process Engineering - H/F",
+      "company": "NEO2",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/maintenance-engineer-at-aventa-4413954338",
+      "url": "https://fr.linkedin.com/jobs/view/r%C3%A9f%C3%A9rent-process-engineering-h-f-at-neo2-4411760075",
       "source": "linkedin",
-      "date_posted": "2026-05-13",
+      "date_posted": "2026-05-08",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1752,56 +1731,14 @@
       }
     },
     {
-      "id": "li_4413942731",
-      "title": "Ingénieur(e) d'affaires F/H",
-      "company": "EDF",
-      "location": "Braud-et-Saint-Louis",
+      "id": "li_4414739034",
+      "title": "Expert Industrialisation - Process Engineering H/F",
+      "company": "CTS Consulting & Technical Support",
+      "location": "Eysines",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-d-affaires-f-h-at-edf-4413942731",
+      "url": "https://fr.linkedin.com/jobs/view/expert-industrialisation-process-engineering-h-f-at-cts-consulting-technical-support-4414739034",
       "source": "linkedin",
-      "date_posted": "2026-05-13",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4416664473",
-      "title": "Responsable Maintenance Opérationnelle F/H - SAFRAN",
-      "company": "AEROCONTACT.COM",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-op%C3%A9rationnelle-f-h-safran-at-aerocontact-4416664473",
-      "source": "linkedin",
-      "date_posted": "2026-05-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4357840379",
-      "title": "RESPONSABLE MAINTENANCE F/H",
-      "company": "Carrefour",
-      "location": "Beychac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-f-h-at-carrefour-4357840379",
-      "source": "linkedin",
-      "date_posted": "2026-05-22",
+      "date_posted": "2026-05-14",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1941,14 +1878,35 @@
       }
     },
     {
-      "id": "li_4408079368",
-      "title": "Responsable de site F/H",
-      "company": "VINCI Energies",
+      "id": "li_4415649878",
+      "title": "Pilote Industrialisation (H/F)",
+      "company": "fortil",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-f-h-at-vinci-energies-4408079368",
+      "url": "https://fr.linkedin.com/jobs/view/pilote-industrialisation-h-f-at-fortil-4415649878",
       "source": "linkedin",
-      "date_posted": "2026-04-29",
+      "date_posted": "2026-05-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4408654271",
+      "title": "Responsable technique",
+      "company": "altizem",
+      "location": "Nouvelle-Aquitaine, France",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-at-altizem-4408654271",
+      "source": "linkedin",
+      "date_posted": "2026-05-04",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -1963,10 +1921,10 @@
     }
   ],
   "stats": {
-    "total": 89,
+    "total": 87,
     "sources": {
       "france_travail": 62,
-      "linkedin": 27
+      "linkedin": 25
     }
   }
 }
