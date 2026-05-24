@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T13:20:18.320432+00:00",
+  "last_updated": "2026-05-24T19:13:56.311439+00:00",
   "jobs": [
     {
       "id": "ft_2962383",
@@ -284,6 +284,29 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/208HXGC",
       "source": "france_travail",
       "date_posted": "2026-05-15",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_2994168",
+      "title": "CDI- Ingénieure/Ingénieur Méthodes Procédés (H/F)",
+      "company": "Non précisé",
+      "location": "33 - Haillan",
+      "description": "Envie de participer au développement de nos nouveaux lanceurs civils et militaires ? Nous recherchons une/un Ingénieure/Ingénieur Méthodes Procédés pour relever ce défi sur notre site du Haillan!\n\n...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2994168",
+      "source": "france_travail",
+      "date_posted": "2026-05-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -879,27 +902,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-chef-de-projet-ing%C3%A9nieure-cheffe-de-projet-industriel-et-nucl%C3%A9aire-at-artelia-4382940920",
       "source": "linkedin",
       "date_posted": "2026-05-13",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4406449773",
-      "title": "Ingénieur projets industriel - expérimenté - H/F",
-      "company": "MIGSO-PCUBED",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-projets-industriel-exp%C3%A9riment%C3%A9-h-f-at-migso-pcubed-4406449773",
-      "source": "linkedin",
-      "date_posted": "2026-04-30",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1773,6 +1775,27 @@
       }
     },
     {
+      "id": "li_4407166820",
+      "title": "Ingénieure matériaux et procédés spécialisé-e en Fabrication Additive métallique F/H - SAFRAN",
+      "company": "AEROCONTACT.COM",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-mat%C3%A9riaux-et-proc%C3%A9d%C3%A9s-sp%C3%A9cialis%C3%A9-e-en-fabrication-additive-m%C3%A9tallique-f-h-safran-at-aerocontact-4407166820",
+      "source": "linkedin",
+      "date_posted": "2026-05-01",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_208HXFF",
       "title": "Responsable Amélioration Continu H/F",
       "company": "CRIT INTERIM",
@@ -1921,9 +1944,9 @@
     }
   ],
   "stats": {
-    "total": 87,
+    "total": 88,
     "sources": {
-      "france_travail": 62,
+      "france_travail": 63,
       "linkedin": 25
     }
   }
