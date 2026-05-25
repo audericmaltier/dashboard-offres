@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T19:13:56.311439+00:00",
+  "last_updated": "2026-05-25T10:00:24.922250+00:00",
   "jobs": [
     {
       "id": "ft_2962383",
@@ -490,7 +490,7 @@
       "description": "POSTE : Ingénieur Méthodes Maintenances H/F\nDESCRIPTION : \nCe que nous pouvons accomplir ensemble:\n \nAu sein de notre agence de Mérignac vous serez intégré dans l'équipe de l'équipe MCO/Exploitation...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/0253401",
       "source": "france_travail",
-      "date_posted": "2026-04-24",
+      "date_posted": "2026-04-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -859,7 +859,7 @@
       "description": "POSTE : Ingénieur Process H/F\nDESCRIPTION : \nDESCRIPTION DE POSTE\n \nDans le cadre du développement de nos activités à Bordeaux, nous recherchons un Ingénieur Process (H/F).\n \nRattaché·e au...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/1308612",
       "source": "france_travail",
-      "date_posted": "2026-04-24",
+      "date_posted": "2026-04-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 55,
@@ -880,7 +880,7 @@
       "description": "<strong>L'ENTREPRISE</strong><...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/0503510",
       "source": "france_travail",
-      "date_posted": "2026-04-24",
+      "date_posted": "2026-04-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 55,
@@ -915,14 +915,14 @@
       }
     },
     {
-      "id": "li_4406580636",
-      "title": "Ingénieur Robotique Industriel (H/F)",
-      "company": "fortil",
-      "location": "Bordeaux",
+      "id": "li_4377916320",
+      "title": "CDI - Ingénieure / Ingénieur Cybersécurité Industrielle (OT)",
+      "company": "ArianeGroup",
+      "location": "Le Haillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-robotique-industriel-h-f-at-fortil-4406580636",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-cybers%C3%A9curit%C3%A9-industrielle-ot-at-arianegroup-4377916320",
       "source": "linkedin",
-      "date_posted": "2026-04-28",
+      "date_posted": "2026-04-06",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -957,14 +957,14 @@
       }
     },
     {
-      "id": "li_4377916320",
-      "title": "CDI - Ingénieure / Ingénieur Cybersécurité Industrielle (OT)",
-      "company": "ArianeGroup",
-      "location": "Le Haillan",
+      "id": "li_4406580636",
+      "title": "Ingénieur Robotique Industriel (H/F)",
+      "company": "fortil",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-cybers%C3%A9curit%C3%A9-industrielle-ot-at-arianegroup-4377916320",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-robotique-industriel-h-f-at-fortil-4406580636",
       "source": "linkedin",
-      "date_posted": "2026-04-06",
+      "date_posted": "2026-04-28",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1092,52 +1092,6 @@
       }
     },
     {
-      "id": "li_4413747340",
-      "title": "Ingénieur méthodes et industrialisation F/H",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-industrialisation-f-h-at-thales-4413747340",
-      "source": "linkedin",
-      "date_posted": "2026-05-12",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4417198448",
-      "title": "CDI- Ingénieure/Ingénieur Méthodes Procédés",
-      "company": "ArianeGroup",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-proc%C3%A9d%C3%A9s-at-arianegroup-4417198448",
-      "source": "linkedin",
-      "date_posted": "2026-05-22",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4415673547",
       "title": "Ingénieur Méthodes (H/F)",
       "company": "ALTEN",
@@ -1200,6 +1154,29 @@
         "skills": 1,
         "matched_skills": [
           "amélioration continue"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4417198448",
+      "title": "CDI- Ingénieure/Ingénieur Méthodes Procédés",
+      "company": "ArianeGroup",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-proc%C3%A9d%C3%A9s-at-arianegroup-4417198448",
+      "source": "linkedin",
+      "date_posted": "2026-05-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
         ],
         "sector": 0,
         "recency": 5,
@@ -1294,69 +1271,6 @@
       }
     },
     {
-      "id": "li_4406582479",
-      "title": "Ingénieur Process (H/F)",
-      "company": "fortil",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-fortil-4406582479",
-      "source": "linkedin",
-      "date_posted": "2026-04-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4178437209",
-      "title": "Ingénieur Process et Innovation (H/F)",
-      "company": "SUEZ",
-      "location": "Villenave-d'Ornon",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-et-innovation-h-f-at-suez-4178437209",
-      "source": "linkedin",
-      "date_posted": "2025-03-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4414135783",
-      "title": "Ingénieur process (H/F)",
-      "company": "France Travail",
-      "location": "Bègles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-france-travail-4414135783",
-      "source": "linkedin",
-      "date_posted": "2026-05-13",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_201ZZGT",
       "title": "Préparateur Méthodes et Industrialisation (H/F)",
       "company": "AERONEFS SERVICES",
@@ -1364,7 +1278,7 @@
       "description": "AERONEFS SERVICES est un fournisseur stratégique des industries : aéronautique, spatial et défense depuis plus de 40 ans. Elle a plus récemment développé une activité de services dans le domaine des...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/201ZZGT",
       "source": "france_travail",
-      "date_posted": "2026-04-24",
+      "date_posted": "2026-04-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 43,
@@ -1543,7 +1457,7 @@
       "description": "Vous aimez la technique et le travail en équipe ? Nous vous proposons d'intégrer l'un de nos services de maintenance dans les domaines chaudronnerie. Vous constituez les dossiers de travaux, élaborez...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/201CRGT",
       "source": "france_travail",
-      "date_posted": "2026-04-24",
+      "date_posted": "2026-04-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 32,
@@ -1654,7 +1568,7 @@
       "description": "Un(e) chargé(e)e de mission qualité/gestion des risques\n\nà temps complet, soit 151.67 heures mensuel, en CDD pour une durée de 6 mois\n\nplacé(e) sous l'autorité hiérarchique des adjointes de...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/207HCJS",
       "source": "france_travail",
-      "date_posted": "2026-04-24",
+      "date_posted": "2026-04-25",
       "contract_type": "CDD",
       "salary": "",
       "score": 26,
@@ -1675,7 +1589,7 @@
       "description": "Description\n\nDans le cadre de son activité, la concession Peugeot située à Villenave d'Ornon recherche un(e) agent(e) de nettoyage industriel pour assurer l'entretien de ses locaux.\n\nVos missions...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/206XKKS",
       "source": "france_travail",
-      "date_posted": "2026-04-24",
+      "date_posted": "2026-04-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 25,
@@ -1706,48 +1620,6 @@
         "matched_skills": [
           "analyse de données"
         ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4411760075",
-      "title": "Référent Process Engineering - H/F",
-      "company": "NEO2",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/r%C3%A9f%C3%A9rent-process-engineering-h-f-at-neo2-4411760075",
-      "source": "linkedin",
-      "date_posted": "2026-05-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4414739034",
-      "title": "Expert Industrialisation - Process Engineering H/F",
-      "company": "CTS Consulting & Technical Support",
-      "location": "Eysines",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-industrialisation-process-engineering-h-f-at-cts-consulting-technical-support-4414739034",
-      "source": "linkedin",
-      "date_posted": "2026-05-14",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
         "sector": 0,
         "recency": 5,
         "contract": 0
@@ -1899,55 +1771,13 @@
         "recency": 5,
         "contract": 10
       }
-    },
-    {
-      "id": "li_4415649878",
-      "title": "Pilote Industrialisation (H/F)",
-      "company": "fortil",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/pilote-industrialisation-h-f-at-fortil-4415649878",
-      "source": "linkedin",
-      "date_posted": "2026-05-18",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4408654271",
-      "title": "Responsable technique",
-      "company": "altizem",
-      "location": "Nouvelle-Aquitaine, France",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-at-altizem-4408654271",
-      "source": "linkedin",
-      "date_posted": "2026-05-04",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
     }
   ],
   "stats": {
-    "total": 88,
+    "total": 80,
     "sources": {
       "france_travail": 63,
-      "linkedin": 25
+      "linkedin": 17
     }
   }
 }
