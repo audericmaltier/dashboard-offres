@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T10:18:43.585273+00:00",
+  "last_updated": "2026-06-02T16:18:37.887463+00:00",
   "jobs": [
     {
       "id": "ft_2962383",
@@ -42,6 +42,29 @@
         "skills": 3,
         "matched_skills": [
           "mécanique",
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_3327413",
+      "title": "Ingénieur méthodes et industrialisation (H/F)",
+      "company": "Non précisé",
+      "location": "33 - Bordeaux",
+      "description": "Description du poste :\nLieu : Bordeaux, France\nConstruisons ensemble un avenir de confiance\nThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/3327413",
+      "source": "france_travail",
+      "date_posted": "2026-06-02",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
           "méthodes"
         ],
         "sector": 10,
@@ -151,29 +174,6 @@
       "source": "france_travail",
       "date_posted": "2026-05-18",
       "contract_type": "CDD",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_2642499",
-      "title": "Ingénieur méthodes et industrialisation (H/F)",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Description du poste :\nLieu : Bordeaux, France\nConstruisons ensemble un avenir de confiance\nThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense &...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2642499",
-      "source": "france_travail",
-      "date_posted": "2026-05-14",
-      "contract_type": "CDI",
       "salary": "",
       "score": 66,
       "score_breakdown": {
@@ -369,6 +369,29 @@
       }
     },
     {
+      "id": "ft_209CYGK",
+      "title": "Ingénieur méthodes industrialisation aéronautique (H/F)",
+      "company": "PROMAN",
+      "location": "33 - Salaunes",
+      "description": "Le poste :\nNotre agence PROMAN AERONAUTIQUE , recrute pour son client, reconnu mondialement pour son expertise dans les composites haute performance, un INGENIEUR METHODES INDUSTRIALISATION H/F...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209CYGK",
+      "source": "france_travail",
+      "date_posted": "2026-06-02",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_3243457",
       "title": "Ingénieur Méthodes Bâtiment F/H - Process, méthodes (H/F)",
       "company": "MF Ingénierie",
@@ -507,29 +530,6 @@
       }
     },
     {
-      "id": "ft_2817786",
-      "title": "Ingénieur Industrialisation F/H - Process, méthodes (H/F)",
-      "company": "RH PARTNERS",
-      "location": "33 - Libourne",
-      "description": "Descriptif du poste:\n\nRattaché au Directeur du développement et des nouveaux produits, au sein d'une équipe de 5 personnes, vous êtes en charge de la rédaction de documentations techniques détaillées...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2817786",
-      "source": "france_travail",
-      "date_posted": "2026-05-20",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_2589262",
       "title": "Ingénieur Big Data (Hadoop/Cloudera) F/H - Process, méthodes (H/F)",
       "company": "SCC",
@@ -584,52 +584,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2247455",
       "source": "france_travail",
       "date_posted": "2026-05-05",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_2244348",
-      "title": "Ingénieur Méthodes H/F",
-      "company": "TiPi3D",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Méthodes H/F\nDESCRIPTION : \nEmbarquez pour l'aventure avec TiPi3D !\n \nRejoignez notre équipe dynamique pour imaginer, concevoir et fabriquer les produits et moyens de demain.\n \nChez...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2244348",
-      "source": "france_travail",
-      "date_posted": "2026-05-05",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_9398569",
-      "title": "Ingénieur Méthodes Composites H/F",
-      "company": "Astek",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Méthodes Composites H/F\nDESCRIPTION : \nCe que nous allons accomplir ensemble :\n \nNous recherchons un(e) Ingénieur Méthodes Composites pour intervenir sur des programmes...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9398569",
-      "source": "france_travail",
-      "date_posted": "2026-05-03",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -714,15 +668,15 @@
       }
     },
     {
-      "id": "li_4416647418",
-      "title": "ALTERNANCE - Ingénieur Méthodes Industrielles H/F",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/alternance-ing%C3%A9nieur-m%C3%A9thodes-industrielles-h-f-at-thales-4416647418",
-      "source": "linkedin",
-      "date_posted": "2026-05-19",
-      "contract_type": "",
+      "id": "ft_2817786",
+      "title": "Ingénieur Industrialisation F/H - Process, méthodes (H/F)",
+      "company": "RH PARTNERS",
+      "location": "33 - Libourne",
+      "description": "Descriptif du poste:\n\nRattaché au Directeur du développement et des nouveaux produits, au sein d'une équipe de 5 personnes, vous êtes en charge de la rédaction de documentations techniques détaillées...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2817786",
+      "source": "france_travail",
+      "date_posted": "2026-05-20",
+      "contract_type": "CDI",
       "salary": "",
       "score": 56,
       "score_breakdown": {
@@ -731,32 +685,9 @@
         "matched_skills": [
           "méthodes"
         ],
-        "sector": 10,
+        "sector": 0,
         "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4348107118",
-      "title": "Ingénieur Méthodes – Industrie Aérospatiale - Bordeaux, France  (H/F)",
-      "company": "Astek",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-%E2%80%93-industrie-a%C3%A9rospatiale-bordeaux-france-h-f-at-astek-4348107118",
-      "source": "linkedin",
-      "date_posted": "2026-05-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
+        "contract": 10
       }
     },
     {
@@ -951,27 +882,6 @@
       }
     },
     {
-      "id": "ft_1786740",
-      "title": "Ingénieur de Maintenance Landes - Mont-De-Marsan H/F",
-      "company": "Non précisé",
-      "location": "33 - Mérignac",
-      "description": "POSTE : Ingénieur de Maintenance Landes - Mont-De-Marsan H/F\nDESCRIPTION : \nJob Description Summary\nEntretenir tous les types d'équipements spécifiques à une ou plusieurs modalités dans son secteur...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/1786740",
-      "source": "france_travail",
-      "date_posted": "2026-05-03",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_208GPXT",
       "title": "Ingénieur process (H/F)",
       "company": "EPSYL",
@@ -1056,14 +966,14 @@
       }
     },
     {
-      "id": "li_4382940920",
-      "title": "Ingénieur Chef de projet / Ingénieure Cheffe de projet Industriel et Nucléaire",
-      "company": "Artelia",
-      "location": "Bordeaux",
+      "id": "li_4377916320",
+      "title": "CDI - Ingénieure / Ingénieur Cybersécurité Industrielle (OT)",
+      "company": "ArianeGroup",
+      "location": "Le Haillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-chef-de-projet-ing%C3%A9nieure-cheffe-de-projet-industriel-et-nucl%C3%A9aire-at-artelia-4382940920",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-cybers%C3%A9curit%C3%A9-industrielle-ot-at-arianegroup-4377916320",
       "source": "linkedin",
-      "date_posted": "2026-05-13",
+      "date_posted": "2026-04-06",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1077,14 +987,14 @@
       }
     },
     {
-      "id": "li_4377916320",
-      "title": "CDI - Ingénieure / Ingénieur Cybersécurité Industrielle (OT)",
-      "company": "ArianeGroup",
-      "location": "Le Haillan",
+      "id": "li_4406580636",
+      "title": "Ingénieur Robotique Industriel (H/F)",
+      "company": "fortil",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-cybers%C3%A9curit%C3%A9-industrielle-ot-at-arianegroup-4377916320",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-robotique-industriel-h-f-at-fortil-4406580636",
       "source": "linkedin",
-      "date_posted": "2026-04-06",
+      "date_posted": "2026-04-28",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1209,29 +1119,6 @@
       }
     },
     {
-      "id": "li_4415673547",
-      "title": "Ingénieur Méthodes (H/F)",
-      "company": "ALTEN",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4415673547",
-      "source": "linkedin",
-      "date_posted": "2026-05-18",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4418020061",
       "title": "Ingénieur(e) Amélioration continue F/H",
       "company": "CGI",
@@ -1255,12 +1142,35 @@
       }
     },
     {
-      "id": "li_4418872535",
-      "title": "Ingénieur Méthodes et Procédés F/H",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
+      "id": "li_4418782073",
+      "title": "Ingénieur Méthodes Produit Process (F/H)",
+      "company": "Thales",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-proc%C3%A9d%C3%A9s-f-h-at-roxel-4418872535",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-produit-process-f-h-at-thales-4418782073",
+      "source": "linkedin",
+      "date_posted": "2026-06-01",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4209832994",
+      "title": "Ingénieur Méthodes - Bordeaux, France  (H/F)",
+      "company": "Astek",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-bordeaux-france-h-f-at-astek-4209832994",
       "source": "linkedin",
       "date_posted": "2026-05-28",
       "contract_type": "",
@@ -1278,12 +1188,35 @@
       }
     },
     {
-      "id": "li_4413463997",
-      "title": "ALTERNANCE - Ingénieur Amélioration Continue - H/F",
+      "id": "li_4415673547",
+      "title": "Ingénieur Méthodes (H/F)",
+      "company": "ALTEN",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4415673547",
+      "source": "linkedin",
+      "date_posted": "2026-05-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4413747340",
+      "title": "Ingénieur méthodes et industrialisation F/H",
       "company": "Thales",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/alternance-ing%C3%A9nieur-am%C3%A9lioration-continue-h-f-at-thales-4413463997",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-industrialisation-f-h-at-thales-4413747340",
       "source": "linkedin",
       "date_posted": "2026-05-12",
       "contract_type": "",
@@ -1293,7 +1226,7 @@
         "title": 40,
         "skills": 1,
         "matched_skills": [
-          "amélioration continue"
+          "méthodes"
         ],
         "sector": 0,
         "recency": 5,
@@ -1309,6 +1242,52 @@
       "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-proc%C3%A9d%C3%A9s-at-arianegroup-4417198448",
       "source": "linkedin",
       "date_posted": "2026-05-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4418250282",
+      "title": "Ingénieur méthodes/Ingénieure méthodes",
+      "company": "agap2",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-ing%C3%A9nieure-m%C3%A9thodes-at-agap2-4418250282",
+      "source": "linkedin",
+      "date_posted": "2026-05-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4418872535",
+      "title": "Ingénieur Méthodes et Procédés F/H",
+      "company": "Roxel",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-proc%C3%A9d%C3%A9s-f-h-at-roxel-4418872535",
+      "source": "linkedin",
+      "date_posted": "2026-05-28",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1478,6 +1457,27 @@
       }
     },
     {
+      "id": "ft_209CPWC",
+      "title": "Ingénieur/Technicien soudage (IWT ou IWE) (H/F)",
+      "company": "GIS MIC (GLOBAL INTERNATIONAL SERVICES M",
+      "location": "33 - BORDEAUX",
+      "description": "Nous recherchons un ou une IWT ou IWE dans différents domaines.\n\nDescriptif du poste :\n\n* Suivi des travaux de soudage\n* Rédaction et vérification des cahiers de soudage, DMOS, QS, QMOS.\n* Validation...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209CPWC",
+      "source": "france_travail",
+      "date_posted": "2026-06-02",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_208SPMT",
       "title": "Ingénieur(e) de Service OneSource sur site (H/F)",
       "company": "PerkinElmer",
@@ -1486,6 +1486,27 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/208SPMT",
       "source": "france_travail",
       "date_posted": "2026-05-26",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_209CTZX",
+      "title": "Technicien de maintenance en instrumentation scientifique (H/F)",
+      "company": "AGISCOM SERVICES",
+      "location": "33 - Bordeaux",
+      "description": "Qui sommes-nous ?\n\nAgiscom TECHNOLOGY est spécialisée dans l'installation, la maintenance et le support technique d'instruments scientifiques de haute précision. Nous accompagnons des acteurs...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209CTZX",
+      "source": "france_travail",
+      "date_posted": "2026-06-02",
       "contract_type": "CDI",
       "salary": "",
       "score": 32,
@@ -1561,6 +1582,27 @@
         "sector": 0,
         "recency": 5,
         "contract": 10
+      }
+    },
+    {
+      "id": "li_4416893666",
+      "title": "INGÉNIEUR INSPECTION & VALIDATION STRATEGY – METHODE  CONTRÔLE (H/F)",
+      "company": "FLYING WHALES",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-inspection-validation-strategy-%E2%80%93-methode-contr%C3%B4le-h-f-at-flying-whales-4416893666",
+      "source": "linkedin",
+      "date_posted": "2026-05-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
       }
     },
     {
@@ -1777,10 +1819,10 @@
     }
   ],
   "stats": {
-    "total": 80,
+    "total": 82,
     "sources": {
       "france_travail": 61,
-      "linkedin": 19
+      "linkedin": 21
     }
   }
 }
