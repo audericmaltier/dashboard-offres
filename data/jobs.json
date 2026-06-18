@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T10:17:05.872438+00:00",
+  "last_updated": "2026-06-18T15:17:50.267875+00:00",
   "jobs": [
     {
       "id": "ft_2962383",
@@ -1132,6 +1132,27 @@
       }
     },
     {
+      "id": "ft_2918448",
+      "title": "Ingénieur Sûreté de Fonctionnement F/H - Maintenance, sécurité (H/F)",
+      "company": "Roxel",
+      "location": "33 - Saint-Médard-en-Jalles",
+      "description": "Descriptif du poste:\n\nEn bref\nAu sein du service Sureté de Fonctionnement de la Direction Technique de Roxel France, vous participez activement à la construction et la justification de la fiabilité...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2918448",
+      "source": "france_travail",
+      "date_posted": "2026-05-22",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "li_4424561976",
       "title": "Ingénieur Environnement ICPE et Risques Industriels H/F",
       "company": "SOCOTEC",
@@ -1153,12 +1174,12 @@
       }
     },
     {
-      "id": "li_4377912465",
+      "id": "li_4377916320",
       "title": "CDI - Ingénieure / Ingénieur Cybersécurité Industrielle (OT)",
       "company": "ArianeGroup",
-      "location": "Saint-Médard-en-Jalles",
+      "location": "Le Haillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-cybers%C3%A9curit%C3%A9-industrielle-ot-at-arianegroup-4377912465",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-cybers%C3%A9curit%C3%A9-industrielle-ot-at-arianegroup-4377916320",
       "source": "linkedin",
       "date_posted": "2026-04-06",
       "contract_type": "",
@@ -1195,14 +1216,14 @@
       }
     },
     {
-      "id": "li_4427027709",
-      "title": "Ingénieur Maitrise des Risques Industriels H/F",
-      "company": "Ortec Group",
-      "location": "Bordeaux",
+      "id": "li_4414745933",
+      "title": "ALTERNANCE - Ingénieure / Ingénieur en Facility Management / Performance Industrielle",
+      "company": "ArianeGroup",
+      "location": "Le Haillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-maitrise-des-risques-industriels-h-f-at-ortec-group-4427027709",
+      "url": "https://fr.linkedin.com/jobs/view/alternance-ing%C3%A9nieure-ing%C3%A9nieur-en-facility-management-performance-industrielle-at-arianegroup-4414745933",
       "source": "linkedin",
-      "date_posted": "2026-06-10",
+      "date_posted": "2026-06-05",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1216,14 +1237,14 @@
       }
     },
     {
-      "id": "li_4414745933",
-      "title": "ALTERNANCE - Ingénieure / Ingénieur en Facility Management / Performance Industrielle",
-      "company": "ArianeGroup",
-      "location": "Le Haillan",
+      "id": "li_4427027709",
+      "title": "Ingénieur Maitrise des Risques Industriels H/F",
+      "company": "Ortec Group",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/alternance-ing%C3%A9nieure-ing%C3%A9nieur-en-facility-management-performance-industrielle-at-arianegroup-4414745933",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-maitrise-des-risques-industriels-h-f-at-ortec-group-4427027709",
       "source": "linkedin",
-      "date_posted": "2026-06-05",
+      "date_posted": "2026-06-10",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1491,6 +1512,29 @@
       }
     },
     {
+      "id": "li_4424614769",
+      "title": "CDI - Ingénieure. Ingénieur Référent.e Méthodes Procédés Contrôles Dimensionnels",
+      "company": "ArianeGroup",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-r%C3%A9f%C3%A9rent-e-m%C3%A9thodes-proc%C3%A9d%C3%A9s-contr%C3%B4les-dimensionnels-at-arianegroup-4424614769",
+      "source": "linkedin",
+      "date_posted": "2026-06-05",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4429968628",
       "title": "Ingénieur Process (H/F)",
       "company": "fortil",
@@ -1499,27 +1543,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-fortil-4429968628",
       "source": "linkedin",
       "date_posted": "2026-06-17",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4429020537",
-      "title": "CDI - Ingénieure/Ingénieur processus rechange",
-      "company": "ArianeGroup",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-processus-rechange-at-arianegroup-4429020537",
-      "source": "linkedin",
-      "date_posted": "2026-06-18",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1598,29 +1621,6 @@
       }
     },
     {
-      "id": "ft_209JSCG",
-      "title": "Responsable d'amélioration continue aéronautique (H/F)",
-      "company": "PROMAN",
-      "location": "33 - Mérignac",
-      "description": "Le poste :\nNotre agence PROMAN AERONAUTIQUE recherche pour son client spécialisé dans la fabrication de voilure ATR, un Responsable d'amélioration continue aéronautique H/F Sur le site de Mérignac,...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209JSCG",
-      "source": "france_travail",
-      "date_posted": "2026-06-05",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 39,
-      "score_breakdown": {
-        "title": 23,
-        "skills": 1,
-        "matched_skills": [
-          "amélioration continue"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_3690507",
       "title": "Chef de Projet Amélioration Continue H/F",
       "company": "Lùkla",
@@ -1641,6 +1641,29 @@
         "sector": 0,
         "recency": 5,
         "contract": 10
+      }
+    },
+    {
+      "id": "ft_3591808",
+      "title": "Responsable d'Amélioration Continue Aéronautique H/F",
+      "company": "PROMAN",
+      "location": "33 - Mérignac",
+      "description": "POSTE : Responsable d'Amélioration Continue Aéronautique H/F\nDESCRIPTION : \nNotre agence PROMAN AERONAUTIQUE recherche pour son client spécialisé dans la fabrication de voilure ATR, un Responsable...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/3591808",
+      "source": "france_travail",
+      "date_posted": "2026-06-09",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 39,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 1,
+        "matched_skills": [
+          "amélioration continue"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
       }
     },
     {
@@ -1711,7 +1734,7 @@
       "title": "Responsable d'amélioration continue (H/F)",
       "company": "PROMAN",
       "location": "33 - Haillan",
-      "description": "Notre agence PROMAN AERONAUTIQUE recherche pour son client leader européen de lanceurs spatiaux, un Responsable d'amélioration continue H/F\n\n Rattaché(e) à l'Unité de Production, vous aurez pour...",
+      "description": "Le poste :\nNotre agence PROMAN AERONAUTIQUE recherche pour son client leader européen de lanceurs spatiaux, un Responsable d'amélioration continue H/F Rattaché(e) à l'Unité de Production, vous aurez...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/209FZSR",
       "source": "france_travail",
       "date_posted": "2026-06-04",
@@ -1815,27 +1838,6 @@
         "sector": 10,
         "recency": 5,
         "contract": 10
-      }
-    },
-    {
-      "id": "li_4428064454",
-      "title": "Ingénieur Procédés",
-      "company": "Science me Up - Cabinet de Recrutement Scientifique",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-proc%C3%A9d%C3%A9s-at-science-me-up-4428064454",
-      "source": "linkedin",
-      "date_posted": "2026-06-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
       }
     },
     {
@@ -1967,27 +1969,6 @@
       }
     },
     {
-      "id": "ft_209YDNB",
-      "title": "Électrotechnicien (H/F)",
-      "company": "PROFIL INTERIM",
-      "location": "33 - Abzac",
-      "description": "Nous recherchons pour l'un de nos clients spécialisé dans la fabrication d'emballages carton un(e) Technicien(ne) de Maintenance/ Electrotechnicien H/F\nVos missions :- Assurer la maintenance...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209YDNB",
-      "source": "france_travail",
-      "date_posted": "2026-06-18",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4423142469",
       "title": "Pilote industrialisation moteurs militaires - MRO Monde F/H",
       "company": "Safran",
@@ -2028,34 +2009,13 @@
         "recency": 5,
         "contract": 0
       }
-    },
-    {
-      "id": "li_4425283779",
-      "title": "Leader Technique Instrumentation Transitique H/F",
-      "company": "CTS Consulting & Technical Support",
-      "location": "Eysines",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/leader-technique-instrumentation-transitique-h-f-at-cts-consulting-technical-support-4425283779",
-      "source": "linkedin",
-      "date_posted": "2026-06-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
     }
   ],
   "stats": {
-    "total": 92,
+    "total": 90,
     "sources": {
       "france_travail": 69,
-      "linkedin": 23
+      "linkedin": 21
     }
   }
 }
