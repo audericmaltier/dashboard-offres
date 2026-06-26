@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T08:59:17.356518+00:00",
+  "last_updated": "2026-06-26T14:18:52.581166+00:00",
   "jobs": [
     {
       "id": "ft_4123083",
@@ -984,7 +984,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-data-m%C3%A9thodes-industrielles-f-h-at-thales-4392370396",
       "source": "linkedin",
-      "date_posted": "2026-06-04",
+      "date_posted": "2026-06-26",
       "contract_type": "",
       "salary": "",
       "score": 56,
@@ -1126,27 +1126,6 @@
       }
     },
     {
-      "id": "ft_1786740",
-      "title": "Ingénieur de Maintenance Landes - Mont-De-Marsan H/F",
-      "company": "Non précisé",
-      "location": "33 - Mérignac",
-      "description": "POSTE : Ingénieur de Maintenance Landes - Mont-De-Marsan H/F\nDESCRIPTION : \nJob Description Summary\nEntretenir tous les types d'équipements spécifiques à une ou plusieurs modalités dans son secteur...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/1786740",
-      "source": "france_travail",
-      "date_posted": "2026-05-27",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_1308612",
       "title": "Ingénieur Process H/F",
       "company": "fortil group",
@@ -1210,27 +1189,6 @@
       }
     },
     {
-      "id": "li_4427027709",
-      "title": "Ingénieur Maitrise des Risques Industriels H/F",
-      "company": "Ortec Group",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-maitrise-des-risques-industriels-h-f-at-ortec-group-4427027709",
-      "source": "linkedin",
-      "date_posted": "2026-06-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4414745933",
       "title": "ALTERNANCE - Ingénieure / Ingénieur en Facility Management / Performance Industrielle",
       "company": "ArianeGroup",
@@ -1260,6 +1218,27 @@
       "url": "https://fr.linkedin.com/jobs/view/alternance-ing%C3%A9nieur-mod%C3%A9lisation-des-flux-industriels-%C3%A9quipements-rafale-h-f-at-thales-4417498649",
       "source": "linkedin",
       "date_posted": "2026-06-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4422352716",
+      "title": "Ingénieur Études Risques Industriels / Sécurité Industrielle (H/F)",
+      "company": "Sonovision - Ortec Group",
+      "location": "Le Barp",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-%C3%A9tudes-risques-industriels-s%C3%A9curit%C3%A9-industrielle-h-f-at-sonovision-ortec-group-4422352716",
+      "source": "linkedin",
+      "date_posted": "2026-06-23",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1595,6 +1574,29 @@
       }
     },
     {
+      "id": "li_4420735858",
+      "title": "Technicien méthodes industriel (H/F)",
+      "company": "Eiffage Énergie Systèmes",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-industriel-h-f-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4420735858",
+      "source": "linkedin",
+      "date_posted": "2026-06-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_209CTZX",
       "title": "Technicien de maintenance en instrumentation scientifique (H/F)",
       "company": "AGISCOM SERVICES",
@@ -1613,6 +1615,48 @@
         "sector": 0,
         "recency": 5,
         "contract": 10
+      }
+    },
+    {
+      "id": "ft_201CRGT",
+      "title": "Chargé d'affaires Maintenance Chaudronnerie nucléaire  F/H",
+      "company": "CNPE DU BLAYAIS",
+      "location": "33 - BRAUD ET ST LOUIS",
+      "description": "Vous aimez la technique et le travail en équipe ? Nous vous proposons d'intégrer l'un de nos services de maintenance dans les domaines chaudronnerie. Vous constituez les dossiers de travaux, élaborez...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/201CRGT",
+      "source": "france_travail",
+      "date_posted": "2026-05-27",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "li_4410234825",
+      "title": "Analyste Retours d’Expérience Fiabilité & Maintenance Aéronautique H/F",
+      "company": "Sonovision - Ortec Group",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/analyste-retours-d%E2%80%99exp%C3%A9rience-fiabilit%C3%A9-maintenance-a%C3%A9ronautique-h-f-at-sonovision-ortec-group-4410234825",
+      "source": "linkedin",
+      "date_posted": "2026-06-16",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
       }
     },
     {
@@ -1727,6 +1771,90 @@
       }
     },
     {
+      "id": "li_4384445647",
+      "title": "Responsable maintenance",
+      "company": "Actual group",
+      "location": "Montpon",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-at-actual-group-4384445647",
+      "source": "linkedin",
+      "date_posted": "2026-05-13",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4424178603",
+      "title": "Chargé(e) de maintenance Bordeaux F/H",
+      "company": "EDF",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-e-de-maintenance-bordeaux-f-h-at-edf-4424178603",
+      "source": "linkedin",
+      "date_posted": "2026-06-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4406567925",
+      "title": "Ingénieur sûreté de fonctionnement (RAMS) (H/F)",
+      "company": "HDF Energy",
+      "location": "Blanquefort",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%BBret%C3%A9-de-fonctionnement-rams-h-f-at-hdf-energy-4406567925",
+      "source": "linkedin",
+      "date_posted": "2026-04-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4424611737",
+      "title": "Chef d'équipe maintenance oeuvrant H/F",
+      "company": "Sabena technics",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/chef-d-%C3%A9quipe-maintenance-oeuvrant-h-f-at-sabena-technics-4424611737",
+      "source": "linkedin",
+      "date_posted": "2026-06-05",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4428064454",
       "title": "Ingénieur Procédés",
       "company": "Science me Up - Cabinet de Recrutement Scientifique",
@@ -1811,6 +1939,27 @@
       }
     },
     {
+      "id": "li_4408440273",
+      "title": "Chargé d'affaires Moyens Généraux (H/F) AIRBUS ATLANTIC COMPOSITES, Salaunes",
+      "company": "Airbus",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-d-affaires-moyens-g%C3%A9n%C3%A9raux-h-f-airbus-atlantic-composites-salaunes-at-airbus-4408440273",
+      "source": "linkedin",
+      "date_posted": "2026-06-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 16,
+      "score_breakdown": {
+        "title": 11,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_208VBLR",
       "title": "Responsable Technique H/F",
       "company": "LDC AQUITAINE",
@@ -1872,13 +2021,76 @@
         "recency": 5,
         "contract": 0
       }
+    },
+    {
+      "id": "li_4417500089",
+      "title": "Responsable technique régional - Arc Atlantique - F/H",
+      "company": "Monoprix",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-r%C3%A9gional-arc-atlantique-f-h-at-monoprix-4417500089",
+      "source": "linkedin",
+      "date_posted": "2026-06-13",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4430972724",
+      "title": "Responsable Technique H/F",
+      "company": "Groupe Pichet",
+      "location": "La Teste-de-Buch",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-h-f-at-groupe-pichet-4430972724",
+      "source": "linkedin",
+      "date_posted": "2026-06-19",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4422747192",
+      "title": "Expert Technique / Planificateur H/F",
+      "company": "Babcock France",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/expert-technique-planificateur-h-f-at-babcock-france-4422747192",
+      "source": "linkedin",
+      "date_posted": "2026-06-09",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
     }
   ],
   "stats": {
-    "total": 84,
+    "total": 94,
     "sources": {
       "france_travail": 64,
-      "linkedin": 20
+      "linkedin": 30
     }
   }
 }
