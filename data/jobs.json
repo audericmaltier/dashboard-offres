@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T15:41:17.684192+00:00",
+  "last_updated": "2026-06-29T19:52:53.694191+00:00",
   "jobs": [
     {
       "id": "ft_4123083",
@@ -42,6 +42,29 @@
         "skills": 3,
         "matched_skills": [
           "Industrie 4.0",
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_4368910",
+      "title": "CDI - Ingénieure - Ingénieur Méthodes Industrialisation Composites H/F",
+      "company": "ArianeGroup SAS",
+      "location": "33 - Haillan",
+      "description": "POSTE : CDI - Ingénieure - Ingénieur Méthodes Industrialisation Composites H/F\nDESCRIPTION : \nRejoignez une aventure industrielle passionnante et innovante !\n \nVous êtes passionné(e) par...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4368910",
+      "source": "france_travail",
+      "date_posted": "2026-06-29",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
           "méthodes"
         ],
         "sector": 10,
@@ -791,29 +814,6 @@
       }
     },
     {
-      "id": "ft_3186073",
-      "title": "Ingénieur Amélioration Continue H/F",
-      "company": "CGI",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Amélioration Continue H/F\nDESCRIPTION : Ingénieur(e) Amélioration continue F/H   \n  \nDescription de poste  \n Vous rejoignez notre centre de services d'ingénierie et prenez part à...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/3186073",
-      "source": "france_travail",
-      "date_posted": "2026-05-30",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "amélioration continue"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_3660736",
       "title": "Ingénieur méthodes F/H - Process, méthodes (H/F)",
       "company": "GROUPE PIMENT",
@@ -1101,14 +1101,14 @@
       }
     },
     {
-      "id": "li_4432272016",
-      "title": "Ingénieur Sécurité Industrielle H/F",
-      "company": "Le mouton à 5 pattes - Recruteurs de Talents",
-      "location": "Bordeaux et périphérie",
+      "id": "li_4424561976",
+      "title": "Ingénieur Environnement ICPE et Risques Industriels H/F",
+      "company": "SOCOTEC",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-industrielle-h-f-at-le-mouton-%C3%A0-5-pattes-recruteurs-de-talents-4432272016",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-environnement-icpe-et-risques-industriels-h-f-at-socotec-4424561976",
       "source": "linkedin",
-      "date_posted": "2026-06-23",
+      "date_posted": "2026-06-26",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1122,14 +1122,14 @@
       }
     },
     {
-      "id": "li_4424561976",
-      "title": "Ingénieur Environnement ICPE et Risques Industriels H/F",
-      "company": "SOCOTEC",
-      "location": "Mérignac",
+      "id": "li_4432272016",
+      "title": "Ingénieur Sécurité Industrielle H/F",
+      "company": "Le mouton à 5 pattes - Recruteurs de Talents",
+      "location": "Bordeaux et périphérie",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-environnement-icpe-et-risques-industriels-h-f-at-socotec-4424561976",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-industrielle-h-f-at-le-mouton-%C3%A0-5-pattes-recruteurs-de-talents-4432272016",
       "source": "linkedin",
-      "date_posted": "2026-06-26",
+      "date_posted": "2026-06-23",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1262,29 +1262,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-maintenance-at-kairdan-4425632252",
       "source": "linkedin",
       "date_posted": "2026-06-19",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4428899918",
-      "title": "Ingénieur méthodes H/F",
-      "company": "Snef",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-snef-4428899918",
-      "source": "linkedin",
-      "date_posted": "2026-06-16",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1855,90 +1832,6 @@
       }
     },
     {
-      "id": "li_4354785932",
-      "title": "Ingénieur Sûreté de Fonctionnement (F/H)",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%BBret%C3%A9-de-fonctionnement-f-h-at-roxel-4354785932",
-      "source": "linkedin",
-      "date_posted": "2026-01-13",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4432969577",
-      "title": "Ingénieur Maintien en Condition Operationnelle (H/F)",
-      "company": "agap2",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-maintien-en-condition-operationnelle-h-f-at-agap2-4432969577",
-      "source": "linkedin",
-      "date_posted": "2026-06-26",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4424743108",
-      "title": "Ingénieur SDF DEFENSE (H/F)",
-      "company": "ATEXIS",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-sdf-defense-h-f-at-atexis-4424743108",
-      "source": "linkedin",
-      "date_posted": "2026-06-05",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4429651168",
-      "title": "Ingénieur en sûreté de fonctionnement H/F",
-      "company": "LGM",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-en-s%C3%BBret%C3%A9-de-fonctionnement-h-f-at-lgm-4429651168",
-      "source": "linkedin",
-      "date_posted": "2026-06-19",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4428064454",
       "title": "Ingénieur Procédés",
       "company": "Science me Up - Cabinet de Recrutement Scientifique",
@@ -1994,6 +1887,27 @@
       "score": 22,
       "score_breakdown": {
         "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "ft_4373645",
+      "title": "Responsable Amélioration Continu H/F",
+      "company": "Crit",
+      "location": "33 - Haillan",
+      "description": "POSTE : Responsable Amélioration Continu H/F\nDESCRIPTION : Vous êtes en recherche d'une nouvelle opportunité professionnelle ? \n \nAu sein du Centre de production Composites et Matériaux (JIC),  le/la...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4373645",
+      "source": "france_travail",
+      "date_posted": "2026-06-29",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 16,
+      "score_breakdown": {
+        "title": 11,
         "skills": 0,
         "matched_skills": [],
         "sector": 0,
@@ -2126,97 +2040,13 @@
         "recency": 5,
         "contract": 0
       }
-    },
-    {
-      "id": "li_4410061152",
-      "title": "Mission Assurance Engineer",
-      "company": "The Exploration Company",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/mission-assurance-engineer-at-the-exploration-company-4410061152",
-      "source": "linkedin",
-      "date_posted": "2026-05-04",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4428805781",
-      "title": "GBR- RAMS Engineer F/H",
-      "company": "B-Hive Engineering",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/gbr-rams-engineer-f-h-at-b-hive-engineering-4428805781",
-      "source": "linkedin",
-      "date_posted": "2026-06-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4428926739",
-      "title": "Responsable Fiabilité (F/H) - AAI",
-      "company": "SERMA Technologies",
-      "location": "Pessac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-fiabilit%C3%A9-f-h-aai-at-serma-technologies-4428926739",
-      "source": "linkedin",
-      "date_posted": "2026-06-22",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4427052057",
-      "title": "Safety Component engineer (F/H)",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/safety-component-engineer-f-h-at-thales-4427052057",
-      "source": "linkedin",
-      "date_posted": "2026-06-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
     }
   ],
   "stats": {
-    "total": 100,
+    "total": 92,
     "sources": {
-      "france_travail": 61,
-      "linkedin": 39
+      "france_travail": 62,
+      "linkedin": 30
     }
   }
 }
