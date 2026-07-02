@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T13:52:56.793383+00:00",
+  "last_updated": "2026-07-02T19:20:05.959122+00:00",
   "jobs": [
     {
       "id": "ft_4123083",
@@ -883,52 +883,6 @@
       }
     },
     {
-      "id": "li_4416647418",
-      "title": "ALTERNANCE - Ingénieur Méthodes Industrielles H/F",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/alternance-ing%C3%A9nieur-m%C3%A9thodes-industrielles-h-f-at-thales-4416647418",
-      "source": "linkedin",
-      "date_posted": "2026-07-01",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4392370396",
-      "title": "Ingénieur Data Méthodes Industrielles (F/H)",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-data-m%C3%A9thodes-industrielles-f-h-at-thales-4392370396",
-      "source": "linkedin",
-      "date_posted": "2026-06-26",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_4123540",
       "title": "Ingénieur Exploitation / Sécurité / Poste de Travail F/H - Exploitation, maintenance informatique (H/F)",
       "company": "Soors",
@@ -1076,43 +1030,25 @@
       }
     },
     {
-      "id": "li_4417498649",
-      "title": "ALTERNANCE - Ingénieur modélisation des flux industriels équipements Rafale - H/F",
-      "company": "Thales",
-      "location": "Bordeaux",
+      "id": "li_4408449065",
+      "title": "Ingénieur ENR méthodes et GMAO F/H",
+      "company": "Eiffage Énergie Systèmes",
+      "location": "Canéjan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/alternance-ing%C3%A9nieur-mod%C3%A9lisation-des-flux-industriels-%C3%A9quipements-rafale-h-f-at-thales-4417498649",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-enr-m%C3%A9thodes-et-gmao-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4408449065",
       "source": "linkedin",
-      "date_posted": "2026-06-11",
+      "date_posted": "2026-06-18",
       "contract_type": "",
       "salary": "",
-      "score": 55,
+      "score": 48,
       "score_breakdown": {
         "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4422352716",
-      "title": "Ingénieur Études Risques Industriels / Sécurité Industrielle (H/F)",
-      "company": "Sonovision - Ortec Group",
-      "location": "Le Barp",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-%C3%A9tudes-risques-industriels-s%C3%A9curit%C3%A9-industrielle-h-f-at-sonovision-ortec-group-4422352716",
-      "source": "linkedin",
-      "date_posted": "2026-06-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
+        "skills": 3,
+        "matched_skills": [
+          "GMAO",
+          "méthodes"
+        ],
+        "sector": 0,
         "recency": 5,
         "contract": 0
       }
@@ -1310,6 +1246,29 @@
       "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-r%C3%A9f%C3%A9rent-e-m%C3%A9thodes-proc%C3%A9d%C3%A9s-contr%C3%B4les-dimensionnels-at-arianegroup-4424614769",
       "source": "linkedin",
       "date_posted": "2026-06-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4425475367",
+      "title": "Ingénieur(e) méthodes industrialisation",
+      "company": "STEP UP",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-m%C3%A9thodes-industrialisation-at-step-up-4425475367",
+      "source": "linkedin",
+      "date_posted": "2026-06-08",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1631,50 +1590,6 @@
       }
     },
     {
-      "id": "li_4435507654",
-      "title": "Ingénieur Commercial - Bâtiment/Industrie F/H",
-      "company": "Freyssinet Vietnam",
-      "location": "Lormont",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-commercial-b%C3%A2timent-industrie-f-h-at-freyssinet-vietnam-4435507654",
-      "source": "linkedin",
-      "date_posted": "2026-06-29",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4406427132",
-      "title": "Airbus Atlantic Composites - Alternance - Projets d'amélioration Continue",
-      "company": "Airbus",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/airbus-atlantic-composites-alternance-projets-d-am%C3%A9lioration-continue-at-airbus-4406427132",
-      "source": "linkedin",
-      "date_posted": "2026-06-11",
-      "contract_type": "",
-      "salary": "",
-      "score": 29,
-      "score_breakdown": {
-        "title": 23,
-        "skills": 1,
-        "matched_skills": [
-          "amélioration continue"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_209NYFR",
       "title": "Technicien procédés (H/F)",
       "company": "MANPOWER FRANCE",
@@ -1889,27 +1804,6 @@
       }
     },
     {
-      "id": "li_4429303997",
-      "title": "Responsable Maintenance H/F",
-      "company": "Famille Michaud Apiculteurs",
-      "location": "Gan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-h-f-at-famille-michaud-apiculteurs-4429303997",
-      "source": "linkedin",
-      "date_posted": "2026-06-18",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4427069227",
       "title": "Responsable Maintenance (H/F)",
       "company": "KWS Group",
@@ -1952,14 +1846,14 @@
       }
     },
     {
-      "id": "li_4428064454",
-      "title": "Ingénieur Procédés",
-      "company": "Science me Up - Cabinet de Recrutement Scientifique",
-      "location": "Bordeaux et périphérie",
+      "id": "li_4426036839",
+      "title": "Ingénieur procédés",
+      "company": "altizem",
+      "location": "Nouvelle-Aquitaine, France",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-proc%C3%A9d%C3%A9s-at-science-me-up-4428064454",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-proc%C3%A9d%C3%A9s-at-altizem-4426036839",
       "source": "linkedin",
-      "date_posted": "2026-06-16",
+      "date_posted": "2026-06-10",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1973,14 +1867,14 @@
       }
     },
     {
-      "id": "li_4435547673",
-      "title": "Ingénieur matériaux & procédés H/F",
-      "company": "Ametra Engineering",
-      "location": "Bordeaux",
+      "id": "li_4436349374",
+      "title": "Ingénieure Ingénieur méthode industrialisation BDX",
+      "company": "Capgemini Engineering",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-mat%C3%A9riaux-proc%C3%A9d%C3%A9s-h-f-at-ametra-engineering-4435547673",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thode-industrialisation-bdx-at-capgemini-engineering-4436349374",
       "source": "linkedin",
-      "date_posted": "2026-07-01",
+      "date_posted": "2026-07-02",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2015,14 +1909,56 @@
       }
     },
     {
-      "id": "li_4421853751",
-      "title": "Ingénieur(e) Exploitation de centrales photovoltaïques F/H - Bordeaux",
-      "company": "PHOTOSOL",
+      "id": "li_4434497120",
+      "title": "Ingénieur qualité H/F",
+      "company": "SEGULA Technologies",
+      "location": "Artigues-près-Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-segula-technologies-4434497120",
+      "source": "linkedin",
+      "date_posted": "2026-06-29",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4431928337",
+      "title": "Ingénieur.e Aérospatial",
+      "company": "Bee Engineering",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-exploitation-de-centrales-photovolta%C3%AFques-f-h-bordeaux-at-photosol-4421853751",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-a%C3%A9rospatial-at-bee-engineering-4431928337",
       "source": "linkedin",
-      "date_posted": "2026-06-26",
+      "date_posted": "2026-06-30",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4432528745",
+      "title": "Ingénieur en industrialisation dispositif médicaux",
+      "company": "EFOR",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-en-industrialisation-dispositif-m%C3%A9dicaux-at-efor-4432528745",
+      "source": "linkedin",
+      "date_posted": "2026-06-24",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2118,13 +2054,55 @@
         "recency": 5,
         "contract": 0
       }
+    },
+    {
+      "id": "li_4428823992",
+      "title": "SAFETY MANAGEMENT SYSTEM AND QUALITY",
+      "company": "FLYING WHALES",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/safety-management-system-and-quality-at-flying-whales-4428823992",
+      "source": "linkedin",
+      "date_posted": "2026-06-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4431689410",
+      "title": "Field engineer H/ F",
+      "company": "POTEZ AERONAUTIQUE",
+      "location": "Bruges",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/field-engineer-h-f-at-potez-aeronautique-4431689410",
+      "source": "linkedin",
+      "date_posted": "2026-06-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
     }
   ],
   "stats": {
-    "total": 96,
+    "total": 95,
     "sources": {
       "france_travail": 59,
-      "linkedin": 37
+      "linkedin": 36
     }
   }
 }
