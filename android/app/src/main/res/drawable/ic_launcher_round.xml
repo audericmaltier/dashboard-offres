@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Circular background violet -->
+    <path
+        android:fillColor="#7c3aed"
+        android:pathData="M54,4 A50,50 0 1,1 53.9999,4Z" />
+
+    <!-- Monitor icon -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M22,30 L86,30 Q90,30 90,34 L90,68 Q90,72 86,72 L22,72 Q18,72 18,68 L18,34 Q18,30 22,30Z" />
+    <path
+        android:fillColor="#7c3aed"
+        android:pathData="M20,32 L88,32 L88,70 L20,70Z" />
+    <path
+        android:fillColor="#c4b5fd"
+        android:pathData="M26,40 L58,40 Q59,40 59,41.5 Q59,43 58,43 L26,43 Q25,43 25,41.5 Q25,40 26,40Z" />
+    <path
+        android:fillColor="#c4b5fd"
+        android:pathData="M26,47 L70,47 Q71,47 71,48.5 Q71,50 70,50 L26,50 Q25,50 25,48.5 Q25,47 26,47Z" />
+    <path
+        android:fillColor="#c4b5fd"
+        android:pathData="M26,54 L53,54 Q54,54 54,55.5 Q54,57 53,57 L26,57 Q25,57 25,55.5 Q25,54 26,54Z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M44,72 L64,72 L67,80 L41,80Z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M36,78 L72,78 Q73,78 73,80 Q73,82 72,82 L36,82 Q35,82 35,80 Q35,78 36,78Z" />
+</vector>

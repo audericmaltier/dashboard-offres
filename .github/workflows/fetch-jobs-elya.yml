@@ -1,0 +1,34 @@
+name: Fetch Jobs — Elya
+
+on:
+  schedule:
+    - cron: "30 6,12,18 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r elya/scripts/requirements.txt
+
+      - name: Fetch job offers
+        run: python elya/scripts/fetch_jobs.py
+
+      - name: Commit data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add elya/data/jobs.json
+          git diff --cached --quiet || git commit -m "chore: update elya/data/jobs.json [skip ci]"
+          git push
