@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T10:01:56.433611+00:00",
+  "last_updated": "2026-07-10T15:14:35.872401+00:00",
   "jobs": [
     {
       "id": "ft_3900720",
@@ -665,6 +665,27 @@
       }
     },
     {
+      "id": "ft_211BRKV",
+      "title": "Technicien(ne) informatique de proximité (H/F)",
+      "company": "MESOLIAHABITAT",
+      "location": "33 - Bordeaux",
+      "description": "Vous aurez pour mission principale d'assurer, en lien avec les différents services de l'entreprise, la gestion et la maintenance du parc informatique, le suivi et la résolution des incidents de...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211BRKV",
+      "source": "france_travail",
+      "date_posted": "2026-07-10",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_4545681",
       "title": "Technicien Support Informatique N2 - Poste de Travail H/F",
       "company": "SCC",
@@ -854,27 +875,6 @@
       }
     },
     {
-      "id": "ft_4590255",
-      "title": "Technicien Helpdesk N1 - H/F - CDI",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "A PROPOS DE FDJ UNITED\n\nChez FDJ UNITED, nous ne faisons pas que proposer des jeux dargent et de hasard, nous les réinventons en permanence. \n\n \n\nFDJ UNITED est un champion européen des jeux dargent...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4590255",
-      "source": "france_travail",
-      "date_posted": "2026-07-06",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_4683197",
       "title": "Support aux utilisateurs en informatique (H/F)",
       "company": "ExperisFrance",
@@ -904,6 +904,27 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/9370349",
       "source": "france_travail",
       "date_posted": "2026-06-10",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_4804197",
+      "title": "Technicien·ne Support IT N1/N2 (H/F)",
+      "company": "Groupagora",
+      "location": "33 - Bordeaux",
+      "description": "Dans le cadre d'une mission pour l'un de nos clients, société industrielle en croissance basée à Bordeaux, nous recherchons un·e Technicien·ne Support IT N1/N2 afin de renforcer l'équipe informatique...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4804197",
+      "source": "france_travail",
+      "date_posted": "2026-07-10",
       "contract_type": "CDI",
       "salary": "",
       "score": 65,
@@ -1030,6 +1051,27 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4762290",
       "source": "france_travail",
       "date_posted": "2026-07-09",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_4590255",
+      "title": "Technicien Helpdesk N1 - H/F - CDI",
+      "company": "Non précisé",
+      "location": "33 - Bordeaux",
+      "description": "A PROPOS DE FDJ UNITED\n\nChez FDJ UNITED, nous ne faisons pas que proposer des jeux dargent et de hasard, nous les réinventons en permanence. \n\n \n\nFDJ UNITED est un champion européen des jeux dargent...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4590255",
+      "source": "france_travail",
+      "date_posted": "2026-07-06",
       "contract_type": "CDI",
       "salary": "",
       "score": 65,
@@ -1183,78 +1225,6 @@
       }
     },
     {
-      "id": "li_4433874229",
-      "title": "Administrateur réseau et systèmes",
-      "company": "CUTBACK LIVE",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-r%C3%A9seau-et-syst%C3%A8mes-at-cutback-live-4433874229",
-      "source": "linkedin",
-      "date_posted": "2026-06-26",
-      "contract_type": "",
-      "salary": "",
-      "score": 57,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4405652124",
-      "title": "Administrateur Système Linux (H/F)",
-      "company": "Scalian",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-linux-h-f-at-scalian-4405652124",
-      "source": "linkedin",
-      "date_posted": "2026-06-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 57,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "Linux",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4436835907",
-      "title": "Technicien Systèmes réseaux informatique -/- H/-F",
-      "company": "New-slot Recrutement",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-syst%C3%A8mes-r%C3%A9seaux-informatique-h-f-at-new-slot-recrutement-4436835907",
-      "source": "linkedin",
-      "date_posted": "2026-07-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 57,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4417700122",
       "title": "Administrateur Système et Réseau (F/H)",
       "company": "Groupe SII",
@@ -1279,12 +1249,12 @@
       }
     },
     {
-      "id": "li_4437799667",
+      "id": "li_4436840369",
       "title": "Administrateur Système et Réseau (F/H)",
-      "company": "SII Group Switzerland",
+      "company": "SII Group Belgium",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-r%C3%A9seau-f-h-at-sii-group-switzerland-4437799667",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-r%C3%A9seau-f-h-at-sii-group-belgium-4436840369",
       "source": "linkedin",
       "date_posted": "2026-07-07",
       "contract_type": "",
@@ -1303,12 +1273,12 @@
       }
     },
     {
-      "id": "li_4436840369",
+      "id": "li_4437799667",
       "title": "Administrateur Système et Réseau (F/H)",
-      "company": "SII Group Belgium",
+      "company": "SII Group Switzerland",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-r%C3%A9seau-f-h-at-sii-group-belgium-4436840369",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-r%C3%A9seau-f-h-at-sii-group-switzerland-4437799667",
       "source": "linkedin",
       "date_posted": "2026-07-07",
       "contract_type": "",
@@ -1351,6 +1321,102 @@
       }
     },
     {
+      "id": "li_4437833594",
+      "title": "Administrateur Système et Réseau (F/H)",
+      "company": "SII Group Germany",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-r%C3%A9seau-f-h-at-sii-germany-4437833594",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 57,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437070023",
+      "title": "Administrateur Système et Réseau (F/H)",
+      "company": "SII Group Chile",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-r%C3%A9seau-f-h-at-sii-group-chile-4437070023",
+      "source": "linkedin",
+      "date_posted": "2026-07-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 57,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4434554323",
+      "title": "Administrateur Système et Réseau (F/H)",
+      "company": "SII Czech Republic",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-r%C3%A9seau-f-h-at-sii-czech-republic-4434554323",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 57,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436835907",
+      "title": "Technicien Systèmes réseaux informatique -/- H/-F",
+      "company": "New-slot Recrutement",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-syst%C3%A8mes-r%C3%A9seaux-informatique-h-f-at-new-slot-recrutement-4436835907",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 57,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4433192745",
       "title": "Technicien maintenance systèmes d'impression (F/H) – 33",
       "company": "Konica Minolta Business Solutions France",
@@ -1359,6 +1425,29 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-maintenance-syst%C3%A8mes-d-impression-f-h-%E2%80%93-33-at-konica-minolta-business-solutions-france-4433192745",
       "source": "linkedin",
       "date_posted": "2026-07-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4413869577",
+      "title": "Technicien Administrateur Système des SI embarqués F/H",
+      "company": "DGA - Direction générale de l'armement",
+      "location": "La Teste-de-Buch",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-administrateur-syst%C3%A8me-des-si-embarqu%C3%A9s-f-h-at-dga-direction-g%C3%A9n%C3%A9rale-de-l-armement-4413869577",
+      "source": "linkedin",
+      "date_posted": "2026-06-25",
       "contract_type": "",
       "salary": "",
       "score": 56,
@@ -1542,14 +1631,14 @@
       }
     },
     {
-      "id": "li_4435559027",
-      "title": "Technicien Support Informatique N2 – Poste de Travail H/F",
-      "company": "SCC France",
-      "location": "Bordeaux",
+      "id": "li_4436773035",
+      "title": "Technicien Informatique Site – Bassens (33) (F/H)",
+      "company": "Michelin",
+      "location": "Bassens",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-informatique-n2-%E2%80%93-poste-de-travail-h-f-at-scc-france-4435559027",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-site-%E2%80%93-bassens-33-f-h-at-michelin-4436773035",
       "source": "linkedin",
-      "date_posted": "2026-07-01",
+      "date_posted": "2026-07-03",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1563,14 +1652,14 @@
       }
     },
     {
-      "id": "li_4431679982",
-      "title": "TECHNICIEN INFORMATIQUE H/F - CDD",
-      "company": "NOVENCI",
-      "location": "Mérignac",
+      "id": "li_4345914435",
+      "title": "Technicien(ne) Informatique Industrielle et Technique H/F",
+      "company": "SUEZ",
+      "location": "Pessac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-h-f-cdd-at-novenci-4431679982",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-informatique-industrielle-et-technique-h-f-at-suez-4345914435",
       "source": "linkedin",
-      "date_posted": "2026-06-22",
+      "date_posted": "2026-01-25",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1631,6 +1720,27 @@
       }
     },
     {
+      "id": "li_4435476256",
+      "title": "Technicien Support (H/F)",
+      "company": "GROUPE FACTORIA",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-h-f-at-groupe-factoria-4435476256",
+      "source": "linkedin",
+      "date_posted": "2026-07-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4421158676",
       "title": "Technicien helpdesk - H/F",
       "company": "Tenexa",
@@ -1652,6 +1762,48 @@
       }
     },
     {
+      "id": "li_4433979016",
+      "title": "Technicien Support Helpdesk (H/F)",
+      "company": "Experis France",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-helpdesk-h-f-at-experis-france-4433979016",
+      "source": "linkedin",
+      "date_posted": "2026-07-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4431669739",
+      "title": "Technicien support Multi-client (H/F)",
+      "company": "SCC France",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-multi-client-h-f-at-scc-france-4431669739",
+      "source": "linkedin",
+      "date_posted": "2026-06-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4432222126",
       "title": "Technicien support applicatif (F/H)",
       "company": "GUARANÍ",
@@ -1660,6 +1812,27 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-support-applicatif-f-h-at-guaran%C3%AD-4432222126",
       "source": "linkedin",
       "date_posted": "2026-06-23",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436904093",
+      "title": "Technicien(e) Support Expert(e) F/H",
+      "company": "CGI",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-e-support-expert-e-f-h-at-cgi-4436904093",
+      "source": "linkedin",
+      "date_posted": "2026-07-03",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -2083,27 +2256,6 @@
       }
     },
     {
-      "id": "ft_210KSNV",
-      "title": "Electrotechnicien (H/F)",
-      "company": "CRITINTERIM",
-      "location": "33 - Bordeaux",
-      "description": "Crit Bordeaux / Gradignan recherche pour son client, spécialisé dans le secteur de la maintenance industrielle, un Electrotechnicien (H/F) pour une mission en intérim à Bordeaux (33000). \n\n Les...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210KSNV",
-      "source": "france_travail",
-      "date_posted": "2026-06-26",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 42,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_210NJCY",
       "title": "Technicien fibre optique D3 H/F (H/F)",
       "company": "N.G.I.CONSULTING",
@@ -2167,30 +2319,6 @@
       }
     },
     {
-      "id": "li_4437300542",
-      "title": "Ingénieur Système et Réseaux Confirmé (H/F)",
-      "company": "Extia",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seaux-confirm%C3%A9-h-f-at-extia-4437300542",
-      "source": "linkedin",
-      "date_posted": "2026-07-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 40,
-      "score_breakdown": {
-        "title": 23,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4217034395",
       "title": "Ingénieur administration systèmes et réseaux - Bordeaux, France  (H/F)",
       "company": "Astek",
@@ -2215,14 +2343,14 @@
       }
     },
     {
-      "id": "li_4390010126",
-      "title": "Ingénieur Systèmes & Réseaux (H/F)",
-      "company": "Experis France",
-      "location": "Bordeaux et périphérie",
+      "id": "li_4437300542",
+      "title": "Ingénieur Système et Réseaux Confirmé (H/F)",
+      "company": "Extia",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-r%C3%A9seaux-h-f-at-experis-france-4390010126",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seaux-confirm%C3%A9-h-f-at-extia-4437300542",
       "source": "linkedin",
-      "date_posted": "2026-06-23",
+      "date_posted": "2026-07-08",
       "contract_type": "",
       "salary": "",
       "score": 40,
@@ -2239,46 +2367,22 @@
       }
     },
     {
-      "id": "li_4427709914",
-      "title": "Ingénieur Système - Sauvegarde & Stockage",
-      "company": "agap2IT France",
+      "id": "li_4389835751",
+      "title": "Ingénieur Système et Réseaux (H/F)",
+      "company": "Extia",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-sauvegarde-stockage-at-agap2it-france-4427709914",
-      "source": "linkedin",
-      "date_posted": "2026-06-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 34,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 2,
-        "matched_skills": [
-          "sauvegarde",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4435224350",
-      "title": "Ingénieur(e) Systèmes Windows Junior",
-      "company": "Ecritel",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-syst%C3%A8mes-windows-junior-at-ecritel-4435224350",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seaux-h-f-at-extia-4389835751",
       "source": "linkedin",
       "date_posted": "2026-07-02",
       "contract_type": "",
       "salary": "",
-      "score": 34,
+      "score": 40,
       "score_breakdown": {
-        "title": 17,
+        "title": 23,
         "skills": 2,
         "matched_skills": [
-          "Windows",
+          "réseau",
           "système"
         ],
         "sector": 10,
@@ -2287,21 +2391,45 @@
       }
     },
     {
-      "id": "li_4437050810",
-      "title": "Ingénieur Système (H/F)",
-      "company": "SII Group Chile",
-      "location": "Bordeaux",
+      "id": "li_4427065479",
+      "title": "Technicien programmation et mise en service système sureté électronique H/F",
+      "company": "Snef",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-h-f-at-sii-group-chile-4437050810",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-programmation-et-mise-en-service-syst%C3%A8me-suret%C3%A9-%C3%A9lectronique-h-f-at-snef-4427065479",
       "source": "linkedin",
-      "date_posted": "2026-07-08",
+      "date_posted": "2026-06-10",
       "contract_type": "",
       "salary": "",
-      "score": 33,
+      "score": 39,
       "score_breakdown": {
-        "title": 17,
+        "title": 23,
         "skills": 1,
         "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4438667481",
+      "title": "Ingénieur système et réseau H/F",
+      "company": "Groupe itp",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seau-h-f-at-groupe-itp-4438667481",
+      "source": "linkedin",
+      "date_posted": "2026-07-09",
+      "contract_type": "",
+      "salary": "",
+      "score": 34,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
           "système"
         ],
         "sector": 10,
@@ -2379,12 +2507,58 @@
       }
     },
     {
-      "id": "li_4437064253",
-      "title": "Ingénieur Système Spatial (H/F)",
+      "id": "li_4437816193",
+      "title": "Ingénieur Système (H/F)",
+      "company": "SII Group Switzerland",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-h-f-at-sii-group-switzerland-4437816193",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4434558208",
+      "title": "Ingénieur Système (H/F)",
+      "company": "SII Czech Republic",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-h-f-at-sii-czech-republic-4434558208",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437050810",
+      "title": "Ingénieur Système (H/F)",
       "company": "SII Group Chile",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-spatial-h-f-at-sii-group-chile-4437064253",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-h-f-at-sii-group-chile-4437050810",
       "source": "linkedin",
       "date_posted": "2026-07-08",
       "contract_type": "",
@@ -2402,58 +2576,12 @@
       }
     },
     {
-      "id": "li_4437808490",
-      "title": "Ingénieur Système Spatial (H/F)",
-      "company": "SII Group Switzerland",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-spatial-h-f-at-sii-group-switzerland-4437808490",
-      "source": "linkedin",
-      "date_posted": "2026-07-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4434563012",
-      "title": "Ingénieur Système Spatial (H/F)",
-      "company": "SII Czech Republic",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-spatial-h-f-at-sii-czech-republic-4434563012",
-      "source": "linkedin",
-      "date_posted": "2026-07-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4437845039",
-      "title": "Ingénieur Système Spatial (H/F)",
+      "id": "li_4437832604",
+      "title": "Ingénieur Système (H/F)",
       "company": "SII Group Germany",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-spatial-h-f-at-sii-germany-4437845039",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-h-f-at-sii-germany-4437832604",
       "source": "linkedin",
       "date_posted": "2026-07-07",
       "contract_type": "",
@@ -2471,12 +2599,12 @@
       }
     },
     {
-      "id": "li_4436851014",
-      "title": "Ingénieur Système Spatial (H/F)",
-      "company": "SII Group Belgium",
+      "id": "li_4437796979",
+      "title": "Ingénieur Système RadioFréquence (F/H)",
+      "company": "SII Group Switzerland",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-spatial-h-f-at-sii-group-belgium-4436851014",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-radiofr%C3%A9quence-f-h-at-sii-group-switzerland-4437796979",
       "source": "linkedin",
       "date_posted": "2026-07-07",
       "contract_type": "",
@@ -2487,6 +2615,121 @@
         "skills": 1,
         "matched_skills": [
           "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436851020",
+      "title": "Ingénieur Système (H/F)",
+      "company": "SII Group Belgium",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-h-f-at-sii-group-belgium-4436851020",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437070021",
+      "title": "Ingénieur Système RadioFréquence (F/H)",
+      "company": "SII Group Chile",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-radiofr%C3%A9quence-f-h-at-sii-group-chile-4437070021",
+      "source": "linkedin",
+      "date_posted": "2026-07-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4388508794",
+      "title": "Ingénieur Système dans le Centre de Compétences de l'Ingénierie France (F/H)",
+      "company": "Thales",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-dans-le-centre-de-comp%C3%A9tences-de-l-ing%C3%A9nierie-france-f-h-at-thales-4388508794",
+      "source": "linkedin",
+      "date_posted": "2026-07-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4433894174",
+      "title": "Ingénieur Réseau & Sécurité",
+      "company": "SCC France",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-s%C3%A9curit%C3%A9-at-scc-france-4433894174",
+      "source": "linkedin",
+      "date_posted": "2026-06-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4431241612",
+      "title": "Ingénieur sécurité réseau (H/F)",
+      "company": "Aleysia",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-r%C3%A9seau-h-f-at-aleysia-4431241612",
+      "source": "linkedin",
+      "date_posted": "2026-06-23",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
         ],
         "sector": 10,
         "recency": 5,
@@ -2620,14 +2863,119 @@
       }
     },
     {
-      "id": "li_4344385404",
-      "title": "RESPONSABLE INFORMATIQUE",
-      "company": "Saica Groupe",
-      "location": "Bernos-Beaulac",
+      "id": "li_4435957254",
+      "title": "IT Support Technician",
+      "company": "INSPIRED pet nutrition",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-informatique-at-saica-group-4344385404",
+      "url": "https://fr.linkedin.com/jobs/view/it-support-technician-at-inspired-pet-nutrition-4435957254",
       "source": "linkedin",
-      "date_posted": "2025-12-17",
+      "date_posted": "2026-07-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437985006",
+      "title": "Administrateur IT",
+      "company": "agap2IT France",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-it-at-agap2it-france-4437985006",
+      "source": "linkedin",
+      "date_posted": "2026-07-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4333186203",
+      "title": "ADMINISTRATEUR SYSTEME DES MOYENS ET RESEAUX INFORMATIQUE D'ESSAIS F/H",
+      "company": "Civils de la Défense",
+      "location": "Biscarrosse",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-systeme-des-moyens-et-reseaux-informatique-d-essais-f-h-at-civils-de-la-d%C3%A9fense-4333186203",
+      "source": "linkedin",
+      "date_posted": "2025-10-30",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437487562",
+      "title": "Chargé de missions Spécialisé Outils Informatiques H/F",
+      "company": "Chambre d’Agriculture Nouvelle-Aquitaine",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-missions-sp%C3%A9cialis%C3%A9-outils-informatiques-h-f-at-chambre-d%E2%80%99agriculture-nouvelle-aquitaine-4437487562",
+      "source": "linkedin",
+      "date_posted": "2026-07-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437964877",
+      "title": "ADMINISTRATEUR SYSTEME DES MOYENS ET RESEAUX INFORMATIQUE D'ESSAIS F/H",
+      "company": "DGA - Direction générale de l'armement",
+      "location": "Biscarrosse",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-systeme-des-moyens-et-reseaux-informatique-d-essais-f-h-at-dga-direction-g%C3%A9n%C3%A9rale-de-l-armement-4437964877",
+      "source": "linkedin",
+      "date_posted": "2026-07-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4423902688",
+      "title": "Coordinateur d’assistance informatique/Coordinatrice d’assistance informatique",
+      "company": "Dedalus",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/coordinateur-d%E2%80%99assistance-informatique-coordinatrice-d%E2%80%99assistance-informatique-at-dedalus-4423902688",
+      "source": "linkedin",
+      "date_posted": "2026-06-23",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2729,6 +3077,29 @@
       }
     },
     {
+      "id": "li_4375193097",
+      "title": "Ingénieur réseau datacenter expert H/F",
+      "company": "Crédit Agricole Group Infrastructure Platform",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-datacenter-expert-h-f-at-cr%C3%A9dit-agricole-group-infrastructure-platform-4375193097",
+      "source": "linkedin",
+      "date_posted": "2026-07-01",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4357402843",
       "title": "Technicienne/Technicien Smart System - (F/H)",
       "company": "ENGIE",
@@ -2779,6 +3150,48 @@
       "url": "https://fr.linkedin.com/jobs/view/field-support-specialist-freelance-dispatch-at-teceze-4436582941",
       "source": "linkedin",
       "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4407015894",
+      "title": "HOTLINER SUPPORT TECHNIQUE H/F",
+      "company": "JDC SA",
+      "location": "Bruges",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
+      "source": "linkedin",
+      "date_posted": "2026-04-29",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4430560157",
+      "title": "Consultant / Consultante Support fonctionnel",
+      "company": "YEVO",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/consultant-consultante-support-fonctionnel-at-yevo-4430560157",
+      "source": "linkedin",
+      "date_posted": "2026-06-22",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2878,56 +3291,35 @@
       }
     },
     {
-      "id": "li_4399816322",
-      "title": "Device Administrator",
-      "company": "The Exploration Company",
+      "id": "li_4439006862",
+      "title": "INGENIEUR RESEAUX ET SECURITE (H/F)",
+      "company": "SOLUTEC",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/device-administrator-at-the-exploration-company-4399816322",
+      "url": "https://fr.linkedin.com/jobs/view/ingenieur-reseaux-et-securite-h-f-at-solutec-4439006862",
       "source": "linkedin",
-      "date_posted": "2026-04-09",
+      "date_posted": "2026-07-10",
       "contract_type": "",
       "salary": "",
-      "score": 5,
+      "score": 15,
       "score_breakdown": {
         "title": 0,
         "skills": 0,
         "matched_skills": [],
-        "sector": 0,
+        "sector": 10,
         "recency": 5,
         "contract": 0
       }
     },
     {
-      "id": "li_4420446506",
-      "title": "BRP-34253-Prestations d'Assistance Technique appui relative auxplansd’inspection",
-      "company": "SEGULA Technologies",
-      "location": "Saint-Martin-Lacaussade",
+      "id": "li_4438302700",
+      "title": "Contrôleur/se Technique Automobile H/F",
+      "company": "DEKRA France",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/brp-34253-prestations-d-assistance-technique-appui-relative-auxplansd%E2%80%99inspection-at-segula-technologies-4420446506",
+      "url": "https://fr.linkedin.com/jobs/view/contr%C3%B4leur-se-technique-automobile-h-f-at-dekra-france-4438302700",
       "source": "linkedin",
-      "date_posted": "2026-06-19",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4438199958",
-      "title": "Ordonnanceur Aéronautique  (H/F) - GROUPE PIMENT",
-      "company": "AEROCONTACT.COM",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ordonnanceur-a%C3%A9ronautique-h-f-groupe-piment-at-aerocontact-4438199958",
-      "source": "linkedin",
-      "date_posted": "2026-07-08",
+      "date_posted": "2026-07-10",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2960,13 +3352,34 @@
         "recency": 5,
         "contract": 0
       }
+    },
+    {
+      "id": "li_4399816322",
+      "title": "Device Administrator",
+      "company": "The Exploration Company",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/device-administrator-at-the-exploration-company-4399816322",
+      "source": "linkedin",
+      "date_posted": "2026-04-09",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
     }
   ],
   "stats": {
-    "total": 133,
+    "total": 152,
     "sources": {
-      "france_travail": 90,
-      "linkedin": 43
+      "france_travail": 91,
+      "linkedin": 61
     }
   }
 }
