@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:29:10.483539+00:00",
+  "last_updated": "2026-07-13T19:19:45.795560+00:00",
   "jobs": [
     {
       "id": "ft_4123083",
@@ -18,6 +18,29 @@
         "skills": 3,
         "matched_skills": [
           "amélioration continue",
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_4924243",
+      "title": "Ingénieur Méthodes H/F",
+      "company": "ALTEN",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Ingénieur Méthodes H/F\nDESCRIPTION : \nNous recherchons un ingénieur méthodes pour l'un de nos clients du secteur aéronautique basé en Gironde. Les missions à réaliser sont les suivantes :\n \n-...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4924243",
+      "source": "france_travail",
+      "date_posted": "2026-07-13",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
           "méthodes"
         ],
         "sector": 10,
@@ -356,29 +379,6 @@
         "skills": 1,
         "matched_skills": [
           "lean"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_4833498",
-      "title": "Ingénieur Méthodes & Industrialisation H/F",
-      "company": "fortil group",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Méthodes & Industrialisation H/F\nDESCRIPTION : \nDESCRIPTION DE POSTE\n \nDans le cadre du développement de nos activités à Bordeaux, nous recherchons un Ingénieur Méthodes &...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4833498",
-      "source": "france_travail",
-      "date_posted": "2026-07-11",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
         ],
         "sector": 0,
         "recency": 5,
@@ -800,14 +800,37 @@
       }
     },
     {
-      "id": "li_4420735858",
-      "title": "Chargé de méthodes industriel F/H",
-      "company": "Eiffage Énergie Systèmes",
-      "location": "Pessac",
+      "id": "li_4348107118",
+      "title": "Ingénieur Méthodes – Industrie Aérospatiale - Bordeaux, France  (H/F)",
+      "company": "Astek",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-m%C3%A9thodes-industriel-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4420735858",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-%E2%80%93-industrie-a%C3%A9rospatiale-bordeaux-france-h-f-at-astek-4348107118",
       "source": "linkedin",
-      "date_posted": "2026-06-26",
+      "date_posted": "2026-07-05",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4417264055",
+      "title": "Ingénieur Méthodes Aéronautique – Industrie Aéronautique - Bordeaux, France  (H/F)",
+      "company": "Astek",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-a%C3%A9ronautique-%E2%80%93-industrie-a%C3%A9ronautique-bordeaux-france-h-f-at-astek-4417264055",
+      "source": "linkedin",
+      "date_posted": "2026-07-09",
       "contract_type": "",
       "salary": "",
       "score": 56,
@@ -928,27 +951,6 @@
       }
     },
     {
-      "id": "ft_1308612",
-      "title": "Ingénieur Process H/F",
-      "company": "fortil group",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Process H/F\nDESCRIPTION : \nDESCRIPTION DE POSTE\n \nDans le cadre du développement de nos activités à Bordeaux, nous recherchons un Ingénieur Process (H/F).\n \nRattaché·e au...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/1308612",
-      "source": "france_travail",
-      "date_posted": "2026-06-13",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_4816014",
       "title": "Ingénieur Production H/F",
       "company": "TiPi3D",
@@ -1012,6 +1014,135 @@
       }
     },
     {
+      "id": "ft_2458044",
+      "title": "Ingénieur de Production H/F",
+      "company": "Extia",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Ingénieur de Production H/F\nDESCRIPTION : Dans le cadre d'un programme de convergence de systèmes d'information, l'Ingénieur de Production aura pour mission de garantir l'expertise technique...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2458044",
+      "source": "france_travail",
+      "date_posted": "2026-06-13",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "li_4432272016",
+      "title": "Ingénieur Sécurité Industrielle H/F",
+      "company": "Le mouton à 5 pattes - Recruteurs de Talents",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-industrielle-h-f-at-le-mouton-%C3%A0-5-pattes-recruteurs-de-talents-4432272016",
+      "source": "linkedin",
+      "date_posted": "2026-06-23",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4424561976",
+      "title": "Ingénieur Environnement ICPE et Risques Industriels H/F",
+      "company": "SOCOTEC",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-environnement-icpe-et-risques-industriels-h-f-at-socotec-4424561976",
+      "source": "linkedin",
+      "date_posted": "2026-06-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4382940920",
+      "title": "Ingénieur Chef de projet / Ingénieure Cheffe de projet Industriel et Nucléaire",
+      "company": "Artelia",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-chef-de-projet-ing%C3%A9nieure-cheffe-de-projet-industriel-et-nucl%C3%A9aire-at-artelia-4382940920",
+      "source": "linkedin",
+      "date_posted": "2026-06-25",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4417244990",
+      "title": "Ingénieur Gestion de Production – Industrie Aéronautique - Bordeaux, France  (H/F)",
+      "company": "Astek",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-gestion-de-production-%E2%80%93-industrie-a%C3%A9ronautique-bordeaux-france-h-f-at-astek-4417244990",
+      "source": "linkedin",
+      "date_posted": "2026-07-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4408449065",
+      "title": "Ingénieur ENR méthodes et GMAO F/H",
+      "company": "Eiffage Énergie Systèmes",
+      "location": "Canéjan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-enr-m%C3%A9thodes-et-gmao-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4408449065",
+      "source": "linkedin",
+      "date_posted": "2026-07-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 48,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 3,
+        "matched_skills": [
+          "GMAO",
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_4906509",
       "title": "INGÉNIEUR DES MÉTHODES (H/F)",
       "company": "Randstad professional",
@@ -1058,29 +1189,6 @@
       }
     },
     {
-      "id": "li_4439312922",
-      "title": "Ingénieur Méthodes F/H",
-      "company": "IDEX",
-      "location": "Floirac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-f-h-at-idex-4439312922",
-      "source": "linkedin",
-      "date_posted": "2026-07-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4435958493",
       "title": "Ingénieur Méthodes Maintenance (F/H)",
       "company": "PRIME ENGINEERING",
@@ -1089,29 +1197,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-maintenance-f-h-at-prime-engineering-france-4435958493",
       "source": "linkedin",
       "date_posted": "2026-07-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4428899918",
-      "title": "Ingénieur méthodes H/F",
-      "company": "Snef",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-snef-4428899918",
-      "source": "linkedin",
-      "date_posted": "2026-06-16",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1150,14 +1235,60 @@
       }
     },
     {
-      "id": "li_4437983915",
-      "title": "Ingénieur Méthodes (H/F)",
-      "company": "ALTEN",
-      "location": "Bordeaux",
+      "id": "li_4439312922",
+      "title": "Ingénieur Méthodes F/H",
+      "company": "IDEX",
+      "location": "Floirac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4437983915",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-f-h-at-idex-4439312922",
       "source": "linkedin",
       "date_posted": "2026-07-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436524792",
+      "title": "CDI - Ingénieure/Ingénieur Méthodes Procédés",
+      "company": "ArianeGroup",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-proc%C3%A9d%C3%A9s-at-arianegroup-4436524792",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4426105128",
+      "title": "Ingénieure Ingénieur Méthodes Industrialisation",
+      "company": "Capgemini Engineering",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-industrialisation-at-capgemini-engineering-4426105128",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1196,14 +1327,37 @@
       }
     },
     {
-      "id": "li_4428838777",
-      "title": "Ingénieur Méthodes / AIT Engineer F/H",
-      "company": "AYES - Management & Technology Consulting",
-      "location": "Bordeaux",
+      "id": "li_4424614769",
+      "title": "CDI - Ingénieure. Ingénieur Référent.e Méthodes Procédés Contrôles Dimensionnels",
+      "company": "ArianeGroup",
+      "location": "Le Haillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-ait-engineer-f-h-at-ayes-management-technology-consulting-4428838777",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-r%C3%A9f%C3%A9rent-e-m%C3%A9thodes-proc%C3%A9d%C3%A9s-contr%C3%B4les-dimensionnels-at-arianegroup-4424614769",
       "source": "linkedin",
-      "date_posted": "2026-07-06",
+      "date_posted": "2026-06-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4439781817",
+      "title": "Ingénieur Méthodes et processus H/F - CRIT MERIGNAC",
+      "company": "AEROCONTACT.COM",
+      "location": "Salaunes",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-processus-h-f-crit-merignac-at-aerocontact-4439781817",
+      "source": "linkedin",
+      "date_posted": "2026-07-13",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1242,37 +1396,14 @@
       }
     },
     {
-      "id": "li_4424614769",
-      "title": "CDI - Ingénieure. Ingénieur Référent.e Méthodes Procédés Contrôles Dimensionnels",
-      "company": "ArianeGroup",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-r%C3%A9f%C3%A9rent-e-m%C3%A9thodes-proc%C3%A9d%C3%A9s-contr%C3%B4les-dimensionnels-at-arianegroup-4424614769",
-      "source": "linkedin",
-      "date_posted": "2026-06-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4437186172",
-      "title": "Ingénieur Production (H/F)",
-      "company": "GUARANÍ",
+      "id": "li_4429968628",
+      "title": "Ingénieur Process (H/F)",
+      "company": "fortil",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-production-h-f-at-guaran%C3%AD-4437186172",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-fortil-4429968628",
       "source": "linkedin",
-      "date_posted": "2026-07-06",
+      "date_posted": "2026-06-17",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1398,29 +1529,6 @@
       }
     },
     {
-      "id": "li_4436122472",
-      "title": "Expert Méthodes Industrielles (F/H)",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-m%C3%A9thodes-industrielles-f-h-at-thales-4436122472",
-      "source": "linkedin",
-      "date_posted": "2026-07-01",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_4517143",
       "title": "[SUD OUEST] Ingénieur(e) chargé(e) d'affaires en géotechnique H/F - BORDEAUX",
       "company": "Ginger CEBTP",
@@ -1505,50 +1613,6 @@
       }
     },
     {
-      "id": "li_4314163006",
-      "title": "Superviseur de maintenance industrielle (H/F), Maintenance, Robotique & Systèmes Automatisés",
-      "company": "Amazon",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/superviseur-de-maintenance-industrielle-h-f-maintenance-robotique-syst%C3%A8mes-automatis%C3%A9s-at-amazon-4314163006",
-      "source": "linkedin",
-      "date_posted": "2026-06-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4422955939",
-      "title": "Préparateur/Préparatrice Ingénierie Méthodes Référent(e) FH",
-      "company": "EDF",
-      "location": "Nouvelle-Aquitaine, France",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/pr%C3%A9parateur-pr%C3%A9paratrice-ing%C3%A9nierie-m%C3%A9thodes-r%C3%A9f%C3%A9rent-e-fh-at-edf-4422955939",
-      "source": "linkedin",
-      "date_posted": "2026-06-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 23,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_210YLZC",
       "title": "OPERATEUR DE MAINTENANCE (H/F)",
       "company": "Non précisé",
@@ -1570,56 +1634,14 @@
       }
     },
     {
-      "id": "li_4431337171",
-      "title": "Responsable Maintenance Opérationnelle F/H - SAFRAN",
-      "company": "AEROCONTACT.COM",
-      "location": "Le Haillan",
+      "id": "li_4411760075",
+      "title": "Référent Process Engineering - H/F",
+      "company": "NEO2",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-op%C3%A9rationnelle-f-h-safran-at-aerocontact-4431337171",
+      "url": "https://fr.linkedin.com/jobs/view/r%C3%A9f%C3%A9rent-process-engineering-h-f-at-neo2-4411760075",
       "source": "linkedin",
-      "date_posted": "2026-06-25",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4439577290",
-      "title": "Responsable Maintenance & Travaux Neufs H/F",
-      "company": "Imerys",
-      "location": "Clérac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-travaux-neufs-h-f-at-imerys-4439577290",
-      "source": "linkedin",
-      "date_posted": "2026-07-11",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4431211598",
-      "title": "Manager Maintenance (F/H)",
-      "company": "Carrefour",
-      "location": "Beychac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/manager-maintenance-f-h-at-carrefour-4431211598",
-      "source": "linkedin",
-      "date_posted": "2026-06-23",
+      "date_posted": "2026-07-06",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1675,14 +1697,35 @@
       }
     },
     {
-      "id": "li_4416893666",
-      "title": "INGÉNIEUR INSPECTION & VALIDATION STRATEGY – METHODE  CONTRÔLE (H/F)",
-      "company": "FLYING WHALES",
-      "location": "Bordeaux",
+      "id": "li_4429104015",
+      "title": "Ingénieur expérimenté en procédés chimiques (F/H)",
+      "company": "Michelin",
+      "location": "Bassens",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-inspection-validation-strategy-%E2%80%93-methode-contr%C3%B4le-h-f-at-flying-whales-4416893666",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-exp%C3%A9riment%C3%A9-en-proc%C3%A9d%C3%A9s-chimiques-f-h-at-michelin-4429104015",
       "source": "linkedin",
-      "date_posted": "2026-05-27",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436349374",
+      "title": "Ingénieure Ingénieur méthode industrialisation BDX",
+      "company": "Capgemini Engineering",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thode-industrialisation-bdx-at-capgemini-engineering-4436349374",
+      "source": "linkedin",
+      "date_posted": "2026-07-02",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1780,6 +1823,48 @@
       }
     },
     {
+      "id": "li_4437065115",
+      "title": "Ingénieur qualité H/F",
+      "company": "Sabena technics",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-sabena-technics-4437065115",
+      "source": "linkedin",
+      "date_posted": "2026-07-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4432528745",
+      "title": "Ingénieur en industrialisation dispositif médicaux",
+      "company": "EFOR",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-en-industrialisation-dispositif-m%C3%A9dicaux-at-efor-4432528745",
+      "source": "linkedin",
+      "date_posted": "2026-06-24",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_210SYKY",
       "title": "Responsable Amélioration Continu H/F",
       "company": "CRIT INTERIM",
@@ -1864,56 +1949,14 @@
       }
     },
     {
-      "id": "li_4404548508",
-      "title": "Responsable Support Produit F/H",
-      "company": "Thales",
-      "location": "Bordeaux",
+      "id": "li_4429963991",
+      "title": "INGENIEUR PROCEDES D'INTEGRATION (H/F)",
+      "company": "SEGULA Technologies",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-support-produit-f-h-at-thales-4404548508",
+      "url": "https://fr.linkedin.com/jobs/view/ingenieur-procedes-d-integration-h-f-at-segula-technologies-4429963991",
       "source": "linkedin",
-      "date_posted": "2026-06-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4428823992",
-      "title": "SAFETY MANAGEMENT SYSTEM AND QUALITY",
-      "company": "FLYING WHALES",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/safety-management-system-and-quality-at-flying-whales-4428823992",
-      "source": "linkedin",
-      "date_posted": "2026-06-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4368629817",
-      "title": "PILOTE INDUSTRIALISATION (H/F)",
-      "company": "ARIAL Industries",
-      "location": "Grézet-Cavagnan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/pilote-industrialisation-h-f-at-arial-industries-4368629817",
-      "source": "linkedin",
-      "date_posted": "2026-02-04",
+      "date_posted": "2026-07-09",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -1928,10 +1971,10 @@
     }
   ],
   "stats": {
-    "total": 87,
+    "total": 89,
     "sources": {
       "france_travail": 60,
-      "linkedin": 27
+      "linkedin": 29
     }
   }
 }
