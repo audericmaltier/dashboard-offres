@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T08:07:39.681818+00:00",
+  "last_updated": "2026-07-16T13:43:19.168555+00:00",
   "jobs": [
     {
       "id": "ft_4123083",
@@ -573,10 +573,10 @@
     },
     {
       "id": "ft_4679678",
-      "title": "Ingénieur production / amélioration continue (F/H) en Alternance - BEYCHAC ET CAILLAU (H/F)",
+      "title": "Ingénieur production / amélioration continue (F/H) en Alternance - BEYCHAC ET CAILLAU",
       "company": "Non précisé",
       "location": "33 - Beychac-et-Caillau",
-      "description": "Le saviez-vous ? \nCréateur de l'hypermarché, Carrefour reste fidèle à ses racines tout en se réinventant pour permettre à chacun de mieux manger : plus sain, plus local, plus responsable. Leader...",
+      "description": "Le saviez-vous ? \nCréateur de l’hypermarché, Carrefour reste fidèle à ses racines tout en se réinventant pour permettre à chacun de mieux manger : plus sain, plus local, plus responsable. Leader...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4679678",
       "source": "france_travail",
       "date_posted": "2026-07-08",
@@ -707,29 +707,6 @@
         "sector": 0,
         "recency": 5,
         "contract": 10
-      }
-    },
-    {
-      "id": "li_4420735858",
-      "title": "Chargé de méthodes industriel F/H",
-      "company": "Eiffage Énergie Systèmes",
-      "location": "Pessac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-m%C3%A9thodes-industriel-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4420735858",
-      "source": "linkedin",
-      "date_posted": "2026-06-26",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
       }
     },
     {
@@ -1031,6 +1008,48 @@
       }
     },
     {
+      "id": "li_4371927471",
+      "title": "Ingénieur en maintenance aéronautique sénior - Défense - Bordeaux, France  (H/F)",
+      "company": "Astek",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-en-maintenance-a%C3%A9ronautique-s%C3%A9nior-d%C3%A9fense-bordeaux-france-h-f-at-astek-4371927471",
+      "source": "linkedin",
+      "date_posted": "2026-06-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4382940920",
+      "title": "Ingénieur Chef de projet / Ingénieure Cheffe de projet Industriel et Nucléaire",
+      "company": "Artelia",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-chef-de-projet-ing%C3%A9nieure-cheffe-de-projet-industriel-et-nucl%C3%A9aire-at-artelia-4382940920",
+      "source": "linkedin",
+      "date_posted": "2026-06-25",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4424561976",
       "title": "Ingénieur Environnement ICPE et Risques Industriels H/F",
       "company": "SOCOTEC",
@@ -1060,27 +1079,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-industrielle-h-f-at-le-mouton-%C3%A0-5-pattes-recruteurs-de-talents-4438079130",
       "source": "linkedin",
       "date_posted": "2026-07-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4382940920",
-      "title": "Ingénieur Chef de projet / Ingénieure Cheffe de projet Industriel et Nucléaire",
-      "company": "Artelia",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-chef-de-projet-ing%C3%A9nieure-cheffe-de-projet-industriel-et-nucl%C3%A9aire-at-artelia-4382940920",
-      "source": "linkedin",
-      "date_posted": "2026-06-25",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1136,25 +1134,22 @@
       }
     },
     {
-      "id": "li_4408449065",
-      "title": "Ingénieur ENR méthodes et GMAO F/H",
-      "company": "Eiffage Énergie Systèmes",
-      "location": "Canéjan",
+      "id": "li_4321449961",
+      "title": "Ingénieur informatique industrielle Alignement du LMJ H/F",
+      "company": "CEA",
+      "location": "Le Barp",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-enr-m%C3%A9thodes-et-gmao-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4408449065",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-informatique-industrielle-alignement-du-lmj-h-f-at-cea-4321449961",
       "source": "linkedin",
-      "date_posted": "2026-07-10",
+      "date_posted": "2026-06-26",
       "contract_type": "",
       "salary": "",
-      "score": 48,
+      "score": 55,
       "score_breakdown": {
         "title": 40,
-        "skills": 3,
-        "matched_skills": [
-          "GMAO",
-          "méthodes"
-        ],
-        "sector": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
         "recency": 5,
         "contract": 0
       }
@@ -1229,29 +1224,6 @@
       }
     },
     {
-      "id": "li_4428899918",
-      "title": "Ingénieur méthodes H/F",
-      "company": "Snef",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-snef-4428899918",
-      "source": "linkedin",
-      "date_posted": "2026-06-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4425632252",
       "title": "Ingénieur Méthodes Maintenance",
       "company": "KAIRDAN",
@@ -1275,6 +1247,29 @@
       }
     },
     {
+      "id": "li_4426105128",
+      "title": "Ingénieure Ingénieur Méthodes Industrialisation",
+      "company": "Capgemini Engineering",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-industrialisation-at-capgemini-engineering-4426105128",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4418872535",
       "title": "Ingénieur Méthodes et Procédés F/H",
       "company": "Roxel",
@@ -1283,6 +1278,98 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-proc%C3%A9d%C3%A9s-f-h-at-roxel-4418872535",
       "source": "linkedin",
       "date_posted": "2026-05-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437480322",
+      "title": "Ingénieur Méthodes & Industrialisation (H/F)",
+      "company": "fortil",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-industrialisation-h-f-at-fortil-4437480322",
+      "source": "linkedin",
+      "date_posted": "2026-07-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437983915",
+      "title": "Ingénieur Méthodes (H/F)",
+      "company": "ALTEN",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4437983915",
+      "source": "linkedin",
+      "date_posted": "2026-07-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4425475367",
+      "title": "Ingénieur(e) méthodes industrialisation",
+      "company": "STEP UP",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-m%C3%A9thodes-industrialisation-at-step-up-4425475367",
+      "source": "linkedin",
+      "date_posted": "2026-06-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4428838777",
+      "title": "Ingénieur Méthodes / AIT Engineer F/H",
+      "company": "AYES - Management & Technology Consulting",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-ait-engineer-f-h-at-ayes-management-technology-consulting-4428838777",
+      "source": "linkedin",
+      "date_posted": "2026-07-06",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1338,6 +1425,92 @@
         "matched_skills": [
           "méthodes"
         ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4433962698",
+      "title": "Ingénieur production / amélioration continue (F/H) en Alternance",
+      "company": "Carrefour",
+      "location": "Beychac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-production-am%C3%A9lioration-continue-f-h-en-alternance-at-carrefour-4433962698",
+      "source": "linkedin",
+      "date_posted": "2026-07-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "amélioration continue"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436717186",
+      "title": "Ingénieur Techlead Maintenance et Sécurité des Systèmes de Contrôle-Commande (H/F)",
+      "company": "Thales",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-techlead-maintenance-et-s%C3%A9curit%C3%A9-des-syst%C3%A8mes-de-contr%C3%B4le-commande-h-f-at-thales-4436717186",
+      "source": "linkedin",
+      "date_posted": "2026-07-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4429968628",
+      "title": "Ingénieur Process (H/F)",
+      "company": "fortil",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-fortil-4429968628",
+      "source": "linkedin",
+      "date_posted": "2026-06-17",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437186172",
+      "title": "Ingénieur Production (H/F)",
+      "company": "GUARANÍ",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-production-h-f-at-guaran%C3%AD-4437186172",
+      "source": "linkedin",
+      "date_posted": "2026-07-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
         "sector": 0,
         "recency": 5,
         "contract": 0
@@ -1519,14 +1692,14 @@
       }
     },
     {
-      "id": "li_4314163006",
-      "title": "Superviseur de maintenance industrielle (H/F), Maintenance, Robotique & Systèmes Automatisés",
-      "company": "Amazon",
-      "location": "Bordeaux",
+      "id": "li_4437274240",
+      "title": "Responsable bureau d’études ingénierie industrielle F/H",
+      "company": "MCG ENGINEERING",
+      "location": "Gironde",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/superviseur-de-maintenance-industrielle-h-f-maintenance-robotique-syst%C3%A8mes-automatis%C3%A9s-at-amazon-4314163006",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-bureau-d%E2%80%99%C3%A9tudes-ing%C3%A9nierie-industrielle-f-h-at-mcg-engineering-4437274240",
       "source": "linkedin",
-      "date_posted": "2026-06-27",
+      "date_posted": "2026-07-13",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -1540,43 +1713,22 @@
       }
     },
     {
-      "id": "li_4435901422",
-      "title": "Chargé de méthode maintenance tertiaire et industrielle F/H",
-      "company": "Eiffage Énergie Systèmes",
-      "location": "Pessac",
+      "id": "li_4354627749",
+      "title": "Responsable amélioration continue (H/F)",
+      "company": "LISI AEROSPACE",
+      "location": "Marmande",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-m%C3%A9thode-maintenance-tertiaire-et-industrielle-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4435901422",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-am%C3%A9lioration-continue-h-f-at-lisi-aerospace-4354627749",
       "source": "linkedin",
-      "date_posted": "2026-07-09",
+      "date_posted": "2026-07-16",
       "contract_type": "",
       "salary": "",
-      "score": 32,
+      "score": 29,
       "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4422955939",
-      "title": "Préparateur/Préparatrice Ingénierie Méthodes Référent(e) FH",
-      "company": "EDF",
-      "location": "Nouvelle-Aquitaine, France",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/pr%C3%A9parateur-pr%C3%A9paratrice-ing%C3%A9nierie-m%C3%A9thodes-r%C3%A9f%C3%A9rent-e-fh-at-edf-4422955939",
-      "source": "linkedin",
-      "date_posted": "2026-06-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 23,
-      "score_breakdown": {
-        "title": 17,
+        "title": 23,
         "skills": 1,
         "matched_skills": [
-          "méthodes"
+          "amélioration continue"
         ],
         "sector": 0,
         "recency": 5,
@@ -1605,12 +1757,180 @@
       }
     },
     {
-      "id": "li_4431211598",
-      "title": "MANAGER MAINTENANCE",
-      "company": "Carrefour",
-      "location": "Beychac",
+      "id": "li_4359446834",
+      "title": "Ingénieur Technicien Soutien Logistique Intégré SLI HF/H",
+      "company": "Chantier Naval Couach - CNC",
+      "location": "Gujan-Mestras",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/manager-maintenance-at-carrefour-4431211598",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-technicien-soutien-logistique-int%C3%A9gr%C3%A9-sli-hf-h-at-chantier-naval-couach-cnc-4359446834",
+      "source": "linkedin",
+      "date_posted": "2026-01-09",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4326281419",
+      "title": "Responsable de site Maintenance multi technique H/F",
+      "company": "SE3M",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-maintenance-multi-technique-h-f-at-se3m-4326281419",
+      "source": "linkedin",
+      "date_posted": "2025-12-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4411760075",
+      "title": "Référent Process Engineering - H/F",
+      "company": "NEO2",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/r%C3%A9f%C3%A9rent-process-engineering-h-f-at-neo2-4411760075",
+      "source": "linkedin",
+      "date_posted": "2026-07-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436878106",
+      "title": "Ingénieur Exploitation - Gironde H/F",
+      "company": "Sogedo",
+      "location": "Gironde",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-exploitation-gironde-h-f-at-sogedo-4436878106",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436090458",
+      "title": "Ingénieur Exploitation H/F",
+      "company": "Sogedo",
+      "location": "Gironde",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-exploitation-h-f-at-sogedo-4436090458",
+      "source": "linkedin",
+      "date_posted": "2026-07-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4429104015",
+      "title": "Ingénieur expérimenté en procédés chimiques (F/H)",
+      "company": "Michelin",
+      "location": "Bassens",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-exp%C3%A9riment%C3%A9-en-proc%C3%A9d%C3%A9s-chimiques-f-h-at-michelin-4429104015",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4420293177",
+      "title": "Ingénieur automatismes (H/F)",
+      "company": "Saft",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-automatismes-h-f-at-saft-4420293177",
+      "source": "linkedin",
+      "date_posted": "2026-06-23",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4425086316",
+      "title": "Ingénieur d'application Procédés Laser",
+      "company": "ALPhANOV",
+      "location": "Talence",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-d-application-proc%C3%A9d%C3%A9s-laser-at-alphanov-4425086316",
+      "source": "linkedin",
+      "date_posted": "2026-06-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4419206604",
+      "title": "Alternant Ingénieur R&D_Matériaux Composites et Procédés",
+      "company": "Airbus",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/alternant-ing%C3%A9nieur-r-d-mat%C3%A9riaux-composites-et-proc%C3%A9d%C3%A9s-at-airbus-4419206604",
       "source": "linkedin",
       "date_posted": "2026-07-15",
       "contract_type": "",
@@ -1626,14 +1946,14 @@
       }
     },
     {
-      "id": "li_4431337171",
-      "title": "Responsable Maintenance Opérationnelle F/H - SAFRAN",
+      "id": "li_4435193280",
+      "title": "Ingénieure matériaux et procédés spécialisé-e en Fabrication Additive métallique F/H - SAFRAN",
       "company": "AEROCONTACT.COM",
       "location": "Le Haillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-op%C3%A9rationnelle-f-h-safran-at-aerocontact-4431337171",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-mat%C3%A9riaux-et-proc%C3%A9d%C3%A9s-sp%C3%A9cialis%C3%A9-e-en-fabrication-additive-m%C3%A9tallique-f-h-safran-at-aerocontact-4435193280",
       "source": "linkedin",
-      "date_posted": "2026-06-25",
+      "date_posted": "2026-07-07",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1647,161 +1967,14 @@
       }
     },
     {
-      "id": "li_4439577290",
-      "title": "Responsable Maintenance & Travaux Neufs H/F",
-      "company": "Imerys",
-      "location": "Clérac",
+      "id": "li_4424894424",
+      "title": "Ingénieur études procédé F/H",
+      "company": "Orano",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-travaux-neufs-h-f-at-imerys-4439577290",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-%C3%A9tudes-proc%C3%A9d%C3%A9-f-h-at-orano-4424894424",
       "source": "linkedin",
-      "date_posted": "2026-07-11",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4436705249",
-      "title": "Ingénieur qualité/Ingénieure qualité",
-      "company": "AptiSkills",
-      "location": "Gujan-Mestras",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-ing%C3%A9nieure-qualit%C3%A9-at-aptiskills-4436705249",
-      "source": "linkedin",
-      "date_posted": "2026-07-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4434497120",
-      "title": "Ingénieur qualité H/F",
-      "company": "SEGULA Technologies",
-      "location": "Artigues-près-Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-segula-technologies-4434497120",
-      "source": "linkedin",
-      "date_posted": "2026-06-29",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4436729444",
-      "title": "Ingénieur / Animation filière Agricole (H/F)",
-      "company": "GRDF",
-      "location": "Cénac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-animation-fili%C3%A8re-agricole-h-f-at-grdf-4436729444",
-      "source": "linkedin",
-      "date_posted": "2026-07-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4437065115",
-      "title": "Ingénieur qualité H/F",
-      "company": "Sabena technics",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-sabena-technics-4437065115",
-      "source": "linkedin",
-      "date_posted": "2026-07-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4432528745",
-      "title": "Ingénieur en industrialisation dispositif médicaux",
-      "company": "EFOR",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-en-industrialisation-dispositif-m%C3%A9dicaux-at-efor-4432528745",
-      "source": "linkedin",
-      "date_posted": "2026-06-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4440944659",
-      "title": "Ingénieur-e en sélection variétale et expérimentation viticole",
-      "company": "INRAE",
-      "location": "Villenave-d'Ornon",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-en-s%C3%A9lection-vari%C3%A9tale-et-exp%C3%A9rimentation-viticole-at-inrae-4440944659",
-      "source": "linkedin",
-      "date_posted": "2026-07-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4380796988",
-      "title": "Ingénieur qualité produit H/F",
-      "company": "Scalian",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-produit-h-f-at-scalian-4380796988",
-      "source": "linkedin",
-      "date_posted": "2026-07-11",
+      "date_posted": "2026-06-14",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1824,6 +1997,27 @@
       "source": "france_travail",
       "date_posted": "2026-07-07",
       "contract_type": "Intérim",
+      "salary": "",
+      "score": 16,
+      "score_breakdown": {
+        "title": 11,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4414261991",
+      "title": "Chargé.e d'Exploitation (F/H)",
+      "company": "PHOTOSOL",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-e-d-exploitation-f-h-at-photosol-4414261991",
+      "source": "linkedin",
+      "date_posted": "2026-07-02",
+      "contract_type": "",
       "salary": "",
       "score": 16,
       "score_breakdown": {
@@ -1878,14 +2072,161 @@
       }
     },
     {
-      "id": "li_4326270828",
-      "title": "Pilote d'Industrialisation (F/H)",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
+      "id": "li_4374375816",
+      "title": "Responsable SAV",
+      "company": "Africa Power Services",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/pilote-d-industrialisation-f-h-at-roxel-4326270828",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-sav-at-africa-power-services-4374375816",
       "source": "linkedin",
-      "date_posted": "2025-12-08",
+      "date_posted": "2026-02-20",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4404548508",
+      "title": "Responsable Support Produit F/H",
+      "company": "Thales",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-support-produit-f-h-at-thales-4404548508",
+      "source": "linkedin",
+      "date_posted": "2026-07-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4411230906",
+      "title": "Area Supervisor (H/F) - Lussac Les Châteaux",
+      "company": "Vestas",
+      "location": "Les Artigues-de-Lussac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/area-supervisor-h-f-lussac-les-ch%C3%A2teaux-at-vestas-4411230906",
+      "source": "linkedin",
+      "date_posted": "2026-07-09",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4440308039",
+      "title": "Responsable technique-H/F",
+      "company": "Bertrand Franchise",
+      "location": "Saint-André-de-Cubzac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-h-f-at-bertrand-franchise-4440308039",
+      "source": "linkedin",
+      "date_posted": "2026-07-13",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4429963991",
+      "title": "INGENIEUR PROCEDES D'INTEGRATION (H/F)",
+      "company": "SEGULA Technologies",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ingenieur-procedes-d-integration-h-f-at-segula-technologies-4429963991",
+      "source": "linkedin",
+      "date_posted": "2026-07-09",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436710090",
+      "title": "Pilote industrialisation H/F",
+      "company": "AptiSkills",
+      "location": "Nouvelle-Aquitaine, France",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/pilote-industrialisation-h-f-at-aptiskills-4436710090",
+      "source": "linkedin",
+      "date_posted": "2026-07-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436479917",
+      "title": "Chef de projet/Cheffe de projet",
+      "company": "AptiSkills",
+      "location": "Nouvelle-Aquitaine, France",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/chef-de-projet-cheffe-de-projet-at-aptiskills-4436479917",
+      "source": "linkedin",
+      "date_posted": "2026-07-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4415702628",
+      "title": "Leader Technique EIA H/F",
+      "company": "CTS Consulting & Technical Support",
+      "location": "Eysines",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/leader-technique-eia-h-f-at-cts-consulting-technical-support-4415702628",
+      "source": "linkedin",
+      "date_posted": "2026-05-18",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -1900,10 +2241,10 @@
     }
   ],
   "stats": {
-    "total": 86,
+    "total": 102,
     "sources": {
       "france_travail": 57,
-      "linkedin": 29
+      "linkedin": 45
     }
   }
 }
