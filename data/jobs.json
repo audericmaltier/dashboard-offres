@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T13:58:55.398176+00:00",
+  "last_updated": "2026-07-20T19:40:30.188316+00:00",
   "jobs": [
     {
       "id": "ft_4123083",
@@ -141,12 +141,12 @@
       }
     },
     {
-      "id": "ft_3196729",
-      "title": "Ingénieur Méthodes Aéronautique - Industrie Aéronautique H/F",
+      "id": "ft_2936058",
+      "title": "Ingénieur Méthodes - Industrie Aérospatiale H/F",
       "company": "Astek",
       "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Méthodes Aéronautique - Industrie Aéronautique H/F\nDESCRIPTION : Rejoignez un acteur majeur de l'industrie aéronautique, spécialisé dans le développement et la production de...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/3196729",
+      "description": "POSTE : Ingénieur Méthodes - Industrie Aérospatiale H/F\nDESCRIPTION : Rattaché(e) au bureau des méthodes, vous travaillerez en lien avec l'atelier et le bureau d'études. Vous interviendrez en support...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2936058",
       "source": "france_travail",
       "date_posted": "2026-06-20",
       "contract_type": "CDI",
@@ -733,6 +733,29 @@
       }
     },
     {
+      "id": "li_4420735858",
+      "title": "Chargé de méthodes industriel F/H",
+      "company": "Eiffage Énergie Systèmes",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-m%C3%A9thodes-industriel-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4420735858",
+      "source": "linkedin",
+      "date_posted": "2026-07-17",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4348107118",
       "title": "Ingénieur Méthodes – Industrie Aérospatiale - Bordeaux, France  (H/F)",
       "company": "Astek",
@@ -1210,29 +1233,6 @@
       }
     },
     {
-      "id": "li_4437983915",
-      "title": "Ingénieur Méthodes (H/F)",
-      "company": "ALTEN",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4437983915",
-      "source": "linkedin",
-      "date_posted": "2026-07-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4424614769",
       "title": "CDI - Ingénieure. Ingénieur Référent.e Méthodes Procédés Contrôles Dimensionnels",
       "company": "ArianeGroup",
@@ -1279,14 +1279,14 @@
       }
     },
     {
-      "id": "li_4433962698",
-      "title": "Ingénieur production / amélioration continue (F/H) en Alternance",
-      "company": "Carrefour",
-      "location": "Beychac",
+      "id": "li_4437983915",
+      "title": "Ingénieur Méthodes (H/F)",
+      "company": "ALTEN",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-production-am%C3%A9lioration-continue-f-h-en-alternance-at-carrefour-4433962698",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4437983915",
       "source": "linkedin",
-      "date_posted": "2026-07-06",
+      "date_posted": "2026-07-10",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1294,8 +1294,50 @@
         "title": 40,
         "skills": 1,
         "matched_skills": [
-          "amélioration continue"
+          "méthodes"
         ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4435118839",
+      "title": "Ingénieur production/Ingénieure production",
+      "company": "Heidelberg Materials France",
+      "location": "Bussac-Forêt",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-production-ing%C3%A9nieure-production-at-heidelberg-materials-france-4435118839",
+      "source": "linkedin",
+      "date_posted": "2026-06-30",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437186172",
+      "title": "Ingénieur Production (H/F)",
+      "company": "GUARANÍ",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-production-h-f-at-guaran%C3%AD-4437186172",
+      "source": "linkedin",
+      "date_posted": "2026-07-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
         "sector": 0,
         "recency": 5,
         "contract": 0
@@ -1390,6 +1432,29 @@
       }
     },
     {
+      "id": "li_4436122472",
+      "title": "Expert Méthodes Industrielles (F/H)",
+      "company": "Thales",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/expert-m%C3%A9thodes-industrielles-f-h-at-thales-4436122472",
+      "source": "linkedin",
+      "date_posted": "2026-07-01",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_4517143",
       "title": "[SUD OUEST] Ingénieur(e) chargé(e) d'affaires en géotechnique H/F - BORDEAUX",
       "company": "Ginger CEBTP",
@@ -1474,6 +1539,94 @@
       }
     },
     {
+      "id": "li_4314163006",
+      "title": "Superviseur de maintenance industrielle (H/F), Maintenance, Robotique & Systèmes Automatisés",
+      "company": "Amazon",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/superviseur-de-maintenance-industrielle-h-f-maintenance-robotique-syst%C3%A8mes-automatis%C3%A9s-at-amazon-4314163006",
+      "source": "linkedin",
+      "date_posted": "2026-07-19",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4435901422",
+      "title": "Chargé de méthode maintenance tertiaire et industrielle F/H",
+      "company": "Eiffage Énergie Systèmes",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-m%C3%A9thode-maintenance-tertiaire-et-industrielle-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4435901422",
+      "source": "linkedin",
+      "date_posted": "2026-07-09",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4422955939",
+      "title": "Préparateur/Préparatrice Ingénierie Méthodes Référent(e) FH",
+      "company": "EDF",
+      "location": "Nouvelle-Aquitaine, France",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/pr%C3%A9parateur-pr%C3%A9paratrice-ing%C3%A9nierie-m%C3%A9thodes-r%C3%A9f%C3%A9rent-e-fh-at-edf-4422955939",
+      "source": "linkedin",
+      "date_posted": "2026-06-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4442758265",
+      "title": "Méthodes Parachèvement",
+      "company": "STEP UP",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/m%C3%A9thodes-parach%C3%A8vement-at-step-up-4442758265",
+      "source": "linkedin",
+      "date_posted": "2026-07-20",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_210YLZC",
       "title": "OPERATEUR DE MAINTENANCE (H/F)",
       "company": "Non précisé",
@@ -1495,12 +1648,159 @@
       }
     },
     {
-      "id": "li_4435193280",
-      "title": "Ingénieure matériaux et procédés spécialisé-e en Fabrication Additive métallique F/H - SAFRAN",
-      "company": "AEROCONTACT.COM",
-      "location": "Le Haillan",
+      "id": "li_4439577290",
+      "title": "Responsable Maintenance & Travaux Neufs H/F",
+      "company": "Imerys",
+      "location": "Clérac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-mat%C3%A9riaux-et-proc%C3%A9d%C3%A9s-sp%C3%A9cialis%C3%A9-e-en-fabrication-additive-m%C3%A9tallique-f-h-safran-at-aerocontact-4435193280",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-travaux-neufs-h-f-at-imerys-4439577290",
+      "source": "linkedin",
+      "date_posted": "2026-07-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4431211598",
+      "title": "Manager Maintenance (F/H)",
+      "company": "Carrefour",
+      "location": "Beychac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/manager-maintenance-f-h-at-carrefour-4431211598",
+      "source": "linkedin",
+      "date_posted": "2026-07-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4433175961",
+      "title": "Responsable maintenance H/F",
+      "company": "Hays",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-h-f-at-hays-4433175961",
+      "source": "linkedin",
+      "date_posted": "2026-07-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4439315236",
+      "title": "Ingénieur SDF (H/F)",
+      "company": "ATEXIS",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-sdf-h-f-at-atexis-4439315236",
+      "source": "linkedin",
+      "date_posted": "2026-07-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4429651168",
+      "title": "Ingénieur en sûreté de fonctionnement H/F",
+      "company": "LGM",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-en-s%C3%BBret%C3%A9-de-fonctionnement-h-f-at-lgm-4429651168",
+      "source": "linkedin",
+      "date_posted": "2026-07-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4406567925",
+      "title": "Ingénieur sûreté de fonctionnement (RAMS) (H/F)",
+      "company": "HDF Energy",
+      "location": "Blanquefort",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%BBret%C3%A9-de-fonctionnement-rams-h-f-at-hdf-energy-4406567925",
+      "source": "linkedin",
+      "date_posted": "2026-04-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4428942046",
+      "title": "Ingénieur Sureté de fonctionnement Matériel - F/H - KQN",
+      "company": "SERMA Safety and Security",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-suret%C3%A9-de-fonctionnement-mat%C3%A9riel-f-h-kqn-at-serma-safety-and-security-4428942046",
+      "source": "linkedin",
+      "date_posted": "2026-06-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436878106",
+      "title": "Ingénieur Exploitation - Gironde H/F",
+      "company": "Sogedo",
+      "location": "Gironde",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-exploitation-gironde-h-f-at-sogedo-4436878106",
       "source": "linkedin",
       "date_posted": "2026-07-07",
       "contract_type": "",
@@ -1516,35 +1816,14 @@
       }
     },
     {
-      "id": "li_4424894424",
-      "title": "Ingénieur études procédé F/H",
-      "company": "Orano",
-      "location": "Bordeaux",
+      "id": "li_4436090458",
+      "title": "Ingénieur Exploitation H/F",
+      "company": "Sogedo",
+      "location": "Gironde",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-%C3%A9tudes-proc%C3%A9d%C3%A9-f-h-at-orano-4424894424",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-exploitation-h-f-at-sogedo-4436090458",
       "source": "linkedin",
-      "date_posted": "2026-06-14",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4438768105",
-      "title": "Stage : Ingénieur / Technicien Manufacturing Composites - Maîtrise Procédé AFP",
-      "company": "Airbus",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-technicien-manufacturing-composites-ma%C3%AEtrise-proc%C3%A9d%C3%A9-afp-at-airbus-4438768105",
-      "source": "linkedin",
-      "date_posted": "2026-07-17",
+      "date_posted": "2026-07-06",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1619,13 +1898,139 @@
         "recency": 5,
         "contract": 10
       }
+    },
+    {
+      "id": "li_4319970549",
+      "title": "Responsable Technique (H/F) Club Med Resort en France ou à l'étranger",
+      "company": "Club Med",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-h-f-club-med-resort-en-france-ou-%C3%A0-l-%C3%A9tranger-at-club-med-4319970549",
+      "source": "linkedin",
+      "date_posted": "2026-07-17",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4410061152",
+      "title": "Mission Assurance Engineer",
+      "company": "The Exploration Company",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/mission-assurance-engineer-at-the-exploration-company-4410061152",
+      "source": "linkedin",
+      "date_posted": "2026-05-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4439786874",
+      "title": "GBR- RAMS Engineer F/H",
+      "company": "B-Hive Engineering",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/gbr-rams-engineer-f-h-at-b-hive-engineering-4439786874",
+      "source": "linkedin",
+      "date_posted": "2026-07-13",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4427052057",
+      "title": "Safety Component engineer (F/H)",
+      "company": "Thales",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/safety-component-engineer-f-h-at-thales-4427052057",
+      "source": "linkedin",
+      "date_posted": "2026-07-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4410066098",
+      "title": "Principal Mission Assurance Engineer",
+      "company": "The Exploration Company",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/principal-mission-assurance-engineer-at-the-exploration-company-4410066098",
+      "source": "linkedin",
+      "date_posted": "2026-05-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4442759124",
+      "title": "Matériaux et procédés",
+      "company": "STEP UP",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/mat%C3%A9riaux-et-proc%C3%A9d%C3%A9s-at-step-up-4442759124",
+      "source": "linkedin",
+      "date_posted": "2026-07-20",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
     }
   ],
   "stats": {
-    "total": 73,
+    "total": 92,
     "sources": {
       "france_travail": 57,
-      "linkedin": 16
+      "linkedin": 35
     }
   }
 }
