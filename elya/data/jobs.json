@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T14:35:55.457748+00:00",
+  "last_updated": "2026-07-22T19:54:06.700916+00:00",
   "jobs": [
     {
       "id": "ft_1812863",
@@ -1507,29 +1507,6 @@
       }
     },
     {
-      "id": "li_4380690736",
-      "title": "Technicien Systèmes d'Extinction Automatique par Gaz - F/H",
-      "company": "Eurofeu",
-      "location": "Rions",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-syst%C3%A8mes-d-extinction-automatique-par-gaz-f-h-at-eurofeu-4380690736",
-      "source": "linkedin",
-      "date_posted": "2026-03-06",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_210TQXP",
       "title": "Technicien support ERP (H/F)",
       "company": "TRANSICIA",
@@ -1635,14 +1612,56 @@
       }
     },
     {
-      "id": "li_4417139392",
-      "title": "Technicien(ne) informatique de proximité",
-      "company": "MÉSOLIA",
-      "location": "Bordeaux",
+      "id": "li_4438381866",
+      "title": "Technicien support et proximité IT (H/F)",
+      "company": "Volkswagen Group France Formation & RH Réseaux",
+      "location": "Artigues-près-Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-informatique-de-proximit%C3%A9-at-m%C3%A9solia-4417139392",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-et-proximit%C3%A9-it-h-f-at-volkswagen-group-france-formation-rh-r%C3%A9seaux-4438381866",
       "source": "linkedin",
-      "date_posted": "2026-05-22",
+      "date_posted": "2026-07-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4345914435",
+      "title": "Technicien(ne) Informatique Industrielle et Technique H/F",
+      "company": "SUEZ",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-informatique-industrielle-et-technique-h-f-at-suez-4345914435",
+      "source": "linkedin",
+      "date_posted": "2026-01-25",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4432605828",
+      "title": "Technicien de maintenance automatismes et informatique industrielle F/H",
+      "company": "RTE Réseau de Transport d'Electricité",
+      "location": "Floirac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4432605828",
+      "source": "linkedin",
+      "date_posted": "2026-07-16",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1677,27 +1696,6 @@
       }
     },
     {
-      "id": "li_4440000618",
-      "title": "Technicien support de proximité (H/F)",
-      "company": "GUARANÍ",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-de-proximit%C3%A9-h-f-at-guaran%C3%AD-4440000618",
-      "source": "linkedin",
-      "date_posted": "2026-07-13",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4436773035",
       "title": "Technicien Informatique Site – Bassens (33) (F/H)",
       "company": "Michelin",
@@ -1719,85 +1717,22 @@
       }
     },
     {
-      "id": "li_4435476256",
-      "title": "Technicien Support (H/F)",
-      "company": "GROUPE FACTORIA",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-h-f-at-groupe-factoria-4435476256",
-      "source": "linkedin",
-      "date_posted": "2026-07-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4421158676",
-      "title": "Technicien helpdesk - H/F",
-      "company": "Tenexa",
-      "location": "Pessac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-helpdesk-h-f-at-tenexa-4421158676",
-      "source": "linkedin",
-      "date_posted": "2026-07-19",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4433979016",
-      "title": "Technicien Support Helpdesk (H/F)",
-      "company": "Experis France",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-helpdesk-h-f-at-experis-france-4433979016",
-      "source": "linkedin",
-      "date_posted": "2026-07-06",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4431669739",
-      "title": "Technicien support Multi-client (H/F)",
-      "company": "SCC France",
+      "id": "li_4437987575",
+      "title": "Technicien(ne) informatique de proximité",
+      "company": "MÉSOLIA",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-multi-client-h-f-at-scc-france-4431669739",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-informatique-de-proximit%C3%A9-at-m%C3%A9solia-4437987575",
       "source": "linkedin",
-      "date_posted": "2026-06-22",
+      "date_posted": "2026-07-10",
       "contract_type": "",
       "salary": "",
-      "score": 45,
+      "score": 55,
       "score_breakdown": {
         "title": 40,
         "skills": 0,
         "matched_skills": [],
-        "sector": 0,
+        "sector": 10,
         "recency": 5,
         "contract": 0
       }
@@ -2307,14 +2242,14 @@
       }
     },
     {
-      "id": "li_4442286434",
-      "title": "Ingénieur systèmes et sécurité F/H",
-      "company": "Keolis Bordeaux Métropole Mobilités",
+      "id": "li_4437267968",
+      "title": "Ingénieur Système Aéronautique H/F",
+      "company": "ALTEN",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4442286434",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-a%C3%A9ronautique-h-f-at-alten-4437267968",
       "source": "linkedin",
-      "date_posted": "2026-07-21",
+      "date_posted": "2026-07-13",
       "contract_type": "",
       "salary": "",
       "score": 33,
@@ -2709,35 +2644,14 @@
       }
     },
     {
-      "id": "li_4443798350",
-      "title": "CDI CORRESPONDANT INFORMATIQUE & MATERIEL (CIM) - H/F",
-      "company": "LECLERC LE POIRE SUR VIE",
-      "location": "La Teste-de-Buch",
+      "id": "li_4434106813",
+      "title": "Technicien / Technicienne d'exploitation",
+      "company": "YEVO",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-correspondant-informatique-materiel-cim-h-f-at-leclerc-le-poire-sur-vie-4443798350",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-technicienne-d-exploitation-at-yevo-4434106813",
       "source": "linkedin",
-      "date_posted": "2026-07-22",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4437985006",
-      "title": "Administrateur IT",
-      "company": "agap2IT France",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-it-at-agap2it-france-4437985006",
-      "source": "linkedin",
-      "date_posted": "2026-07-10",
+      "date_posted": "2026-06-29",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2984,6 +2898,27 @@
       }
     },
     {
+      "id": "li_4431952664",
+      "title": "PREPARATEUR/TRICE EN PHARMACIE HOSPITALIERE - H/F",
+      "company": "Centre Hospitalier Charles Perrens",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/preparateur-trice-en-pharmacie-hospitaliere-h-f-at-centre-hospitalier-charles-perrens-4431952664",
+      "source": "linkedin",
+      "date_posted": "2026-06-30",
+      "contract_type": "",
+      "salary": "",
+      "score": 15,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4344435490",
       "title": "Expert Sauvegarde (DELL) H/F",
       "company": "Inetum",
@@ -3001,6 +2936,27 @@
         "matched_skills": [
           "sauvegarde"
         ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4443343390",
+      "title": "Chauffeur(se)-Manutentionnaire F/H",
+      "company": "Compass Group France",
+      "location": "Gradignan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/chauffeur-se-manutentionnaire-f-h-at-compass-group-france-4443343390",
+      "source": "linkedin",
+      "date_posted": "2026-07-21",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
         "sector": 0,
         "recency": 5,
         "contract": 0
@@ -3057,6 +3013,27 @@
       "url": "https://fr.linkedin.com/jobs/view/vendeur-se-interne-f-h-at-vm-mat%C3%A9riaux-4432355709",
       "source": "linkedin",
       "date_posted": "2026-07-01",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4408855216",
+      "title": "Ingénieur Systeme Surveillance Spatial CDI - BORDEAUX H/F",
+      "company": "Randstad Digital France",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-systeme-surveillance-spatial-cdi-bordeaux-h-f-at-randstad-digital-france-4408855216",
+      "source": "linkedin",
+      "date_posted": "2026-05-06",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3133,6 +3110,69 @@
       }
     },
     {
+      "id": "li_4423649131",
+      "title": "GESTIONNAIRE CODAGE - H/F",
+      "company": "CHU de Bordeaux",
+      "location": "Talence",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/gestionnaire-codage-h-f-at-chu-de-bordeaux-4423649131",
+      "source": "linkedin",
+      "date_posted": "2026-06-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4420446506",
+      "title": "BRP-34253-Prestations d'Assistance Technique appui relative auxplansd’inspection",
+      "company": "SEGULA Technologies",
+      "location": "Saint-Martin-Lacaussade",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/brp-34253-prestations-d-assistance-technique-appui-relative-auxplansd%E2%80%99inspection-at-segula-technologies-4420446506",
+      "source": "linkedin",
+      "date_posted": "2026-07-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4428109091",
+      "title": "Field Data Collection Specialist\\Surveyor",
+      "company": "TSMG Holding",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/field-data-collection-specialist-surveyor-at-tsmg-holding-4428109091",
+      "source": "linkedin",
+      "date_posted": "2026-06-12",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4424761619",
       "title": "BT2I Group",
       "company": "BT2i Group",
@@ -3152,13 +3192,76 @@
         "recency": 5,
         "contract": 0
       }
+    },
+    {
+      "id": "li_4441613414",
+      "title": "Ingénieur Soutien Technique Client (H/F)",
+      "company": "Thales",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-soutien-technique-client-h-f-at-thales-4441613414",
+      "source": "linkedin",
+      "date_posted": "2026-07-16",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4438217130",
+      "title": "Ordonnanceur (H/F) - GROUPE PIMENT",
+      "company": "AEROCONTACT.COM",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ordonnanceur-h-f-groupe-piment-at-aerocontact-4438217130",
+      "source": "linkedin",
+      "date_posted": "2026-07-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4432284819",
+      "title": "Assistance technique appui MOE/MOA H/F - 33",
+      "company": "Ortec Group",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/assistance-technique-appui-moe-moa-h-f-33-at-ortec-group-4432284819",
+      "source": "linkedin",
+      "date_posted": "2026-07-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
     }
   ],
   "stats": {
-    "total": 142,
+    "total": 147,
     "sources": {
       "france_travail": 95,
-      "linkedin": 47
+      "linkedin": 52
     }
   }
 }
