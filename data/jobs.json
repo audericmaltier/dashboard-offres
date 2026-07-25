@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-07-24T19:20:34.031712+00:00",
+  "last_updated": "2026-07-25T08:02:10.448247+00:00",
   "jobs": [
+    {
+      "id": "ft_5458834",
+      "title": "Ingénieur méthodes procédés f/h",
+      "company": "Non précisé",
+      "location": "33 - Haillan",
+      "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5458834",
+      "source": "france_travail",
+      "date_posted": "2026-07-25",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
     {
       "id": "ft_5027502",
       "title": "Ingénieur Méthodes Maintenance (F/H) (H/F)",
@@ -101,7 +124,7 @@
       "description": "POSTE : Ingénieur Méthodes et Procédés H/F\nDESCRIPTION : \nDans le cadre d'un projet industriel à forte exigence technique, nous recherchons un(e) Ingénieur Méthodes confirmé(e) afin d'intervenir sur...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4098907",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -124,7 +147,7 @@
       "description": "POSTE : Ingénieur Méthodes - Industrie Aérospatiale H/F\nDESCRIPTION : Rattaché(e) au bureau des méthodes, vous travaillerez en lien avec l'atelier et le bureau d'études. Vous interviendrez en support...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2936058",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -134,6 +157,27 @@
         "matched_skills": [
           "méthodes"
         ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5437634",
+      "title": "Ingénieur en Maintenance Aéronautique et Systèmes d'Armes (H/F)",
+      "company": "THALES",
+      "location": "33 - Bordeaux",
+      "description": "Description du poste :\n\nLieu : Bordeaux, France\n\nConstruisons ensemble un avenir de confiance\n\nThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5437634",
+      "source": "france_travail",
+      "date_posted": "2026-07-25",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
         "sector": 10,
         "recency": 5,
         "contract": 10
@@ -189,7 +233,7 @@
       "description": "DESCRIPTION DU POSTE\nRattaché au Responsable Infrastructure, vous rejoignez une équipe composée d’administrateurs systèmes, techniciens réseaux et futurs alternants, dans un environnement...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2844111",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 65,
@@ -255,7 +299,7 @@
       "description": "Manpower CABINET EXPERTS ENGINEERING recrute un Ingénieur Méthodes Production (H/F) pour un acteur innovant en assemblage de systèmes électromécaniques. En contexte de croissance et de montée en...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3757501",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "Intérim",
       "salary": "",
       "score": 58,
@@ -350,6 +394,52 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/210SMZG",
       "source": "france_travail",
       "date_posted": "2026-07-03",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5452883",
+      "title": "Ingénieur Méthodes Procédés H/F",
+      "company": "Safran",
+      "location": "33 - Haillan",
+      "description": "POSTE : Ingénieur Méthodes Procédés H/F\nDESCRIPTION : \nVous souhaitez évoluer au coeur des procédés de fabrication de matériaux composites et contribuer à des projets à forte valeur technologique ?...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5452883",
+      "source": "france_travail",
+      "date_posted": "2026-07-25",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5438138",
+      "title": "Ingénieur / Ingénieure d'études de devis en méthodes-industrialisation (H/F)",
+      "company": "DGE INTERIM",
+      "location": "33 - Bordeaux",
+      "description": "Description du poste :\n\nNous recherchons un Ingénieur Études de Prix VRD (H/F), vous interviendrez sur des projets d'aménagement urbain variés et ambitieux, au cœur des enjeux de voiries et réseaux...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5438138",
+      "source": "france_travail",
+      "date_posted": "2026-07-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -549,29 +639,6 @@
       }
     },
     {
-      "id": "ft_5018242",
-      "title": "Ingénieur / Ingénieure d'études de devis en méthodes-industrialisation (H/F)",
-      "company": "DGE INTERIM",
-      "location": "33 - Bordeaux",
-      "description": "Description du poste :\n\nNotre cabinet recherche  un Ingénieur Études de Prix VRD (H/F)  pour renforcer une équipe dynamique et engagée. Vous interviendrez sur des projets d’aménagement variés, en...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5018242",
-      "source": "france_travail",
-      "date_posted": "2026-07-16",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_4815674",
       "title": "Ingénieur Méthodes H/F",
       "company": "TiPi3D",
@@ -602,7 +669,7 @@
       "description": "POSTE : Ingénieur Méthodes en Industrie H/F\nDESCRIPTION : Manpower CABINET EXPERTS ENGINEERING recrute un Ingénieur Méthodes Production (H/F) pour un acteur innovant en assemblage de systèmes...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3811761",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "Intérim",
       "salary": "",
       "score": 56,
@@ -625,7 +692,7 @@
       "description": "POSTE : Ingénieur Méthodes H/F\nDESCRIPTION : \nDescriptif du poste\n \nMission générale\n \nL'ingénieur méthodes doit combiner équilibrée de compétences techniques, analytiques et relationnelles.\n \nRôle...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2247455",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -717,7 +784,7 @@
       "description": "Manpower CABINET EXPERTS ENGINEERING BORDEAUX recherche pour son client, entreprise industrielle innovante, intervenant sur des projets à haute valeur technologique. Il renforce son bureau d'études...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3116178",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "Intérim",
       "salary": "",
       "score": 56,
@@ -740,7 +807,7 @@
       "description": "Au sein d'une équipe de 4 personnes, vos missions en tant qu'Ingénieur Mécanique s'articulent autour de plusierus blocs:\n\nRefroidissement/ ventilation : Comprendre les conditions de service des...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3115835",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -763,7 +830,7 @@
       "description": "POSTE : Ingénieur Méthodes Supply Chain H/F\nDESCRIPTION : \nDescriptif de poste\n \nQuel est notre contexte ? En tant qu'Ingénieur Méthodes Supply Chain H/F, vous construisez et optimisez des flux de...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3718107",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -787,29 +854,6 @@
       "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-m%C3%A9thodes-industriel-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4420735858",
       "source": "linkedin",
       "date_posted": "2026-07-17",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4348107118",
-      "title": "Ingénieur Méthodes – Industrie Aérospatiale - Bordeaux, France  (H/F)",
-      "company": "Astek",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-%E2%80%93-industrie-a%C3%A9rospatiale-bordeaux-france-h-f-at-astek-4348107118",
-      "source": "linkedin",
-      "date_posted": "2026-07-05",
       "contract_type": "",
       "salary": "",
       "score": 56,
@@ -916,7 +960,7 @@
       "description": "Description du poste :\n\nle titulaire est chargé de la maintenance du domaine INFRA et des petits travaux sur les sites de l'AIA de Bordeaux (Floirac et Croix d'Hins). Il participe à la définition des...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2141887",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 55,
@@ -951,27 +995,6 @@
       }
     },
     {
-      "id": "ft_5240175",
-      "title": "Ingénieur Process H/F",
-      "company": "Industrie",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Process H/F\nDESCRIPTION : \nDESCRIPTION DE POSTE\n \nDans le cadre du développement de nos activités à Bordeaux, nous recherchons un Ingénieur Process (H/F).\n \nRattaché-e au...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5240175",
-      "source": "france_travail",
-      "date_posted": "2026-07-22",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_4816014",
       "title": "Ingénieur Production H/F",
       "company": "TiPi3D",
@@ -1000,7 +1023,7 @@
       "description": "POSTE : Ingénieur Production en Alternance H/F\nDESCRIPTION : \nNous recrutons pour notre usine située à 15 minutes de Langon (33) un(e) Assistant (e) Production en alternance.\n \nÉtudiant(e) en...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3020818",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDD",
       "salary": "",
       "score": 55,
@@ -1021,7 +1044,7 @@
       "description": "POSTE : Ingénieur de Production H/F\nDESCRIPTION : \nConsort Group, accompagne depuis plus de 30 ans les entreprises dans la valorisation de leurs données et infrastructures. Elle s'appuie sur deux...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2961331",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 55,
@@ -1032,93 +1055,6 @@
         "sector": 0,
         "recency": 5,
         "contract": 10
-      }
-    },
-    {
-      "id": "li_4424561976",
-      "title": "Ingénieur Environnement ICPE et Risques Industriels H/F",
-      "company": "SOCOTEC",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-environnement-icpe-et-risques-industriels-h-f-at-socotec-4424561976",
-      "source": "linkedin",
-      "date_posted": "2026-07-18",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4441934995",
-      "title": "Ingénieur Chef de projet / Ingénieure Cheffe de projet Industriel et Nucléaire",
-      "company": "Artelia",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-chef-de-projet-ing%C3%A9nieure-cheffe-de-projet-industriel-et-nucl%C3%A9aire-at-artelia-4441934995",
-      "source": "linkedin",
-      "date_posted": "2026-07-17",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4439608298",
-      "title": "Ingénieur Chef de projet / Ingénieure Cheffe de projet Industriel et Nucléaire",
-      "company": "L'Usine Nouvelle",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-chef-de-projet-ing%C3%A9nieure-cheffe-de-projet-industriel-et-nucl%C3%A9aire-at-l-usine-nouvelle-4439608298",
-      "source": "linkedin",
-      "date_posted": "2026-07-18",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4429251082",
-      "title": "Alternant Ingénieur Méthodes & Amélioration Continue (H/F)",
-      "company": "VDLV",
-      "location": "Cestas",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/alternant-ing%C3%A9nieur-m%C3%A9thodes-am%C3%A9lioration-continue-h-f-at-vdlv-4429251082",
-      "source": "linkedin",
-      "date_posted": "2026-06-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 48,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 3,
-        "matched_skills": [
-          "amélioration continue",
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
       }
     },
     {
@@ -1237,14 +1173,14 @@
       }
     },
     {
-      "id": "li_4426105128",
-      "title": "Ingénieure Ingénieur Méthodes Industrialisation",
-      "company": "Capgemini Engineering",
+      "id": "li_4437983915",
+      "title": "Ingénieur Méthodes (H/F)",
+      "company": "ALTEN",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-industrialisation-at-capgemini-engineering-4426105128",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4437983915",
       "source": "linkedin",
-      "date_posted": "2026-07-07",
+      "date_posted": "2026-07-10",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1253,52 +1189,6 @@
         "skills": 1,
         "matched_skills": [
           "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4436303944",
-      "title": "Ingénieur(e) process et Amélioration Continue",
-      "company": "Imerys",
-      "location": "Aixe-sur-Vienne",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-process-et-am%C3%A9lioration-continue-at-imerys-4436303944",
-      "source": "linkedin",
-      "date_posted": "2026-07-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "amélioration continue"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4442657139",
-      "title": "ALTERNANCE - Ingénieure / Ingénieur en amélioration continue",
-      "company": "ArianeGroup",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/alternance-ing%C3%A9nieure-ing%C3%A9nieur-en-am%C3%A9lioration-continue-at-arianegroup-4442657139",
-      "source": "linkedin",
-      "date_posted": "2026-07-21",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "amélioration continue"
         ],
         "sector": 0,
         "recency": 5,
@@ -1329,73 +1219,6 @@
       }
     },
     {
-      "id": "li_4439781817",
-      "title": "Ingénieur Méthodes et processus H/F - CRIT MERIGNAC",
-      "company": "AEROCONTACT.COM",
-      "location": "Salaunes",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-processus-h-f-crit-merignac-at-aerocontact-4439781817",
-      "source": "linkedin",
-      "date_posted": "2026-07-20",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4437983915",
-      "title": "Ingénieur Méthodes (H/F)",
-      "company": "ALTEN",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4437983915",
-      "source": "linkedin",
-      "date_posted": "2026-07-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4429968628",
-      "title": "Ingénieur Process (H/F)",
-      "company": "fortil",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-fortil-4429968628",
-      "source": "linkedin",
-      "date_posted": "2026-06-17",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4435118839",
       "title": "Ingénieur production/Ingénieure production",
       "company": "Heidelberg Materials France",
@@ -1404,48 +1227,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-production-ing%C3%A9nieure-production-at-heidelberg-materials-france-4435118839",
       "source": "linkedin",
       "date_posted": "2026-06-30",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4399254354",
-      "title": "Ingénieur processus/Ingénieure processus",
-      "company": "Actual group",
-      "location": "Saint-Astier",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-processus-ing%C3%A9nieure-processus-at-actual-group-4399254354",
-      "source": "linkedin",
-      "date_posted": "2026-07-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4440206854",
-      "title": "Ingénieur Process (F/H)",
-      "company": "GOZOKI",
-      "location": "Sainte-Colombe-en-Bruilhois",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-f-h-at-gozoki-4440206854",
-      "source": "linkedin",
-      "date_posted": "2026-07-15",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1684,7 +1465,7 @@
       "description": "POSTE : Ingénieur Contrôle Commande Robotique et Systèmes Automatisés H/F\nDESCRIPTION : \nProfil\n \nIssu(e) d'une formation Bac +5 (École d'Ingénieurs ou Université), vous justifiez d'une première...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/1791360",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 32,
@@ -1704,27 +1485,6 @@
       "location": "33 - Bordeaux",
       "description": "POSTE : Responsable d'Affaires Maintenance CVC H/F\nDESCRIPTION : Vos missionsRattaché au Responsable d'activité, vous assurez le pilotage complet de votre portefeuille d'affaires maintenance CVC.\nÀ...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5277947",
-      "source": "france_travail",
-      "date_posted": "2026-07-22",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_5270447",
-      "title": "Ingénieur-e Etudes Contrôle Commande Radio Protection H/F",
-      "company": "Orano",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur-e Etudes Contrôle Commande Radio Protection H/F\nDESCRIPTION : Rejoindre Orano Projets Bordeaux, l'ingénierie du Groupe Orano, c'est relever aujourd'hui, ensemble, les défis de...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5270447",
       "source": "france_travail",
       "date_posted": "2026-07-22",
       "contract_type": "CDI",
@@ -1768,7 +1528,7 @@
       "description": "RESPONSABILITÉS : \n\nPour notre client, une entreprise internationale spécialisée dans les solutions énergétiques innovantes et la transition écologique, nous recherchons un(e) :\nFUEL CELL PROCESS...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3800153",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 32,
@@ -1868,6 +1628,27 @@
       }
     },
     {
+      "id": "li_4431211598",
+      "title": "MANAGER MAINTENANCE",
+      "company": "Carrefour",
+      "location": "Beychac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/manager-maintenance-at-carrefour-4431211598",
+      "source": "linkedin",
+      "date_posted": "2026-07-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4443806424",
       "title": "Responsable Maintenance Opérationnelle F/H - SAFRAN",
       "company": "AEROCONTACT.COM",
@@ -1910,27 +1691,6 @@
       }
     },
     {
-      "id": "li_4431211598",
-      "title": "Manager Maintenance (F/H)",
-      "company": "Carrefour",
-      "location": "Beychac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/manager-maintenance-f-h-at-carrefour-4431211598",
-      "source": "linkedin",
-      "date_posted": "2026-07-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4433175961",
       "title": "Responsable maintenance H/F",
       "company": "Hays",
@@ -1939,27 +1699,6 @@
       "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-h-f-at-hays-4433175961",
       "source": "linkedin",
       "date_posted": "2026-07-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4411760075",
-      "title": "Référent Process Engineering - H/F",
-      "company": "NEO2",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/r%C3%A9f%C3%A9rent-process-engineering-h-f-at-neo2-4411760075",
-      "source": "linkedin",
-      "date_posted": "2026-07-06",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2015,119 +1754,14 @@
       }
     },
     {
-      "id": "li_4429104015",
-      "title": "Ingénieur expérimenté en procédés chimiques (F/H)",
-      "company": "Michelin",
-      "location": "Bassens",
+      "id": "li_4440133447",
+      "title": "Ingénieur R&D Contrôle Dimensionnel & Qualité procédés (H/F)",
+      "company": "LISI GROUP",
+      "location": "Marmande",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-exp%C3%A9riment%C3%A9-en-proc%C3%A9d%C3%A9s-chimiques-f-h-at-michelin-4429104015",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r-d-contr%C3%B4le-dimensionnel-qualit%C3%A9-proc%C3%A9d%C3%A9s-h-f-at-lisi-group-4440133447",
       "source": "linkedin",
-      "date_posted": "2026-07-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4436349374",
-      "title": "Ingénieure Ingénieur Industrialisation Produits & Procédés",
-      "company": "Capgemini Engineering",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-industrialisation-produits-proc%C3%A9d%C3%A9s-at-capgemini-engineering-4436349374",
-      "source": "linkedin",
-      "date_posted": "2026-07-02",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4437037194",
-      "title": "Recherche Ingénieur d'Études - Usine de Traitement d’Eau (H/F)",
-      "company": "Vulcain Engineering Group",
-      "location": "Nouvelle-Aquitaine, France",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/recherche-ing%C3%A9nieur-d-%C3%A9tudes-usine-de-traitement-d%E2%80%99eau-h-f-at-vulcain-engineering-group-4437037194",
-      "source": "linkedin",
-      "date_posted": "2026-07-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4438618606",
-      "title": "Ingénieur Procédés H/F",
-      "company": "Saft",
-      "location": "Poitiers",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-proc%C3%A9d%C3%A9s-h-f-at-saft-4438618606",
-      "source": "linkedin",
-      "date_posted": "2026-07-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4439215119",
-      "title": "Ingénieur procédés (H/F)",
-      "company": "Evolutec Ingénierie",
-      "location": "Pau",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-proc%C3%A9d%C3%A9s-h-f-at-evolutec-ing%C3%A9nierie-4439215119",
-      "source": "linkedin",
-      "date_posted": "2026-07-17",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4438607112",
-      "title": "Ingénieur procédés H/F",
-      "company": "ATYX",
-      "location": "Pyrénées-Atlantiques",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-proc%C3%A9d%C3%A9s-h-f-at-atyx-4438607112",
-      "source": "linkedin",
-      "date_posted": "2026-07-09",
+      "date_posted": "2026-07-20",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2148,7 +1782,7 @@
       "description": "Vous souhaitez intégrer un groupe en pleine croissance, solide et pérenne, rejoignez LDC Aquitaine, 280 salariés, spécialisée dans le secteur d'activité de l'abattage et la découpe de volaille. LDC...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/208VBLR",
       "source": "france_travail",
-      "date_posted": "2026-06-24",
+      "date_posted": "2026-06-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 15,
@@ -2223,55 +1857,13 @@
         "recency": 5,
         "contract": 0
       }
-    },
-    {
-      "id": "li_4376923955",
-      "title": "Responsable Plan de progrès CDI (F/H)",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-plan-de-progr%C3%A8s-cdi-f-h-at-roxel-4376923955",
-      "source": "linkedin",
-      "date_posted": "2026-02-26",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4439690559",
-      "title": "House of ABY recrute en qualité ! X/ F/H",
-      "company": "HOUSE OF ABY",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/house-of-aby-recrute-en-qualit%C3%A9-%21-x-f-h-at-house-of-aby-4439690559",
-      "source": "linkedin",
-      "date_posted": "2026-07-20",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
     }
   ],
   "stats": {
-    "total": 103,
+    "total": 84,
     "sources": {
-      "france_travail": 63,
-      "linkedin": 40
+      "france_travail": 64,
+      "linkedin": 20
     }
   }
 }
