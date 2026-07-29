@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T14:02:38.885258+00:00",
+  "last_updated": "2026-07-29T19:10:22.728221+00:00",
   "jobs": [
     {
       "id": "ft_5458834",
@@ -1237,6 +1237,29 @@
       }
     },
     {
+      "id": "li_4426105128",
+      "title": "Ingénieure Ingénieur Méthodes Industrialisation",
+      "company": "Capgemini Engineering",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-industrialisation-at-capgemini-engineering-4426105128",
+      "source": "linkedin",
+      "date_posted": "2026-07-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4437983915",
       "title": "Ingénieur Méthodes (H/F)",
       "company": "ALTEN",
@@ -1711,6 +1734,48 @@
       }
     },
     {
+      "id": "li_4411760075",
+      "title": "Référent Process Engineering - H/F",
+      "company": "NEO2",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/r%C3%A9f%C3%A9rent-process-engineering-h-f-at-neo2-4411760075",
+      "source": "linkedin",
+      "date_posted": "2026-07-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4445973657",
+      "title": "Ingénieur industrialisation Matériaux & Procédés (F/H)",
+      "company": "STEP UP",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-industrialisation-mat%C3%A9riaux-proc%C3%A9d%C3%A9s-f-h-at-step-up-4445973657",
+      "source": "linkedin",
+      "date_posted": "2026-07-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4436878106",
       "title": "Ingénieur Exploitation - Gironde H/F",
       "company": "Sogedo",
@@ -1753,14 +1818,35 @@
       }
     },
     {
-      "id": "li_4445973657",
-      "title": "Ingénieur industrialisation Matériaux & Procédés (F/H)",
-      "company": "STEP UP",
-      "location": "Bordeaux",
+      "id": "li_4429104015",
+      "title": "Ingénieur expérimenté en procédés chimiques (F/H)",
+      "company": "Michelin",
+      "location": "Bassens",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-industrialisation-mat%C3%A9riaux-proc%C3%A9d%C3%A9s-f-h-at-step-up-4445973657",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-exp%C3%A9riment%C3%A9-en-proc%C3%A9d%C3%A9s-chimiques-f-h-at-michelin-4429104015",
       "source": "linkedin",
-      "date_posted": "2026-07-27",
+      "date_posted": "2026-07-29",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436349374",
+      "title": "Ingénieure Ingénieur Industrialisation Produits & Procédés",
+      "company": "Capgemini Engineering",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-industrialisation-produits-proc%C3%A9d%C3%A9s-at-capgemini-engineering-4436349374",
+      "source": "linkedin",
+      "date_posted": "2026-07-02",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1859,10 +1945,10 @@
     }
   ],
   "stats": {
-    "total": 84,
+    "total": 88,
     "sources": {
       "france_travail": 64,
-      "linkedin": 20
+      "linkedin": 24
     }
   }
 }
