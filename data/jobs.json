@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T08:30:07.173683+00:00",
+  "last_updated": "2026-08-06T13:59:06.541267+00:00",
   "jobs": [
     {
       "id": "ft_5640759",
@@ -332,6 +332,29 @@
       }
     },
     {
+      "id": "ft_212DSPM",
+      "title": "Ingénieur méthodes industrialisation aéronautique (H/F)",
+      "company": "PROMAN",
+      "location": "33 - Salaunes",
+      "description": "Le poste :\nNotre agence PROMAN AERONAUTIQUE , recrute pour son client, reconnu mondialement pour son expertise dans les composites haute performance, un INGENIEUR METHODES INDUSTRIALISATION H/F...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212DSPM",
+      "source": "france_travail",
+      "date_posted": "2026-08-06",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_5739867",
       "title": "Ingénieur / Ingénieure d'études de devis en méthodes-industrialisation (H/F)",
       "company": "ADECCO FRANCE",
@@ -447,29 +470,6 @@
       }
     },
     {
-      "id": "ft_5608333",
-      "title": "Ingénieur Méthodes Industrialisation Aéronautique H/F",
-      "company": "PROMAN",
-      "location": "33 - Salaunes",
-      "description": "POSTE : Ingénieur Méthodes Industrialisation Aéronautique H/F\nDESCRIPTION : \nNotre agence PROMAN AERONAUTIQUE, recrute pour son client, reconnu mondialement pour son expertise dans les composites...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5608333",
-      "source": "france_travail",
-      "date_posted": "2026-07-31",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_5599961",
       "title": "Ingénieur Méthodes et Industrialisation (H/F)",
       "company": "NEW NET 3D",
@@ -501,29 +501,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5523115",
       "source": "france_travail",
       "date_posted": "2026-07-29",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_5394691",
-      "title": "Ingénieur(e) méthodes / Chargé(e) d'industrialisation F/H - Process, méthodes",
-      "company": "CECILE GOUINEAU CONSEIL",
-      "location": "33 - Mérignac",
-      "description": "Descriptif du poste:\\n\\nDans le cadre de son développement, ALSYMEX recherche pour son établissement de Mérignac, un(e) Chargé d'Industrialisation H/F. \\nEn tant que Chargé(e) d'Industrialisation,...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5394691",
-      "source": "france_travail",
-      "date_posted": "2026-07-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -670,6 +647,29 @@
         "skills": 1,
         "matched_skills": [
           "amélioration continue"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5394691",
+      "title": "Ingénieur(e) méthodes / Chargé(e) d'industrialisation F/H - Process, méthodes",
+      "company": "CECILE GOUINEAU CONSEIL",
+      "location": "33 - Mérignac",
+      "description": "Descriptif du poste:\\n\\nDans le cadre de son développement, ALSYMEX recherche pour son établissement de Mérignac, un(e) Chargé d'Industrialisation H/F. \\nEn tant que Chargé(e) d'Industrialisation,...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5394691",
+      "source": "france_travail",
+      "date_posted": "2026-07-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
         ],
         "sector": 0,
         "recency": 5,
@@ -995,6 +995,29 @@
         "skills": 3,
         "matched_skills": [
           "GMAO",
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "ft_5783851",
+      "title": "Ingénieur Méthodes et process (H/F)",
+      "company": "Derichebourg Interim et recrutement Bordeaux Aéro",
+      "location": "33 - Salaunes",
+      "description": "# Présentation générale\n\nRejoignez Derichebourg Intérim & Recrutement !\n\nAgile, réactif, et adossé à un grand groupe, nous connectons chaque jour des milliers de talents aux bonnes...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5783851",
+      "source": "france_travail",
+      "date_posted": "2026-08-06",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
           "méthodes"
         ],
         "sector": 0,
@@ -1686,27 +1709,6 @@
       }
     },
     {
-      "id": "ft_5606536",
-      "title": "Ingénieur Essais Environnement H/F",
-      "company": "Metaline",
-      "location": "33 - Mazères",
-      "description": "POSTE : Ingénieur Essais Environnement H/F\nDESCRIPTION : \nMETALINE est une ESN spécialisée dans l'infogérance, les services managés et le Digital Work Place. Fondée avec l'ambition d'accompagner les...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5606536",
-      "source": "france_travail",
-      "date_posted": "2026-07-31",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "li_4449435840",
       "title": "Ingénieur Qualité Aéronautique (H/F)",
       "company": "Alliance Engineering Groupe Fortil",
@@ -2066,14 +2068,14 @@
       }
     },
     {
-      "id": "li_4435947915",
-      "title": "Ingénieur validation et caractérisation H/F",
-      "company": "Lectra",
-      "location": "Cestas",
+      "id": "li_4440133447",
+      "title": "Ingénieur R&D Contrôle Dimensionnel & Qualité procédés (H/F)",
+      "company": "LISI GROUP",
+      "location": "Marmande",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-validation-et-caract%C3%A9risation-h-f-at-lectra-4435947915",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r-d-contr%C3%B4le-dimensionnel-qualit%C3%A9-proc%C3%A9d%C3%A9s-h-f-at-lisi-group-4440133447",
       "source": "linkedin",
-      "date_posted": "2026-07-10",
+      "date_posted": "2026-07-20",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2263,27 +2265,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-factory-4-0-a%C3%A9rospatial-bordeaux-france-h-f-at-astek-4433974173",
       "source": "linkedin",
       "date_posted": "2026-07-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4440133447",
-      "title": "Ingénieur R&D Contrôle Dimensionnel & Qualité procédés (H/F)",
-      "company": "LISI GROUP",
-      "location": "Marmande",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r-d-contr%C3%B4le-dimensionnel-qualit%C3%A9-proc%C3%A9d%C3%A9s-h-f-at-lisi-group-4440133447",
-      "source": "linkedin",
-      "date_posted": "2026-07-20",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2718,10 +2699,10 @@
     }
   ],
   "stats": {
-    "total": 125,
+    "total": 124,
     "sources": {
       "france_travail": 61,
-      "linkedin": 64
+      "linkedin": 63
     }
   }
 }
