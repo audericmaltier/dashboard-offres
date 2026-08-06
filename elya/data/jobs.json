@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T09:24:22.679893+00:00",
+  "last_updated": "2026-08-06T14:56:18.649349+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -1404,22 +1404,21 @@
       }
     },
     {
-      "id": "li_4431653966",
-      "title": "Administrateur Système et Virtualisation (H/F)",
-      "company": "CHEOPS TECHNOLOGY",
-      "location": "Canéjan",
+      "id": "li_4435884808",
+      "title": "Administrateur Systèmes",
+      "company": "ITS Services",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-virtualisation-h-f-at-cheops-technology-4431653966",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-at-its-services-4435884808",
       "source": "linkedin",
-      "date_posted": "2026-06-22",
+      "date_posted": "2026-07-23",
       "contract_type": "",
       "salary": "",
-      "score": 57,
+      "score": 56,
       "score_breakdown": {
         "title": 40,
-        "skills": 2,
+        "skills": 1,
         "matched_skills": [
-          "virtualisation",
           "système"
         ],
         "sector": 10,
@@ -1444,6 +1443,29 @@
         "skills": 1,
         "matched_skills": [
           "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4413869577",
+      "title": "Technicien Administrateur Système des SI embarqués F/H",
+      "company": "DGA - Direction générale de l'armement",
+      "location": "La Teste-de-Buch",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-administrateur-syst%C3%A8me-des-si-embarqu%C3%A9s-f-h-at-dga-direction-g%C3%A9n%C3%A9rale-de-l-armement-4413869577",
+      "source": "linkedin",
+      "date_posted": "2026-07-17",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -1526,27 +1548,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2454430",
       "source": "france_travail",
       "date_posted": "2026-07-07",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_211YCCN",
-      "title": "Technicien Helpdesk (H/F)",
-      "company": "MANPOWER",
-      "location": "33 - Mérignac",
-      "description": "Manpower BORDEAUX GRANDS COMPTES recrute dans le cadre d'un projet d'envergure pour l'un de nos clients du secteur de l'assurance, nous recherchons au moins 7 Techniciens Support Helpdesk N1/N2 (H/F)...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211YCCN",
-      "source": "france_travail",
-      "date_posted": "2026-07-31",
       "contract_type": "Intérim",
       "salary": "",
       "score": 55,
@@ -1815,14 +1816,14 @@
       }
     },
     {
-      "id": "li_4431669739",
-      "title": "Technicien support Multi-client (H/F)",
-      "company": "SCC France",
-      "location": "Bordeaux",
+      "id": "li_4450208862",
+      "title": "Technicien support applicatif (F/H)",
+      "company": "GUARANÍ",
+      "location": "Bordeaux et périphérie",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-multi-client-h-f-at-scc-france-4431669739",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-applicatif-f-h-at-guaran%C3%AD-4450208862",
       "source": "linkedin",
-      "date_posted": "2026-06-22",
+      "date_posted": "2026-08-06",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1836,14 +1837,14 @@
       }
     },
     {
-      "id": "li_4450208862",
-      "title": "Technicien support applicatif (F/H)",
-      "company": "GUARANÍ",
-      "location": "Bordeaux et périphérie",
+      "id": "li_4431669739",
+      "title": "Technicien support Multi-client (H/F)",
+      "company": "SCC France",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-applicatif-f-h-at-guaran%C3%AD-4450208862",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-multi-client-h-f-at-scc-france-4431669739",
       "source": "linkedin",
-      "date_posted": "2026-08-06",
+      "date_posted": "2026-06-22",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1949,7 +1950,7 @@
       "title": "Apprenti Administrateur Réseau & Sécurité H/F",
       "company": "Non précisé",
       "location": "33 - Bordeaux",
-      "description": "(FAYAT IT Recrute) Alternant Administrateur Réseau & Sécurité - Bordeaux (33)As-tu une passion pour les réseaux, la sécurité informatique et les infrastructures IT à grande échelle ? Souhaites-tu...",
+      "description": "(FAYAT IT Recrute) Alternant Administrateur Réseau - Bordeaux (33)As-tu une passion pour les réseaux, la sécurité informatique et les infrastructures IT à grande échelle ? Souhaites-tu évoluer dans...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5144126",
       "source": "france_travail",
       "date_posted": "2026-07-19",
@@ -2373,6 +2374,29 @@
         "skills": 2,
         "matched_skills": [
           "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4427065479",
+      "title": "Technicien programmation et mise en service système sureté électronique H/F",
+      "company": "Snef",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-programmation-et-mise-en-service-syst%C3%A8me-suret%C3%A9-%C3%A9lectronique-h-f-at-snef-4427065479",
+      "source": "linkedin",
+      "date_posted": "2026-06-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 39,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 1,
+        "matched_skills": [
           "système"
         ],
         "sector": 10,
@@ -2903,27 +2927,6 @@
       }
     },
     {
-      "id": "li_4436582941",
-      "title": "Field Support Specialist ( Freelance / Dispatch)",
-      "company": "TECEZE",
-      "location": "La Teste-de-Buch",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/field-support-specialist-freelance-dispatch-at-teceze-4436582941",
-      "source": "linkedin",
-      "date_posted": "2026-07-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4447148433",
       "title": "Consultant support applicatif",
       "company": "eXalt",
@@ -2974,27 +2977,6 @@
       "url": "https://fr.linkedin.com/jobs/view/administrateur%C2%B7rice-erp-f-h-at-gironde-habitat-office-public-de-l%E2%80%99habitat-oph-4407880692",
       "source": "linkedin",
       "date_posted": "2026-04-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4407015894",
-      "title": "HOTLINER SUPPORT TECHNIQUE H/F",
-      "company": "JDC SA",
-      "location": "Bruges",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
-      "source": "linkedin",
-      "date_posted": "2026-04-29",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3260,48 +3242,6 @@
       }
     },
     {
-      "id": "li_4447507058",
-      "title": "INGENIEUR SYSTEMES & RESEAUX (H/F)",
-      "company": "SOLUTEC",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ingenieur-systemes-reseaux-h-f-at-solutec-4447507058",
-      "source": "linkedin",
-      "date_posted": "2026-07-31",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4449456890",
-      "title": "Infrastructure & Network Engineer",
-      "company": "stellar //",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/infrastructure-network-engineer-at-stellar-4449456890",
-      "source": "linkedin",
-      "date_posted": "2026-08-05",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4444508919",
       "title": "Paramétreur / Vérificateur des appareils de signalisation (F/H) - CDI - BORDEAUX",
       "company": "SNCF Réseau",
@@ -3344,6 +3284,27 @@
       }
     },
     {
+      "id": "li_4441045503",
+      "title": "Infrastructure & Network Engineer",
+      "company": "stellar //",
+      "location": "Bruges",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/infrastructure-network-engineer-at-stellar-4441045503",
+      "source": "linkedin",
+      "date_posted": "2026-07-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4434542596",
       "title": "Ingénieur Infrastructures Microsoft H/F",
       "company": "Econocom",
@@ -3366,10 +3327,10 @@
     }
   ],
   "stats": {
-    "total": 152,
+    "total": 150,
     "sources": {
-      "france_travail": 95,
-      "linkedin": 57
+      "france_travail": 94,
+      "linkedin": 56
     }
   }
 }
