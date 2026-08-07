@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T13:51:45.072712+00:00",
+  "last_updated": "2026-08-07T19:32:17.364186+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -720,29 +720,6 @@
       }
     },
     {
-      "id": "ft_211RHNM",
-      "title": "Technicien / Technicienne d'intervention en réseaux électriques (H/F)",
-      "company": "CRITINTERIM",
-      "location": "33 - Bordeaux",
-      "description": "Crit Bordeaux / Gradignan recherche pour son client, spécialisé dans le secteur de la maintenance industrielle, un Electrotechnicien (H/F) pour une mission en intérim à Bordeaux (33000). \n\n Les...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211RHNM",
-      "source": "france_travail",
-      "date_posted": "2026-07-24",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_211GZGC",
       "title": "Technicien / Technicienne de contrôle de réseau d'assainissement (H/F)",
       "company": "CRITINTERIM",
@@ -752,29 +729,6 @@
       "source": "france_travail",
       "date_posted": "2026-07-16",
       "contract_type": "Intérim",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_211FXKC",
-      "title": "Technicien électricité et réseaux (H/F)",
-      "company": "Non précisé",
-      "location": "33 - Gironde",
-      "description": "Entreprise française intervenant dans les secteurs des télécommunications et de l'électricité bâtiment, présente en Nouvelle-Aquitaine, Normandie et Île-de-France.\n\nMissions :\nTravaux électriques...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211FXKC",
-      "source": "france_travail",
-      "date_posted": "2026-07-15",
-      "contract_type": "CDI",
       "salary": "",
       "score": 66,
       "score_breakdown": {
@@ -1395,30 +1349,6 @@
         "skills": 2,
         "matched_skills": [
           "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4436606169",
-      "title": "Administrateur Système Linux N3 (H/F)",
-      "company": "Synchrone Fr",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-linux-n3-h-f-at-synchrone-fr-4436606169",
-      "source": "linkedin",
-      "date_posted": "2026-07-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 57,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "Linux",
           "système"
         ],
         "sector": 10,
@@ -2315,27 +2245,6 @@
       }
     },
     {
-      "id": "ft_210SNVZ",
-      "title": "Technicien assainissement (H/F)",
-      "company": "AVIPUR",
-      "location": "33 - LE PIAN-MEDOC",
-      "description": "Les missions du poste\nVous avez des compétences manuelles qui vous permettent de conseiller et de solutionner ? Vous êtes habitué(e) aux interventions sur le terrain ? Alors, découvrez cette...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210SNVZ",
-      "source": "france_travail",
-      "date_posted": "2026-07-08",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 42,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_212BDBF",
       "title": "Technicien courant faible Solutions Audio (H/F)",
       "company": "AUDIOFILS",
@@ -2562,6 +2471,29 @@
       }
     },
     {
+      "id": "li_4436418275",
+      "title": "Ingénieur(e) Systemes réseaux et sécurité N2-N3 F/H",
+      "company": "CGI",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-systemes-r%C3%A9seaux-et-s%C3%A9curit%C3%A9-n2-n3-f-h-at-cgi-4436418275",
+      "source": "linkedin",
+      "date_posted": "2026-07-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_212DJQS",
       "title": "Technicien de maintenance tramway (H/F)",
       "company": "PROMAN",
@@ -2592,6 +2524,27 @@
       "source": "france_travail",
       "date_posted": "2026-07-27",
       "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5809270",
+      "title": "Technicien de Controle de Reseau d'Eau H/F",
+      "company": "PROMAN",
+      "location": "33 - Castres-Gironde",
+      "description": "POSTE : Technicien de Controle de Reseau d'Eau H/F\nDESCRIPTION : Notre agence PROMAN INDUSTRIE recherche pour son client acteur majeur de la distribution et de l'assaisnissement de l'eau, un...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5809270",
+      "source": "france_travail",
+      "date_posted": "2026-08-07",
+      "contract_type": "Intérim",
       "salary": "",
       "score": 32,
       "score_breakdown": {
@@ -2793,14 +2746,35 @@
       }
     },
     {
-      "id": "ft_211HNHH",
-      "title": "Apprenti IT (H/F)",
-      "company": "INTERCONTINENTALBORDEAUXLEGRANDHÔTEL",
-      "location": "33 - BORDEAUX",
-      "description": "Rejoignez nos équipes et intégrez le Groupe IHG (InterContinental Hotels Group), un des leaders mondiaux de l'hôtellerie !\n\nSitué au cœur du Triangle d'or de Bordeaux, l'InterContinental Bordeaux -...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211HNHH",
+      "id": "ft_211NZYZ",
+      "title": "Chef d'équipe fibre optique (H/F)",
+      "company": "GROUPESOVITRAT",
+      "location": "33 - Pompignac",
+      "description": "Le groupe SOVITRAT, est à la recherche d'un CHEF D'EQUIPE FIBRE OPTIQUE (H/F) pour mission basée à POMPIGNAC (33)\n\nMissions \n\nOrganisation de chantiers maintenance fibre RTO FTTO  :\n\n- Gestion...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211NZYZ",
       "source": "france_travail",
-      "date_posted": "2026-07-17",
+      "date_posted": "2026-07-23",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 25,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_211SDJT",
+      "title": "Chef de Projet Technique Datacenter H/F (H/F)",
+      "company": "TERAPOLIS",
+      "location": "33 - BORDEAUX",
+      "description": "Rattaché(e) au Directeur des Opérations, vous participez au pilotage de projets techniques à forte valeur ajoutée.\nVos principales responsabilités seront :\n\nAssurer la coordination technique des...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211SDJT",
+      "source": "france_travail",
+      "date_posted": "2026-07-27",
       "contract_type": "CDD",
       "salary": "",
       "score": 25,
@@ -2814,14 +2788,14 @@
       }
     },
     {
-      "id": "li_4444603030",
-      "title": "Ingénieur réseau H/F",
-      "company": "Sabena technics",
+      "id": "li_4445906889",
+      "title": "Ingénieur SysOps & Réseau (H/F)",
+      "company": "Thales",
       "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-h-f-at-sabena-technics-4444603030",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-sysops-r%C3%A9seau-h-f-at-thales-4445906889",
       "source": "linkedin",
-      "date_posted": "2026-07-24",
+      "date_posted": "2026-07-27",
       "contract_type": "",
       "salary": "",
       "score": 23,
@@ -2844,30 +2818,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/administrateur-sysops-r%C3%A9seau-h-f-at-thales-4343622215",
       "source": "linkedin",
-      "date_posted": "2026-07-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 23,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4445906889",
-      "title": "Ingénieur SysOps & Réseau (H/F)",
-      "company": "Thales",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-sysops-r%C3%A9seau-h-f-at-thales-4445906889",
-      "source": "linkedin",
-      "date_posted": "2026-07-27",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 23,
@@ -3367,10 +3318,10 @@
     }
   ],
   "stats": {
-    "total": 152,
+    "total": 150,
     "sources": {
-      "france_travail": 94,
-      "linkedin": 58
+      "france_travail": 93,
+      "linkedin": 57
     }
   }
 }
