@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T12:55:34.618379+00:00",
+  "last_updated": "2026-08-07T18:51:15.495958+00:00",
   "jobs": [
     {
       "id": "ft_5640759",
@@ -1009,7 +1009,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-chef-de-projet-ing%C3%A9nieure-cheffe-de-projet-industriel-et-nucl%C3%A9aire-at-artelia-4441934995",
       "source": "linkedin",
-      "date_posted": "2026-07-17",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1277,14 +1277,14 @@
       }
     },
     {
-      "id": "li_4449032000",
+      "id": "li_4450614282",
       "title": "Ingénieur Méthodes - PROMAN Agence de Aéro France",
       "company": "AEROCONTACT.COM",
       "location": "Le Haillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-proman-agence-de-a%C3%A9ro-france-at-aerocontact-4449032000",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-proman-agence-de-a%C3%A9ro-france-at-aerocontact-4450614282",
       "source": "linkedin",
-      "date_posted": "2026-08-04",
+      "date_posted": "2026-08-06",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1413,27 +1413,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-processus-ing%C3%A9nieure-processus-at-actual-group-4399254354",
       "source": "linkedin",
       "date_posted": "2026-07-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4440763999",
-      "title": "Ingénieur production/Ingénieure production",
-      "company": "eXalt",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-production-ing%C3%A9nieure-production-at-exalt-4440763999",
-      "source": "linkedin",
-      "date_posted": "2026-07-16",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1751,14 +1730,14 @@
       }
     },
     {
-      "id": "li_4449435840",
+      "id": "li_4447702800",
       "title": "Ingénieur Qualité Aéronautique (H/F)",
-      "company": "Alliance Engineering Groupe Fortil",
+      "company": "fortil",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-a%C3%A9ronautique-h-f-at-alliance-engineering-groupe-fortil-4449435840",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-a%C3%A9ronautique-h-f-at-fortil-4447702800",
       "source": "linkedin",
-      "date_posted": "2026-08-05",
+      "date_posted": "2026-07-31",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -1780,27 +1759,6 @@
       "url": "https://fr.linkedin.com/jobs/view/responsable-bureau-d%E2%80%99%C3%A9tudes-ing%C3%A9nierie-industrielle-f-h-at-mcg-engineering-4437274240",
       "source": "linkedin",
       "date_posted": "2026-07-13",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4447702800",
-      "title": "Ingénieur Qualité Aéronautique (H/F)",
-      "company": "fortil",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-a%C3%A9ronautique-h-f-at-fortil-4447702800",
-      "source": "linkedin",
-      "date_posted": "2026-07-31",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2278,6 +2236,27 @@
       }
     },
     {
+      "id": "li_4445551607",
+      "title": "INGENIEUR PROCESS EXECUTION H/F",
+      "company": "Ameridia Innovative Solutions",
+      "location": "Cours-de-Pile",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ingenieur-process-execution-h-f-at-ameridia-innovative-solutions-4445551607",
+      "source": "linkedin",
+      "date_posted": "2026-08-01",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4408440273",
       "title": "Chargé d'affaires Moyens Généraux (H/F) AIRBUS ATLANTIC COMPOSITES, Salaunes",
       "company": "Airbus",
@@ -2678,10 +2657,10 @@
     }
   ],
   "stats": {
-    "total": 123,
+    "total": 122,
     "sources": {
       "france_travail": 60,
-      "linkedin": 63
+      "linkedin": 62
     }
   }
 }
