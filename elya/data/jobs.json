@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T00:26:06.670063+00:00",
+  "last_updated": "2026-08-07T07:53:42.459857+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -68,6 +68,30 @@
         "skills": 3,
         "matched_skills": [
           "Linux",
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5807707",
+      "title": "Technicien Systèmes et Réseaux - Support Utilisateurs H/F",
+      "company": "ORBConseil",
+      "location": "33 - Pessac",
+      "description": "POSTE : Technicien Systèmes et Réseaux - Support Utilisateurs H/F\nDESCRIPTION : \nORB Conseil recherche pour l'un de ses clients un « Technicien(ne) Systèmes et Réseaux / Support Utilisateurs (F/H) »...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5807707",
+      "source": "france_travail",
+      "date_posted": "2026-08-07",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 67,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
           "réseau",
           "système"
         ],
@@ -1154,27 +1178,6 @@
       }
     },
     {
-      "id": "ft_2421259",
-      "title": "Technicien support it h/f",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Selon les procédures établies dans l'entreprise et en étroite collaboration avec la direction votre rôle sera de - Garantir que utilisateurs travaillent dans des conditions de postes de travail,...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2421259",
-      "source": "france_travail",
-      "date_posted": "2026-07-08",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_211YJRX",
       "title": "Technicien support helpdesk H/F (H/F)",
       "company": "RAS570",
@@ -1831,12 +1834,12 @@
       }
     },
     {
-      "id": "li_4447581381",
+      "id": "li_4447582262",
       "title": "Technicien(e) Support Expert(e) F/H",
       "company": "CGI",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-e-support-expert-e-f-h-at-cgi-4447581381",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-e-support-expert-e-f-h-at-cgi-4447582262",
       "source": "linkedin",
       "date_posted": "2026-07-31",
       "contract_type": "",
@@ -1859,7 +1862,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/technicien-ne-support-technique-client-h-f-at-natus-medical-incorporated-4448555683",
       "source": "linkedin",
-      "date_posted": "2026-08-06",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -2659,6 +2662,27 @@
       }
     },
     {
+      "id": "li_4448749046",
+      "title": "Responsable informatique",
+      "company": "ALIOS - Ingénierie des Sols",
+      "location": "Nouvelle-Aquitaine, France",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-informatique-at-alios-soil-engineering-4448749046",
+      "source": "linkedin",
+      "date_posted": "2026-08-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_5226276",
       "title": "Consultant Technique LIMS (H/F)",
       "company": "Percall",
@@ -3192,27 +3216,6 @@
       }
     },
     {
-      "id": "li_4443140538",
-      "title": "Expert Intune (H/F)",
-      "company": "Aleysia",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-intune-h-f-at-aleysia-4443140538",
-      "source": "linkedin",
-      "date_posted": "2026-07-22",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4444557096",
       "title": "Analyste assistance applications",
       "company": "Econocom",
@@ -3276,6 +3279,27 @@
       }
     },
     {
+      "id": "li_4443140538",
+      "title": "Expert Intune (H/F)",
+      "company": "Aleysia",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/expert-intune-h-f-at-aleysia-4443140538",
+      "source": "linkedin",
+      "date_posted": "2026-07-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4442060964",
       "title": "Expert Microsoft Intune / Modern Workplace (H/F)",
       "company": "YEVO",
@@ -3319,10 +3343,10 @@
     }
   ],
   "stats": {
-    "total": 150,
+    "total": 151,
     "sources": {
       "france_travail": 95,
-      "linkedin": 55
+      "linkedin": 56
     }
   }
 }
