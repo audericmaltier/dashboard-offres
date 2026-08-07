@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T07:53:42.459857+00:00",
+  "last_updated": "2026-08-07T13:51:45.072712+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -133,30 +133,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5567615",
       "source": "france_travail",
       "date_posted": "2026-07-30",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 67,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_5428118",
-      "title": "Technicien(ne) Systèmes et Réseaux / Support Utilisateurs (F/H)",
-      "company": "ORBConseilMarseille",
-      "location": "33 - Bouscat",
-      "description": "ORB Conseil recherche pour l'un de ses clients un « Technicien(ne) Systèmes et Réseaux / Support Utilisateurs (F/H) » en CDI.\nÀ propos de notre client\nNotre client est un groupe industriel français...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5428118",
-      "source": "france_travail",
-      "date_posted": "2026-07-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 67,
@@ -721,6 +697,29 @@
       }
     },
     {
+      "id": "ft_212FYTS",
+      "title": "Technicien / Technicienne installation réseaux câblés fibre optiq (H/F)",
+      "company": "OPTICALFIBRE",
+      "location": "33 - MERIGNAC",
+      "description": "Description du poste :\n\nLa société Optical Fibre, basée à Bordeaux, est à la recherche de techniciens fibre optique D3 (H/F) pour rejoindre notre équipe dynamique. Nous sommes spécialisés dans le...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212FYTS",
+      "source": "france_travail",
+      "date_posted": "2026-08-07",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_211RHNM",
       "title": "Technicien / Technicienne d'intervention en réseaux électriques (H/F)",
       "company": "CRITINTERIM",
@@ -775,6 +774,29 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/211FXKC",
       "source": "france_travail",
       "date_posted": "2026-07-15",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_210VLCP",
+      "title": "Technicien(ne) d'Interventions Réseau Electrique BT - Boitier IP (H/F)",
+      "company": "AGISCOMSERVICES",
+      "location": "33 - Bordeaux",
+      "description": "Qui sommes-nous ?\n\nLe Groupe Agiscom est un acteur reconnu dans les études et travaux en électricité, intervenant sur des projets à fort impact dans les domaines suivants...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210VLCP",
+      "source": "france_travail",
+      "date_posted": "2026-07-08",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -1405,6 +1427,29 @@
       }
     },
     {
+      "id": "li_4435884808",
+      "title": "Administrateur Systèmes",
+      "company": "ITS Services",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-at-its-services-4435884808",
+      "source": "linkedin",
+      "date_posted": "2026-07-23",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4446454079",
       "title": "Administrateur Réseaux WAN F/H",
       "company": "La Poste Groupe",
@@ -1421,6 +1466,29 @@
         "skills": 1,
         "matched_skills": [
           "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4413869577",
+      "title": "Technicien Administrateur Système des SI embarqués F/H",
+      "company": "DGA - Direction générale de l'armement",
+      "location": "La Teste-de-Buch",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-administrateur-syst%C3%A8me-des-si-embarqu%C3%A9s-f-h-at-dga-direction-g%C3%A9n%C3%A9rale-de-l-armement-4413869577",
+      "source": "linkedin",
+      "date_posted": "2026-07-17",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -1747,6 +1815,27 @@
       }
     },
     {
+      "id": "li_4432605828",
+      "title": "Technicien de maintenance automatismes et informatique industrielle F/H",
+      "company": "RTE Réseau de Transport d'Electricité",
+      "location": "Floirac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4432605828",
+      "source": "linkedin",
+      "date_posted": "2026-07-30",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_5518869",
       "title": "Chef de projet / Coordinateur technique Réseaux & Télécom F/H - Système, réseaux, données",
       "company": "RHSELECT",
@@ -1834,12 +1923,12 @@
       }
     },
     {
-      "id": "li_4447582262",
+      "id": "li_4447581381",
       "title": "Technicien(e) Support Expert(e) F/H",
       "company": "CGI",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-e-support-expert-e-f-h-at-cgi-4447582262",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-e-support-expert-e-f-h-at-cgi-4447581381",
       "source": "linkedin",
       "date_posted": "2026-07-31",
       "contract_type": "",
@@ -2164,7 +2253,7 @@
     },
     {
       "id": "ft_211FLBB",
-      "title": "Technicien / technicienne recherche de fuites eau (H/F) #TDFE2026",
+      "title": "Technicien / technicienne recherche de fuites eau (H/F)",
       "company": "Non précisé",
       "location": "33 - Bordeaux",
       "description": "Nous recherchons notre futur/e technicien/ne (idéalement ayant un BTS métier de l'eau ou GEMEAU) , vous êtes organisé/e, méthodique et pugnace, pour rejoindre nos équipes de techniciens...",
@@ -2606,7 +2695,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/administrateur-systeme-des-moyens-et-reseaux-informatique-d-essais-f-h-at-dga-direction-g%C3%A9n%C3%A9rale-de-l-armement-4440795726",
       "source": "linkedin",
-      "date_posted": "2026-07-16",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2704,48 +2793,6 @@
       }
     },
     {
-      "id": "ft_210PMMZ",
-      "title": "Électricien courants fort ou faible H/F (H/F)",
-      "company": "IUTDEBORDEAUX",
-      "location": "33 - GRADIGNAN",
-      "description": "L'IUT de Bordeaux, composante de l'université de Bordeaux, est présent sur 4 sites géographiques : Agen, Bordeaux-Bastide, Gradignan, Périgueux. Il se positionne comme l'un des IUT les plus grands et...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210PMMZ",
-      "source": "france_travail",
-      "date_posted": "2026-07-08",
-      "contract_type": "CDD",
-      "salary": "",
-      "score": 25,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_211NZYZ",
-      "title": "Chef d'équipe fibre optique (H/F)",
-      "company": "GROUPESOVITRAT",
-      "location": "33 - Pompignac",
-      "description": "Le groupe SOVITRAT, est à la recherche d'un CHEF D'EQUIPE FIBRE OPTIQUE (H/F) pour mission basée à POMPIGNAC (33)\n\nMissions \n\nOrganisation de chantiers maintenance fibre RTO FTTO  :\n\n- Gestion...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211NZYZ",
-      "source": "france_travail",
-      "date_posted": "2026-07-23",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 25,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_211HNHH",
       "title": "Apprenti IT (H/F)",
       "company": "INTERCONTINENTALBORDEAUXLEGRANDHÔTEL",
@@ -2775,29 +2822,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-h-f-at-sabena-technics-4444603030",
       "source": "linkedin",
       "date_posted": "2026-07-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 23,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4434848354",
-      "title": "Ingénieur Réseau (H/F)",
-      "company": "SPIE ICS",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-h-f-at-spie-ics-4434848354",
-      "source": "linkedin",
-      "date_posted": "2026-07-08",
       "contract_type": "",
       "salary": "",
       "score": 23,
@@ -3216,14 +3240,14 @@
       }
     },
     {
-      "id": "li_4444557096",
-      "title": "Analyste assistance applications",
-      "company": "Econocom",
-      "location": "Bordeaux",
+      "id": "li_4443140538",
+      "title": "Expert Intune (H/F)",
+      "company": "Aleysia",
+      "location": "Bordeaux et périphérie",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/analyste-assistance-applications-at-econocom-4444557096",
+      "url": "https://fr.linkedin.com/jobs/view/expert-intune-h-f-at-aleysia-4443140538",
       "source": "linkedin",
-      "date_posted": "2026-07-30",
+      "date_posted": "2026-07-22",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3237,14 +3261,14 @@
       }
     },
     {
-      "id": "li_4449456890",
-      "title": "Infrastructure & Network Engineer",
-      "company": "stellar //",
+      "id": "li_4444557096",
+      "title": "Analyste assistance applications",
+      "company": "Econocom",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/infrastructure-network-engineer-at-stellar-4449456890",
+      "url": "https://fr.linkedin.com/jobs/view/analyste-assistance-applications-at-econocom-4444557096",
       "source": "linkedin",
-      "date_posted": "2026-08-05",
+      "date_posted": "2026-07-30",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3279,14 +3303,14 @@
       }
     },
     {
-      "id": "li_4443140538",
-      "title": "Expert Intune (H/F)",
-      "company": "Aleysia",
-      "location": "Bordeaux et périphérie",
+      "id": "li_4442060964",
+      "title": "Expert Microsoft Intune / Modern Workplace (H/F)",
+      "company": "YEVO",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-intune-h-f-at-aleysia-4443140538",
+      "url": "https://fr.linkedin.com/jobs/view/expert-microsoft-intune-modern-workplace-h-f-at-yevo-4442060964",
       "source": "linkedin",
-      "date_posted": "2026-07-22",
+      "date_posted": "2026-07-20",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3300,14 +3324,14 @@
       }
     },
     {
-      "id": "li_4442060964",
-      "title": "Expert Microsoft Intune / Modern Workplace (H/F)",
-      "company": "YEVO",
-      "location": "Bordeaux",
+      "id": "li_4441045503",
+      "title": "Infrastructure & Network Engineer",
+      "company": "stellar //",
+      "location": "Bruges",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-microsoft-intune-modern-workplace-h-f-at-yevo-4442060964",
+      "url": "https://fr.linkedin.com/jobs/view/infrastructure-network-engineer-at-stellar-4441045503",
       "source": "linkedin",
-      "date_posted": "2026-07-20",
+      "date_posted": "2026-07-22",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3343,10 +3367,10 @@
     }
   ],
   "stats": {
-    "total": 151,
+    "total": 152,
     "sources": {
-      "france_travail": 95,
-      "linkedin": 56
+      "france_travail": 94,
+      "linkedin": 58
     }
   }
 }
