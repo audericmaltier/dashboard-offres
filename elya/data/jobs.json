@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T07:31:15.576303+00:00",
+  "last_updated": "2026-08-08T13:28:40.138013+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -798,6 +798,29 @@
       "source": "france_travail",
       "date_posted": "2026-07-09",
       "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5854665",
+      "title": "Technicien bureau d'études réseaux secs (H/F)",
+      "company": "Non précisé",
+      "location": "33 - Bordeaux",
+      "description": "Nous recherchons un Technicien bureau d'études réseaux secs (H/F) sur Bordeaux. Tu assureras la réalisation d'études techniques pour les travaux de raccordement, de renouvellement et de modernisation...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5854665",
+      "source": "france_travail",
+      "date_posted": "2026-08-08",
+      "contract_type": "Intérim",
       "salary": "",
       "score": 66,
       "score_breakdown": {
@@ -2513,27 +2536,6 @@
       }
     },
     {
-      "id": "ft_5809270",
-      "title": "Technicien de Controle de Reseau d'Eau H/F",
-      "company": "PROMAN",
-      "location": "33 - Castres-Gironde",
-      "description": "POSTE : Technicien de Controle de Reseau d'Eau H/F\nDESCRIPTION : Notre agence PROMAN INDUSTRIE recherche pour son client acteur majeur de la distribution et de l'assaisnissement de l'eau, un...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5809270",
-      "source": "france_travail",
-      "date_posted": "2026-08-07",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "li_4442632890",
       "title": "Technicien d'exploitation, d'assistance et de traitement de l'information F/H",
       "company": "Université de Bordeaux",
@@ -2960,14 +2962,14 @@
       }
     },
     {
-      "id": "li_4407015894",
+      "id": "li_4447161046",
       "title": "HOTLINER SUPPORT TECHNIQUE H/F",
       "company": "JDC SA",
       "location": "Bruges",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
+      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4447161046",
       "source": "linkedin",
-      "date_posted": "2026-04-29",
+      "date_posted": "2026-07-31",
       "contract_type": "",
       "salary": "",
       "score": 22,
