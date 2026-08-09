@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T13:32:38.990868+00:00",
+  "last_updated": "2026-08-09T19:12:57.133494+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -796,29 +796,6 @@
       "location": "33 - Bordeaux",
       "description": "Le Groupe Exedra est un acteur majeur des travaux publics en Nouvelle-Aquitaine et Occitanie. Il est composé de 6 filiales : Chantiers d'Aquitaine, CMR, Exedra Sud-Aquitaine, Exedra Midi-Pyrénées,...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/210JYZT",
-      "source": "france_travail",
-      "date_posted": "2026-07-10",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_209QCCY",
-      "title": "Technicien en localisation de réseaux (H/F)",
-      "company": "GEOSURVEY&TOPOGRAPHY",
-      "location": "33 - Bordeaux",
-      "description": "GS Topo est un Bureau d'Études spécialisé dans l'ingénierie des réseaux, la détection et le géoréférencement des réseaux, la topographie, la modélisation 3D, ainsi que les études d'aménagement...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209QCCY",
       "source": "france_travail",
       "date_posted": "2026-07-10",
       "contract_type": "CDI",
@@ -2430,29 +2407,6 @@
       }
     },
     {
-      "id": "li_4442286434",
-      "title": "Ingénieur systèmes et sécurité F/H",
-      "company": "Keolis Bordeaux Métropole Mobilités",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4442286434",
-      "source": "linkedin",
-      "date_posted": "2026-07-21",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4433112883",
       "title": "Ingénieur systèmes F/H",
       "company": "Atos",
@@ -2573,6 +2527,27 @@
       "source": "france_travail",
       "date_posted": "2026-07-27",
       "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5809270",
+      "title": "Technicien de Controle de Reseau d'Eau H/F",
+      "company": "PROMAN",
+      "location": "33 - Castres-Gironde",
+      "description": "POSTE : Technicien de Controle de Reseau d'Eau H/F\nDESCRIPTION : Notre agence PROMAN INDUSTRIE recherche pour son client acteur majeur de la distribution et de l'assaisnissement de l'eau, un...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5809270",
+      "source": "france_travail",
+      "date_posted": "2026-08-07",
+      "contract_type": "Intérim",
       "salary": "",
       "score": 32,
       "score_breakdown": {
@@ -3327,10 +3302,10 @@
     }
   ],
   "stats": {
-    "total": 150,
+    "total": 149,
     "sources": {
       "france_travail": 92,
-      "linkedin": 58
+      "linkedin": 57
     }
   }
 }
