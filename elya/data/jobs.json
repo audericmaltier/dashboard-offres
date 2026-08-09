@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T07:35:12.966610+00:00",
+  "last_updated": "2026-08-09T13:32:38.990868+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -1877,27 +1877,6 @@
       }
     },
     {
-      "id": "li_4447582262",
-      "title": "Technicien(e) Support F/H",
-      "company": "CGI",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-e-support-f-h-at-cgi-4447582262",
-      "source": "linkedin",
-      "date_posted": "2026-07-31",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4447581381",
       "title": "Technicien(e) Support Expert(e) F/H",
       "company": "CGI",
@@ -2359,6 +2338,29 @@
       }
     },
     {
+      "id": "li_4427065479",
+      "title": "Technicien programmation et mise en service système sureté électronique H/F",
+      "company": "Snef",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-programmation-et-mise-en-service-syst%C3%A8me-suret%C3%A9-%C3%A9lectronique-h-f-at-snef-4427065479",
+      "source": "linkedin",
+      "date_posted": "2026-06-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 39,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_5583330",
       "title": "Chef-fe de projet gestion des outillages & support aux industrialisations du réseau mro monde m88 f/h (H/F)",
       "company": "Non précisé",
@@ -2459,6 +2461,52 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-f-h-at-atos-4433112883",
       "source": "linkedin",
       "date_posted": "2026-07-24",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436418275",
+      "title": "Ingénieur(e) Systemes réseaux et sécurité N2-N3 F/H",
+      "company": "CGI",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-systemes-r%C3%A9seaux-et-s%C3%A9curit%C3%A9-n2-n3-f-h-at-cgi-4436418275",
+      "source": "linkedin",
+      "date_posted": "2026-07-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4410087670",
+      "title": "Assistant(e) Système d'Information",
+      "company": "ADMR",
+      "location": "Mazères",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/assistant-e-syst%C3%A8me-d-information-at-admr-4410087670",
+      "source": "linkedin",
+      "date_posted": "2026-05-04",
       "contract_type": "",
       "salary": "",
       "score": 33,
@@ -2587,27 +2635,6 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-itin%C3%A9rant-h-f-at-acrelec-4445261106",
       "source": "linkedin",
       "date_posted": "2026-07-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4437985006",
-      "title": "Administrateur IT",
-      "company": "agap2IT France",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-it-at-agap2it-france-4437985006",
-      "source": "linkedin",
-      "date_posted": "2026-07-10",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2791,14 +2818,14 @@
       }
     },
     {
-      "id": "li_4343622215",
-      "title": "Administrateur SysOps & Réseau (H/F)",
+      "id": "li_4445906889",
+      "title": "Ingénieur SysOps & Réseau (H/F)",
       "company": "Thales",
       "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-sysops-r%C3%A9seau-h-f-at-thales-4343622215",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-sysops-r%C3%A9seau-h-f-at-thales-4445906889",
       "source": "linkedin",
-      "date_posted": "2026-08-07",
+      "date_posted": "2026-07-27",
       "contract_type": "",
       "salary": "",
       "score": 23,
@@ -2814,14 +2841,14 @@
       }
     },
     {
-      "id": "li_4445906889",
-      "title": "Ingénieur SysOps & Réseau (H/F)",
+      "id": "li_4343622215",
+      "title": "Administrateur SysOps & Réseau (H/F)",
       "company": "Thales",
       "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-sysops-r%C3%A9seau-h-f-at-thales-4445906889",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-sysops-r%C3%A9seau-h-f-at-thales-4343622215",
       "source": "linkedin",
-      "date_posted": "2026-07-27",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 23,
@@ -2950,27 +2977,6 @@
       "url": "https://fr.linkedin.com/jobs/view/administrateur%C2%B7rice-erp-f-h-at-gironde-habitat-office-public-de-l%E2%80%99habitat-oph-4407880692",
       "source": "linkedin",
       "date_posted": "2026-04-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4407015894",
-      "title": "HOTLINER SUPPORT TECHNIQUE H/F",
-      "company": "JDC SA",
-      "location": "Bruges",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
-      "source": "linkedin",
-      "date_posted": "2026-04-29",
       "contract_type": "",
       "salary": "",
       "score": 22,
