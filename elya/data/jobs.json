@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T13:57:51.093096+00:00",
+  "last_updated": "2026-08-10T19:33:54.325868+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -882,27 +882,6 @@
       }
     },
     {
-      "id": "ft_211XYPG",
-      "title": "Technicien support informatique (H/F)",
-      "company": "Non précisé",
-      "location": "33 - BORDEAUX",
-      "description": "Rattaché(e) directement au responsable du support informatique, vous êtes en charge d'apporter le support informatique à tous les utilisateurs de solutions informatique de la Régie. Le support se...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211XYPG",
-      "source": "france_travail",
-      "date_posted": "2026-07-31",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_5576124",
       "title": "Technicien Support Informatique H/F",
       "company": "IzenciaInsight",
@@ -1113,14 +1092,14 @@
       }
     },
     {
-      "id": "ft_211YJRX",
-      "title": "Technicien support helpdesk H/F (H/F)",
-      "company": "RAS570",
-      "location": "33 - MERIGNAC",
-      "description": "L'agence R.A.S Intérim de Bordeaux services, recherche un(e) Technicien informatique (H/F) pour un de nos clients basé sur Mérignac.\n\nLieu :\nMérignac, Gironde (33)\nContrat :\nMission intérim de 6...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211YJRX",
+      "id": "ft_5661425",
+      "title": "Technicien helpdesk applicatif (F/H)",
+      "company": "Non précisé",
+      "location": "33 - Bordeaux",
+      "description": "Notre équipe spécialisée en IT recherche pour son client (une ESN), un Technicien-e Support Helpdesk (F/H) pour un contrat d'intérim de 12 mois, à Bordeaux sur un site client.- Date de démarrage :...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5661425",
       "source": "france_travail",
-      "date_posted": "2026-07-31",
+      "date_posted": "2026-08-01",
       "contract_type": "Intérim",
       "salary": "",
       "score": 65,
@@ -1134,14 +1113,14 @@
       }
     },
     {
-      "id": "ft_5661425",
-      "title": "Technicien helpdesk applicatif (F/H)",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Notre équipe spécialisée en IT recherche pour son client (une ESN), un Technicien-e Support Helpdesk (F/H) pour un contrat d'intérim de 12 mois, à Bordeaux sur un site client.- Date de démarrage :...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5661425",
+      "id": "ft_211YJRX",
+      "title": "Technicien support helpdesk H/F (H/F)",
+      "company": "RAS570",
+      "location": "33 - MERIGNAC",
+      "description": "L'agence R.A.S Intérim de Bordeaux services, recherche un(e) Technicien informatique (H/F) pour un de nos clients basé sur Mérignac.\n\nLieu :\nMérignac, Gironde (33)\nContrat :\nMission intérim de 6...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211YJRX",
       "source": "france_travail",
-      "date_posted": "2026-08-01",
+      "date_posted": "2026-07-31",
       "contract_type": "Intérim",
       "salary": "",
       "score": 65,
@@ -1794,6 +1773,29 @@
       }
     },
     {
+      "id": "li_4451551997",
+      "title": "Technicien réseau eau Clientèle terrain - F/H",
+      "company": "Veolia",
+      "location": "Gujan-Mestras",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-r%C3%A9seau-eau-client%C3%A8le-terrain-f-h-at-veolia-4451551997",
+      "source": "linkedin",
+      "date_posted": "2026-08-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4450208862",
       "title": "Technicien support applicatif (F/H)",
       "company": "GUARANÍ",
@@ -2089,6 +2091,27 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5737973",
       "source": "france_travail",
       "date_posted": "2026-08-06",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 42,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5409479",
+      "title": "Technicien de Maintenance H/F",
+      "company": "GroupeInterway",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Technicien de Maintenance H/F\nDESCRIPTION : Interway, entreprise en pleine croissance spécialisée dans les solutions informatiques et technologiques, recrute un Technicien de Maintenance...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5409479",
+      "source": "france_travail",
+      "date_posted": "2026-07-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 42,
@@ -2655,27 +2678,6 @@
       "url": "https://fr.linkedin.com/jobs/view/responsable-informatique-at-alios-soil-engineering-4448749046",
       "source": "linkedin",
       "date_posted": "2026-08-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4440957284",
-      "title": "Gestionnaire de parc informatique (F/H)",
-      "company": "INRAE",
-      "location": "Villenave-d'Ornon",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/gestionnaire-de-parc-informatique-f-h-at-inrae-4440957284",
-      "source": "linkedin",
-      "date_posted": "2026-07-15",
       "contract_type": "",
       "salary": "",
       "score": 32,
