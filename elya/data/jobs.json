@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T08:14:52.706449+00:00",
+  "last_updated": "2026-08-10T13:57:51.093096+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -1035,27 +1035,6 @@
       "location": "33 - Bordeaux",
       "description": "Technicien Support Helpdesk (H/F) - Bordeaux\n\nNous recrutons un Technicien Support Helpdesk (H/F) pour intervenir chez un de nos clients grand compte. Vous intégrez une équipe en horaires 2x8, en...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4683197",
-      "source": "france_travail",
-      "date_posted": "2026-07-11",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_9370349",
-      "title": "Coordinateur support informatique H/F",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Fayat IT recherche son futur Coordinateur support informatique H/F en CDI à Bordeaux (33) Au sein du département Opérations Locales, rattaché au manager de l'équipe, vous pilotez quotidiennement...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9370349",
       "source": "france_travail",
       "date_posted": "2026-07-11",
       "contract_type": "CDI",
@@ -3305,9 +3284,9 @@
     }
   ],
   "stats": {
-    "total": 149,
+    "total": 148,
     "sources": {
-      "france_travail": 93,
+      "france_travail": 92,
       "linkedin": 56
     }
   }
