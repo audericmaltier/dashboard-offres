@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T12:56:11.815615+00:00",
+  "last_updated": "2026-08-11T18:58:01.827395+00:00",
   "jobs": [
     {
       "id": "ft_5640759",
@@ -1000,6 +1000,27 @@
       }
     },
     {
+      "id": "li_4321449961",
+      "title": "Ingénieur informatique industrielle Alignement du LMJ H/F",
+      "company": "CEA",
+      "location": "Le Barp",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-informatique-industrielle-alignement-du-lmj-h-f-at-cea-4321449961",
+      "source": "linkedin",
+      "date_posted": "2026-08-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4441934995",
       "title": "Ingénieur Chef de projet / Ingénieure Cheffe de projet Industriel et Nucléaire",
       "company": "Artelia",
@@ -1099,6 +1120,29 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-maintenance-at-kairdan-4425632252",
       "source": "linkedin",
       "date_posted": "2026-08-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4451348082",
+      "title": "Alternant Ingénieur Méthodes Maintenance et Industrialisation (H/F)",
+      "company": "ALLIS-NA | Alliance Innovation Santé Nouvelle-Aquitaine",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/alternant-ing%C3%A9nieur-m%C3%A9thodes-maintenance-et-industrialisation-h-f-at-allis-na-alliance-innovation-sant%C3%A9-nouvelle-aquitaine-4451348082",
+      "source": "linkedin",
+      "date_posted": "2026-08-09",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1678,6 +1722,52 @@
       }
     },
     {
+      "id": "li_4418017085",
+      "title": "Technicien méthodes H/F",
+      "company": "VINCI",
+      "location": "Eysines",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-h-f-at-vinci-4418017085",
+      "source": "linkedin",
+      "date_posted": "2026-05-21",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4430708592",
+      "title": "Technicien méthodes H/F",
+      "company": "VINCI Energies",
+      "location": "Eysines",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-h-f-at-vinci-energies-4430708592",
+      "source": "linkedin",
+      "date_posted": "2026-06-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4429969527",
       "title": "Agent Méthodes (H/F)",
       "company": "SEGULA Technologies",
@@ -1701,14 +1791,14 @@
       }
     },
     {
-      "id": "li_4442631916",
-      "title": "Responsable Maintenance H/F",
-      "company": "SAVENCIA",
-      "location": "Nouvelle-Aquitaine, France",
+      "id": "li_4331146096",
+      "title": "Ingénieur Electromécanicien Nucléaire H/F",
+      "company": "Groupe Ponticelli Frères",
+      "location": "Bassens",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-h-f-at-savencia-4442631916",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-electrom%C3%A9canicien-nucl%C3%A9aire-h-f-at-groupe-ponticelli-fr%C3%A8res-4331146096",
       "source": "linkedin",
-      "date_posted": "2026-07-21",
+      "date_posted": "2026-07-30",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1722,14 +1812,14 @@
       }
     },
     {
-      "id": "li_4431211598",
-      "title": "Manager Maintenance (F/H)",
-      "company": "Carrefour",
+      "id": "li_4448897981",
+      "title": "Coordinateur Maintenance Site F/H",
+      "company": "Talent Sourcing",
       "location": "Beychac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/manager-maintenance-f-h-at-carrefour-4431211598",
+      "url": "https://fr.linkedin.com/jobs/view/coordinateur-maintenance-site-f-h-at-talent-sourcing-4448897981",
       "source": "linkedin",
-      "date_posted": "2026-07-31",
+      "date_posted": "2026-08-04",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1743,14 +1833,56 @@
       }
     },
     {
-      "id": "li_4437642659",
-      "title": "Responsable maintenance et travaux neufs (H/F)",
-      "company": "LISI GROUP",
-      "location": "Marmande",
+      "id": "li_4371191747",
+      "title": "RESPONSABLE D'ÉQUIPE MAINTENANCE OPÉRATIONNELLE F/H",
+      "company": "Groupe Aqualande",
+      "location": "Sarbazan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-et-travaux-neufs-h-f-at-lisi-group-4437642659",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-d-%C3%A9quipe-maintenance-op%C3%A9rationnelle-f-h-at-groupe-aqualande-4371191747",
       "source": "linkedin",
-      "date_posted": "2026-07-14",
+      "date_posted": "2026-02-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4434966474",
+      "title": "RESPONSABLE PÔLE PROCESS & AMELIORATION CONTINUE H/F",
+      "company": "Groupe Gascogne",
+      "location": "Mimizan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-p%C3%B4le-process-amelioration-continue-h-f-at-groupe-gascogne-4434966474",
+      "source": "linkedin",
+      "date_posted": "2026-08-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4326281419",
+      "title": "Responsable de site Maintenance multi technique H/F",
+      "company": "SE3M",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-maintenance-multi-technique-h-f-at-se3m-4326281419",
+      "source": "linkedin",
+      "date_posted": "2025-12-08",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2191,7 +2323,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/refrigeration-reliability-manager-eu-amzl-rme-at-amazon-4443033595",
       "source": "linkedin",
-      "date_posted": "2026-07-21",
+      "date_posted": "2026-08-11",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2205,14 +2337,35 @@
       }
     },
     {
-      "id": "li_4441094584",
-      "title": "Responsable Démarrage & Mise au point - (F/H)",
+      "id": "li_4374375816",
+      "title": "Responsable SAV",
+      "company": "Africa Power Services",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-sav-at-africa-power-services-4374375816",
+      "source": "linkedin",
+      "date_posted": "2026-02-20",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4449564574",
+      "title": "Responsable Efficacité Energétique – PREDITY for Assets",
       "company": "ENGIE",
       "location": "Canéjan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-4441094584",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-efficacit%C3%A9-energ%C3%A9tique-%E2%80%93-predity-for-assets-at-engie-4449564574",
       "source": "linkedin",
-      "date_posted": "2026-07-27",
+      "date_posted": "2026-08-10",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2226,14 +2379,77 @@
       }
     },
     {
-      "id": "li_4430203904",
-      "title": "Responsable Technique - H/F",
-      "company": "Centre Hospitalier de Cadillac",
-      "location": "Sainte-Croix-du-Mont",
+      "id": "li_4404548508",
+      "title": "Responsable Support Produit F/H",
+      "company": "Thales",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-h-f-at-centre-hospitalier-de-cadillac-4430203904",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-support-produit-f-h-at-thales-4404548508",
       "source": "linkedin",
-      "date_posted": "2026-06-25",
+      "date_posted": "2026-08-05",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4444132218",
+      "title": "Responsable de la coordination métier/projet Armor M88 F/H",
+      "company": "Safran",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-de-la-coordination-m%C3%A9tier-projet-armor-m88-f-h-at-safran-4444132218",
+      "source": "linkedin",
+      "date_posted": "2026-07-29",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4446285211",
+      "title": "Energy Manager H/F",
+      "company": "EDF",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/energy-manager-h-f-at-edf-4446285211",
+      "source": "linkedin",
+      "date_posted": "2026-08-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4451540319",
+      "title": "Responsable Technique H/F",
+      "company": "Hively Hospitality",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-h-f-at-hively-hospitality-4451540319",
+      "source": "linkedin",
+      "date_posted": "2026-08-10",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2373,14 +2589,14 @@
       }
     },
     {
-      "id": "li_4415702628",
-      "title": "Leader Technique EIA H/F",
-      "company": "CTS Consulting & Technical Support",
-      "location": "Eysines",
+      "id": "li_4441094584",
+      "title": "Responsable Démarrage & Mise au point - (F/H)",
+      "company": "ENGIE",
+      "location": "Canéjan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/leader-technique-eia-h-f-at-cts-consulting-technical-support-4415702628",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-4441094584",
       "source": "linkedin",
-      "date_posted": "2026-05-18",
+      "date_posted": "2026-07-27",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2394,14 +2610,14 @@
       }
     },
     {
-      "id": "li_4449564574",
-      "title": "Responsable Efficacité Energétique – PREDITY for Assets",
-      "company": "ENGIE",
-      "location": "Canéjan",
+      "id": "li_4415702628",
+      "title": "Leader Technique EIA H/F",
+      "company": "CTS Consulting & Technical Support",
+      "location": "Eysines",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-efficacit%C3%A9-energ%C3%A9tique-%E2%80%93-predity-for-assets-at-engie-4449564574",
+      "url": "https://fr.linkedin.com/jobs/view/leader-technique-eia-h-f-at-cts-consulting-technical-support-4415702628",
       "source": "linkedin",
-      "date_posted": "2026-08-10",
+      "date_posted": "2026-05-18",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2458,10 +2674,10 @@
     }
   ],
   "stats": {
-    "total": 113,
+    "total": 123,
     "sources": {
       "france_travail": 62,
-      "linkedin": 51
+      "linkedin": 61
     }
   }
 }
