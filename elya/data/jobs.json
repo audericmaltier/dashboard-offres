@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T13:57:07.463954+00:00",
+  "last_updated": "2026-08-11T19:37:24.975837+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -1316,29 +1316,6 @@
       }
     },
     {
-      "id": "li_4435884808",
-      "title": "Administrateur Systèmes",
-      "company": "ITS Services",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-at-its-services-4435884808",
-      "source": "linkedin",
-      "date_posted": "2026-07-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4446454079",
       "title": "Administrateur Réseaux WAN F/H",
       "company": "La Poste Groupe",
@@ -1355,29 +1332,6 @@
         "skills": 1,
         "matched_skills": [
           "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4413869577",
-      "title": "Technicien Administrateur Système des SI embarqués F/H",
-      "company": "DGA - Direction générale de l'armement",
-      "location": "La Teste-de-Buch",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-administrateur-syst%C3%A8me-des-si-embarqu%C3%A9s-f-h-at-dga-direction-g%C3%A9n%C3%A9rale-de-l-armement-4413869577",
-      "source": "linkedin",
-      "date_posted": "2026-08-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -1620,6 +1574,27 @@
       }
     },
     {
+      "id": "li_4449858277",
+      "title": "Technicien Support de Proximité (H/F) - Talence/Bègles/Pessac",
+      "company": "Free-Work",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-de-proximit%C3%A9-h-f-talence-b%C3%A8gles-pessac-at-free-work-4449858277",
+      "source": "linkedin",
+      "date_posted": "2026-08-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4446794124",
       "title": "Technicien support informatique N1/N2 - F/H",
       "company": "agap2IT France",
@@ -1670,6 +1645,27 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-en-apprentisage-h-f-at-ldlc-4444489053",
       "source": "linkedin",
       "date_posted": "2026-07-23",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4440435512",
+      "title": "Technicien Support Elite",
+      "company": "Scaleway",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-elite-at-scaleway-4440435512",
+      "source": "linkedin",
+      "date_posted": "2026-08-11",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1751,14 +1747,14 @@
       }
     },
     {
-      "id": "li_4451642768",
-      "title": "Technicien Support Helpdesk (H/F)",
-      "company": "Free-Work",
-      "location": "Bordeaux",
+      "id": "li_4450208862",
+      "title": "Technicien support applicatif (F/H)",
+      "company": "GUARANÍ",
+      "location": "Bordeaux et périphérie",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-helpdesk-h-f-at-free-work-4451642768",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-applicatif-f-h-at-guaran%C3%AD-4450208862",
       "source": "linkedin",
-      "date_posted": "2026-08-11",
+      "date_posted": "2026-08-06",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1772,14 +1768,14 @@
       }
     },
     {
-      "id": "li_4450208862",
-      "title": "Technicien support applicatif (F/H)",
-      "company": "GUARANÍ",
-      "location": "Bordeaux et périphérie",
+      "id": "li_4451642768",
+      "title": "Technicien Support Helpdesk (H/F)",
+      "company": "Free-Work",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-applicatif-f-h-at-guaran%C3%AD-4450208862",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-helpdesk-h-f-at-free-work-4451642768",
       "source": "linkedin",
-      "date_posted": "2026-08-06",
+      "date_posted": "2026-08-11",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -2581,6 +2577,27 @@
       }
     },
     {
+      "id": "li_4449855291",
+      "title": "Technicien IT de Proximité (H/F) - Mérignac et régions",
+      "company": "Free-Work",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-it-de-proximit%C3%A9-h-f-m%C3%A9rignac-et-r%C3%A9gions-at-free-work-4449855291",
+      "source": "linkedin",
+      "date_posted": "2026-08-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4445261106",
       "title": "Technicien itinérant H/F",
       "company": "ACRELEC",
@@ -2602,14 +2619,14 @@
       }
     },
     {
-      "id": "li_4440795726",
+      "id": "li_4333186203",
       "title": "ADMINISTRATEUR SYSTEME DES MOYENS ET RESEAUX INFORMATIQUE D'ESSAIS F/H",
-      "company": "DGA - Direction générale de l'armement",
+      "company": "Civils de la Défense",
       "location": "Biscarrosse",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-systeme-des-moyens-et-reseaux-informatique-d-essais-f-h-at-dga-direction-g%C3%A9n%C3%A9rale-de-l-armement-4440795726",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-systeme-des-moyens-et-reseaux-informatique-d-essais-f-h-at-civils-de-la-d%C3%A9fense-4333186203",
       "source": "linkedin",
-      "date_posted": "2026-08-07",
+      "date_posted": "2025-10-30",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2623,14 +2640,14 @@
       }
     },
     {
-      "id": "li_4333186203",
+      "id": "li_4440795726",
       "title": "ADMINISTRATEUR SYSTEME DES MOYENS ET RESEAUX INFORMATIQUE D'ESSAIS F/H",
-      "company": "Civils de la Défense",
+      "company": "DGA - Direction générale de l'armement",
       "location": "Biscarrosse",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-systeme-des-moyens-et-reseaux-informatique-d-essais-f-h-at-civils-de-la-d%C3%A9fense-4333186203",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-systeme-des-moyens-et-reseaux-informatique-d-essais-f-h-at-dga-direction-g%C3%A9n%C3%A9rale-de-l-armement-4440795726",
       "source": "linkedin",
-      "date_posted": "2025-10-30",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2944,35 +2961,14 @@
       }
     },
     {
-      "id": "li_4407880692",
-      "title": "Administrateur·rice ERP F/H",
-      "company": "Gironde Habitat Office Public de l’Habitat (OPH)",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur%C2%B7rice-erp-f-h-at-gironde-habitat-office-public-de-l%E2%80%99habitat-oph-4407880692",
-      "source": "linkedin",
-      "date_posted": "2026-04-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4407015894",
+      "id": "li_4447161046",
       "title": "HOTLINER SUPPORT TECHNIQUE H/F",
       "company": "JDC SA",
       "location": "Bruges",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
+      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4447161046",
       "source": "linkedin",
-      "date_posted": "2026-04-29",
+      "date_posted": "2026-07-31",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2994,27 +2990,6 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-soc-n1-at-gazeltech-4434983771",
       "source": "linkedin",
       "date_posted": "2026-06-30",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4430560157",
-      "title": "Consultant / Consultante Support fonctionnel",
-      "company": "YEVO",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/consultant-consultante-support-fonctionnel-at-yevo-4430560157",
-      "source": "linkedin",
-      "date_posted": "2026-06-22",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3323,10 +3298,10 @@
     }
   ],
   "stats": {
-    "total": 150,
+    "total": 149,
     "sources": {
       "france_travail": 92,
-      "linkedin": 58
+      "linkedin": 57
     }
   }
 }
