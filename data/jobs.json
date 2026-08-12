@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T13:00:59.207377+00:00",
+  "last_updated": "2026-08-12T18:57:48.791376+00:00",
   "jobs": [
     {
       "id": "ft_5640759",
@@ -10,29 +10,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5640759",
       "source": "france_travail",
       "date_posted": "2026-08-01",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_5458834",
-      "title": "Ingénieur méthodes procédés f/h",
-      "company": "Non précisé",
-      "location": "33 - Haillan",
-      "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5458834",
-      "source": "france_travail",
-      "date_posted": "2026-07-25",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -1115,6 +1092,29 @@
       }
     },
     {
+      "id": "li_4418872535",
+      "title": "Ingénieur Méthodes et Procédés F/H",
+      "company": "Roxel",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-proc%C3%A9d%C3%A9s-f-h-at-roxel-4418872535",
+      "source": "linkedin",
+      "date_posted": "2026-05-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4428838777",
       "title": "Ingénieur Méthodes / AIT Engineer F/H",
       "company": "AYES - Management & Technology Consulting",
@@ -1161,14 +1161,14 @@
       }
     },
     {
-      "id": "li_4418872535",
-      "title": "Ingénieur Méthodes et Procédés F/H",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
+      "id": "li_4371929328",
+      "title": "Ingénieur Méthodes Composites  - Bordeaux, France  (H/F)",
+      "company": "Astek",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-proc%C3%A9d%C3%A9s-f-h-at-roxel-4418872535",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-composites-bordeaux-france-h-f-at-astek-4371929328",
       "source": "linkedin",
-      "date_posted": "2026-05-28",
+      "date_posted": "2026-08-08",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1268,14 +1268,14 @@
       }
     },
     {
-      "id": "ft_211GFVJ",
+      "id": "ft_212KPSG",
       "title": "Préparateur Méthodes et Industrialisation (H/F)",
       "company": "AERONEFS SERVICES",
-      "location": "33 - ST JEAN D ILLAC",
+      "location": "33 - Saint-Jean-d'Illac",
       "description": "AERONEFS SERVICES est un fournisseur stratégique des industries : aéronautique, spatial et défense depuis plus de 40 ans. Elle a plus récemment développé une activité de services dans le domaine des...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211GFVJ",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KPSG",
       "source": "france_travail",
-      "date_posted": "2026-07-16",
+      "date_posted": "2026-08-12",
       "contract_type": "CDI",
       "salary": "",
       "score": 43,
@@ -1446,29 +1446,6 @@
       }
     },
     {
-      "id": "li_4436122472",
-      "title": "Expert Méthodes Industrielles (F/H)",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-m%C3%A9thodes-industrielles-f-h-at-thales-4436122472",
-      "source": "linkedin",
-      "date_posted": "2026-07-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_5582103",
       "title": "Ingénieure Ingénieur Méthode Composite H/F",
       "company": "Capgemini",
@@ -1632,6 +1609,52 @@
         "skills": 0,
         "matched_skills": [],
         "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4354627749",
+      "title": "Responsable amélioration continue (H/F)",
+      "company": "LISI AEROSPACE",
+      "location": "Marmande",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-am%C3%A9lioration-continue-h-f-at-lisi-aerospace-4354627749",
+      "source": "linkedin",
+      "date_posted": "2026-08-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 29,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 1,
+        "matched_skills": [
+          "amélioration continue"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4445912281",
+      "title": "Responsable amélioration continue (Femme ou Homme)",
+      "company": "CANDIDATE FIRST",
+      "location": "Marmande",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-am%C3%A9lioration-continue-femme-ou-homme-at-candidate-first-4445912281",
+      "source": "linkedin",
+      "date_posted": "2026-07-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 29,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 1,
+        "matched_skills": [
+          "amélioration continue"
+        ],
+        "sector": 0,
         "recency": 5,
         "contract": 0
       }
@@ -1813,27 +1836,6 @@
       "location": "Bordeaux",
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-p%C3%A9rennit%C3%A9-et-obsolescences-h-f-at-thales-4444941422",
-      "source": "linkedin",
-      "date_posted": "2026-07-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4444384869",
-      "title": "Ingénieur qualité H/F",
-      "company": "Sabena technics",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-sabena-technics-4444384869",
       "source": "linkedin",
       "date_posted": "2026-07-24",
       "contract_type": "",
@@ -2088,6 +2090,27 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-projet-bordeaux-france-h-f-at-astek-4356154801",
       "source": "linkedin",
       "date_posted": "2026-08-09",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4444384869",
+      "title": "Ingénieur qualité H/F",
+      "company": "Sabena technics",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-sabena-technics-4444384869",
+      "source": "linkedin",
+      "date_posted": "2026-07-24",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2507,7 +2530,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/technical-support-engineer-at-steris-4443793862",
       "source": "linkedin",
-      "date_posted": "2026-07-22",
+      "date_posted": "2026-08-12",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2550,6 +2573,27 @@
       "url": "https://fr.linkedin.com/jobs/view/leader-technique-eia-h-f-at-cts-consulting-technical-support-4415702628",
       "source": "linkedin",
       "date_posted": "2026-05-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4450694972",
+      "title": "Responsable performance opérationnelle",
+      "company": "ALESSIA",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-performance-op%C3%A9rationnelle-at-adenine-human-resources-4450694972",
+      "source": "linkedin",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2606,10 +2650,10 @@
     }
   ],
   "stats": {
-    "total": 120,
+    "total": 122,
     "sources": {
-      "france_travail": 61,
-      "linkedin": 59
+      "france_travail": 60,
+      "linkedin": 62
     }
   }
 }
