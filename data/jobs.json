@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T12:38:48.391756+00:00",
+  "last_updated": "2026-08-18T18:33:05.150901+00:00",
   "jobs": [
     {
       "id": "ft_6063713",
@@ -1623,27 +1623,6 @@
       }
     },
     {
-      "id": "li_4359446834",
-      "title": "Ingénieur Technicien Soutien Logistique Intégré SLI HF/H",
-      "company": "Chantier Naval Couach - CNC",
-      "location": "Gujan-Mestras",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-technicien-soutien-logistique-int%C3%A9gr%C3%A9-sli-hf-h-at-chantier-naval-couach-cnc-4359446834",
-      "source": "linkedin",
-      "date_posted": "2026-01-09",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4326281419",
       "title": "Responsable de site Maintenance multi technique H/F",
       "company": "SE3M",
@@ -1728,14 +1707,56 @@
       }
     },
     {
-      "id": "li_4444941422",
-      "title": "Ingénieur Pérennité et Obsolescences (H/F)",
-      "company": "Thales",
+      "id": "li_4436710319",
+      "title": "Ingénieur(e) Sûreté de Fonctionnement - Spécialité Hydrogène",
+      "company": "Ortec Group",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-p%C3%A9rennit%C3%A9-et-obsolescences-h-f-at-thales-4444941422",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-s%C3%BBret%C3%A9-de-fonctionnement-sp%C3%A9cialit%C3%A9-hydrog%C3%A8ne-at-ortec-group-4436710319",
       "source": "linkedin",
-      "date_posted": "2026-08-14",
+      "date_posted": "2026-08-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4440133447",
+      "title": "Ingénieur R&D Contrôle Dimensionnel & Qualité procédés (H/F)",
+      "company": "LISI GROUP",
+      "location": "Marmande",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r-d-contr%C3%B4le-dimensionnel-qualit%C3%A9-proc%C3%A9d%C3%A9s-h-f-at-lisi-group-4440133447",
+      "source": "linkedin",
+      "date_posted": "2026-07-20",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4448762126",
+      "title": "Ingénieur Sureté de fonctionnement Matériel - F/H - KQN",
+      "company": "SERMA Safety and Security",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-suret%C3%A9-de-fonctionnement-mat%C3%A9riel-f-h-kqn-at-serma-safety-and-security-4448762126",
+      "source": "linkedin",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1840,7 +1861,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/responsable-d-ing%C3%A9nierie-responsable-process-h-f-at-neo2-4411760075",
       "source": "linkedin",
-      "date_posted": "2026-07-28",
+      "date_posted": "2026-08-18",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2190,14 +2211,14 @@
       }
     },
     {
-      "id": "li_4443033595",
+      "id": "li_4455903110",
       "title": "Refrigeration Reliability Manager, EU AMZL RME",
       "company": "Amazon",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/refrigeration-reliability-manager-eu-amzl-rme-at-amazon-4443033595",
+      "url": "https://fr.linkedin.com/jobs/view/refrigeration-reliability-manager-eu-amzl-rme-at-amazon-4455903110",
       "source": "linkedin",
-      "date_posted": "2026-08-11",
+      "date_posted": "2026-08-18",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2337,6 +2358,27 @@
       }
     },
     {
+      "id": "li_4451502690",
+      "title": "Field Service Engineer",
+      "company": "TOMRA",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/field-service-engineer-at-tomra-4451502690",
+      "source": "linkedin",
+      "date_posted": "2026-08-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4451399546",
       "title": "GBR- RAMS Engineer F/H",
       "company": "B-Hive Engineering",
@@ -2379,48 +2421,6 @@
       }
     },
     {
-      "id": "li_4448761226",
-      "title": "Responsable d'Activités Fiabilité F/H - KQN",
-      "company": "SERMA Technologies",
-      "location": "Pessac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-d-activit%C3%A9s-fiabilit%C3%A9-f-h-kqn-at-serma-technologies-4448761226",
-      "source": "linkedin",
-      "date_posted": "2026-08-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4427052057",
-      "title": "Safety Component engineer (F/H)",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/safety-component-engineer-f-h-at-thales-4427052057",
-      "source": "linkedin",
-      "date_posted": "2026-08-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4410066098",
       "title": "Principal Mission Assurance Engineer",
       "company": "The Exploration Company",
@@ -2429,6 +2429,69 @@
       "url": "https://fr.linkedin.com/jobs/view/principal-mission-assurance-engineer-at-the-exploration-company-4410066098",
       "source": "linkedin",
       "date_posted": "2026-05-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4419685528",
+      "title": "Site Reliability Engineer - SRE",
+      "company": "Scaleway",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/site-reliability-engineer-sre-at-scaleway-4419685528",
+      "source": "linkedin",
+      "date_posted": "2026-08-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4446608750",
+      "title": "Site Reliability Engineer (SRE) - Network Products",
+      "company": "Scaleway",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/site-reliability-engineer-sre-network-products-at-scaleway-4446608750",
+      "source": "linkedin",
+      "date_posted": "2026-08-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4448761226",
+      "title": "Responsable d'Activités Fiabilité F/H - KQN",
+      "company": "SERMA Technologies",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-d-activit%C3%A9s-fiabilit%C3%A9-f-h-kqn-at-serma-technologies-4448761226",
+      "source": "linkedin",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2527,10 +2590,10 @@
     }
   ],
   "stats": {
-    "total": 116,
+    "total": 119,
     "sources": {
       "france_travail": 57,
-      "linkedin": 59
+      "linkedin": 62
     }
   }
 }
