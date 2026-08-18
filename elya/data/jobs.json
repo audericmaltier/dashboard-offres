@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T07:21:57.999210+00:00",
+  "last_updated": "2026-08-18T13:26:05.051720+00:00",
   "jobs": [
     {
       "id": "ft_5452998",
@@ -68,6 +68,30 @@
         "skills": 3,
         "matched_skills": [
           "Linux",
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_212PLRF",
+      "title": "Technicien supérieur systèmes et réseaux (H/F)",
+      "company": "OGECSAINTGENES",
+      "location": "33 - BORDEAUX",
+      "description": "L'ensemble scolaire Saint-Genès La Salle est un établissement privé sous contrat avec l'état allant de la grande section de maternelle au post-bac, sur 3 sites. Fort de 3300 élèves, 200 enseignants...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212PLRF",
+      "source": "france_travail",
+      "date_posted": "2026-08-18",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 67,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
           "réseau",
           "système"
         ],
@@ -205,6 +229,30 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212BJKC",
       "source": "france_travail",
       "date_posted": "2026-08-04",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 67,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_6077800",
+      "title": "Administrateur Systèmes et Réseaux (H/F)",
+      "company": "STEPUP",
+      "location": "33 - Bordeaux",
+      "description": "STEP UP est une société d'ingénierie experte en pilotage de projets industriels et informatiques (+ 250 collaborateurs sur 11 agences en France), plaçant le potentiel humain comme 1er vecteur...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6077800",
+      "source": "france_travail",
+      "date_posted": "2026-08-18",
       "contract_type": "CDI",
       "salary": "",
       "score": 67,
@@ -646,29 +694,6 @@
       }
     },
     {
-      "id": "ft_210VLCP",
-      "title": "Technicien(ne) d'Interventions Réseau Electrique BT - Boitier IP (H/F)",
-      "company": "AGISCOMSERVICES",
-      "location": "33 - Bordeaux",
-      "description": "Qui sommes-nous ?\n\nLe Groupe Agiscom est un acteur reconnu dans les études et travaux en électricité, intervenant sur des projets à fort impact dans les domaines suivants...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210VLCP",
-      "source": "france_travail",
-      "date_posted": "2026-07-19",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_210LFHS",
       "title": "Technicien(ne) topographe - détection de réseaux (ADNT 3002) H/F  (H/F)",
       "company": "Non précisé",
@@ -906,27 +931,6 @@
       }
     },
     {
-      "id": "ft_5594955",
-      "title": "Technicien Helpdesk N2 - H/F - CDI",
-      "company": "LaFrancaisedesJeux",
-      "location": "33 - Bordeaux",
-      "description": "A PROPOS DE VOTRE FUTURE FONCTION\n\n \n\nL'Addition est une suite de logicielle complète qui propose des produits et services destinés à accompagner les professionnels du domaine CHR dans l'ensemble de...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5594955",
-      "source": "france_travail",
-      "date_posted": "2026-07-31",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_4683197",
       "title": "Support aux utilisateurs en informatique (H/F)",
       "company": "ExperisFrance",
@@ -1062,6 +1066,27 @@
       "source": "france_travail",
       "date_posted": "2026-08-01",
       "contract_type": "Intérim",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_5594955",
+      "title": "Technicien Helpdesk N2 - H/F - CDI",
+      "company": "LaFrancaisedesJeux",
+      "location": "33 - Bordeaux",
+      "description": "A PROPOS DE VOTRE FUTURE FONCTION\n\n \n\nL'Addition est une suite de logicielle complète qui propose des produits et services destinés à accompagner les professionnels du domaine CHR dans l'ensemble de...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5594955",
+      "source": "france_travail",
+      "date_posted": "2026-07-31",
+      "contract_type": "CDI",
       "salary": "",
       "score": 65,
       "score_breakdown": {
@@ -1235,6 +1260,30 @@
       }
     },
     {
+      "id": "li_4455598734",
+      "title": "Administrateur Systèmes et Réseaux (F/H)",
+      "company": "STEP UP",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-et-r%C3%A9seaux-f-h-at-step-up-4455598734",
+      "source": "linkedin",
+      "date_posted": "2026-08-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 57,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4435884808",
       "title": "Administrateur Systèmes",
       "company": "ITS Services",
@@ -1310,29 +1359,6 @@
       "location": "Bordeaux",
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-identit%C3%A9-h-f-at-fayat-group-4445522685",
-      "source": "linkedin",
-      "date_posted": "2026-07-31",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4447540596",
-      "title": "Administrateur Système Identité H/F",
-      "company": "FAYAT IT",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-identit%C3%A9-h-f-at-fayat-it-4447540596",
       "source": "linkedin",
       "date_posted": "2026-07-31",
       "contract_type": "",
@@ -1497,14 +1523,14 @@
       }
     },
     {
-      "id": "li_4443255200",
-      "title": "Technicien Support de Proximité Junior H/F",
-      "company": "METALINE",
-      "location": "Bordeaux",
+      "id": "li_4454492722",
+      "title": "Technicien de support informatique",
+      "company": "agap2IT France",
+      "location": "Marcheprime",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-de-proximit%C3%A9-junior-h-f-at-metaline-4443255200",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-support-informatique-at-agap2it-france-4454492722",
       "source": "linkedin",
-      "date_posted": "2026-07-28",
+      "date_posted": "2026-08-18",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1539,12 +1565,12 @@
       }
     },
     {
-      "id": "li_4443254267",
-      "title": "Technicien Support de Proximité Confirmé H/F",
+      "id": "li_4443255200",
+      "title": "Technicien Support de Proximité Junior H/F",
       "company": "METALINE",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-de-proximit%C3%A9-confirm%C3%A9-h-f-at-metaline-4443254267",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-de-proximit%C3%A9-junior-h-f-at-metaline-4443255200",
       "source": "linkedin",
       "date_posted": "2026-07-28",
       "contract_type": "",
@@ -1581,14 +1607,35 @@
       }
     },
     {
-      "id": "li_4345914435",
-      "title": "Technicien(ne) Informatique Industrielle et Technique H/F",
-      "company": "SUEZ",
-      "location": "Pessac",
+      "id": "li_4443254267",
+      "title": "Technicien Support de Proximité Confirmé H/F",
+      "company": "METALINE",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-informatique-industrielle-et-technique-h-f-at-suez-4345914435",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-de-proximit%C3%A9-confirm%C3%A9-h-f-at-metaline-4443254267",
       "source": "linkedin",
-      "date_posted": "2026-01-25",
+      "date_posted": "2026-07-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4452577439",
+      "title": "Technicien Support de Proximité Senior H/F -   Bordeaux (33)",
+      "company": "Free-Work",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-de-proximit%C3%A9-senior-h-f-bordeaux-33-at-free-work-4452577439",
+      "source": "linkedin",
+      "date_posted": "2026-08-18",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1727,6 +1774,27 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-support-multi-client-h-f-at-scc-france-4431669739",
       "source": "linkedin",
       "date_posted": "2026-06-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4447582262",
+      "title": "Technicien(e) Support F/H",
+      "company": "CGI",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-e-support-f-h-at-cgi-4447582262",
+      "source": "linkedin",
+      "date_posted": "2026-07-31",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -2354,6 +2422,29 @@
       }
     },
     {
+      "id": "li_4442286434",
+      "title": "Ingénieur systèmes et sécurité F/H",
+      "company": "Keolis Bordeaux Métropole Mobilités",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4442286434",
+      "source": "linkedin",
+      "date_posted": "2026-07-21",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4452230462",
       "title": "Responsable Infrastructure et Sécurité des Systèmes d'Information H/F",
       "company": "GROUPE CYBERTEK",
@@ -2400,14 +2491,14 @@
       }
     },
     {
-      "id": "li_4436418275",
-      "title": "Ingénieur(e) Systemes réseaux et sécurité N2-N3 F/H",
-      "company": "CGI",
+      "id": "li_4425492676",
+      "title": "Expert réseaux H/F",
+      "company": "Inetum",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-systemes-r%C3%A9seaux-et-s%C3%A9curit%C3%A9-n2-n3-f-h-at-cgi-4436418275",
+      "url": "https://fr.linkedin.com/jobs/view/expert-r%C3%A9seaux-h-f-at-inetum-4425492676",
       "source": "linkedin",
-      "date_posted": "2026-07-02",
+      "date_posted": "2026-08-11",
       "contract_type": "",
       "salary": "",
       "score": 33,
@@ -2416,29 +2507,6 @@
         "skills": 1,
         "matched_skills": [
           "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4410087670",
-      "title": "Assistant(e) Système d'Information",
-      "company": "ADMR",
-      "location": "Mazères",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/assistant-e-syst%C3%A8me-d-information-at-admr-4410087670",
-      "source": "linkedin",
-      "date_posted": "2026-05-04",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -2517,6 +2585,27 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-itin%C3%A9rant-h-f-at-acrelec-4445261106",
       "source": "linkedin",
       "date_posted": "2026-07-24",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4452571471",
+      "title": "Technicien de proximité H/F - Bordeaux (33)",
+      "company": "Free-Work",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-proximit%C3%A9-h-f-bordeaux-33-at-free-work-4452571471",
+      "source": "linkedin",
+      "date_posted": "2026-08-18",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2698,27 +2787,6 @@
       }
     },
     {
-      "id": "ft_5453590",
-      "title": "Responsable Reseau et Securite H/F",
-      "company": "Cdiscount",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Responsable Reseau et Securite H/F\nDESCRIPTION : Vos missions principales :\n \n* Garantir la disponibilité et la sécurité de l'infrastructure IT dans un environnement 24/7.\n* Encadrer et...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5453590",
-      "source": "france_travail",
-      "date_posted": "2026-07-25",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 25,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_211NZYZ",
       "title": "Chef d'équipe fibre optique (H/F)",
       "company": "GROUPESOVITRAT",
@@ -2769,29 +2837,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-h-f-at-sabena-technics-4453731460",
       "source": "linkedin",
       "date_posted": "2026-08-14",
-      "contract_type": "",
-      "salary": "",
-      "score": 23,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4445906889",
-      "title": "Ingénieur SysOps & Réseau (H/F)",
-      "company": "Thales",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-sysops-r%C3%A9seau-h-f-at-thales-4445906889",
-      "source": "linkedin",
-      "date_posted": "2026-08-17",
       "contract_type": "",
       "salary": "",
       "score": 23,
@@ -2872,6 +2917,27 @@
       }
     },
     {
+      "id": "li_4388699080",
+      "title": "Technicien Courant Faible (H/F)",
+      "company": "Equans France",
+      "location": "Artigues-près-Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-courant-faible-h-f-at-equans-france-4388699080",
+      "source": "linkedin",
+      "date_posted": "2026-03-23",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4447148433",
       "title": "Consultant support applicatif",
       "company": "eXalt",
@@ -2901,27 +2967,6 @@
       "url": "https://fr.linkedin.com/jobs/view/jde-support-analyst-h-f-at-rh-partners-4445875895",
       "source": "linkedin",
       "date_posted": "2026-08-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4407880692",
-      "title": "Administrateur·rice ERP F/H",
-      "company": "Gironde Habitat Office Public de l’Habitat (OPH)",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur%C2%B7rice-erp-f-h-at-gironde-habitat-office-public-de-l%E2%80%99habitat-oph-4407880692",
-      "source": "linkedin",
-      "date_posted": "2026-04-28",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2977,27 +3022,6 @@
       }
     },
     {
-      "id": "li_4388699080",
-      "title": "Technicien Courant Faible (H/F)",
-      "company": "Equans France",
-      "location": "Artigues-près-Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-courant-faible-h-f-at-equans-france-4388699080",
-      "source": "linkedin",
-      "date_posted": "2026-03-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4438322925",
       "title": "Technicien Mise en Service SSI f/h",
       "company": "Siemens",
@@ -3019,14 +3043,35 @@
       }
     },
     {
-      "id": "li_4443619914",
-      "title": "Administrateur Modern Workplace F/H",
-      "company": "Atos",
-      "location": "Pessac",
+      "id": "li_4374089801",
+      "title": "Technicien sûreté électronique f/h",
+      "company": "Siemens",
+      "location": "Nouvelle-Aquitaine, France",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-modern-workplace-f-h-at-atos-4443619914",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-s%C3%BBret%C3%A9-%C3%A9lectronique-f-h-at-siemens-4374089801",
       "source": "linkedin",
-      "date_posted": "2026-07-28",
+      "date_posted": "2026-08-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4435477187",
+      "title": "Chargé(e) de Support du SI de l'assurance maladie H/F",
+      "company": "Caisse nationale de l’Assurance Maladie",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-e-de-support-du-si-de-l-assurance-maladie-h-f-at-cnam-4435477187",
+      "source": "linkedin",
+      "date_posted": "2026-08-16",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3124,14 +3169,14 @@
       }
     },
     {
-      "id": "li_4447283594",
-      "title": "INGENIEUR RESEAUX ET SECURITE (H/F)",
-      "company": "SOLUTEC",
+      "id": "li_4437288414",
+      "title": "Ingénieur Sécurité Microsoft (H/F)",
+      "company": "CITECH",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ingenieur-reseaux-et-securite-h-f-at-solutec-4447283594",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-microsoft-h-f-at-citech-4437288414",
       "source": "linkedin",
-      "date_posted": "2026-07-31",
+      "date_posted": "2026-07-13",
       "contract_type": "",
       "salary": "",
       "score": 15,
@@ -3166,27 +3211,6 @@
       }
     },
     {
-      "id": "li_4441045503",
-      "title": "Infrastructure & Network Engineer",
-      "company": "stellar //",
-      "location": "Bruges",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/infrastructure-network-engineer-at-stellar-4441045503",
-      "source": "linkedin",
-      "date_posted": "2026-07-22",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4452424998",
       "title": "Techicien SAV junior",
       "company": "GROUPE CYBERTEK",
@@ -3195,48 +3219,6 @@
       "url": "https://fr.linkedin.com/jobs/view/techicien-sav-junior-at-groupe-cybertek-4452424998",
       "source": "linkedin",
       "date_posted": "2026-08-11",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4454459445",
-      "title": "Intégrateur / Intégratrice AS400",
-      "company": "YEVO",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/int%C3%A9grateur-int%C3%A9gratrice-as400-at-yevo-4454459445",
-      "source": "linkedin",
-      "date_posted": "2026-08-18",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4447507058",
-      "title": "INGENIEUR SYSTEMES & RESEAUX (H/F)",
-      "company": "SOLUTEC",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ingenieur-systemes-reseaux-h-f-at-solutec-4447507058",
-      "source": "linkedin",
-      "date_posted": "2026-07-31",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3292,14 +3274,14 @@
       }
     },
     {
-      "id": "li_4444508919",
-      "title": "Paramétreur / Vérificateur des appareils de signalisation (F/H) - CDI - BORDEAUX",
-      "company": "SNCF Réseau",
+      "id": "li_4328859455",
+      "title": "Employé technique et maintenance H/F",
+      "company": "Galeries Lafayette",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/param%C3%A9treur-v%C3%A9rificateur-des-appareils-de-signalisation-f-h-cdi-bordeaux-at-sncf-r%C3%A9seau-4444508919",
+      "url": "https://fr.linkedin.com/jobs/view/employ%C3%A9-technique-et-maintenance-h-f-at-galeries-lafayette-4328859455",
       "source": "linkedin",
-      "date_posted": "2026-07-31",
+      "date_posted": "2025-12-23",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3313,14 +3295,35 @@
       }
     },
     {
-      "id": "li_4434542596",
-      "title": "Ingénieur Infrastructures Microsoft H/F",
-      "company": "Econocom",
-      "location": "Le Barp",
+      "id": "li_4381921060",
+      "title": "Senior Teamcenter Administrator",
+      "company": "The Exploration Company",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-infrastructures-microsoft-h-f-at-econocom-4434542596",
+      "url": "https://fr.linkedin.com/jobs/view/senior-teamcenter-administrator-at-the-exploration-company-4381921060",
       "source": "linkedin",
-      "date_posted": "2026-08-03",
+      "date_posted": "2026-03-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4428299378",
+      "title": "Ingénieur SecOps H/F",
+      "company": "Atos",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-secops-h-f-at-atos-4428299378",
+      "source": "linkedin",
+      "date_posted": "2026-08-02",
       "contract_type": "",
       "salary": "",
       "score": 5,
