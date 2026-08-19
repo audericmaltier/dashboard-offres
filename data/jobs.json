@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-08-19T12:39:13.522247+00:00",
+  "last_updated": "2026-08-19T18:29:48.966002+00:00",
   "jobs": [
+    {
+      "id": "ft_212RCVB",
+      "title": "Ingénieur méthodes / outillages (H/F)",
+      "company": "LECTRA",
+      "location": "33 - CESTAS",
+      "description": "Notre Direction industrielle basée à Bordeaux / Cestas recherche son/sa futur(e) Ingénieur méthodes / outillages (H/F)\n\nMissions\n\nDéfinir et adapter l'outil de production industrielle pour la mise en...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RCVB",
+      "source": "france_travail",
+      "date_posted": "2026-08-19",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
     {
       "id": "ft_6063713",
       "title": "Ingénieur Responsable de Lot - Méthodes Industrialisation H/F",
@@ -942,14 +965,14 @@
       }
     },
     {
-      "id": "li_4445511717",
-      "title": "Ingénieur méthodes H/F",
-      "company": "Lectra",
-      "location": "Cestas",
+      "id": "li_4428838777",
+      "title": "Ingénieur Méthodes / AIT Engineer F/H",
+      "company": "AYES - Management & Technology Consulting",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-lectra-4445511717",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-ait-engineer-f-h-at-ayes-management-technology-consulting-4428838777",
       "source": "linkedin",
-      "date_posted": "2026-07-31",
+      "date_posted": "2026-07-06",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1019,29 +1042,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-proc%C3%A9d%C3%A9s-f-h-at-roxel-4418872535",
       "source": "linkedin",
       "date_posted": "2026-05-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4428838777",
-      "title": "Ingénieur Méthodes / AIT Engineer F/H",
-      "company": "AYES - Management & Technology Consulting",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-ait-engineer-f-h-at-ayes-management-technology-consulting-4428838777",
-      "source": "linkedin",
-      "date_posted": "2026-07-06",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1386,29 +1386,6 @@
       }
     },
     {
-      "id": "ft_5413387",
-      "title": "Ingénieur Procédé Fabrication Additive H/F",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Procédé Fabrication Additive H/F\nDESCRIPTION : \nAfin de rejoindre un nouveau projet lié à la Fabrication Additive, nous ouvrons un poste d'Ingénieur mécanique :\n \n- Analyse des...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5413387",
-      "source": "france_travail",
-      "date_posted": "2026-07-24",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "mécanique"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "li_4436122472",
       "title": "Expert Méthodes Industrielles (F/H)",
       "company": "Thales",
@@ -1534,6 +1511,27 @@
         "sector": 0,
         "recency": 5,
         "contract": 10
+      }
+    },
+    {
+      "id": "li_4437274240",
+      "title": "Responsable bureau d’études ingénierie industrielle F/H",
+      "company": "MCG ENGINEERING",
+      "location": "Gironde",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-bureau-d%E2%80%99%C3%A9tudes-ing%C3%A9nierie-industrielle-f-h-at-mcg-engineering-4437274240",
+      "source": "linkedin",
+      "date_posted": "2026-07-13",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
       }
     },
     {
@@ -1709,6 +1707,27 @@
       }
     },
     {
+      "id": "li_4446646224",
+      "title": "Coordinateur maintenance/Coordinatrice maintenance",
+      "company": "VECTEUR HUMAIN - Expert RH & Accompagnement Professionnel",
+      "location": "Beychac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/coordinateur-maintenance-coordinatrice-maintenance-at-vecteur-humain-expert-rh-accompagnement-professionnel-4446646224",
+      "source": "linkedin",
+      "date_posted": "2026-08-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4406567925",
       "title": "Ingénieur sûreté de fonctionnement (RAMS) (H/F)",
       "company": "HDF Energy",
@@ -1736,6 +1755,27 @@
       "location": "Bordeaux",
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-p%C3%A9rennit%C3%A9-et-obsolescences-h-f-at-thales-4444941422",
+      "source": "linkedin",
+      "date_posted": "2026-08-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4453719519",
+      "title": "Ingénieur qualité H/F",
+      "company": "Sabena technics",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-sabena-technics-4453719519",
       "source": "linkedin",
       "date_posted": "2026-08-14",
       "contract_type": "",
@@ -1898,56 +1938,14 @@
       }
     },
     {
-      "id": "li_4455227335",
-      "title": "Ingénieur(e) sénior génie chimique et data analyst (F/H)",
-      "company": "Michelin",
-      "location": "Bassens",
+      "id": "li_4436349374",
+      "title": "Ingénieure Ingénieur Industrialisation Produits & Procédés",
+      "company": "Capgemini Engineering",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-s%C3%A9nior-g%C3%A9nie-chimique-et-data-analyst-f-h-at-michelin-4455227335",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-industrialisation-produits-proc%C3%A9d%C3%A9s-at-capgemini-engineering-4436349374",
       "source": "linkedin",
-      "date_posted": "2026-08-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4442659237",
-      "title": "Chef de projet process",
-      "company": "agap2",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/chef-de-projet-process-at-agap2-4442659237",
-      "source": "linkedin",
-      "date_posted": "2026-07-21",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4431928337",
-      "title": "Ingénieur.e Aérospatial",
-      "company": "Bee Engineering",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-a%C3%A9rospatial-at-bee-engineering-4431928337",
-      "source": "linkedin",
-      "date_posted": "2026-07-27",
+      "date_posted": "2026-07-02",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2003,14 +2001,14 @@
       }
     },
     {
-      "id": "li_4436349374",
-      "title": "Ingénieure Ingénieur Industrialisation Produits & Procédés",
-      "company": "Capgemini Engineering",
-      "location": "Mérignac",
+      "id": "li_4433974173",
+      "title": "Ingénieur Factory 4.0 - Aérospatial - Bordeaux, France  (H/F)",
+      "company": "Astek",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-industrialisation-produits-proc%C3%A9d%C3%A9s-at-capgemini-engineering-4436349374",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-factory-4-0-a%C3%A9rospatial-bordeaux-france-h-f-at-astek-4433974173",
       "source": "linkedin",
-      "date_posted": "2026-07-02",
+      "date_posted": "2026-08-18",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2158,27 +2156,6 @@
       "url": "https://fr.linkedin.com/jobs/view/responsable-technique-f-h-at-grape-hospitality-4441823520",
       "source": "linkedin",
       "date_posted": "2026-07-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4374375816",
-      "title": "Responsable SAV",
-      "company": "Africa Power Services",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-sav-at-africa-power-services-4374375816",
-      "source": "linkedin",
-      "date_posted": "2026-02-20",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2423,27 +2400,6 @@
       }
     },
     {
-      "id": "li_4449309471",
-      "title": "[Nyx Earth] Component Manufacturing Engineer",
-      "company": "The Exploration Company",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/nyx-earth-component-manufacturing-engineer-at-the-exploration-company-4449309471",
-      "source": "linkedin",
-      "date_posted": "2026-08-05",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4453082729",
       "title": "Responsable Efficacité Energétique - (F/H)",
       "company": "ENGIE",
@@ -2487,10 +2443,10 @@
     }
   ],
   "stats": {
-    "total": 114,
+    "total": 112,
     "sources": {
       "france_travail": 56,
-      "linkedin": 58
+      "linkedin": 56
     }
   }
 }
