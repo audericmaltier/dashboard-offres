@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T12:14:26.844055+00:00",
+  "last_updated": "2026-08-29T20:21:55.763992+00:00",
   "jobs": [
     {
       "id": "ft_212XRRX",
@@ -883,7 +883,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-informatique-industrielle-alignement-du-lmj-h-f-at-cea-4321449961",
       "source": "linkedin",
-      "date_posted": "2026-08-08",
+      "date_posted": "2026-08-29",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1013,6 +1013,29 @@
       }
     },
     {
+      "id": "li_4442645737",
+      "title": "Ingénieur méthodes/Ingénieure méthodes",
+      "company": "EXOES",
+      "location": "Gradignan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-ing%C3%A9nieure-m%C3%A9thodes-at-exoes-4442645737",
+      "source": "linkedin",
+      "date_posted": "2026-08-20",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4458972604",
       "title": "Ingénieur Méthodes (H/F)",
       "company": "ALTEN",
@@ -1059,14 +1082,14 @@
       }
     },
     {
-      "id": "li_4371929328",
-      "title": "Ingénieur Méthodes Composites  - Bordeaux, France  (H/F)",
-      "company": "Astek",
-      "location": "Bordeaux",
+      "id": "li_4457280204",
+      "title": "Ingénieur supply chain / amélioration continue H/F",
+      "company": "Ingeliance",
+      "location": "Le Haillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-composites-bordeaux-france-h-f-at-astek-4371929328",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-supply-chain-am%C3%A9lioration-continue-h-f-at-ingeliance-4457280204",
       "source": "linkedin",
-      "date_posted": "2026-08-08",
+      "date_posted": "2026-08-26",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1074,30 +1097,7 @@
         "title": 40,
         "skills": 1,
         "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4445511717",
-      "title": "Ingénieur méthodes H/F",
-      "company": "Lectra",
-      "location": "Cestas",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-lectra-4445511717",
-      "source": "linkedin",
-      "date_posted": "2026-07-31",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
+          "amélioration continue"
         ],
         "sector": 0,
         "recency": 5,
@@ -1122,6 +1122,50 @@
         "matched_skills": [
           "méthodes"
         ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4446761930",
+      "title": "Ingénieur Méthodes CND - H/F",
+      "company": "agap2",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-cnd-h-f-at-agap2-4446761930",
+      "source": "linkedin",
+      "date_posted": "2026-08-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4436717186",
+      "title": "Ingénieur Techlead Maintenance et Sécurité des Systèmes de Contrôle-Commande (H/F)",
+      "company": "Thales",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-techlead-maintenance-et-s%C3%A9curit%C3%A9-des-syst%C3%A8mes-de-contr%C3%B4le-commande-h-f-at-thales-4436717186",
+      "source": "linkedin",
+      "date_posted": "2026-08-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
         "sector": 0,
         "recency": 5,
         "contract": 0
@@ -1199,6 +1243,27 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-production-at-drt-les-d%C3%A9riv%C3%A9s-r%C3%A9siniques-et-terp%C3%A9niques-4433843058",
       "source": "linkedin",
       "date_posted": "2026-08-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4370509362",
+      "title": "Ingénieur Qualité Production, Industrialisation et Fournisseur H/F",
+      "company": "Scalian",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-production-industrialisation-et-fournisseur-h-f-at-scalian-4370509362",
+      "source": "linkedin",
+      "date_posted": "2026-08-20",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1519,6 +1584,29 @@
       }
     },
     {
+      "id": "li_4436122472",
+      "title": "Expert Méthodes Industrielles (F/H)",
+      "company": "Thales",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/expert-m%C3%A9thodes-industrielles-f-h-at-thales-4436122472",
+      "source": "linkedin",
+      "date_posted": "2026-08-13",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_6334211",
       "title": "Ingénieur Bancs de Test Hyperfréquences H/F",
       "company": "Astorm",
@@ -1579,50 +1667,6 @@
         "sector": 0,
         "recency": 5,
         "contract": 10
-      }
-    },
-    {
-      "id": "ft_6292063",
-      "title": "Responsable d'Affaires Maintenance H/F",
-      "company": "ACTEMIUM Maintenance & Intégration Bordeaux",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Responsable d'Affaires Maintenance H/F\nDESCRIPTION : \nActemium Maintenance & Intégration Bordeaux, 113 salariés pour un CA de plus de 14 M€, marque de VINCI Energies, est un acteur majeur...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6292063",
-      "source": "france_travail",
-      "date_posted": "2026-08-26",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "li_4354627749",
-      "title": "Responsable amélioration continue (H/F)",
-      "company": "LISI AEROSPACE",
-      "location": "Marmande",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-am%C3%A9lioration-continue-h-f-at-lisi-aerospace-4354627749",
-      "source": "linkedin",
-      "date_posted": "2026-08-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 29,
-      "score_breakdown": {
-        "title": 23,
-        "skills": 1,
-        "matched_skills": [
-          "amélioration continue"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
       }
     },
     {
@@ -1695,6 +1739,52 @@
       }
     },
     {
+      "id": "li_4446406134",
+      "title": "Technicien méthodes F/H",
+      "company": "GROUPE ADF",
+      "location": "Vayres",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-f-h-at-groupe-adf-4446406134",
+      "source": "linkedin",
+      "date_posted": "2026-07-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4449564964",
+      "title": "Technicien Méthodes H/F F/H",
+      "company": "Dalkia",
+      "location": "Le Barp",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-h-f-f-h-at-dalkia-4449564964",
+      "source": "linkedin",
+      "date_posted": "2026-08-20",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4458599213",
       "title": "Ingénieur Mécanique (H/F)",
       "company": "fortil",
@@ -1711,6 +1801,29 @@
         "skills": 1,
         "matched_skills": [
           "mécanique"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4458193761",
+      "title": "Responsable méthodes",
+      "company": "AptiSkills",
+      "location": "Nouvelle-Aquitaine, France",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-m%C3%A9thodes-at-aptiskills-4458193761",
+      "source": "linkedin",
+      "date_posted": "2026-08-24",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
         ],
         "sector": 0,
         "recency": 5,
@@ -1747,6 +1860,27 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6170766",
       "source": "france_travail",
       "date_posted": "2026-08-21",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "ft_6423807",
+      "title": "Planificateur des opérations de maintenance H/F",
+      "company": "ARTUS INTERIM PESSAC",
+      "location": "33 - Martillac",
+      "description": "ARTUS INTERIM PESSAC recherche un(e) Planificateur(trice) des opérations de maintenance H/F pour une entreprise spécialisée dans les infrastructures énergétiques, les bornes de recharge pour...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6423807",
+      "source": "france_travail",
+      "date_posted": "2026-08-29",
       "contract_type": "Intérim",
       "salary": "",
       "score": 22,
@@ -1823,14 +1957,14 @@
       }
     },
     {
-      "id": "li_4326281419",
-      "title": "Responsable de site Maintenance multi technique H/F",
-      "company": "SE3M",
-      "location": "Bordeaux",
+      "id": "li_4445499678",
+      "title": "Ingenieur process et amelioration continue",
+      "company": "Imerys",
+      "location": "Clérac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-maintenance-multi-technique-h-f-at-se3m-4326281419",
+      "url": "https://fr.linkedin.com/jobs/view/ingenieur-process-et-amelioration-continue-at-imerys-4445499678",
       "source": "linkedin",
-      "date_posted": "2025-12-08",
+      "date_posted": "2026-08-19",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1844,14 +1978,35 @@
       }
     },
     {
-      "id": "li_4457108613",
-      "title": "Responsable Maintenance CVC (H/F)",
-      "company": "agap2",
+      "id": "li_4383748946",
+      "title": "Technicien d'études BE - Maintenance H/F",
+      "company": "FAUCHÉ",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-d-%C3%A9tudes-be-maintenance-h-f-at-fauch%C3%A9-4383748946",
+      "source": "linkedin",
+      "date_posted": "2026-08-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4457238546",
+      "title": "Responsable Maintenance (H/F)",
+      "company": "L'Usine Nouvelle",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-cvc-h-f-at-agap2-4457108613",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-h-f-at-l-usine-nouvelle-4457238546",
       "source": "linkedin",
-      "date_posted": "2026-08-24",
+      "date_posted": "2026-08-26",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1873,6 +2028,48 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%BBret%C3%A9-de-fonctionnement-rams-h-f-at-hdf-energy-4406567925",
       "source": "linkedin",
       "date_posted": "2026-04-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4458784822",
+      "title": "Ingénieur Support produits Hardware (F/H)",
+      "company": "Thales",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-support-produits-hardware-f-h-at-thales-4458784822",
+      "source": "linkedin",
+      "date_posted": "2026-08-25",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4448762126",
+      "title": "Ingénieur Sureté de fonctionnement Matériel - F/H - KQN",
+      "company": "SERMA Safety and Security",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-suret%C3%A9-de-fonctionnement-mat%C3%A9riel-f-h-kqn-at-serma-safety-and-security-4448762126",
+      "source": "linkedin",
+      "date_posted": "2026-08-07",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -1915,69 +2112,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r-d-contr%C3%B4le-dimensionnel-qualit%C3%A9-proc%C3%A9d%C3%A9s-h-f-at-lisi-group-4440133447",
       "source": "linkedin",
       "date_posted": "2026-07-20",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4448762126",
-      "title": "Ingénieur Sureté de fonctionnement Matériel - F/H - KQN",
-      "company": "SERMA Safety and Security",
-      "location": "Pessac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-suret%C3%A9-de-fonctionnement-mat%C3%A9riel-f-h-kqn-at-serma-safety-and-security-4448762126",
-      "source": "linkedin",
-      "date_posted": "2026-08-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4453719519",
-      "title": "Ingénieur qualité H/F",
-      "company": "Sabena technics",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-sabena-technics-4453719519",
-      "source": "linkedin",
-      "date_posted": "2026-08-14",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4445499678",
-      "title": "Ingenieur process et amelioration continue",
-      "company": "Imerys",
-      "location": "Clérac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ingenieur-process-et-amelioration-continue-at-imerys-4445499678",
-      "source": "linkedin",
-      "date_posted": "2026-08-19",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2201,14 +2335,14 @@
       }
     },
     {
-      "id": "li_4446812915",
-      "title": "Ingénieure Ingénieur méthode composite",
-      "company": "Capgemini Engineering",
-      "location": "Mérignac",
+      "id": "li_4445980112",
+      "title": "Ingénieur procédés parachèvement (F/H)",
+      "company": "STEP UP",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thode-composite-at-capgemini-engineering-4446812915",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-proc%C3%A9d%C3%A9s-parach%C3%A8vement-f-h-at-step-up-4445980112",
       "source": "linkedin",
-      "date_posted": "2026-07-29",
+      "date_posted": "2026-07-27",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2222,19 +2356,40 @@
       }
     },
     {
-      "id": "li_4446212663",
-      "title": "Ingénieur qualité fournisseurs H/F",
-      "company": "Lectra",
-      "location": "Cestas",
+      "id": "li_4453719519",
+      "title": "Ingénieur qualité H/F",
+      "company": "Sabena technics",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-fournisseurs-h-f-at-lectra-4446212663",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-sabena-technics-4453719519",
       "source": "linkedin",
-      "date_posted": "2026-08-03",
+      "date_posted": "2026-08-14",
       "contract_type": "",
       "salary": "",
       "score": 22,
       "score_breakdown": {
         "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4457756195",
+      "title": "Chargé d'affaires électricité (F/H)",
+      "company": "PRIME ENGINEERING",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-d-affaires-%C3%A9lectricit%C3%A9-f-h-at-prime-engineering-france-4457756195",
+      "source": "linkedin",
+      "date_posted": "2026-08-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 16,
+      "score_breakdown": {
+        "title": 11,
         "skills": 0,
         "matched_skills": [],
         "sector": 0,
@@ -2285,119 +2440,12 @@
       }
     },
     {
-      "id": "li_4459424310",
-      "title": "Responsable lean manufacturing H/F",
-      "company": "LHH",
-      "location": "Nouvelle-Aquitaine, France",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-lean-manufacturing-h-f-at-lhh-4459424310",
-      "source": "linkedin",
-      "date_posted": "2026-08-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 6,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 1,
-        "matched_skills": [
-          "lean"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4453082729",
-      "title": "Responsable Efficacité Energétique - (F/H)",
+      "id": "li_4449564574",
+      "title": "Responsable Efficacité Energétique – PREDITY for Assets",
       "company": "ENGIE",
-      "location": "Cestas",
+      "location": "Canéjan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-efficacit%C3%A9-energ%C3%A9tique-f-h-at-engie-4453082729",
-      "source": "linkedin",
-      "date_posted": "2026-08-12",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4441823520",
-      "title": "Responsable technique F/H",
-      "company": "Grape Hospitality",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-f-h-at-grape-hospitality-4441823520",
-      "source": "linkedin",
-      "date_posted": "2026-07-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4460339916",
-      "title": "Responsable de site H/F",
-      "company": "IDEX",
-      "location": "Jonzac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-h-f-at-idex-4460339916",
-      "source": "linkedin",
-      "date_posted": "2026-08-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4404548508",
-      "title": "Responsable Support Produit F/H",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-support-produit-f-h-at-thales-4404548508",
-      "source": "linkedin",
-      "date_posted": "2026-08-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4451540319",
-      "title": "Responsable Technique H/F",
-      "company": "Hively Hospitality",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-h-f-at-hively-hospitality-4451540319",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-efficacit%C3%A9-energ%C3%A9tique-%E2%80%93-predity-for-assets-at-engie-4449564574",
       "source": "linkedin",
       "date_posted": "2026-08-10",
       "contract_type": "",
@@ -2413,14 +2461,35 @@
       }
     },
     {
-      "id": "li_4459691822",
-      "title": "Responsable d'exploitation F/H",
-      "company": "IDEX",
-      "location": "Floirac",
+      "id": "li_4441094584",
+      "title": "Responsable Démarrage & Mise au point - (F/H)",
+      "company": "ENGIE",
+      "location": "Canéjan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-d-exploitation-f-h-at-idex-4459691822",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-4441094584",
       "source": "linkedin",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-07-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4195837995",
+      "title": "Animateur Technique Pôle Usine",
+      "company": "O-I",
+      "location": "Vayres",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/animateur-technique-p%C3%B4le-usine-at-o-i-4195837995",
+      "source": "linkedin",
+      "date_posted": "2026-08-26",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2476,6 +2545,48 @@
       }
     },
     {
+      "id": "li_4448761226",
+      "title": "Responsable d'Activités Fiabilité F/H - KQN",
+      "company": "SERMA Technologies",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-d-activit%C3%A9s-fiabilit%C3%A9-f-h-kqn-at-serma-technologies-4448761226",
+      "source": "linkedin",
+      "date_posted": "2026-08-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4427052057",
+      "title": "Safety Component engineer (F/H)",
+      "company": "Thales",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/safety-component-engineer-f-h-at-thales-4427052057",
+      "source": "linkedin",
+      "date_posted": "2026-08-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4410066098",
       "title": "Principal Mission Assurance Engineer",
       "company": "The Exploration Company",
@@ -2497,77 +2608,14 @@
       }
     },
     {
-      "id": "li_4419685528",
-      "title": "Site Reliability Engineer - SRE",
-      "company": "Scaleway",
-      "location": "Bordeaux",
+      "id": "li_4428926739",
+      "title": "Chef de projet technologue/fiabilité (F/H) - AAI",
+      "company": "SERMA Technologies",
+      "location": "Pessac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/site-reliability-engineer-sre-at-scaleway-4419685528",
+      "url": "https://fr.linkedin.com/jobs/view/chef-de-projet-technologue-fiabilit%C3%A9-f-h-aai-at-serma-technologies-4428926739",
       "source": "linkedin",
-      "date_posted": "2026-08-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4446608750",
-      "title": "Site Reliability Engineer (SRE) - Network Products",
-      "company": "Scaleway",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/site-reliability-engineer-sre-network-products-at-scaleway-4446608750",
-      "source": "linkedin",
-      "date_posted": "2026-08-25",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4199887555",
-      "title": "Distributed Systems Software Engineer, Python / Go",
-      "company": "Canonical",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/distributed-systems-software-engineer-python-go-at-canonical-4199887555",
-      "source": "linkedin",
-      "date_posted": "2025-04-02",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4441094584",
-      "title": "Responsable Démarrage & Mise au point - (F/H)",
-      "company": "ENGIE",
-      "location": "Canéjan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-4441094584",
-      "source": "linkedin",
-      "date_posted": "2026-07-27",
+      "date_posted": "2026-07-17",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2623,75 +2671,12 @@
       }
     },
     {
-      "id": "li_4450694972",
-      "title": "Responsable performance opérationnelle",
-      "company": "ALESSIA",
-      "location": "Bordeaux et périphérie",
+      "id": "li_4458634140",
+      "title": "Responsable technique en manufacturing engineering (H/F)",
+      "company": "ALTEN",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-performance-op%C3%A9rationnelle-at-adenine-human-resources-4450694972",
-      "source": "linkedin",
-      "date_posted": "2026-08-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4455316478",
-      "title": "SAFETY MANAGEMENT SYSTEM AND QUALITY",
-      "company": "FLYING WHALES",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/safety-management-system-and-quality-at-flying-whales-4455316478",
-      "source": "linkedin",
-      "date_posted": "2026-08-17",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4444386286",
-      "title": "Supply Chain Quality Engineer - MAIT",
-      "company": "The Exploration Company",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/supply-chain-quality-engineer-mait-at-the-exploration-company-4444386286",
-      "source": "linkedin",
-      "date_posted": "2026-08-14",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4449309471",
-      "title": "[Nyx Earth] Component Manufacturing Engineer",
-      "company": "The Exploration Company",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/nyx-earth-component-manufacturing-engineer-at-the-exploration-company-4449309471",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-en-manufacturing-engineering-h-f-at-alten-4458634140",
       "source": "linkedin",
       "date_posted": "2026-08-27",
       "contract_type": "",
@@ -2708,10 +2693,10 @@
     }
   ],
   "stats": {
-    "total": 124,
+    "total": 123,
     "sources": {
       "france_travail": 60,
-      "linkedin": 64
+      "linkedin": 63
     }
   }
 }
