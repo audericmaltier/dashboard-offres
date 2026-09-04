@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T16:33:44.618440+00:00",
+  "last_updated": "2026-09-04T20:57:51.878870+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -140,6 +140,30 @@
         "matched_skills": [
           "Linux",
           "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_213LKTB",
+      "title": "Administrateur systèmes et réseaux (H/F)",
+      "company": "MANPOWER",
+      "location": "33 - Mérignac",
+      "description": "Manpower BORDEAUX GRANDS COMPTES recherche pour La Caisse Primaire d'Assurance Maladie, un Administrateur systèmes et réseaux (H/F); \nMission d'intérim de 6 mois à pourvoir sur Mérignac.\nAu sein du...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LKTB",
+      "source": "france_travail",
+      "date_posted": "2026-09-04",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 67,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -1326,29 +1350,6 @@
       }
     },
     {
-      "id": "li_4435884808",
-      "title": "Administrateur Systèmes",
-      "company": "ITS Services",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-at-its-services-4435884808",
-      "source": "linkedin",
-      "date_posted": "2026-08-13",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4446454079",
       "title": "Administrateur Réseaux WAN F/H",
       "company": "La Poste Groupe",
@@ -1365,6 +1366,29 @@
         "skills": 1,
         "matched_skills": [
           "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4435884808",
+      "title": "Administrateur Systèmes",
+      "company": "ITS Services",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-at-its-services-4435884808",
+      "source": "linkedin",
+      "date_posted": "2026-09-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -1403,29 +1427,6 @@
       "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-at-step-up-4458247493",
       "source": "linkedin",
       "date_posted": "2026-08-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4459189694",
-      "title": "Administrateur/trice Data Système Information Médicale (H/F)",
-      "company": "Clinique Saint Martin Vesoul",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-trice-data-syst%C3%A8me-information-m%C3%A9dicale-h-f-at-clinique-saint-martin-vesoul-4459189694",
-      "source": "linkedin",
-      "date_posted": "2026-08-26",
       "contract_type": "",
       "salary": "",
       "score": 56,
@@ -1609,6 +1610,27 @@
       }
     },
     {
+      "id": "li_4439271636",
+      "title": "Technicien informatique Itinérant H/F",
+      "company": "FIDUCIAL",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-itin%C3%A9rant-h-f-at-fiducial-4439271636",
+      "source": "linkedin",
+      "date_posted": "2026-07-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4463342735",
       "title": "Technicien support informatique F/H",
       "company": "VINCI Energies",
@@ -1617,48 +1639,6 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-support-informatique-f-h-at-vinci-energies-4463342735",
       "source": "linkedin",
       "date_posted": "2026-09-04",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4456504188",
-      "title": "Technicien informatique de proximité environnement F/H",
-      "company": "Université de Bordeaux",
-      "location": "Gradignan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-de-proximit%C3%A9-environnement-f-h-at-universit%C3%A9-de-bordeaux-4456504188",
-      "source": "linkedin",
-      "date_posted": "2026-08-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4456929659",
-      "title": "Technicien Informatique - Bordeaux, France  (H/F)",
-      "company": "Tekneum by Astek",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-bordeaux-france-h-f-at-tekneum-by-astek-4456929659",
-      "source": "linkedin",
-      "date_posted": "2026-08-25",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1735,14 +1715,14 @@
       }
     },
     {
-      "id": "li_4439271636",
-      "title": "Technicien informatique Itinérant H/F",
-      "company": "FIDUCIAL",
-      "location": "Bordeaux",
+      "id": "li_4444489053",
+      "title": "Technicien informatique en apprentisage H/F",
+      "company": "Groupe LDLC",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-itin%C3%A9rant-h-f-at-fiducial-4439271636",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-en-apprentisage-h-f-at-ldlc-4444489053",
       "source": "linkedin",
-      "date_posted": "2026-07-22",
+      "date_posted": "2026-07-23",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1756,14 +1736,35 @@
       }
     },
     {
-      "id": "li_4457477623",
-      "title": "ALTERNANCE : Technicien-ne support informatique",
-      "company": "ERECApluriel",
-      "location": "Andernos-les-Bains",
+      "id": "li_4456929659",
+      "title": "Technicien Informatique - Bordeaux, France  (H/F)",
+      "company": "Tekneum by Astek",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/alternance-technicien-ne-support-informatique-at-erecapluriel-4457477623",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-bordeaux-france-h-f-at-tekneum-by-astek-4456929659",
       "source": "linkedin",
       "date_posted": "2026-08-25",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4456504188",
+      "title": "Technicien informatique de proximité environnement F/H",
+      "company": "Université de Bordeaux",
+      "location": "Gradignan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-de-proximit%C3%A9-environnement-f-h-at-universit%C3%A9-de-bordeaux-4456504188",
+      "source": "linkedin",
+      "date_posted": "2026-08-24",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1806,6 +1807,48 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-support-applicatif-f-h-at-guaran%C3%AD-4450208862",
       "source": "linkedin",
       "date_posted": "2026-08-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4448555683",
+      "title": "Technicien(ne) Support Technique Client H/F",
+      "company": "Natus Medical Incorporated",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-support-technique-client-h-f-at-natus-medical-incorporated-4448555683",
+      "source": "linkedin",
+      "date_posted": "2026-08-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4447581381",
+      "title": "Technicien(e) Support Expert(e) F/H",
+      "company": "CGI",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-e-support-expert-e-f-h-at-cgi-4447581381",
+      "source": "linkedin",
+      "date_posted": "2026-07-31",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1881,29 +1924,6 @@
         "skills": 1,
         "matched_skills": [
           "Active Directory"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_2145977",
-      "title": "Architecte réseau télécom (H/F)",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Description du poste :\n\nSubordonné au chef du CANZ-SO, vous exercez les fonctions de chef de centre de mise en œuvre des réseaux de desserte (CMO-RD). En qualité de responsable technique réseaux pour...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2145977",
-      "source": "france_travail",
-      "date_posted": "2026-08-05",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 43,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
         ],
         "sector": 10,
         "recency": 5,
@@ -2123,27 +2143,6 @@
       }
     },
     {
-      "id": "ft_1914309",
-      "title": "Administrateur·e Supervision Dynatrace H/F",
-      "company": "Safran",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Administrateur·e Supervision Dynatrace H/F\nDESCRIPTION : \nVous voyez un avion ? C'est simple, le groupe Safran fait tout dans l'avion, sauf l'avion !   \nEt nous, Safran Aircraft Engines,...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/1914309",
-      "source": "france_travail",
-      "date_posted": "2026-08-05",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 42,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "li_4437300542",
       "title": "Ingénieur Système et Réseaux Confirmé (H/F)",
       "company": "Extia",
@@ -2152,30 +2151,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seaux-confirm%C3%A9-h-f-at-extia-4437300542",
       "source": "linkedin",
       "date_posted": "2026-08-21",
-      "contract_type": "",
-      "salary": "",
-      "score": 40,
-      "score_breakdown": {
-        "title": 23,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4389835751",
-      "title": "Ingénieur Système et Réseaux (H/F)",
-      "company": "Extia",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seaux-h-f-at-extia-4389835751",
-      "source": "linkedin",
-      "date_posted": "2026-08-15",
       "contract_type": "",
       "salary": "",
       "score": 40,
@@ -2262,30 +2237,6 @@
       }
     },
     {
-      "id": "li_4415697637",
-      "title": "Expert Système Linux et OpenShift Senior (H/F)",
-      "company": "CTS Consulting & Technical Support",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-syst%C3%A8me-linux-et-openshift-senior-h-f-at-cts-consulting-technical-support-4415697637",
-      "source": "linkedin",
-      "date_posted": "2026-05-18",
-      "contract_type": "",
-      "salary": "",
-      "score": 34,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 2,
-        "matched_skills": [
-          "Linux",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4458724557",
       "title": "Ingénieur système et réseau H/F",
       "company": "Groupe itp",
@@ -2302,6 +2253,30 @@
         "skills": 2,
         "matched_skills": [
           "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4415697637",
+      "title": "Expert Système Linux et OpenShift Senior (H/F)",
+      "company": "CTS Consulting & Technical Support",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/expert-syst%C3%A8me-linux-et-openshift-senior-h-f-at-cts-consulting-technical-support-4415697637",
+      "source": "linkedin",
+      "date_posted": "2026-05-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 34,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 2,
+        "matched_skills": [
+          "Linux",
           "système"
         ],
         "sector": 10,
@@ -2402,75 +2377,6 @@
       }
     },
     {
-      "id": "li_4442286434",
-      "title": "Ingénieur systèmes et sécurité F/H",
-      "company": "Keolis Bordeaux Métropole Mobilités",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4442286434",
-      "source": "linkedin",
-      "date_posted": "2026-07-21",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4433112883",
-      "title": "Ingénieur systèmes F/H",
-      "company": "Atos",
-      "location": "Pessac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-f-h-at-atos-4433112883",
-      "source": "linkedin",
-      "date_posted": "2026-08-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4452230462",
-      "title": "Responsable Infrastructure et Sécurité des Systèmes d'Information H/F",
-      "company": "GROUPE CYBERTEK",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-infrastructure-et-s%C3%A9curit%C3%A9-des-syst%C3%A8mes-d-information-h-f-at-groupe-cybertek-4452230462",
-      "source": "linkedin",
-      "date_posted": "2026-08-17",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_213JMWB",
       "title": "Technicien de maintenance tramway (H/F)",
       "company": "PROMAN",
@@ -2534,56 +2440,14 @@
       }
     },
     {
-      "id": "li_4333186203",
-      "title": "ADMINISTRATEUR SYSTEME DES MOYENS ET RESEAUX INFORMATIQUE D'ESSAIS F/H",
-      "company": "Civils de la Défense",
-      "location": "Biscarrosse",
+      "id": "li_4455898309",
+      "title": "Technicien d'exploitation H/F",
+      "company": "FIDUCIAL",
+      "location": "Le Bouscat",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-systeme-des-moyens-et-reseaux-informatique-d-essais-f-h-at-civils-de-la-d%C3%A9fense-4333186203",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-d-exploitation-h-f-at-fiducial-4455898309",
       "source": "linkedin",
-      "date_posted": "2025-10-30",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4456688859",
-      "title": "Mécénat de compétences : Appui informatique WordPress & Microsoft 365 pour une association d'aide aux personnes exilées",
-      "company": "Tous Bénévoles",
-      "location": "Talence",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/m%C3%A9c%C3%A9nat-de-comp%C3%A9tences-appui-informatique-wordpress-microsoft-365-pour-une-association-d-aide-aux-personnes-exil%C3%A9es-at-tous-b%C3%A9n%C3%A9voles-4456688859",
-      "source": "linkedin",
-      "date_posted": "2026-08-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4440957284",
-      "title": "Gestionnaire de parc informatique (F/H)",
-      "company": "INRAE",
-      "location": "Villenave-d'Ornon",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/gestionnaire-de-parc-informatique-f-h-at-inrae-4440957284",
-      "source": "linkedin",
-      "date_posted": "2026-07-15",
+      "date_posted": "2026-09-02",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2618,14 +2482,14 @@
       }
     },
     {
-      "id": "li_4344385404",
-      "title": "RESPONSABLE INFORMATIQUE",
-      "company": "Saica Groupe",
-      "location": "Bernos-Beaulac",
+      "id": "li_4333186203",
+      "title": "ADMINISTRATEUR SYSTEME DES MOYENS ET RESEAUX INFORMATIQUE D'ESSAIS F/H",
+      "company": "Civils de la Défense",
+      "location": "Biscarrosse",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-informatique-at-saica-group-4344385404",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-systeme-des-moyens-et-reseaux-informatique-d-essais-f-h-at-civils-de-la-d%C3%A9fense-4333186203",
       "source": "linkedin",
-      "date_posted": "2025-12-17",
+      "date_posted": "2025-10-30",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2639,14 +2503,35 @@
       }
     },
     {
-      "id": "li_4460476253",
-      "title": "Technicien(ne) de maintenance et d'exploitation en itinérance dans le traitement d'eau - CDI - Gironde (33)",
-      "company": "Veolia | Water Tech",
-      "location": "Mérignac",
+      "id": "li_4440957284",
+      "title": "Gestionnaire de parc informatique (F/H)",
+      "company": "INRAE",
+      "location": "Villenave-d'Ornon",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-de-maintenance-et-d-exploitation-en-itin%C3%A9rance-dans-le-traitement-d-eau-cdi-gironde-33-at-veolia-water-tech-4460476253",
+      "url": "https://fr.linkedin.com/jobs/view/gestionnaire-de-parc-informatique-f-h-at-inrae-4440957284",
       "source": "linkedin",
-      "date_posted": "2026-09-03",
+      "date_posted": "2026-07-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4344385404",
+      "title": "RESPONSABLE INFORMATIQUE",
+      "company": "Saica Groupe",
+      "location": "Bernos-Beaulac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-informatique-at-saica-group-4344385404",
+      "source": "linkedin",
+      "date_posted": "2025-12-17",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2681,14 +2566,14 @@
       }
     },
     {
-      "id": "li_4461059749",
+      "id": "li_4445522685",
       "title": "Administrateur Identité/IAM (H/F)",
-      "company": "FAYAT IT",
+      "company": "FAYAT Group",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-identit%C3%A9-iam-h-f-at-fayat-it-4461059749",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-identit%C3%A9-iam-h-f-at-fayat-group-4445522685",
       "source": "linkedin",
-      "date_posted": "2026-08-31",
+      "date_posted": "2026-09-02",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2702,14 +2587,14 @@
       }
     },
     {
-      "id": "li_4445522685",
+      "id": "li_4461059749",
       "title": "Administrateur Identité/IAM (H/F)",
-      "company": "FAYAT Group",
+      "company": "FAYAT IT",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-identit%C3%A9-iam-h-f-at-fayat-group-4445522685",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-identit%C3%A9-iam-h-f-at-fayat-it-4461059749",
       "source": "linkedin",
-      "date_posted": "2026-09-02",
+      "date_posted": "2026-08-31",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2853,14 +2738,14 @@
       }
     },
     {
-      "id": "li_4419907709",
-      "title": "Consultant Implémentation & support PLM (H/F) (33)",
-      "company": "Percall Group",
-      "location": "Le Haillan",
+      "id": "li_4460492297",
+      "title": "Chargé de Support Clients (H/F) - Bordeaux",
+      "company": "HELPLINE",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/consultant-impl%C3%A9mentation-support-plm-h-f-33-at-percall-group-4419907709",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-support-clients-h-f-bordeaux-at-helpline-4460492297",
       "source": "linkedin",
-      "date_posted": "2026-05-27",
+      "date_posted": "2026-09-03",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2874,14 +2759,77 @@
       }
     },
     {
-      "id": "li_4452495435",
-      "title": "Conseiller support clients H/F CDD 5 mois",
-      "company": "SEPTEO",
+      "id": "li_4448176145",
+      "title": "Consultant support (H/F)",
+      "company": "Baryton",
+      "location": "Montpouillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/consultant-support-h-f-at-baryton-4448176145",
+      "source": "linkedin",
+      "date_posted": "2026-08-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4407880692",
+      "title": "Administrateur·rice ERP F/H",
+      "company": "Gironde Habitat Office Public de l’Habitat (OPH)",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/conseiller-support-clients-h-f-cdd-5-mois-at-septeo-4452495435",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur%C2%B7rice-erp-f-h-at-gironde-habitat-office-public-de-l%E2%80%99habitat-oph-4407880692",
       "source": "linkedin",
-      "date_posted": "2026-08-11",
+      "date_posted": "2026-04-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4434983771",
+      "title": "Technicien SOC N1",
+      "company": "GazelTech",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-soc-n1-at-gazeltech-4434983771",
+      "source": "linkedin",
+      "date_posted": "2026-06-30",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4443619914",
+      "title": "Administrateur Modern Workplace F/H",
+      "company": "Atos",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-modern-workplace-f-h-at-atos-4443619914",
+      "source": "linkedin",
+      "date_posted": "2026-08-19",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2903,27 +2851,6 @@
       "url": "https://fr.linkedin.com/jobs/view/consultant-support-confirm%C3%A9-outils-collaboratifs-h-f-at-percall-group-4443080979",
       "source": "linkedin",
       "date_posted": "2026-07-21",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4463190972",
-      "title": "Technicien fibre optique f/h",
-      "company": "RM LESCAR",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-fibre-optique-f-h-at-rm-lescar-4463190972",
-      "source": "linkedin",
-      "date_posted": "2026-08-10",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3000,12 +2927,12 @@
       }
     },
     {
-      "id": "li_4443619914",
-      "title": "Administrateur Modern Workplace F/H",
-      "company": "Atos",
+      "id": "li_4361441593",
+      "title": "Technicien de maintenance SSI F/H",
+      "company": "Eiffage Énergie Systèmes",
       "location": "Pessac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-modern-workplace-f-h-at-atos-4443619914",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-ssi-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4361441593",
       "source": "linkedin",
       "date_posted": "2026-08-19",
       "contract_type": "",
@@ -3105,27 +3032,6 @@
       }
     },
     {
-      "id": "li_4448740884",
-      "title": "Agent de transit H/F",
-      "company": "LVO Groupe",
-      "location": "Bruges",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/agent-de-transit-h-f-at-lvo-group-4448740884",
-      "source": "linkedin",
-      "date_posted": "2026-08-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 15,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4461099459",
       "title": "INGENIEUR RESEAUX ET SECURITE (H/F)",
       "company": "SOLUTEC",
@@ -3189,14 +3095,35 @@
       }
     },
     {
-      "id": "li_4437288414",
-      "title": "Ingénieur Sécurité Microsoft (H/F)",
-      "company": "CITECH",
-      "location": "Bordeaux",
+      "id": "li_4378763400",
+      "title": "Architecte Microsoft Modern Workplace",
+      "company": "Capgemini",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-microsoft-h-f-at-citech-4437288414",
+      "url": "https://fr.linkedin.com/jobs/view/architecte-microsoft-modern-workplace-at-capgemini-4378763400",
       "source": "linkedin",
-      "date_posted": "2026-07-13",
+      "date_posted": "2026-02-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 15,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4448180230",
+      "title": "Responsable équipe IT/Cloud",
+      "company": "Dedomainia",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-%C3%A9quipe-it-cloud-at-dedomainia-4448180230",
+      "source": "linkedin",
+      "date_posted": "2026-08-31",
       "contract_type": "",
       "salary": "",
       "score": 15,
@@ -3233,6 +3160,27 @@
       }
     },
     {
+      "id": "li_4461096849",
+      "title": "INGENIEUR SYSTEMES & RESEAUX (H/F)",
+      "company": "SOLUTEC",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ingenieur-systemes-reseaux-h-f-at-solutec-4461096849",
+      "source": "linkedin",
+      "date_posted": "2026-08-31",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4441045503",
       "title": "Infrastructure & Network Engineer",
       "company": "stellar //",
@@ -3241,6 +3189,48 @@
       "url": "https://fr.linkedin.com/jobs/view/infrastructure-network-engineer-at-stellar-4441045503",
       "source": "linkedin",
       "date_posted": "2026-07-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4454459445",
+      "title": "Intégrateur / Intégratrice AS400",
+      "company": "YEVO",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/int%C3%A9grateur-int%C3%A9gratrice-as400-at-yevo-4454459445",
+      "source": "linkedin",
+      "date_posted": "2026-08-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4434542596",
+      "title": "Ingénieur Infrastructures Microsoft H/F",
+      "company": "Econocom",
+      "location": "Le Barp",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-infrastructures-microsoft-h-f-at-econocom-4434542596",
+      "source": "linkedin",
+      "date_posted": "2026-08-03",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3296,90 +3286,6 @@
       }
     },
     {
-      "id": "li_4454459445",
-      "title": "Intégrateur / Intégratrice AS400",
-      "company": "YEVO",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/int%C3%A9grateur-int%C3%A9gratrice-as400-at-yevo-4454459445",
-      "source": "linkedin",
-      "date_posted": "2026-08-18",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4453861232",
-      "title": "Coordinateur technique de production Infrastructures et cloud (H/F)",
-      "company": "CHEOPS TECHNOLOGY",
-      "location": "Canéjan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/coordinateur-technique-de-production-infrastructures-et-cloud-h-f-at-cheops-technology-4453861232",
-      "source": "linkedin",
-      "date_posted": "2026-08-20",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4461096849",
-      "title": "INGENIEUR SYSTEMES & RESEAUX (H/F)",
-      "company": "SOLUTEC",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ingenieur-systemes-reseaux-h-f-at-solutec-4461096849",
-      "source": "linkedin",
-      "date_posted": "2026-08-31",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4434542596",
-      "title": "Ingénieur Infrastructures Microsoft H/F",
-      "company": "Econocom",
-      "location": "Le Barp",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-infrastructures-microsoft-h-f-at-econocom-4434542596",
-      "source": "linkedin",
-      "date_posted": "2026-08-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4461517108",
       "title": "Installateur Raccordeur - Télécoms H/F",
       "company": "TSO Rail Limited",
@@ -3401,14 +3307,14 @@
       }
     },
     {
-      "id": "li_4428299378",
-      "title": "Ingénieur SecOps H/F",
-      "company": "Atos",
-      "location": "Pessac",
+      "id": "li_4454786657",
+      "title": "Développeur Backend .NET expérimenté",
+      "company": "eXalt",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-secops-h-f-at-atos-4428299378",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-backend-net-exp%C3%A9riment%C3%A9-at-exalt-4454786657",
       "source": "linkedin",
-      "date_posted": "2026-08-23",
+      "date_posted": "2026-08-18",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3422,14 +3328,98 @@
       }
     },
     {
-      "id": "li_4462169335",
-      "title": "Lead Cloud, Systems & Network Administrator",
-      "company": "VB Spine",
-      "location": "Cestas",
+      "id": "li_4459765894",
+      "title": "Développeur(se) FullStack C#.Net - H/F",
+      "company": "agap2IT France",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/lead-cloud-systems-network-administrator-at-vb-spine-4462169335",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-se-fullstack-c%23-net-h-f-at-agap2it-france-4459765894",
       "source": "linkedin",
-      "date_posted": "2026-09-02",
+      "date_posted": "2026-08-31",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4450389337",
+      "title": "Consultant.e technique Microsoft CRM Dynamics 365 & Power Platform (F/H)",
+      "company": "Technomade",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/consultant-e-technique-microsoft-crm-dynamics-365-power-platform-f-h-at-technomade-4450389337",
+      "source": "linkedin",
+      "date_posted": "2026-08-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4344341473",
+      "title": "Développeur .Net/Développeuse .Net",
+      "company": "GROUPE LR TECHNOLOGIES",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-net-d%C3%A9veloppeuse-net-at-groupe-lr-technologies-4344341473",
+      "source": "linkedin",
+      "date_posted": "2026-08-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4458369443",
+      "title": "Développeur .NET",
+      "company": "eXalt IT",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-net-at-exalt-it-4458369443",
+      "source": "linkedin",
+      "date_posted": "2026-08-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4425454573",
+      "title": "Officier sous-contrat - INGENIEUR INFRASTRUCTURE CLOUD 4. - FABNUM/POHEB/CNMOSI/SAIC - BDX",
+      "company": "Commissariat au Numérique de Défense - CND",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/officier-sous-contrat-ingenieur-infrastructure-cloud-4-fabnum-poheb-cnmosi-saic-bdx-at-commissariat-au-num%C3%A9rique-de-d%C3%A9fense-cnd-4425454573",
+      "source": "linkedin",
+      "date_posted": "2026-09-03",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3446,8 +3436,8 @@
   "stats": {
     "total": 156,
     "sources": {
-      "france_travail": 86,
-      "linkedin": 70
+      "france_travail": 85,
+      "linkedin": 71
     }
   }
 }
