@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T16:42:45.283147+00:00",
+  "last_updated": "2026-09-11T21:11:39.032092+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -1354,14 +1354,14 @@
       }
     },
     {
-      "id": "li_4463022916",
-      "title": "Administrateur Système et Réseaux (Bordeaux) (IT) / Freelance",
-      "company": "Free-Work",
-      "location": "Bordeaux",
+      "id": "li_4431653966",
+      "title": "Administrateur Système et Virtualisation (H/F)",
+      "company": "CHEOPS TECHNOLOGY",
+      "location": "Canéjan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-r%C3%A9seaux-bordeaux-it-freelance-at-free-work-4463022916",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-et-virtualisation-h-f-at-cheops-technology-4431653966",
       "source": "linkedin",
-      "date_posted": "2026-09-09",
+      "date_posted": "2026-06-22",
       "contract_type": "",
       "salary": "",
       "score": 57,
@@ -1369,7 +1369,7 @@
         "title": 40,
         "skills": 2,
         "matched_skills": [
-          "réseau",
+          "virtualisation",
           "système"
         ],
         "sector": 10,
@@ -1417,6 +1417,29 @@
         "skills": 1,
         "matched_skills": [
           "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4464496805",
+      "title": "Technicien Détection de réseaux & Géomètre-Topographe (expérimenté) F/H",
+      "company": "Groupe ADRÉ",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-d%C3%A9tection-de-r%C3%A9seaux-g%C3%A9om%C3%A8tre-topographe-exp%C3%A9riment%C3%A9-f-h-at-groupe-adr%C3%A9-4464496805",
+      "source": "linkedin",
+      "date_posted": "2026-09-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
         ],
         "sector": 10,
         "recency": 5,
@@ -1592,12 +1615,12 @@
       }
     },
     {
-      "id": "li_4461649565",
+      "id": "li_4461654531",
       "title": "Technicien de maintenance automatismes et informatique industrielle F/H",
       "company": "RTE Réseau de Transport d'Electricité",
       "location": "Floirac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461649565",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461654531",
       "source": "linkedin",
       "date_posted": "2026-09-03",
       "contract_type": "",
@@ -1621,6 +1644,27 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-support-informatique-n1-n2-f-h-at-agap2it-france-4459764890",
       "source": "linkedin",
       "date_posted": "2026-08-31",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4466369805",
+      "title": "Technicien support informatique F/H",
+      "company": "VINCI Energies",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-informatique-f-h-at-vinci-energies-4466369805",
+      "source": "linkedin",
+      "date_posted": "2026-09-11",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1684,27 +1728,6 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-ne-support-technique-client-h-f-at-natus-medical-incorporated-4448555683",
       "source": "linkedin",
       "date_posted": "2026-08-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4447582262",
-      "title": "Technicien(e) Support F/H",
-      "company": "CGI",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-e-support-f-h-at-cgi-4447582262",
-      "source": "linkedin",
-      "date_posted": "2026-07-31",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -2029,6 +2052,29 @@
       }
     },
     {
+      "id": "li_4385456060",
+      "title": "Technicien système de sureté électronique (H/F)",
+      "company": "Snef",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-syst%C3%A8me-de-suret%C3%A9-%C3%A9lectronique-h-f-at-snef-4385456060",
+      "source": "linkedin",
+      "date_posted": "2026-03-19",
+      "contract_type": "",
+      "salary": "",
+      "score": 39,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_6541940",
       "title": "Administrateur / Administratrice réseau informatique (H/F)",
       "company": "CATAMANIA",
@@ -2101,6 +2147,29 @@
       }
     },
     {
+      "id": "li_4448846243",
+      "title": "Ingénieure / Ingénieur Réseaux",
+      "company": "Capgemini",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-r%C3%A9seaux-at-capgemini-4448846243",
+      "source": "linkedin",
+      "date_posted": "2026-09-01",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4197307766",
       "title": "Ingénieur Réseaux (H/F)",
       "company": "ITS Services",
@@ -2132,29 +2201,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-et-s%C3%A9curit%C3%A9-h-f-at-lectra-4462204768",
       "source": "linkedin",
       "date_posted": "2026-09-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4459770826",
-      "title": "Ingénieur(e) Réseau et Sécurité - H/F",
-      "company": "agap2IT France",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-r%C3%A9seau-et-s%C3%A9curit%C3%A9-h-f-at-agap2it-france-4459770826",
-      "source": "linkedin",
-      "date_posted": "2026-08-31",
       "contract_type": "",
       "salary": "",
       "score": 33,
@@ -2346,27 +2392,6 @@
       }
     },
     {
-      "id": "li_4456688859",
-      "title": "Mécénat de compétences : Appui informatique WordPress & Microsoft 365 pour une association d'aide aux personnes exilées",
-      "company": "Tous Bénévoles",
-      "location": "Talence",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/m%C3%A9c%C3%A9nat-de-comp%C3%A9tences-appui-informatique-wordpress-microsoft-365-pour-une-association-d-aide-aux-personnes-exil%C3%A9es-at-tous-b%C3%A9n%C3%A9voles-4456688859",
-      "source": "linkedin",
-      "date_posted": "2026-08-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4440957284",
       "title": "Gestionnaire de parc informatique (F/H)",
       "company": "INRAE",
@@ -2388,6 +2413,27 @@
       }
     },
     {
+      "id": "li_4456688859",
+      "title": "Mécénat de compétences : Appui informatique WordPress & Microsoft 365 pour une association d'aide aux personnes exilées",
+      "company": "Tous Bénévoles",
+      "location": "Talence",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/m%C3%A9c%C3%A9nat-de-comp%C3%A9tences-appui-informatique-wordpress-microsoft-365-pour-une-association-d-aide-aux-personnes-exil%C3%A9es-at-tous-b%C3%A9n%C3%A9voles-4456688859",
+      "source": "linkedin",
+      "date_posted": "2026-08-23",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4451249323",
       "title": "Technicien Électricien Sûreté sécurité électrique - H/F",
       "company": "ENSIO",
@@ -2396,6 +2442,69 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-%C3%A9lectricien-s%C3%BBret%C3%A9-s%C3%A9curit%C3%A9-%C3%A9lectrique-h-f-at-ensio-4451249323",
       "source": "linkedin",
       "date_posted": "2026-08-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4461147556",
+      "title": "Technicien d'Inspection Electricité et Ascenseurs H/F",
+      "company": "Groupe Qualiconsult",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-d-inspection-electricit%C3%A9-et-ascenseurs-h-f-at-groupe-qualiconsult-4461147556",
+      "source": "linkedin",
+      "date_posted": "2026-09-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4463276646",
+      "title": "Technicien(ne) de maintenance et d'exploitation en itinérance dans le traitement d'eau - CDI - Gironde (33)",
+      "company": "Veolia | Water Tech",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-de-maintenance-et-d-exploitation-en-itin%C3%A9rance-dans-le-traitement-d-eau-cdi-gironde-33-at-veolia-water-tech-4463276646",
+      "source": "linkedin",
+      "date_posted": "2026-09-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4465832332",
+      "title": "Technicien de contrôles réglementaires itinérant H/F",
+      "company": "TSG France",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-contr%C3%B4les-r%C3%A9glementaires-itin%C3%A9rant-h-f-at-tsg-france-4465832332",
+      "source": "linkedin",
+      "date_posted": "2026-09-10",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2644,27 +2753,6 @@
       }
     },
     {
-      "id": "li_4461675590",
-      "title": "HOTLINER SUPPORT TECHNIQUE H/F",
-      "company": "JDC SA",
-      "location": "Bruges",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4461675590",
-      "source": "linkedin",
-      "date_posted": "2026-09-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4464392555",
       "title": "Conseiller support clients H/F CDD 5 mois",
       "company": "SEPTEO",
@@ -2715,6 +2803,69 @@
       "url": "https://fr.linkedin.com/jobs/view/customer-support-engineer-at-steris-4417795107",
       "source": "linkedin",
       "date_posted": "2026-09-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4443080979",
+      "title": "Consultant Support Confirmé - Outils Collaboratifs (h/f)",
+      "company": "Percall Group",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/consultant-support-confirm%C3%A9-outils-collaboratifs-h-f-at-percall-group-4443080979",
+      "source": "linkedin",
+      "date_posted": "2026-07-21",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4461302217",
+      "title": "Analyste Fonctionnel – Run & Support Applicatif",
+      "company": "eXalt",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/analyste-fonctionnel-%E2%80%93-run-support-applicatif-at-exalt-4461302217",
+      "source": "linkedin",
+      "date_posted": "2026-09-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4407015894",
+      "title": "HOTLINER SUPPORT TECHNIQUE H/F",
+      "company": "JDC SA",
+      "location": "Bruges",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
+      "source": "linkedin",
+      "date_posted": "2026-04-29",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2799,6 +2950,69 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-de-mise-en-service-en-ssi-h-f-%E2%80%93-bordeaux-33-at-r%C3%A9seau-def-4465672093",
       "source": "linkedin",
       "date_posted": "2026-09-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4456335954",
+      "title": "TECHNICIEN RESEAUX EAU POTABLE ASSAINISSEMENT H/F",
+      "company": "SUEZ",
+      "location": "Montagne",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-reseaux-eau-potable-assainissement-h-f-at-suez-4456335954",
+      "source": "linkedin",
+      "date_posted": "2026-08-19",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4460959841",
+      "title": "Technicien Maintenance H/F",
+      "company": "Groupe Solstyce",
+      "location": "Artigues-près-Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-maintenance-h-f-at-groupe-solstyce-4460959841",
+      "source": "linkedin",
+      "date_posted": "2026-09-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4330520470",
+      "title": "Technicien de Maintenance SSI (H/F)",
+      "company": "Equans France",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-ssi-h-f-at-equans-france-4330520470",
+      "source": "linkedin",
+      "date_posted": "2026-01-05",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2925,6 +3139,48 @@
       "url": "https://fr.linkedin.com/jobs/view/ingenieur-reseaux-et-securite-h-f-at-solutec-4461099459",
       "source": "linkedin",
       "date_posted": "2026-08-31",
+      "contract_type": "",
+      "salary": "",
+      "score": 15,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4462174380",
+      "title": "INGENIEUR DE PRODUCTION IT H/F",
+      "company": "Inetum",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ingenieur-de-production-it-h-f-at-inetum-4462174380",
+      "source": "linkedin",
+      "date_posted": "2026-09-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 15,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4462801072",
+      "title": "Chargé exploitation et maintenance photovoltaïque H/F",
+      "company": "Groupe Solstyce",
+      "location": "Artigues-près-Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-exploitation-et-maintenance-photovolta%C3%AFque-h-f-at-groupe-solstyce-4462801072",
+      "source": "linkedin",
+      "date_posted": "2026-09-03",
       "contract_type": "",
       "salary": "",
       "score": 15,
@@ -3319,10 +3575,10 @@
     }
   ],
   "stats": {
-    "total": 150,
+    "total": 162,
     "sources": {
       "france_travail": 80,
-      "linkedin": 70
+      "linkedin": 82
     }
   }
 }
