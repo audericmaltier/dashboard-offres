@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T10:33:49.850547+00:00",
+  "last_updated": "2026-09-11T15:49:03.024982+00:00",
   "jobs": [
     {
       "id": "ft_6815217",
@@ -835,29 +835,6 @@
       }
     },
     {
-      "id": "li_4466063457",
-      "title": "APPRENTI(E) INGÉNIEUR(E) INDUSTRIALISATION & AMÉLIORATION CONTINUE H/F",
-      "company": "RPI Menuiserie",
-      "location": "Sauveterre-de-Guyenne",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/apprenti-e-ing%C3%A9nieur-e-industrialisation-am%C3%A9lioration-continue-h-f-at-rpi-4466063457",
-      "source": "linkedin",
-      "date_posted": "2026-09-11",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "amélioration continue"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4457280204",
       "title": "Ingénieur supply chain / amélioration continue H/F",
       "company": "Ingeliance",
@@ -927,14 +904,14 @@
       }
     },
     {
-      "id": "li_4464561276",
+      "id": "li_4464868740",
       "title": "Ingénieur Méthodes (H/F)",
       "company": "ALTEN",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4464561276",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4464868740",
       "source": "linkedin",
-      "date_posted": "2026-09-10",
+      "date_posted": "2026-09-11",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1640,6 +1617,27 @@
       }
     },
     {
+      "id": "li_4444324944",
+      "title": "Chargé(e) de Projet Moyens Industriels H/F",
+      "company": "Ingeliance",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-e-de-projet-moyens-industriels-h-f-at-ingeliance-4444324944",
+      "source": "linkedin",
+      "date_posted": "2026-07-24",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4354627749",
       "title": "Responsable amélioration continue (H/F)",
       "company": "LISI AEROSPACE",
@@ -2139,27 +2137,6 @@
       }
     },
     {
-      "id": "li_4436878106",
-      "title": "Ingénieur Exploitation - Gironde H/F",
-      "company": "Sogedo",
-      "location": "Gironde",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-exploitation-gironde-h-f-at-sogedo-4436878106",
-      "source": "linkedin",
-      "date_posted": "2026-07-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4445980112",
       "title": "Ingénieur procédés parachèvement (F/H)",
       "company": "STEP UP",
@@ -2173,6 +2150,48 @@
       "score": 22,
       "score_breakdown": {
         "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4453719519",
+      "title": "Ingénieur qualité H/F",
+      "company": "Sabena technics",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-h-f-at-sabena-technics-4453719519",
+      "source": "linkedin",
+      "date_posted": "2026-08-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4457756195",
+      "title": "Chargé d'affaires électricité (F/H)",
+      "company": "PRIME ENGINEERING",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-d-affaires-%C3%A9lectricit%C3%A9-f-h-at-prime-engineering-france-4457756195",
+      "source": "linkedin",
+      "date_posted": "2026-08-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 16,
+      "score_breakdown": {
+        "title": 11,
         "skills": 0,
         "matched_skills": [],
         "sector": 0,
@@ -2240,27 +2259,6 @@
         "matched_skills": [
           "lean"
         ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4463350636",
-      "title": "Technicien(ne) Performance Énergétique",
-      "company": "VINCI Energies",
-      "location": "Eysines",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-performance-%C3%A9nerg%C3%A9tique-at-vinci-energies-4463350636",
-      "source": "linkedin",
-      "date_posted": "2026-09-04",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
         "sector": 0,
         "recency": 5,
         "contract": 0
@@ -2338,6 +2336,27 @@
       "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-4441094584",
       "source": "linkedin",
       "date_posted": "2026-07-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4195837995",
+      "title": "Animateur Technique Pôle Usine",
+      "company": "O-I",
+      "location": "Vayres",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/animateur-technique-p%C3%B4le-usine-at-o-i-4195837995",
+      "source": "linkedin",
+      "date_posted": "2026-08-26",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2456,14 +2475,14 @@
       }
     },
     {
-      "id": "li_4430409898",
+      "id": "li_4440664831",
       "title": "Mechanical Engineer",
       "company": "pony",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/mechanical-engineer-at-pony-4430409898",
+      "url": "https://fr.linkedin.com/jobs/view/mechanical-engineer-at-pony-4440664831",
       "source": "linkedin",
-      "date_posted": "2026-06-18",
+      "date_posted": "2026-07-15",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2540,14 +2559,14 @@
       }
     },
     {
-      "id": "li_4462961016",
+      "id": "li_4464874697",
       "title": "Responsable technique en manufacturing engineering (H/F)",
       "company": "ALTEN",
       "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-en-manufacturing-engineering-h-f-at-alten-4462961016",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-en-manufacturing-engineering-h-f-at-alten-4464874697",
       "source": "linkedin",
-      "date_posted": "2026-09-07",
+      "date_posted": "2026-09-11",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2562,10 +2581,10 @@
     }
   ],
   "stats": {
-    "total": 117,
+    "total": 118,
     "sources": {
       "france_travail": 59,
-      "linkedin": 58
+      "linkedin": 59
     }
   }
 }
