@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T11:09:55.977136+00:00",
+  "last_updated": "2026-09-12T15:46:12.014797+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -1594,14 +1594,14 @@
       }
     },
     {
-      "id": "li_4456504188",
+      "id": "li_4457473486",
       "title": "Technicien informatique de proximité environnement F/H",
       "company": "Université de Bordeaux",
-      "location": "Gradignan",
+      "location": "Gironde",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-de-proximit%C3%A9-environnement-f-h-at-universit%C3%A9-de-bordeaux-4456504188",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-de-proximit%C3%A9-environnement-f-h-at-universit%C3%A9-de-bordeaux-4457473486",
       "source": "linkedin",
-      "date_posted": "2026-08-24",
+      "date_posted": "2026-08-25",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -2099,30 +2099,6 @@
       }
     },
     {
-      "id": "li_4415697637",
-      "title": "Expert Système Linux et OpenShift Senior (H/F)",
-      "company": "CTS Consulting & Technical Support",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-syst%C3%A8me-linux-et-openshift-senior-h-f-at-cts-consulting-technical-support-4415697637",
-      "source": "linkedin",
-      "date_posted": "2026-05-18",
-      "contract_type": "",
-      "salary": "",
-      "score": 34,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 2,
-        "matched_skills": [
-          "Linux",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4464861513",
       "title": "Ingénieure / Ingénieur système et réseau Mainframe",
       "company": "Inspection Générale de La Banque Postale",
@@ -2139,6 +2115,30 @@
         "skills": 2,
         "matched_skills": [
           "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4415697637",
+      "title": "Expert Système Linux et OpenShift Senior (H/F)",
+      "company": "CTS Consulting & Technical Support",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/expert-syst%C3%A8me-linux-et-openshift-senior-h-f-at-cts-consulting-technical-support-4415697637",
+      "source": "linkedin",
+      "date_posted": "2026-05-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 34,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 2,
+        "matched_skills": [
+          "Linux",
           "système"
         ],
         "sector": 10,
@@ -2709,14 +2709,14 @@
       }
     },
     {
-      "id": "li_4334006279",
-      "title": "Technicien(ne) Telecom  H/F",
-      "company": "Groupe LBS",
+      "id": "li_4464517280",
+      "title": "Chargé(e) de support et d’accompagnement applicatif H/F",
+      "company": "MÉSOLIA",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-telecom-h-f-at-groupe-lbs-4334006279",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-e-de-support-et-d%E2%80%99accompagnement-applicatif-h-f-at-m%C3%A9solia-4464517280",
       "source": "linkedin",
-      "date_posted": "2025-11-04",
+      "date_posted": "2026-09-10",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2730,14 +2730,14 @@
       }
     },
     {
-      "id": "li_4464517280",
-      "title": "Chargé(e) de support et d’accompagnement applicatif H/F",
-      "company": "MÉSOLIA",
-      "location": "Bordeaux",
+      "id": "li_4448176145",
+      "title": "Consultant support (H/F)",
+      "company": "Baryton",
+      "location": "Montpouillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-e-de-support-et-d%E2%80%99accompagnement-applicatif-h-f-at-m%C3%A9solia-4464517280",
+      "url": "https://fr.linkedin.com/jobs/view/consultant-support-h-f-at-baryton-4448176145",
       "source": "linkedin",
-      "date_posted": "2026-09-10",
+      "date_posted": "2026-08-03",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2898,6 +2898,27 @@
       }
     },
     {
+      "id": "li_4461675590",
+      "title": "HOTLINER SUPPORT TECHNIQUE H/F",
+      "company": "JDC SA",
+      "location": "Bruges",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4461675590",
+      "source": "linkedin",
+      "date_posted": "2026-09-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4461700913",
       "title": "Technicien alarme vidéosurveillance confirmé H/F",
       "company": "Finalease Group Security",
@@ -2982,14 +3003,14 @@
       }
     },
     {
-      "id": "li_4456335954",
-      "title": "TECHNICIEN RESEAUX EAU POTABLE ASSAINISSEMENT H/F",
-      "company": "SUEZ",
-      "location": "Montagne",
+      "id": "li_4434983771",
+      "title": "Technicien SOC N1",
+      "company": "GazelTech",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-reseaux-eau-potable-assainissement-h-f-at-suez-4456335954",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-soc-n1-at-gazeltech-4434983771",
       "source": "linkedin",
-      "date_posted": "2026-08-19",
+      "date_posted": "2026-06-30",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3032,6 +3053,27 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-ssi-h-f-at-equans-france-4330520470",
       "source": "linkedin",
       "date_posted": "2026-01-05",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4374089801",
+      "title": "Technicien sûreté électronique f/h",
+      "company": "Siemens",
+      "location": "Nouvelle-Aquitaine, France",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-s%C3%BBret%C3%A9-%C3%A9lectronique-f-h-at-siemens-4374089801",
+      "source": "linkedin",
+      "date_posted": "2026-09-01",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3550,10 +3592,10 @@
     }
   ],
   "stats": {
-    "total": 161,
+    "total": 163,
     "sources": {
       "france_travail": 80,
-      "linkedin": 81
+      "linkedin": 83
     }
   }
 }
