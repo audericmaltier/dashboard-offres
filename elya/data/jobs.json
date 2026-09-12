@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T15:46:12.014797+00:00",
+  "last_updated": "2026-09-12T20:50:12.309233+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -3129,14 +3129,14 @@
       }
     },
     {
-      "id": "ft_212SJBV",
-      "title": "ELECTRICIEN COURANT FAIBLE (H/F)",
-      "company": "TRIANGLESOLUTIONSRH",
-      "location": "33 - Bordeaux",
-      "description": "Dans le cadre d'un besoin de notre client, l'agence TRIANGLE INTÉRIM BORDEAUX CHARTRONS recherche des Électriciens Courant Faible (H/F) pour intervenir sur des projets techniques à forte valeur...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212SJBV",
+      "id": "ft_213PSTK",
+      "title": "Électricien (H/F)",
+      "company": "PARTNAIRE",
+      "location": "33 - Pessac",
+      "description": "L'agence Partnaire Bordeaux BTP recrute un Électricien (F/H) pour le compte de l'un de ses clients : un grand groupe international, leader incontournable dans les secteurs des infrastructures, de la...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213PSTK",
       "source": "france_travail",
-      "date_posted": "2026-08-20",
+      "date_posted": "2026-09-09",
       "contract_type": "Intérim",
       "salary": "",
       "score": 15,
@@ -3568,34 +3568,13 @@
         "recency": 5,
         "contract": 0
       }
-    },
-    {
-      "id": "li_4425454573",
-      "title": "Officier sous-contrat - INGENIEUR INFRASTRUCTURE CLOUD 4. - FABNUM/POHEB/CNMOSI/SAIC - BDX",
-      "company": "Commissariat au Numérique de Défense - CND",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/officier-sous-contrat-ingenieur-infrastructure-cloud-4-fabnum-poheb-cnmosi-saic-bdx-at-commissariat-au-num%C3%A9rique-de-d%C3%A9fense-cnd-4425454573",
-      "source": "linkedin",
-      "date_posted": "2026-09-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
     }
   ],
   "stats": {
-    "total": 163,
+    "total": 162,
     "sources": {
       "france_travail": 80,
-      "linkedin": 83
+      "linkedin": 82
     }
   }
 }
