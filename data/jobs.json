@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T10:02:06.446798+00:00",
+  "last_updated": "2026-09-12T14:56:56.246761+00:00",
   "jobs": [
     {
       "id": "ft_6815217",
@@ -795,7 +795,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-enr-m%C3%A9thodes-et-gmao-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4408449065",
       "source": "linkedin",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-09-12",
       "contract_type": "",
       "salary": "",
       "score": 48,
@@ -1994,6 +1994,27 @@
       }
     },
     {
+      "id": "li_4383748946",
+      "title": "Technicien d'études BE - Maintenance H/F",
+      "company": "FAUCHÉ",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-d-%C3%A9tudes-be-maintenance-h-f-at-fauch%C3%A9-4383748946",
+      "source": "linkedin",
+      "date_posted": "2026-08-30",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4464852687",
       "title": "Ingénieur sûreté de fonctionnement H/F",
       "company": "Ingeliance",
@@ -2290,27 +2311,6 @@
       }
     },
     {
-      "id": "li_4453097947",
-      "title": "Responsable Démarrage & Mise au point - (F/H)",
-      "company": "ENGIE Solutions France",
-      "location": "Cestas",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-solutions-france-4453097947",
-      "source": "linkedin",
-      "date_posted": "2026-09-02",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4441823520",
       "title": "Responsable technique F/H",
       "company": "Grape Hospitality",
@@ -2500,14 +2500,14 @@
       }
     },
     {
-      "id": "li_4440664831",
+      "id": "li_4430409898",
       "title": "Mechanical Engineer",
       "company": "pony",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/mechanical-engineer-at-pony-4440664831",
+      "url": "https://fr.linkedin.com/jobs/view/mechanical-engineer-at-pony-4430409898",
       "source": "linkedin",
-      "date_posted": "2026-07-15",
+      "date_posted": "2026-06-18",
       "contract_type": "",
       "salary": "",
       "score": 5,
