@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T16:35:26.086099+00:00",
+  "last_updated": "2026-09-13T21:04:03.848708+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -1187,27 +1187,6 @@
       }
     },
     {
-      "id": "ft_211NFGT",
-      "title": "Technicien Informatique F/H",
-      "company": "ADEQUATINTERIM",
-      "location": "33 - Bouscat",
-      "description": "Notre agence Adéquat Bordeaux Tertiaire recrute un ou une Technicien d'exploitation informatique F/H pour une mission de 3 mois en intérim débutant début septembre sur Le Bouscat, auprès d'un client...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211NFGT",
-      "source": "france_travail",
-      "date_posted": "2026-08-14",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "li_4459939117",
       "title": "Technicien Support Système et Réseau H/F - (KSC/092026)",
       "company": "SERMA Safety and Security",
@@ -1571,14 +1550,14 @@
       }
     },
     {
-      "id": "li_4456504188",
+      "id": "li_4457473486",
       "title": "Technicien informatique de proximité environnement F/H",
       "company": "Université de Bordeaux",
-      "location": "Gradignan",
+      "location": "Gironde",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-de-proximit%C3%A9-environnement-f-h-at-universit%C3%A9-de-bordeaux-4456504188",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-de-proximit%C3%A9-environnement-f-h-at-universit%C3%A9-de-bordeaux-4457473486",
       "source": "linkedin",
-      "date_posted": "2026-08-24",
+      "date_posted": "2026-08-25",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -2193,29 +2172,6 @@
       }
     },
     {
-      "id": "li_4442286434",
-      "title": "Ingénieur systèmes et sécurité F/H",
-      "company": "Keolis Bordeaux Métropole Mobilités",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4442286434",
-      "source": "linkedin",
-      "date_posted": "2026-07-21",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4452230462",
       "title": "Responsable Infrastructure et Sécurité des Systèmes d'Information H/F",
       "company": "GROUPE CYBERTEK",
@@ -2278,6 +2234,29 @@
         "skills": 1,
         "matched_skills": [
           "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4442286434",
+      "title": "Ingénieur systèmes et sécurité F/H",
+      "company": "Keolis Bordeaux Métropole Mobilités",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4442286434",
+      "source": "linkedin",
+      "date_posted": "2026-07-21",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -2348,14 +2327,14 @@
       }
     },
     {
-      "id": "li_4455898309",
-      "title": "Technicien d'exploitation H/F",
-      "company": "FIDUCIAL",
-      "location": "Le Bouscat",
+      "id": "li_4440957284",
+      "title": "Gestionnaire de parc informatique (F/H)",
+      "company": "INRAE",
+      "location": "Villenave-d'Ornon",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-d-exploitation-h-f-at-fiducial-4455898309",
+      "url": "https://fr.linkedin.com/jobs/view/gestionnaire-de-parc-informatique-f-h-at-inrae-4440957284",
       "source": "linkedin",
-      "date_posted": "2026-09-02",
+      "date_posted": "2026-07-15",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2369,14 +2348,14 @@
       }
     },
     {
-      "id": "li_4440957284",
-      "title": "Gestionnaire de parc informatique (F/H)",
-      "company": "INRAE",
-      "location": "Villenave-d'Ornon",
+      "id": "li_4455898309",
+      "title": "Technicien d'exploitation H/F",
+      "company": "FIDUCIAL",
+      "location": "Le Bouscat",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/gestionnaire-de-parc-informatique-f-h-at-inrae-4440957284",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-d-exploitation-h-f-at-fiducial-4455898309",
       "source": "linkedin",
-      "date_posted": "2026-07-15",
+      "date_posted": "2026-09-02",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -3506,9 +3485,9 @@
     }
   ],
   "stats": {
-    "total": 159,
+    "total": 158,
     "sources": {
-      "france_travail": 79,
+      "france_travail": 78,
       "linkedin": 80
     }
   }
