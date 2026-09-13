@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T12:14:20.435842+00:00",
+  "last_updated": "2026-09-13T16:35:26.086099+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -805,29 +805,6 @@
       }
     },
     {
-      "id": "ft_212MLYC",
-      "title": "Technicien / Technicienne de contrôle de réseau d'assainissement (H/F)",
-      "company": "CRITINTERIM",
-      "location": "33 - Bassens",
-      "description": "L'agence CRIT recherche pour l'un de ses clients spécialisés dans les services à l'environnement et l'assainissement, l'entretien des réseaux et la collecte de déchets liquides.\n\nA l'aide d'un camion...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212MLYC",
-      "source": "france_travail",
-      "date_posted": "2026-08-14",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_210LFHS",
       "title": "Technicien(ne) topographe - détection de réseaux (ADNT 3002) H/F",
       "company": "Non précisé",
@@ -1615,12 +1592,12 @@
       }
     },
     {
-      "id": "li_4461649565",
+      "id": "li_4461654531",
       "title": "Technicien de maintenance automatismes et informatique industrielle F/H",
       "company": "RTE Réseau de Transport d'Electricité",
       "location": "Floirac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461649565",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461654531",
       "source": "linkedin",
       "date_posted": "2026-09-03",
       "contract_type": "",
@@ -2123,30 +2100,6 @@
       }
     },
     {
-      "id": "li_4464681666",
-      "title": "Ingénieur(e) Système Linux",
-      "company": "CGI",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-syst%C3%A8me-linux-at-cgi-4464681666",
-      "source": "linkedin",
-      "date_posted": "2026-09-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 34,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 2,
-        "matched_skills": [
-          "Linux",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4415697637",
       "title": "Expert Système Linux et OpenShift Senior (H/F)",
       "company": "CTS Consulting & Technical Support",
@@ -2164,29 +2117,6 @@
         "matched_skills": [
           "Linux",
           "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4448846243",
-      "title": "Ingénieure / Ingénieur Réseaux",
-      "company": "Capgemini",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-r%C3%A9seaux-at-capgemini-4448846243",
-      "source": "linkedin",
-      "date_posted": "2026-09-01",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
         ],
         "sector": 10,
         "recency": 5,
@@ -2225,6 +2155,29 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-et-s%C3%A9curit%C3%A9-h-f-at-lectra-4462204768",
       "source": "linkedin",
       "date_posted": "2026-09-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4459770826",
+      "title": "Ingénieur(e) Réseau et Sécurité - H/F",
+      "company": "agap2IT France",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-r%C3%A9seau-et-s%C3%A9curit%C3%A9-h-f-at-agap2it-france-4459770826",
+      "source": "linkedin",
+      "date_posted": "2026-08-31",
       "contract_type": "",
       "salary": "",
       "score": 33,
@@ -3433,7 +3386,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-secops-h-f-at-atos-4428299378",
       "source": "linkedin",
-      "date_posted": "2026-08-23",
+      "date_posted": "2026-09-13",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -3553,10 +3506,10 @@
     }
   ],
   "stats": {
-    "total": 161,
+    "total": 159,
     "sources": {
-      "france_travail": 80,
-      "linkedin": 81
+      "france_travail": 79,
+      "linkedin": 80
     }
   }
 }
