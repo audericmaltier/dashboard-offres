@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T11:42:59.479869+00:00",
+  "last_updated": "2026-09-14T17:37:12.448439+00:00",
   "jobs": [
     {
       "id": "ft_6815217",
@@ -1063,27 +1063,6 @@
       }
     },
     {
-      "id": "li_4463268137",
-      "title": "Ingénieur Process (H/F)",
-      "company": "agap2",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-agap2-4463268137",
-      "source": "linkedin",
-      "date_posted": "2026-09-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4384858676",
       "title": "Ingénieure/ Ingénieur production",
       "company": "Capgemini",
@@ -1105,14 +1084,14 @@
       }
     },
     {
-      "id": "li_4435575504",
-      "title": "Ingénieur de production applicative / Middleware H/F",
-      "company": "FAYAT Group",
+      "id": "li_4463268137",
+      "title": "Ingénieur Process (H/F)",
+      "company": "agap2",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-production-applicative-middleware-h-f-at-fayat-group-4435575504",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-agap2-4463268137",
       "source": "linkedin",
-      "date_posted": "2026-07-16",
+      "date_posted": "2026-09-08",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1728,6 +1707,29 @@
       }
     },
     {
+      "id": "li_4465770493",
+      "title": "Chef de Projet Maintenance Corrective - Energie (H/F)",
+      "company": "YEVO",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/chef-de-projet-maintenance-corrective-energie-h-f-at-yevo-4465770493",
+      "source": "linkedin",
+      "date_posted": "2026-09-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "maintenance corrective"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4418017085",
       "title": "Technicien méthodes H/F",
       "company": "VINCI",
@@ -1952,27 +1954,6 @@
       }
     },
     {
-      "id": "li_4331146096",
-      "title": "Ingénieur Electromécanicien Nucléaire H/F",
-      "company": "Groupe Ponticelli Frères",
-      "location": "Bassens",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-electrom%C3%A9canicien-nucl%C3%A9aire-h-f-at-groupe-ponticelli-fr%C3%A8res-4331146096",
-      "source": "linkedin",
-      "date_posted": "2026-09-11",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4445499678",
       "title": "Ingenieur process et amelioration continue",
       "company": "Imerys",
@@ -1981,27 +1962,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ingenieur-process-et-amelioration-continue-at-imerys-4445499678",
       "source": "linkedin",
       "date_posted": "2026-09-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4467039910",
-      "title": "Responsable de la maintenance",
-      "company": "Start People France",
-      "location": "Bergerac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-de-la-maintenance-at-start-people-france-4467039910",
-      "source": "linkedin",
-      "date_posted": "2026-09-14",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2120,14 +2080,35 @@
       }
     },
     {
-      "id": "li_4282245025",
+      "id": "li_4465779390",
+      "title": "Ingénieur systèmes/Ingénieure systèmes",
+      "company": "agap2",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-ing%C3%A9nieure-syst%C3%A8mes-at-agap2-4465779390",
+      "source": "linkedin",
+      "date_posted": "2026-09-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4467218607",
       "title": "Ingénieur IVV (F/H)",
       "company": "Groupe SII",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ivv-f-h-at-groupe-sii-4282245025",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ivv-f-h-at-groupe-sii-4467218607",
       "source": "linkedin",
-      "date_posted": "2026-09-03",
+      "date_posted": "2026-09-14",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2353,6 +2334,27 @@
       }
     },
     {
+      "id": "li_4463350636",
+      "title": "Technicien(ne) Performance Énergétique",
+      "company": "VINCI Energies",
+      "location": "Eysines",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-performance-%C3%A9nerg%C3%A9tique-at-vinci-energies-4463350636",
+      "source": "linkedin",
+      "date_posted": "2026-09-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4453097947",
       "title": "Responsable Démarrage & Mise au point - (F/H)",
       "company": "ENGIE Solutions France",
@@ -2521,6 +2523,27 @@
       }
     },
     {
+      "id": "li_4451672430",
+      "title": "Capgemini Engineering_INGENIEUR/INGENIEURE IVVQ électronique et radionavigation",
+      "company": "Capgemini Engineering",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/capgemini-engineering-ingenieur-ingenieure-ivvq-%C3%A9lectronique-et-radionavigation-at-capgemini-engineering-4451672430",
+      "source": "linkedin",
+      "date_posted": "2026-08-11",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4464095894",
       "title": "Expert BMS (H/F)",
       "company": "T&S (Technology & Strategy)",
@@ -2627,10 +2650,10 @@
     }
   ],
   "stats": {
-    "total": 120,
+    "total": 121,
     "sources": {
       "france_travail": 59,
-      "linkedin": 61
+      "linkedin": 62
     }
   }
 }
