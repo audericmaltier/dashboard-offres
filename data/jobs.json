@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T16:11:12.503578+00:00",
+  "last_updated": "2026-09-15T20:50:19.944447+00:00",
   "jobs": [
     {
       "id": "ft_6815217",
@@ -1822,6 +1822,29 @@
       }
     },
     {
+      "id": "li_4465908753",
+      "title": "Technicien méthodes électrique H/F",
+      "company": "CGI",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-%C3%A9lectrique-h-f-at-cgi-4465908753",
+      "source": "linkedin",
+      "date_posted": "2026-09-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4458970855",
       "title": "CDI - Ingénieure / Ingénieur Analyses Mécaniques et Justifications de Structures",
       "company": "ArianeGroup",
@@ -2428,27 +2451,6 @@
       "url": "https://fr.linkedin.com/jobs/view/animateur-technique-p%C3%B4le-usine-at-o-i-4195837995",
       "source": "linkedin",
       "date_posted": "2026-08-26",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4465057100",
-      "title": "Agent Bureau Technique Structure Équipements H/F",
-      "company": "Sabena technics",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/agent-bureau-technique-structure-%C3%A9quipements-h-f-at-sabena-technics-4465057100",
-      "source": "linkedin",
-      "date_posted": "2026-09-09",
       "contract_type": "",
       "salary": "",
       "score": 5,
