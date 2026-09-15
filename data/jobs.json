@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T11:00:27.898071+00:00",
+  "last_updated": "2026-09-15T16:11:12.503578+00:00",
   "jobs": [
     {
       "id": "ft_6815217",
@@ -522,14 +522,14 @@
       }
     },
     {
-      "id": "ft_6225697",
-      "title": "Ingénieur Méthodes Bâtiment F/H",
-      "company": "MF Ingénierie",
-      "location": "33 - Bordeaux",
-      "description": "Descriptif du poste:\\n\\nSelon votre profil, vos compétences et la mission qui vous sera confiée, vous pourrez notamment être en charge de :\\n* Etablir les plannings d'exécution, les modes opératoires...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6225697",
+      "id": "ft_6065345",
+      "title": "Ingénieur Méthodes H/F",
+      "company": "IDEX",
+      "location": "33 - Floirac",
+      "description": "POSTE : Ingénieur Méthodes H/F\nDESCRIPTION : Nous recherchons un ingénieur méthodes F/H en Cdi. \n \n \n \nEn tant qu'Ingénieur-e Méthodes, vous occupez un rôle clé et transverse au coeur de nos...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6065345",
       "source": "france_travail",
-      "date_posted": "2026-08-24",
+      "date_posted": "2026-08-18",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -614,6 +614,29 @@
       }
     },
     {
+      "id": "ft_6900759",
+      "title": "Ingénieur process mécaniques F/H",
+      "company": "Africa Power Services",
+      "location": "33 - Bordeaux",
+      "description": "Descriptif du poste:\\n\\nDans le cadre de son développement, APS est à la recherche d'un/e Ingénieur/e Process Mécanique. Vous êtes en charge de la conception et du dimensionnement dans les projets...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6900759",
+      "source": "france_travail",
+      "date_posted": "2026-09-15",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "mécanique"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_6756740",
       "title": "Ingénieur Process H/F",
       "company": "agap2",
@@ -630,29 +653,6 @@
         "skills": 1,
         "matched_skills": [
           "fiabilisation"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_6065345",
-      "title": "Ingénieur Méthodes H/F",
-      "company": "IDEX",
-      "location": "33 - Floirac",
-      "description": "POSTE : Ingénieur Méthodes H/F\nDESCRIPTION : Nous recherchons un ingénieur méthodes F/H en Cdi. \n \n \n \nEn tant qu'Ingénieur-e Méthodes, vous occupez un rôle clé et transverse au coeur de nos...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6065345",
-      "source": "france_travail",
-      "date_posted": "2026-08-18",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
         ],
         "sector": 0,
         "recency": 5,
@@ -1340,6 +1340,29 @@
       }
     },
     {
+      "id": "ft_6238353",
+      "title": "Technicien Méthode F/H - Process, méthodes",
+      "company": "APTISKILLS SUDOUEST",
+      "location": "33 - Bordeaux",
+      "description": "Descriptif du poste:\\n\\nQue feras-tu ? \\n- Concevoir des gammes de fabrication produits. \\n- Rédiger la documentation de fabrication nécessaire à la mise en production des pièces en série dans le...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6238353",
+      "source": "france_travail",
+      "date_posted": "2026-08-25",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_6187669",
       "title": "Ingénieur Lean Manufacturing H/F",
       "company": "KAEFER",
@@ -1933,27 +1956,6 @@
       }
     },
     {
-      "id": "ft_6170766",
-      "title": "Agent de maintenance (H/F)",
-      "company": "Non précisé",
-      "location": "33 - Teste-de-Buch",
-      "description": "Nous recherchons un technicien piscine pour une entreprise de construction de piscines sur le bassin, mission aboutissant à un CDI, bricoleur avec expérience en électricité, possibilité que nous...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6170766",
-      "source": "france_travail",
-      "date_posted": "2026-08-21",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4445499678",
       "title": "Ingenieur process et amelioration continue",
       "company": "Imerys",
@@ -2248,27 +2250,6 @@
       }
     },
     {
-      "id": "li_4457756195",
-      "title": "Chargé d'affaires électricité (F/H)",
-      "company": "PRIME ENGINEERING",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-d-affaires-%C3%A9lectricit%C3%A9-f-h-at-prime-engineering-france-4457756195",
-      "source": "linkedin",
-      "date_posted": "2026-08-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 16,
-      "score_breakdown": {
-        "title": 11,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_6009938",
       "title": "Adjoint Métier Soutien Technique M88 - Bordeaux H/F",
       "company": "Safran",
@@ -2277,6 +2258,27 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6009938",
       "source": "france_travail",
       "date_posted": "2026-08-16",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 15,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_6875503",
+      "title": "Responsable Installation H/F",
+      "company": "Proesa",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Responsable Installation H/F\nDESCRIPTION : \nPilotez une activité stratégique au coeur d'une enseigne reconnue : management, partenaires, chantiers, satisfaction client et rentabilité, avec...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6875503",
+      "source": "france_travail",
+      "date_posted": "2026-09-15",
       "contract_type": "CDI",
       "salary": "",
       "score": 15,
@@ -2426,6 +2428,27 @@
       "url": "https://fr.linkedin.com/jobs/view/animateur-technique-p%C3%B4le-usine-at-o-i-4195837995",
       "source": "linkedin",
       "date_posted": "2026-08-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4465057100",
+      "title": "Agent Bureau Technique Structure Équipements H/F",
+      "company": "Sabena technics",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/agent-bureau-technique-structure-%C3%A9quipements-h-f-at-sabena-technics-4465057100",
+      "source": "linkedin",
+      "date_posted": "2026-09-09",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2629,9 +2652,9 @@
     }
   ],
   "stats": {
-    "total": 120,
+    "total": 121,
     "sources": {
-      "france_travail": 59,
+      "france_travail": 60,
       "linkedin": 61
     }
   }
