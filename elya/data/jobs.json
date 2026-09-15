@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T17:13:47.461296+00:00",
+  "last_updated": "2026-09-15T21:40:36.145382+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -1940,30 +1940,6 @@
       }
     },
     {
-      "id": "li_4389835751",
-      "title": "Ingénieur Système et Réseaux (H/F)",
-      "company": "Extia",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seaux-h-f-at-extia-4389835751",
-      "source": "linkedin",
-      "date_posted": "2026-09-05",
-      "contract_type": "",
-      "salary": "",
-      "score": 40,
-      "score_breakdown": {
-        "title": 23,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4427065479",
       "title": "Technicien programmation et mise en service système sureté électronique H/F",
       "company": "Snef",
@@ -2075,29 +2051,6 @@
         "matched_skills": [
           "Linux",
           "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4425492676",
-      "title": "Expert réseaux H/F",
-      "company": "Inetum",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-r%C3%A9seaux-h-f-at-inetum-4425492676",
-      "source": "linkedin",
-      "date_posted": "2026-09-02",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
         ],
         "sector": 10,
         "recency": 5,
@@ -2690,6 +2643,29 @@
       }
     },
     {
+      "id": "li_4465925746",
+      "title": "Administrateur réseau H / F",
+      "company": "Consort Group",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-r%C3%A9seau-h-f-at-consort-group-4465925746",
+      "source": "linkedin",
+      "date_posted": "2026-09-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4462842145",
       "title": "Administrateur SysOps & Réseau (H/F)",
       "company": "Thales",
@@ -2881,14 +2857,14 @@
       }
     },
     {
-      "id": "li_4407015894",
+      "id": "li_4461675590",
       "title": "HOTLINER SUPPORT TECHNIQUE H/F",
       "company": "JDC SA",
       "location": "Bruges",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
+      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4461675590",
       "source": "linkedin",
-      "date_posted": "2026-04-29",
+      "date_posted": "2026-09-03",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3554,10 +3530,10 @@
     }
   ],
   "stats": {
-    "total": 161,
+    "total": 160,
     "sources": {
       "france_travail": 81,
-      "linkedin": 80
+      "linkedin": 79
     }
   }
 }
