@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T11:57:49.532024+00:00",
+  "last_updated": "2026-09-16T17:14:28.040645+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -591,6 +591,29 @@
         "skills": 1,
         "matched_skills": [
           "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_213XYXW",
+      "title": "Technicien Détection de Réseaux - Géomètre Topographe (H/F)",
+      "company": "ADRÉRéseaux",
+      "location": "33 - Mérignac",
+      "description": "ADRÉ Réseaux, c'est avant tout une aventure familiale lancée depuis 2012 par deux frères passionnés, Timothée et Benjamin Barraud. Portée par des équipes animées par la passion de la détection et du...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213XYXW",
+      "source": "france_travail",
+      "date_posted": "2026-09-16",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
         ],
         "sector": 10,
         "recency": 5,
@@ -2473,6 +2496,29 @@
       }
     },
     {
+      "id": "ft_213YWPB",
+      "title": "Architecte Technique (H/F)",
+      "company": "StandSogia",
+      "location": "33 - MERIGNAC",
+      "description": "Expérience significative en architecture technique dans des programmes complexes.\nCompétences avancées en réseau LAN/WAN, télécom et sécurité.\nCapacité à proposer des solutions à coût maîtrisé tout...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213YWPB",
+      "source": "france_travail",
+      "date_posted": "2026-09-16",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 26,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_213XGWR",
       "title": "Architecte Cloud (H/F)",
       "company": "StandSFEIR",
@@ -2666,14 +2712,14 @@
       }
     },
     {
-      "id": "li_4334006279",
-      "title": "Technicien(ne) Telecom  H/F",
+      "id": "li_4468209566",
+      "title": "Technicien(ne) télécom  H/F",
       "company": "Groupe LBS",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-telecom-h-f-at-groupe-lbs-4334006279",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-t%C3%A9l%C3%A9com-h-f-at-groupe-lbs-4468209566",
       "source": "linkedin",
-      "date_posted": "2025-11-04",
+      "date_posted": "2026-09-16",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2716,27 +2762,6 @@
       "url": "https://fr.linkedin.com/jobs/view/cloud-support-specialist-at-scaleway-4453874705",
       "source": "linkedin",
       "date_posted": "2026-09-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4419907709",
-      "title": "Consultant Implémentation & support PLM (H/F) (33)",
-      "company": "Percall Group",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/consultant-impl%C3%A9mentation-support-plm-h-f-33-at-percall-group-4419907709",
-      "source": "linkedin",
-      "date_posted": "2026-05-27",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2939,14 +2964,14 @@
       }
     },
     {
-      "id": "li_4465672093",
-      "title": "Technicien de mise en service en SSI (H/F) – Bordeaux (33)",
-      "company": "Réseau DEF",
-      "location": "Villenave-d'Ornon",
+      "id": "li_4434983771",
+      "title": "Technicien SOC N1",
+      "company": "GazelTech",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-mise-en-service-en-ssi-h-f-%E2%80%93-bordeaux-33-at-r%C3%A9seau-def-4465672093",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-soc-n1-at-gazeltech-4434983771",
       "source": "linkedin",
-      "date_posted": "2026-09-10",
+      "date_posted": "2026-06-30",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3359,6 +3384,27 @@
       }
     },
     {
+      "id": "li_4468220313",
+      "title": "Consultant(e) en gestion (CDI) H/F",
+      "company": "Groupe LBS",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/consultant-e-en-gestion-cdi-h-f-at-groupe-lbs-4468220313",
+      "source": "linkedin",
+      "date_posted": "2026-09-16",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4465528844",
       "title": "Technico-Commercial (H/F)",
       "company": "GROUPE CYBERTEK",
@@ -3549,9 +3595,9 @@
     }
   ],
   "stats": {
-    "total": 161,
+    "total": 163,
     "sources": {
-      "france_travail": 82,
+      "france_travail": 84,
       "linkedin": 79
     }
   }
