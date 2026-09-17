@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T16:11:25.746253+00:00",
+  "last_updated": "2026-09-17T20:55:45.957092+00:00",
   "jobs": [
     {
       "id": "ft_6815217",
@@ -1927,6 +1927,27 @@
       }
     },
     {
+      "id": "li_4445499678",
+      "title": "Ingenieur process et amelioration continue",
+      "company": "Imerys",
+      "location": "Clérac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ingenieur-process-et-amelioration-continue-at-imerys-4445499678",
+      "source": "linkedin",
+      "date_posted": "2026-09-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4468228940",
       "title": "Référent(e) Technique & Maintenance Bâtiment H/F",
       "company": "Betclic Group",
@@ -2116,27 +2137,6 @@
       }
     },
     {
-      "id": "li_4445499678",
-      "title": "Ingenieur process et amelioration continue",
-      "company": "Imerys",
-      "location": "Clérac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ingenieur-process-et-amelioration-continue-at-imerys-4445499678",
-      "source": "linkedin",
-      "date_posted": "2026-09-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4467218607",
       "title": "Ingénieur IVV (F/H)",
       "company": "Groupe SII",
@@ -2229,6 +2229,27 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-traitement-des-eaux-at-filtralife-solution-4459183380",
       "source": "linkedin",
       "date_posted": "2026-08-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4468691386",
+      "title": "Ingénieur Projet_Vivier_France (H/F/X)",
+      "company": "Mondelēz International",
+      "location": "Cestas",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-projet-vivier-france-h-f-x-at-mondel%C4%93z-international-4468691386",
+      "source": "linkedin",
+      "date_posted": "2026-09-17",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2456,27 +2477,6 @@
       }
     },
     {
-      "id": "li_4408025713",
-      "title": "Responsable de site CVC",
-      "company": "VINCI Energies",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-cvc-at-vinci-energies-4408025713",
-      "source": "linkedin",
-      "date_posted": "2026-04-29",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4464096573",
       "title": "GBR- RAMS Engineer F/H",
       "company": "B-Hive Engineering",
@@ -2624,27 +2624,6 @@
       }
     },
     {
-      "id": "li_4449309471",
-      "title": "[Nyx Earth] Component Manufacturing Engineer",
-      "company": "The Exploration Company",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/nyx-earth-component-manufacturing-engineer-at-the-exploration-company-4449309471",
-      "source": "linkedin",
-      "date_posted": "2026-08-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4467190750",
       "title": "Responsable technique en manufacturing engineering (H/F)",
       "company": "ALTEN",
@@ -2709,10 +2688,10 @@
     }
   ],
   "stats": {
-    "total": 124,
+    "total": 123,
     "sources": {
       "france_travail": 59,
-      "linkedin": 65
+      "linkedin": 64
     }
   }
 }
