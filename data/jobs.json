@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T10:31:10.537203+00:00",
+  "last_updated": "2026-09-18T15:46:33.984403+00:00",
   "jobs": [
     {
       "id": "ft_214BSDW",
@@ -1029,6 +1029,27 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-production-at-capgemini-4384858676",
       "source": "linkedin",
       "date_posted": "2026-03-12",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4435575504",
+      "title": "Ingénieur de production applicative / Middleware H/F",
+      "company": "FAYAT Group",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-production-applicative-middleware-h-f-at-fayat-group-4435575504",
+      "source": "linkedin",
+      "date_posted": "2026-07-16",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -2351,29 +2372,6 @@
       }
     },
     {
-      "id": "li_4467120011",
-      "title": "CDI - Experte/Expert Analyses Mécaniques",
-      "company": "ArianeGroup",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-experte-expert-analyses-m%C3%A9caniques-at-arianegroup-4467120011",
-      "source": "linkedin",
-      "date_posted": "2026-09-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 6,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 1,
-        "matched_skills": [
-          "mécanique"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4459424310",
       "title": "Responsable lean manufacturing H/F",
       "company": "LHH",
@@ -2489,6 +2487,27 @@
       "url": "https://fr.linkedin.com/jobs/view/mission-assurance-engineer-at-the-exploration-company-4410061152",
       "source": "linkedin",
       "date_posted": "2026-05-04",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4466675702",
+      "title": "Site Reliability Engineer - SRE",
+      "company": "Scaleway",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/site-reliability-engineer-sre-at-scaleway-4466675702",
+      "source": "linkedin",
+      "date_posted": "2026-09-18",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2671,10 +2690,10 @@
     }
   ],
   "stats": {
-    "total": 122,
+    "total": 123,
     "sources": {
       "france_travail": 57,
-      "linkedin": 65
+      "linkedin": 66
     }
   }
 }
