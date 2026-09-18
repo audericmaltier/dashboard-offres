@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T16:39:55.129711+00:00",
+  "last_updated": "2026-09-18T21:09:33.443259+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -387,12 +387,12 @@
       }
     },
     {
-      "id": "ft_4781970",
-      "title": "Administrateur(rice) réseaux - Industrie - Mérignac (H/F)",
-      "company": "Non précisé",
-      "location": "33 - Mérignac",
-      "description": "Nous recrutons un/une&#xa0;Administrateur(rice) réseaux&#xa0;pour rejoindre notre Business Unit&#xa0;INDUSTRIE&#xa0;au sein de l'agence&#xa0;Systèmes Embarqués Industriels Cybersécurisés. Elle...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4781970",
+      "id": "ft_2379221",
+      "title": "Administrateur Systèmes et Réseaux H/F",
+      "company": "Scalian",
+      "location": "33 - Haillan",
+      "description": "POSTE : Administrateur Systèmes et Réseaux H/F\nDESCRIPTION : \nDans le cadre du renforcement de ses équipes IT, notre client, acteur reconnu du secteur naval, recherche un(e) Administrateur Systèmes &...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2379221",
       "source": "france_travail",
       "date_posted": "2026-08-19",
       "contract_type": "CDI",
@@ -411,14 +411,14 @@
       }
     },
     {
-      "id": "ft_2379221",
-      "title": "Administrateur Systèmes et Réseaux H/F",
-      "company": "Scalian",
-      "location": "33 - Haillan",
-      "description": "POSTE : Administrateur Systèmes et Réseaux H/F\nDESCRIPTION : \nDans le cadre du renforcement de ses équipes IT, notre client, acteur reconnu du secteur naval, recherche un(e) Administrateur Systèmes &...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2379221",
+      "id": "ft_6550739",
+      "title": "Administrateur Systèmes As400 H/F",
+      "company": "Sunapsis",
+      "location": "33 - Bruges",
+      "description": "POSTE : Administrateur Systèmes As400 H/F\nDESCRIPTION : \n- Administrer et assurer l'exploitation des environnements AS400 / Iseries sous OS400 V7R3 ;\n- Prendre en charge la gestion des sauvegardes et...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6550739",
       "source": "france_travail",
-      "date_posted": "2026-08-19",
+      "date_posted": "2026-09-03",
       "contract_type": "CDI",
       "salary": "",
       "score": 67,
@@ -426,7 +426,7 @@
         "title": 40,
         "skills": 2,
         "matched_skills": [
-          "réseau",
+          "sauvegarde",
           "système"
         ],
         "sector": 10,
@@ -475,30 +475,6 @@
         "skills": 2,
         "matched_skills": [
           "Windows",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_6550739",
-      "title": "Administrateur Systèmes As400 H/F",
-      "company": "Sunapsis",
-      "location": "33 - Bruges",
-      "description": "POSTE : Administrateur Systèmes As400 H/F\nDESCRIPTION : \n- Administrer et assurer l'exploitation des environnements AS400 / Iseries sous OS400 V7R3 ;\n- Prendre en charge la gestion des sauvegardes et...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6550739",
-      "source": "france_travail",
-      "date_posted": "2026-09-03",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 67,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "sauvegarde",
           "système"
         ],
         "sector": 10,
@@ -745,29 +721,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213MBFL",
       "source": "france_travail",
       "date_posted": "2026-09-07",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_213JQRL",
-      "title": "Technicien réseaux eau (H/F)",
-      "company": "AROBASEEMPLOI",
-      "location": "33 - Pessac",
-      "description": "Dans le cadre du développement de son activité, notre client, spécialisé dans les solutions de gestion, de stockage et de réutilisation des eaux de pluie, recherche un(e) Technicien(ne) de travaux /...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JQRL",
-      "source": "france_travail",
-      "date_posted": "2026-09-03",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -1551,12 +1504,12 @@
       }
     },
     {
-      "id": "li_4461654531",
+      "id": "li_4461649565",
       "title": "Technicien de maintenance automatismes et informatique industrielle F/H",
       "company": "RTE Réseau de Transport d'Electricité",
       "location": "Floirac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461654531",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461649565",
       "source": "linkedin",
       "date_posted": "2026-09-03",
       "contract_type": "",
@@ -3001,27 +2954,6 @@
       }
     },
     {
-      "id": "li_4443793862",
-      "title": "Technical Support Engineer",
-      "company": "STERIS",
-      "location": "Gironde",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technical-support-engineer-at-steris-4443793862",
-      "source": "linkedin",
-      "date_posted": "2026-09-02",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4461302217",
       "title": "Analyste Fonctionnel – Run & Support Applicatif",
       "company": "eXalt",
@@ -3526,6 +3458,27 @@
       }
     },
     {
+      "id": "li_4463443094",
+      "title": "Chargé Technique d&apos;Assistance Client (H/F)",
+      "company": "L'Usine Nouvelle",
+      "location": "Pessac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-technique-d-apos-assistance-client-h-f-at-l-usine-nouvelle-4463443094",
+      "source": "linkedin",
+      "date_posted": "2026-09-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4468220313",
       "title": "Consultant(e) en gestion (CDI) H/F",
       "company": "Groupe LBS",
@@ -3737,9 +3690,9 @@
     }
   ],
   "stats": {
-    "total": 169,
+    "total": 167,
     "sources": {
-      "france_travail": 87,
+      "france_travail": 85,
       "linkedin": 82
     }
   }
