@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T11:23:47.507823+00:00",
+  "last_updated": "2026-09-19T16:01:30.964142+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -1593,7 +1593,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/technicien-helpdesk-h-f-at-tenexa-4455853996",
       "source": "linkedin",
-      "date_posted": "2026-08-24",
+      "date_posted": "2026-09-19",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -3143,27 +3143,6 @@
       }
     },
     {
-      "id": "li_4469515137",
-      "title": "Technicien d3 bouygues dans le 33 f/h",
-      "company": "RM LESCAR",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-d3-bouygues-dans-le-33-f-h-at-rm-lescar-4469515137",
-      "source": "linkedin",
-      "date_posted": "2026-08-25",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4330520470",
       "title": "Technicien de Maintenance SSI (H/F)",
       "company": "Equans France",
@@ -3753,10 +3732,10 @@
     }
   ],
   "stats": {
-    "total": 170,
+    "total": 169,
     "sources": {
       "france_travail": 86,
-      "linkedin": 84
+      "linkedin": 83
     }
   }
 }
