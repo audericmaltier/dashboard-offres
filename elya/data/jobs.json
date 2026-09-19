@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T16:01:30.964142+00:00",
+  "last_updated": "2026-09-19T20:56:19.485491+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -2484,14 +2484,14 @@
       }
     },
     {
-      "id": "li_4465832332",
-      "title": "Technicien de contrôles réglementaires itinérant H/F",
-      "company": "TSG France",
-      "location": "Le Haillan",
+      "id": "li_4463276646",
+      "title": "Technicien(ne) de maintenance et d'exploitation en itinérance dans le traitement d'eau - CDI - Gironde (33)",
+      "company": "Veolia | Water Tech",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-contr%C3%B4les-r%C3%A9glementaires-itin%C3%A9rant-h-f-at-tsg-france-4465832332",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-de-maintenance-et-d-exploitation-en-itin%C3%A9rance-dans-le-traitement-d-eau-cdi-gironde-33-at-veolia-water-tech-4463276646",
       "source": "linkedin",
-      "date_posted": "2026-09-10",
+      "date_posted": "2026-09-08",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2505,14 +2505,14 @@
       }
     },
     {
-      "id": "li_4464481125",
-      "title": "Technicien SAV Itinérant Sud-Ouest (H/F)",
-      "company": "Bolloré Protection",
-      "location": "Nouvelle-Aquitaine, France",
+      "id": "li_4465832332",
+      "title": "Technicien de contrôles réglementaires itinérant H/F",
+      "company": "TSG France",
+      "location": "Le Haillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-sav-itin%C3%A9rant-sud-ouest-h-f-at-bollor%C3%A9-protection-4464481125",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-contr%C3%B4les-r%C3%A9glementaires-itin%C3%A9rant-h-f-at-tsg-france-4465832332",
       "source": "linkedin",
-      "date_posted": "2026-09-08",
+      "date_posted": "2026-09-10",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -3143,6 +3143,27 @@
       }
     },
     {
+      "id": "li_4460959841",
+      "title": "Technicien Maintenance H/F",
+      "company": "Groupe Solstyce",
+      "location": "Artigues-près-Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-maintenance-h-f-at-groupe-solstyce-4460959841",
+      "source": "linkedin",
+      "date_posted": "2026-09-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4330520470",
       "title": "Technicien de Maintenance SSI (H/F)",
       "company": "Equans France",
@@ -3732,10 +3753,10 @@
     }
   ],
   "stats": {
-    "total": 169,
+    "total": 170,
     "sources": {
       "france_travail": 86,
-      "linkedin": 83
+      "linkedin": 84
     }
   }
 }
