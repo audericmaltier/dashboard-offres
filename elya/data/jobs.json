@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T11:44:41.386664+00:00",
+  "last_updated": "2026-09-20T16:25:23.931695+00:00",
   "jobs": [
     {
       "id": "ft_6255154",
@@ -1061,6 +1061,27 @@
       }
     },
     {
+      "id": "ft_7043919",
+      "title": "Technicien Support Proximité/VIP - Welcome Bar IT  - (H/F)",
+      "company": "LTd",
+      "location": "33 - Bordeaux",
+      "description": "Société incontournable sur le marché du recrutement français, LTd est un Cabinet de Recrutement et une Agence de Travail Temporaire spécialisé dans les métiers de l'Ingénierie et des Entreprises.\n\nLe...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7043919",
+      "source": "france_travail",
+      "date_posted": "2026-09-20",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_6813806",
       "title": "Technicien-ne Support IT N1 - N2 H/F",
       "company": "Groupagora",
@@ -1460,12 +1481,12 @@
       }
     },
     {
-      "id": "li_4461649565",
+      "id": "li_4461654531",
       "title": "Technicien de maintenance automatismes et informatique industrielle F/H",
       "company": "RTE Réseau de Transport d'Electricité",
       "location": "Floirac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461649565",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461654531",
       "source": "linkedin",
       "date_posted": "2026-09-03",
       "contract_type": "",
@@ -2526,6 +2547,27 @@
       }
     },
     {
+      "id": "li_4461270860",
+      "title": "TECHNICIEN D'EXPLOITATION & MAINTENANCE H∕F",
+      "company": "IDEX",
+      "location": "Jonzac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-d-exploitation-maintenance-h%E2%88%95f-at-idex-4461270860",
+      "source": "linkedin",
+      "date_posted": "2026-08-31",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4461059749",
       "title": "Administrateur Identité/IAM (H/F)",
       "company": "FAYAT IT",
@@ -2996,14 +3038,14 @@
       }
     },
     {
-      "id": "li_4461675590",
+      "id": "li_4407015894",
       "title": "HOTLINER SUPPORT TECHNIQUE H/F",
       "company": "JDC SA",
       "location": "Bruges",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4461675590",
+      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
       "source": "linkedin",
-      "date_posted": "2026-09-03",
+      "date_posted": "2026-04-29",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3130,27 +3172,6 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-soc-n1-at-gazeltech-4434983771",
       "source": "linkedin",
       "date_posted": "2026-06-30",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4330520470",
-      "title": "Technicien de Maintenance SSI (H/F)",
-      "company": "Equans France",
-      "location": "Pessac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-ssi-h-f-at-equans-france-4330520470",
-      "source": "linkedin",
-      "date_posted": "2026-01-05",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3374,27 +3395,6 @@
       }
     },
     {
-      "id": "li_4462801072",
-      "title": "Chargé exploitation et maintenance photovoltaïque H/F",
-      "company": "Groupe Solstyce",
-      "location": "Artigues-près-Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-exploitation-et-maintenance-photovolta%C3%AFque-h-f-at-groupe-solstyce-4462801072",
-      "source": "linkedin",
-      "date_posted": "2026-09-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 15,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4465765360",
       "title": "CDI Temps Plein - Agent de sécurité Data Center (Bordeaux 33) H/F",
       "company": "SERIS France",
@@ -3437,14 +3437,14 @@
       }
     },
     {
-      "id": "li_4434995103",
-      "title": "Spécialiste Cloud Security Azure",
-      "company": "GazelTech",
-      "location": "Bordeaux",
+      "id": "li_4210931873",
+      "title": "Architecte Sécurité Identité et Accès",
+      "company": "Capgemini",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/sp%C3%A9cialiste-cloud-security-azure-at-gazeltech-4434995103",
+      "url": "https://fr.linkedin.com/jobs/view/architecte-s%C3%A9curit%C3%A9-identit%C3%A9-et-acc%C3%A8s-at-capgemini-4210931873",
       "source": "linkedin",
-      "date_posted": "2026-06-30",
+      "date_posted": "2025-04-15",
       "contract_type": "",
       "salary": "",
       "score": 15,
@@ -3458,14 +3458,14 @@
       }
     },
     {
-      "id": "li_4378763400",
-      "title": "Architecte Microsoft Modern Workplace",
-      "company": "Capgemini",
-      "location": "Mérignac",
+      "id": "li_4434995103",
+      "title": "Spécialiste Cloud Security Azure",
+      "company": "GazelTech",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/architecte-microsoft-modern-workplace-at-capgemini-4378763400",
+      "url": "https://fr.linkedin.com/jobs/view/sp%C3%A9cialiste-cloud-security-azure-at-gazeltech-4434995103",
       "source": "linkedin",
-      "date_posted": "2026-02-27",
+      "date_posted": "2026-06-30",
       "contract_type": "",
       "salary": "",
       "score": 15,
@@ -3708,34 +3708,13 @@
         "recency": 5,
         "contract": 0
       }
-    },
-    {
-      "id": "li_4450389337",
-      "title": "Consultant.e technique Microsoft CRM Dynamics 365 & Power Platform (F/H)",
-      "company": "Technomade",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/consultant-e-technique-microsoft-crm-dynamics-365-power-platform-f-h-at-technomade-4450389337",
-      "source": "linkedin",
-      "date_posted": "2026-08-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
     }
   ],
   "stats": {
-    "total": 169,
+    "total": 168,
     "sources": {
-      "france_travail": 86,
-      "linkedin": 83
+      "france_travail": 87,
+      "linkedin": 81
     }
   }
 }
