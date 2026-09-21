@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T20:16:57.152854+00:00",
+  "last_updated": "2026-09-21T11:55:30.117549+00:00",
   "jobs": [
     {
       "id": "ft_214BSDW",
@@ -10,6 +10,29 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214BSDW",
       "source": "france_travail",
       "date_posted": "2026-09-18",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7055041",
+      "title": "Ingénieur méthodes et tests système radar / antenne (h/f) (H/F)",
+      "company": "Non précisé",
+      "location": "33 - Bordeaux",
+      "description": "Lieu : Bordeaux, France\n\nConstruisons ensemble un avenir de confiance\nThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense & Sécurité, Aéronautique...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7055041",
+      "source": "france_travail",
+      "date_posted": "2026-09-21",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -94,29 +117,6 @@
       }
     },
     {
-      "id": "ft_6338320",
-      "title": "Ingénieur-e méthodes outillages f/h (H/F)",
-      "company": "Non précisé",
-      "location": "33 - Teste-de-Buch",
-      "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6338320",
-      "source": "france_travail",
-      "date_posted": "2026-08-27",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_6294703",
       "title": "Ingénieur Méthodes Aéronautique - Industrie Aéronautique H/F",
       "company": "Astek",
@@ -147,7 +147,7 @@
       "description": "POSTE : Ingénieur Méthodes H/F\nDESCRIPTION : \nNous recherchons un ingénieur méthodes pour l'un de nos clients du secteur aéronautique basé en Gironde. Les missions à réaliser sont les suivantes :\n \n-...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5640759",
       "source": "france_travail",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-22",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -170,53 +170,7 @@
       "description": "POSTE : Ingénieur Méthodes Maintenance H/F\nDESCRIPTION : \nDans le cadre du développement des activités de notre client, acteur industriel spécialisé dans les solutions de stockage d'énergie, nous...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4804697",
       "source": "france_travail",
-      "date_posted": "2026-08-21",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_4635461",
-      "title": "Ingénieur méthodes et tests système radar / numérique (f/h)",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Lieu : Bordeaux, France\n\nConstruisons ensemble un avenir de confiance\nThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense & Sécurité, Aéronautique...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4635461",
-      "source": "france_travail",
-      "date_posted": "2026-08-21",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_4098907",
-      "title": "Ingénieur Méthodes et Procédés H/F",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Méthodes et Procédés H/F\nDESCRIPTION : \nDans le cadre d'un projet industriel à forte exigence technique, nous recherchons un(e) Ingénieur Méthodes confirmé(e) afin d'intervenir sur...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4098907",
-      "source": "france_travail",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-22",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -297,6 +251,27 @@
       }
     },
     {
+      "id": "ft_7054895",
+      "title": "Ingénieur maintenance et sécurité des systèmes de contrôle-commande (h/f) (H/F)",
+      "company": "Non précisé",
+      "location": "33 - Bordeaux",
+      "description": "Lieu : Bordeaux, France\n\nConstruisons ensemble un avenir de confiance\nThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense & Sécurité, Aéronautique...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7054895",
+      "source": "france_travail",
+      "date_posted": "2026-09-21",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_7013476",
       "title": "Ingénieur en Maintenance Aéronautique et Systèmes d'Armes (H/F)",
       "company": "Non précisé",
@@ -325,7 +300,7 @@
       "description": "POSTE : Ingénieur en Maintenance Aéronautique Sénior - Défense H/F\nDESCRIPTION : \nCe que nous allons accomplir ensemble :\n \nVous rejoignez un environnement de maintenance aéronautique certifié Part...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5837109",
       "source": "france_travail",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-22",
       "contract_type": "CDI",
       "salary": "",
       "score": 65,
@@ -346,7 +321,7 @@
       "description": "DESCRIPTION DU POSTE\nRattaché au Responsable Infrastructure, vous rejoignez une équipe composée d'administrateurs systèmes, techniciens réseaux et futurs alternants, dans un environnement...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2844111",
       "source": "france_travail",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-22",
       "contract_type": "CDI",
       "salary": "",
       "score": 65,
@@ -415,7 +390,7 @@
       "description": "1. Ingénierie & Méthodes de Maintenance\n\n- Élaborer et maintenir les plans de maintenance préventive conformément aux\nengagements contractuels et aux référentiels IDEX ENERGIES.\n- Assurer le support...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4865215",
       "source": "france_travail",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-22",
       "contract_type": "CDI",
       "salary": "",
       "score": 58,
@@ -554,7 +529,7 @@
       "description": "Description du poste :\n\nNotre cabinet recherche  un Ingénieur Études de Prix VRD (H/F)  pour renforcer une équipe dynamique et engagée. Vous interviendrez sur des projets d'aménagement variés, en...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5832046",
       "source": "france_travail",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-22",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -713,7 +688,7 @@
       "description": "POSTE : Ingénieur de Production H/F\nDESCRIPTION : Dans le cadre d'un programme de convergence de systèmes d'information, l'Ingénieur de Production aura pour mission de garantir l'expertise technique...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5887820",
       "source": "france_travail",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-22",
       "contract_type": "CDI",
       "salary": "",
       "score": 55,
@@ -1133,30 +1108,7 @@
       "description": "AERONEFS SERVICES est un fournisseur stratégique des industries : aéronautique, spatial et défense depuis plus de 40 ans. Elle a plus récemment développé une activité de services dans le domaine des...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KPSG",
       "source": "france_travail",
-      "date_posted": "2026-08-21",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 43,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_6458593",
-      "title": "Responsable métier méthodes (f/h)",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Lieu : Bordeaux, France\n\nConstruisons ensemble un avenir de confiance\nThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense & Sécurité, Aéronautique...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6458593",
-      "source": "france_travail",
-      "date_posted": "2026-08-31",
+      "date_posted": "2026-08-22",
       "contract_type": "CDI",
       "salary": "",
       "score": 43,
@@ -1256,27 +1208,6 @@
       }
     },
     {
-      "id": "ft_4635190",
-      "title": "Ingénieur ivvq/assstant technique radar sur base à cazaux (f/h)",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Lieu : Bordeaux, France\n\nConstruisons ensemble un avenir de confiance\nThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense & Sécurité, Aéronautique...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4635190",
-      "source": "france_travail",
-      "date_posted": "2026-08-21",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 42,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_6803007",
       "title": "Ingénieur Automaticien (H/F)",
       "company": "HARRY HOPE",
@@ -1340,27 +1271,6 @@
       }
     },
     {
-      "id": "ft_6301400",
-      "title": "Ingénieur soutien technique système radar (h/f)",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Lieu : Bordeaux, France\n\nConstruisons ensemble un avenir de confiance\nThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense & Sécurité, Aéronautique...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6301400",
-      "source": "france_travail",
-      "date_posted": "2026-08-26",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 42,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_5337119",
       "title": "Ingénieur-e pse module leader m88 f/h (H/F)",
       "company": "Non précisé",
@@ -1368,7 +1278,7 @@
       "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5337119",
       "source": "france_travail",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-22",
       "contract_type": "CDI",
       "salary": "",
       "score": 42,
@@ -1518,6 +1428,69 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6655284",
       "source": "france_travail",
       "date_posted": "2026-09-05",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_6449165",
+      "title": "Ingénieur Industrialisation Matériaux & Procédés H/F",
+      "company": "Step Up",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Ingénieur Industrialisation Matériaux & Procédés H/F\nDESCRIPTION : La prestation se décompose selon 3 activités: \n \n1) Activités opérationnelles (développement, industrialisation et...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6449165",
+      "source": "france_travail",
+      "date_posted": "2026-08-31",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_6334211",
+      "title": "Ingénieur Bancs de Test Hyperfréquences H/F",
+      "company": "Astorm",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Ingénieur Bancs de Test Hyperfréquences H/F\nDESCRIPTION : \nNous recherchons un(e) Ingénieur Bancs de Test Hyperfréquences (H/F) pour intervenir sur des projets techniques innovants dans le...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6334211",
+      "source": "france_travail",
+      "date_posted": "2026-08-27",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7047786",
+      "title": "Responsable de maintenance F/H",
+      "company": "Nextep HR",
+      "location": "33 - Bordeaux",
+      "description": "Descriptif du poste:\\n\\nRattaché(e) à la Direction Générale, vous définissez et mettez en oeuvre la politique de maintenance curative, préventive et améliorative. Vous encadrez l'équipe technique...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7047786",
+      "source": "france_travail",
+      "date_posted": "2026-09-21",
       "contract_type": "CDI",
       "salary": "",
       "score": 32,
@@ -2267,27 +2240,6 @@
       }
     },
     {
-      "id": "li_4445973657",
-      "title": "Ingénieur industrialisation Matériaux & Procédés (F/H)",
-      "company": "STEP UP",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-industrialisation-mat%C3%A9riaux-proc%C3%A9d%C3%A9s-f-h-at-step-up-4445973657",
-      "source": "linkedin",
-      "date_posted": "2026-07-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4445980112",
       "title": "Ingénieur procédés parachèvement (F/H)",
       "company": "STEP UP",
@@ -2711,10 +2663,10 @@
     }
   ],
   "stats": {
-    "total": 124,
+    "total": 122,
     "sources": {
-      "france_travail": 56,
-      "linkedin": 68
+      "france_travail": 55,
+      "linkedin": 67
     }
   }
 }
