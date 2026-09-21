@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T11:55:30.117549+00:00",
+  "last_updated": "2026-09-21T17:49:55.367029+00:00",
   "jobs": [
     {
       "id": "ft_214BSDW",
@@ -79,29 +79,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6815217",
       "source": "france_travail",
       "date_posted": "2026-09-11",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_6355143",
-      "title": "Ingénieur(e) Méthodes H/F",
-      "company": "TISSOT INDUSTRIE",
-      "location": "33 - Virelade",
-      "description": "Vos missions\n\n\nDans le cadre de la construction du Liner métallique et liners Inox (Piscines) des deux EPRs de SIZEWELL C (Grande Bretagne, région Ipswich), TISSOT Industrie recherche un(e)...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6355143",
-      "source": "france_travail",
-      "date_posted": "2026-08-28",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -971,29 +948,6 @@
       }
     },
     {
-      "id": "li_4418872535",
-      "title": "Ingénieur Méthodes et Procédés F/H",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-proc%C3%A9d%C3%A9s-f-h-at-roxel-4418872535",
-      "source": "linkedin",
-      "date_posted": "2026-05-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4446761930",
       "title": "Ingénieur Méthodes CND - H/F",
       "company": "agap2",
@@ -1067,6 +1021,27 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-production-applicative-middleware-h-f-at-fayat-group-4435575504",
       "source": "linkedin",
       "date_posted": "2026-07-16",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4469892829",
+      "title": "Ingénieur Process H/F",
+      "company": "EGI Etudes Générales d'Installations",
+      "location": "Bassens",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-h-f-at-egi-etudes-g%C3%A9n%C3%A9rales-d-installations-4469892829",
+      "source": "linkedin",
+      "date_posted": "2026-09-21",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -1271,27 +1246,6 @@
       }
     },
     {
-      "id": "ft_5337119",
-      "title": "Ingénieur-e pse module leader m88 f/h (H/F)",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5337119",
-      "source": "france_travail",
-      "date_posted": "2026-08-22",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 42,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_6187669",
       "title": "Ingénieur Lean Manufacturing H/F",
       "company": "KAEFER",
@@ -1470,6 +1424,27 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6334211",
       "source": "france_travail",
       "date_posted": "2026-08-27",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7063370",
+      "title": "Ingénieur(e) électrique H/F",
+      "company": "X721 France",
+      "location": "33 - Mérignac",
+      "description": "X721 France développe Heliblade, un drone stratosphérique nouvelle génération capable de voler plusieurs jours à très haute altitude. Pour y parvenir, nous devons inventer un système énergétique...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7063370",
+      "source": "france_travail",
+      "date_posted": "2026-09-21",
       "contract_type": "CDI",
       "salary": "",
       "score": 32,
@@ -1974,7 +1949,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/technicien-d-%C3%A9tudes-be-maintenance-h-f-at-fauch%C3%A9-4383748946",
       "source": "linkedin",
-      "date_posted": "2026-08-30",
+      "date_posted": "2026-09-21",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2663,9 +2638,9 @@
     }
   ],
   "stats": {
-    "total": 122,
+    "total": 121,
     "sources": {
-      "france_travail": 55,
+      "france_travail": 54,
       "linkedin": 67
     }
   }
