@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T16:13:24.058403+00:00",
+  "last_updated": "2026-09-22T20:51:18.163674+00:00",
   "jobs": [
     {
       "id": "ft_7098590",
@@ -1084,6 +1084,27 @@
       }
     },
     {
+      "id": "li_4435575504",
+      "title": "Ingénieur de production applicative / Middleware H/F",
+      "company": "FAYAT Group",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-production-applicative-middleware-h-f-at-fayat-group-4435575504",
+      "source": "linkedin",
+      "date_posted": "2026-07-16",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4469892829",
       "title": "Ingénieur Process/Procédés H/F",
       "company": "EGI Etudes Générales d'Installations",
@@ -2120,27 +2141,6 @@
       }
     },
     {
-      "id": "li_4465779390",
-      "title": "Ingénieur systèmes/Ingénieure systèmes",
-      "company": "agap2",
-      "location": "Bordeaux et périphérie",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-ing%C3%A9nieure-syst%C3%A8mes-at-agap2-4465779390",
-      "source": "linkedin",
-      "date_posted": "2026-09-14",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4467218607",
       "title": "Ingénieur IVV (F/H)",
       "company": "Groupe SII",
@@ -2563,6 +2563,27 @@
       }
     },
     {
+      "id": "li_4454780739",
+      "title": "DevOps Engineer expérimenté / sénior",
+      "company": "eXalt",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/devops-engineer-exp%C3%A9riment%C3%A9-s%C3%A9nior-at-exalt-4454780739",
+      "source": "linkedin",
+      "date_posted": "2026-09-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4462835549",
       "title": "Responsable de lot industrialisation  (H/F)",
       "company": "Thales",
@@ -2648,10 +2669,10 @@
     }
   ],
   "stats": {
-    "total": 121,
+    "total": 122,
     "sources": {
       "france_travail": 56,
-      "linkedin": 65
+      "linkedin": 66
     }
   }
 }
