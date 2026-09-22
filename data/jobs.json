@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-22T10:55:44.032634+00:00",
+  "last_updated": "2026-09-22T16:13:24.058403+00:00",
   "jobs": [
+    {
+      "id": "ft_7098590",
+      "title": "Ingénieur Méthodes Maintenance - GMAO - Secteur Spatial (H/F)",
+      "company": "CTS Corporate",
+      "location": "33 - Eysines",
+      "description": "Dans le cadre de la montée en cadence des programmes spatiaux et de la modernisation des infrastructures de production, notre client, acteur majeur de l'industrie spatiale et des lanceurs, renforce...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7098590",
+      "source": "france_travail",
+      "date_posted": "2026-09-22",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 68,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 3,
+        "matched_skills": [
+          "GMAO",
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
     {
       "id": "ft_214BSDW",
       "title": "Ingénieur(e) méthodes et outils ISe F/H (H/F)",
@@ -507,29 +531,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6817664",
       "source": "france_travail",
       "date_posted": "2026-09-11",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_6477473",
-      "title": "Ingénieur(e) méthodes / Chargé(e) d'industrialisation F/H",
-      "company": "CECILE GOUINEAU CONSEIL",
-      "location": "33 - Mérignac",
-      "description": "Descriptif du poste:\\n\\nDans le cadre de son développement, ALSYMEX recherche pour son établissement de Mérignac, un(e) Chargé d'Industrialisation H/F. \\nEn tant que Chargé(e) d'Industrialisation,...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6477473",
-      "source": "france_travail",
-      "date_posted": "2026-09-01",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -1070,27 +1071,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-production-at-capgemini-4384858676",
       "source": "linkedin",
       "date_posted": "2026-03-12",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4435575504",
-      "title": "Ingénieur de production applicative / Middleware H/F",
-      "company": "FAYAT Group",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-production-applicative-middleware-h-f-at-fayat-group-4435575504",
-      "source": "linkedin",
-      "date_posted": "2026-07-16",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -2140,6 +2120,27 @@
       }
     },
     {
+      "id": "li_4465779390",
+      "title": "Ingénieur systèmes/Ingénieure systèmes",
+      "company": "agap2",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-ing%C3%A9nieure-syst%C3%A8mes-at-agap2-4465779390",
+      "source": "linkedin",
+      "date_posted": "2026-09-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4467218607",
       "title": "Ingénieur IVV (F/H)",
       "company": "Groupe SII",
@@ -2305,27 +2306,6 @@
         "sector": 0,
         "recency": 5,
         "contract": 0
-      }
-    },
-    {
-      "id": "ft_6009938",
-      "title": "Adjoint Métier Soutien Technique M88 - Bordeaux H/F",
-      "company": "Safran",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Adjoint Métier Soutien Technique M88 - Bordeaux H/F\nDESCRIPTION : \nAu sein de la Division des Moteurs Militaires de Safran AE et de la Direction du Support vous intégrez une équipe...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6009938",
-      "source": "france_travail",
-      "date_posted": "2026-08-23",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 15,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
       }
     },
     {
@@ -2583,27 +2563,6 @@
       }
     },
     {
-      "id": "li_4454780739",
-      "title": "DevOps Engineer expérimenté / sénior",
-      "company": "eXalt",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/devops-engineer-exp%C3%A9riment%C3%A9-s%C3%A9nior-at-exalt-4454780739",
-      "source": "linkedin",
-      "date_posted": "2026-09-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4462835549",
       "title": "Responsable de lot industrialisation  (H/F)",
       "company": "Thales",
@@ -2689,10 +2648,10 @@
     }
   ],
   "stats": {
-    "total": 123,
+    "total": 121,
     "sources": {
-      "france_travail": 57,
-      "linkedin": 66
+      "france_travail": 56,
+      "linkedin": 65
     }
   }
 }
