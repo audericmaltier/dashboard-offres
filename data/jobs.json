@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T16:02:36.707661+00:00",
+  "last_updated": "2026-09-23T21:02:43.681723+00:00",
   "jobs": [
     {
       "id": "ft_7098590",
@@ -2161,27 +2161,6 @@
       }
     },
     {
-      "id": "li_4467218607",
-      "title": "Ingénieur IVV (F/H)",
-      "company": "Groupe SII",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ivv-f-h-at-groupe-sii-4467218607",
-      "source": "linkedin",
-      "date_posted": "2026-09-14",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4411760075",
       "title": "Responsable d'Ingénierie / Responsable Process - H/F",
       "company": "NEO2",
@@ -2543,6 +2522,27 @@
       }
     },
     {
+      "id": "li_4440664831",
+      "title": "Mechanical Engineer",
+      "company": "pony",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/mechanical-engineer-at-pony-4440664831",
+      "source": "linkedin",
+      "date_posted": "2026-07-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4451672430",
       "title": "Capgemini Engineering_INGENIEUR/INGENIEURE IVVQ électronique et radionavigation",
       "company": "Capgemini Engineering",
@@ -2572,27 +2572,6 @@
       "url": "https://fr.linkedin.com/jobs/view/expert-analyste-de-d%C3%A9faillance-f-h-kqn-at-serma-technologies-4459906790",
       "source": "linkedin",
       "date_posted": "2026-09-02",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4464095894",
-      "title": "Expert BMS (H/F)",
-      "company": "T&S (Technology & Strategy)",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-bms-h-f-at-t-s-technology-strategy-4464095894",
-      "source": "linkedin",
-      "date_posted": "2026-09-07",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2691,10 +2670,10 @@
     }
   ],
   "stats": {
-    "total": 123,
+    "total": 122,
     "sources": {
       "france_travail": 58,
-      "linkedin": 65
+      "linkedin": 64
     }
   }
 }
