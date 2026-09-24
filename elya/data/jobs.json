@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T17:29:23.005914+00:00",
+  "last_updated": "2026-09-24T21:43:18.976958+00:00",
   "jobs": [
     {
       "id": "ft_1380967",
@@ -19,6 +19,30 @@
         "matched_skills": [
           "VMware",
           "virtualisation",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7231803",
+      "title": "Technicien Support Système et Réseau - Ksc - 092026 H/F",
+      "company": "SermaSafety&Security",
+      "location": "33 - Pessac",
+      "description": "POSTE : Technicien Support Système et Réseau - Ksc - 092026 H/F\nDESCRIPTION : \nDans le cadre de notre développement, nous recherchons un(e) technicien(ne) support informatique.\n \nMissions principales...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7231803",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 67,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
           "système"
         ],
         "sector": 10,
@@ -99,12 +123,12 @@
       }
     },
     {
-      "id": "ft_7210034",
-      "title": "Administrateur Système et Réseau H/F",
-      "company": "GroupeSII",
+      "id": "ft_7336702",
+      "title": "Administrateur Réseaux et Systèmes H/F",
+      "company": "Groupagora",
       "location": "33 - Bordeaux",
-      "description": "POSTE : Administrateur Système et Réseau H/F\nDESCRIPTION : \nProfil\n \nTitulaire d'un diplôme Bac +3 à Bac +5, vous justifiez d'une expérience minimum de 2 ans sur un poste similaire, idéalement dans...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7210034",
+      "description": "POSTE : Administrateur Réseaux et Systèmes H/F\nDESCRIPTION : \nDans le cadre d'un projet chez l'un de nos clients, acteur du secteur industriel, nous recherchons un Administrateur Réseaux & Systèmes...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7336702",
       "source": "france_travail",
       "date_posted": "2026-09-24",
       "contract_type": "CDI",
@@ -123,14 +147,14 @@
       }
     },
     {
-      "id": "ft_7119567",
-      "title": "Administrateur réseaux et systèmes F/H",
-      "company": "GROUPAGORA",
+      "id": "ft_7268591",
+      "title": "Administrateur Systèmes & Réseaux Senior - Bordeaux H/F",
+      "company": "WeVii",
       "location": "33 - Bordeaux",
-      "description": "Descriptif du poste:\\n\\nDans le cadre d'un projet chez l'un de nos clients, acteur du secteur industriel, nous recherchons un Administrateur Réseaux & Systèmes (H/F) avec une forte appétence pour les...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7119567",
+      "description": "POSTE : Administrateur Systèmes & Réseaux Senior - Bordeaux H/F\nDESCRIPTION : \nDans le cadre du développement de nos activités à Bordeaux, nous recherchons un(e) Administrateur(trice) Systèmes &...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7268591",
       "source": "france_travail",
-      "date_posted": "2026-09-23",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 67,
@@ -147,14 +171,38 @@
       }
     },
     {
-      "id": "ft_6560364",
-      "title": "Administrateur Systèmes & Réseaux Senior - Bordeaux H/F",
-      "company": "WeVii",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Administrateur Systèmes & Réseaux Senior - Bordeaux H/F\nDESCRIPTION : \nDans le cadre du développement de nos activités à Bordeaux, nous recherchons un(e) Administrateur(trice) Systèmes &...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6560364",
+      "id": "ft_7261946",
+      "title": "Administrateur Systèmes et Réseaux H/F",
+      "company": "Scalian",
+      "location": "33 - Haillan",
+      "description": "POSTE : Administrateur Systèmes et Réseaux H/F\nDESCRIPTION : \nDans le cadre du renforcement de ses équipes IT, notre client, acteur reconnu du secteur naval, recherche un(e) Administrateur Systèmes &...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7261946",
       "source": "france_travail",
-      "date_posted": "2026-09-03",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 67,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7210034",
+      "title": "Administrateur Système et Réseau H/F",
+      "company": "GroupeSII",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Administrateur Système et Réseau H/F\nDESCRIPTION : \nProfil\n \nTitulaire d'un diplôme Bac +3 à Bac +5, vous justifiez d'une expérience minimum de 2 ans sur un poste similaire, idéalement dans...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7210034",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 67,
@@ -243,54 +291,6 @@
       }
     },
     {
-      "id": "ft_6095016",
-      "title": "Administrateur Systèmes et Réseaux H/F",
-      "company": "StepUp",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Administrateur Systèmes et Réseaux H/F\nDESCRIPTION : Dans le cadre du renforcement de l'équipe Infrastructure, nous recherchons un(e) Administrateur(trice) Systèmes et Réseaux afin de...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6095016",
-      "source": "france_travail",
-      "date_posted": "2026-08-25",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 67,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_5949686",
-      "title": "Administrateur Réseaux et Systèmes H/F",
-      "company": "OKGOGroup",
-      "location": "33 - Haillan",
-      "description": "POSTE : Administrateur Réseaux et Systèmes H/F\nDESCRIPTION : \nOKGO Tek, cabinet spécialisé dans l'infrastructure et le support IT, recherche pour l'un de ses clients un administrateur Systèmes &...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5949686",
-      "source": "france_travail",
-      "date_posted": "2026-08-25",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 67,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_5471989",
       "title": "Administrateur systèmes réseaux (H/F)",
       "company": "Non précisé",
@@ -315,62 +315,14 @@
       }
     },
     {
-      "id": "ft_2379221",
-      "title": "Administrateur Systèmes et Réseaux H/F",
-      "company": "Scalian",
-      "location": "33 - Haillan",
-      "description": "POSTE : Administrateur Systèmes et Réseaux H/F\nDESCRIPTION : \nDans le cadre du renforcement de ses équipes IT, notre client, acteur reconnu du secteur naval, recherche un(e) Administrateur Systèmes &...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2379221",
-      "source": "france_travail",
-      "date_posted": "2026-08-25",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 67,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_7202186",
-      "title": "Administrateur Système et Virtualisation H/F",
-      "company": "CheopsTechnology",
-      "location": "33 - Canéjan",
-      "description": "POSTE : Administrateur Système et Virtualisation H/F\nDESCRIPTION : Sous la responsabilité de la direction des services managés, l'Administrateur Système et Virtualisationa pour rôle de réaliser...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7202186",
-      "source": "france_travail",
-      "date_posted": "2026-09-24",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 67,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 2,
-        "matched_skills": [
-          "virtualisation",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_6550739",
+      "id": "ft_7274198",
       "title": "Administrateur Systèmes As400 H/F",
       "company": "Sunapsis",
       "location": "33 - Bruges",
       "description": "POSTE : Administrateur Systèmes As400 H/F\nDESCRIPTION : \n- Administrer et assurer l'exploitation des environnements AS400 / Iseries sous OS400 V7R3 ;\n- Prendre en charge la gestion des sauvegardes et...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6550739",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7274198",
       "source": "france_travail",
-      "date_posted": "2026-09-03",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 67,
@@ -411,14 +363,14 @@
       }
     },
     {
-      "id": "ft_6836538",
-      "title": "Administrateur Système Windows H/F",
-      "company": "CEA",
-      "location": "33 - Barp",
-      "description": "POSTE : Administrateur Système Windows H/F\nDESCRIPTION : \nSur le centre CEA du CESTA, un laboratoire a en charge la maintenance en condition opérationnelles et de sécurité les systèmes d'information...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6836538",
+      "id": "ft_7277390",
+      "title": "Administrateur Système Linux H/F",
+      "company": "Scalian",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Administrateur Système Linux H/F\nDESCRIPTION : \nLocalisation : Bordeaux (pas de télétravail)  \nDémarrage : Dès que possible (juin 2026 au plus tard)  \nContrat : CDI   \nRémunération : 42-48K€...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7277390",
       "source": "france_travail",
-      "date_posted": "2026-09-12",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 67,
@@ -426,7 +378,7 @@
         "title": 40,
         "skills": 2,
         "matched_skills": [
-          "Windows",
+          "Linux",
           "système"
         ],
         "sector": 10,
@@ -435,14 +387,38 @@
       }
     },
     {
-      "id": "ft_6755318",
-      "title": "Technicien Détection de Réseaux & Géomètre-Topographe Expérimenté H/F",
-      "company": "GroupeADRÉ",
-      "location": "33 - Mérignac",
-      "description": "POSTE : Technicien Détection de Réseaux & Géomètre-Topographe Expérimenté H/F\nDESCRIPTION : \nEn tant que Technicien Détection de Réseaux, vous jouez un rôle essentiel dans la sécurisation des...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6755318",
+      "id": "ft_7202186",
+      "title": "Administrateur Système et Virtualisation H/F",
+      "company": "CheopsTechnology",
+      "location": "33 - Canéjan",
+      "description": "POSTE : Administrateur Système et Virtualisation H/F\nDESCRIPTION : Sous la responsabilité de la direction des services managés, l'Administrateur Système et Virtualisationa pour rôle de réaliser...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7202186",
       "source": "france_travail",
-      "date_posted": "2026-09-09",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 67,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "virtualisation",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7263927",
+      "title": "Technicien Réseaux Datacenter H/F",
+      "company": "GeserBest",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Technicien Réseaux Datacenter H/F\nDESCRIPTION : \nMission de Technicien Réseaux dans la conception, l'analyse et la validation des solutions réseau et infrastructurelles répondant aux besoins...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7263927",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -543,6 +519,52 @@
         "skills": 1,
         "matched_skills": [
           "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7293738",
+      "title": "Administrateur Système Run H/F",
+      "company": "TESSIGROUPE",
+      "location": "33 - Haillan",
+      "description": "POSTE : Administrateur Système Run H/F\nDESCRIPTION : Votre environnement  \n  \nRattaché(e) à la DSI Groupe, vous rejoignez l'équipe RUN, composée de 5 personnes, en charge du maintien en conditions...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7293738",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7264249",
+      "title": "Administrateur Systèmes H/F",
+      "company": "ITSServices",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Administrateur Systèmes H/F\nDESCRIPTION : \nAbout the Job :\n \nDe belles missions vous attendent chez nos clients grands comptes sur des environnements riches et variés :\n \nL'administrateur...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7264249",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -822,6 +844,69 @@
       }
     },
     {
+      "id": "ft_7344037",
+      "title": "Technicien Support Informatique H/F",
+      "company": "ARISO",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Technicien Support Informatique H/F\nDESCRIPTION : \nARISO, Agence de Recrutement pour les Industries du Sud-Ouest, est votre partenaire emploi pour l'industrie en Nouvelle Aquitaine. Depuis...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7344037",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7326382",
+      "title": "Technicien Informatique Atelier H/F",
+      "company": "LBS33",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Technicien Informatique Atelier H/F\nDESCRIPTION : \nRattaché(e) à la Direction Technique, vous intervenez au coeur de l'activité de LBS 33 dans la préparation, la configuration et la...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7326382",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7236088",
+      "title": "Technicien Informatique Itinérant H/F",
+      "company": "Fiducial",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Technicien Informatique Itinérant H/F\nDESCRIPTION : FIDUCIAL INFORMATIQUE recrute !\n \nFIDUCIAL INFORMATIQUE est un éditeur informatique incontournable qui accompagne ses clients (TPE, PME et...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7236088",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_7189869",
       "title": "Technicien Informatique H/F",
       "company": "Astek",
@@ -864,27 +949,6 @@
       }
     },
     {
-      "id": "ft_6920047",
-      "title": "Technicien Informatique Industriel H/F",
-      "company": "GroupeQérys",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Technicien Informatique Industriel H/F\nDESCRIPTION : \nDescriptif de poste\n \nQuel est notre contexte ?\n \nVous intervenez au sein de l'entrepôt en cas de dysfonctionnement lié aux postes de...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6920047",
-      "source": "france_travail",
-      "date_posted": "2026-09-16",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_6666070",
       "title": "Technicien Support Informatique (F/H)",
       "company": "Non précisé",
@@ -894,27 +958,6 @@
       "source": "france_travail",
       "date_posted": "2026-09-05",
       "contract_type": "Intérim",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_6561610",
-      "title": "Technicien Informatique H/F",
-      "company": "OKGOGroup",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Technicien Informatique H/F\nDESCRIPTION : \nOKGO Group recherche pour l'un de ses client (CDI) un technicien informatique qui interviendra sur du niveau 1 et 2 Helpdesk + support de proximité....",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6561610",
-      "source": "france_travail",
-      "date_posted": "2026-09-03",
-      "contract_type": "CDI",
       "salary": "",
       "score": 65,
       "score_breakdown": {
@@ -948,14 +991,35 @@
       }
     },
     {
-      "id": "ft_4449156",
-      "title": "Technicien Support Informatique H/F",
-      "company": "Guarani",
+      "id": "ft_7274082",
+      "title": "Technicien Support Niveau 2 H/F",
+      "company": "LynxRH",
       "location": "33 - Bordeaux",
-      "description": "POSTE : Technicien Support Informatique H/F\nDESCRIPTION : \nNous recherchons un technicien support pour l'un de nos clients. Vous évoluerez au sein d'une équipe dynamique et nous vous confierons les...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4449156",
+      "description": "POSTE : Technicien Support Niveau 2 H/F\nDESCRIPTION : Lynx RH, partenaire de votre réussite professionnelle dans l'univers de l'informatique, recrute un Technicien support Niveau 2 H/F pour le compte...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7274082",
       "source": "france_travail",
-      "date_posted": "2026-08-25",
+      "date_posted": "2026-09-24",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7228076",
+      "title": "Technicien Support IT H/F",
+      "company": "Winsearch",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Technicien Support IT H/F\nDESCRIPTION : Selon les procédures établies dans l'entreprise et en étroite collaboration avec la direction votre rôle sera de   \n- Garantir que utilisateurs...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7228076",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 65,
@@ -1032,57 +1096,36 @@
       }
     },
     {
-      "id": "ft_5892353",
-      "title": "Technicien Support Applicatif H/F",
-      "company": "Guarani",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Technicien Support Applicatif H/F\nDESCRIPTION : \nDans le cadre du renforcement de ses équipes, notre client recherche un Technicien Support IT / Applicatif pour intervenir au sein d'un...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5892353",
-      "source": "france_travail",
-      "date_posted": "2026-08-25",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_2421259",
-      "title": "Technicien support it h/f",
-      "company": "Non précisé",
-      "location": "33 - Bordeaux",
-      "description": "Selon les procédures établies dans l'entreprise et en étroite collaboration avec la direction votre rôle sera de - Garantir que utilisateurs travaillent dans des conditions de postes de travail,...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/2421259",
-      "source": "france_travail",
-      "date_posted": "2026-08-25",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_6759665",
+      "id": "ft_7310803",
       "title": "Technicien Support Déploiement H/F",
-      "company": "GroupeActual",
+      "company": "ActualTalent(exUpskills)",
       "location": "33 - Bordeaux",
       "description": "POSTE : Technicien Support Déploiement H/F\nDESCRIPTION : Notre équipe spécialisée en IT recherche pour son client (une ESN), un Technicien Support Déploiement (F/H) pour un contrat en intérim de 2...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6759665",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7310803",
       "source": "france_travail",
-      "date_posted": "2026-09-09",
+      "date_posted": "2026-09-24",
       "contract_type": "Intérim",
+      "salary": "",
+      "score": 65,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7303810",
+      "title": "Technicien Helpdesk Alternance H/F",
+      "company": "TenexaGroup",
+      "location": "33 - Pessac",
+      "description": "POSTE : Technicien Helpdesk Alternance H/F\nDESCRIPTION : \nTu prépares un BTS ou un Bac +2 en informatique et tu cherches une alternance avec de vraies responsabilités dès le départ ? On a plusieurs...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7303810",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDD",
       "salary": "",
       "score": 65,
       "score_breakdown": {
@@ -1191,6 +1234,29 @@
       }
     },
     {
+      "id": "ft_7307732",
+      "title": "Technicien Arrêts d'Eau - Réseau Eau Potable H/F",
+      "company": "RégiedeL'EauBordeauxMétropole",
+      "location": "33 - Mérignac",
+      "description": "POSTE : Technicien Arrêts d'Eau - Réseau Eau Potable H/F\nDESCRIPTION : Poste  \nPréparation et réalisation des arrêts d'eau   \n- Préparation et réalisation de l'affichage de la coupure d'eau auprès...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7307732",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDD",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "li_4468049138",
       "title": "Administrateur Réseaux WAN F/H",
       "company": "La Poste Groupe",
@@ -1258,15 +1324,15 @@
       }
     },
     {
-      "id": "ft_6950610",
-      "title": "Technicien Support H/F",
-      "company": "CGI",
+      "id": "ft_7283586",
+      "title": "Technicien Support N2 H/F",
+      "company": "Randstadprofessional",
       "location": "33 - Bordeaux",
-      "description": "POSTE : Technicien Support H/F\nDESCRIPTION : Technicien(e) Support F/H   \n  \nDescription de poste  \n Vous intégrez notre centre d'excellence de prestation de services à Bordeaux spécialisé dans le...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6950610",
+      "description": "POSTE : Technicien Support N2 H/F\nDESCRIPTION : Nous recherchons pour le compte de notre client, société de services, un Technicien Support N2 (F/H)  \n  \nEn tant que vous Technicien Support N2 (F/H),...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7283586",
       "source": "france_travail",
-      "date_posted": "2026-09-17",
-      "contract_type": "CDI",
+      "date_posted": "2026-09-24",
+      "contract_type": "Intérim",
       "salary": "",
       "score": 55,
       "score_breakdown": {
@@ -1287,27 +1353,6 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-site-%E2%80%93-bassens-33-f-h-at-michelin-4459683829",
       "source": "linkedin",
       "date_posted": "2026-08-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4439271636",
-      "title": "Technicien informatique Itinérant H/F",
-      "company": "FIDUCIAL",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-itin%C3%A9rant-h-f-at-fiducial-4439271636",
-      "source": "linkedin",
-      "date_posted": "2026-07-22",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1558,29 +1603,6 @@
       }
     },
     {
-      "id": "ft_7047419",
-      "title": "Responsable d'exploitation Réseau Fibre FTTH - F/H",
-      "company": "CGWORLD",
-      "location": "33 - Bordeaux",
-      "description": "Descriptif du poste:\\n\\nPoste Urgent - Candidat qui soit déjà dans la région\\n \\nDans le cadre de l'exploitation et de la poursuite des activités de production d'un réseau fibre optique FTTH, notre...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7047419",
-      "source": "france_travail",
-      "date_posted": "2026-09-21",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 43,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_213TDDW",
       "title": "TECHNICIEN SUPÉRIEUR DE LA CIRCULATION FERROVIAIRE (H/F)",
       "company": "SNCFRESEAU",
@@ -1648,27 +1670,6 @@
       }
     },
     {
-      "id": "ft_213TJPB",
-      "title": "Team Leader Production IT/ support de proximité (H/F)",
-      "company": "StandExperis",
-      "location": "33 - BORDEAUX",
-      "description": "Experis recherche un Team Leader Production IT / Support de Proximité afin de piloter une équipe de 13 collaborateurs dans un environnement à forte exigence de qualité de service.\nLe poste est basé à...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213TJPB",
-      "source": "france_travail",
-      "date_posted": "2026-09-11",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 42,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_7068112",
       "title": "Gestionnaire de Parc Informatique H/F - Bordeaux (33)",
       "company": "ExperisFrance",
@@ -1711,14 +1712,14 @@
       }
     },
     {
-      "id": "ft_6785012",
-      "title": "Ingénieur Support IT N1 H/F",
-      "company": "Akkodis",
+      "id": "ft_7326500",
+      "title": "Technicien Déploiement Solutions d'Impression H/F",
+      "company": "LBS33",
       "location": "33 - Bordeaux",
-      "description": "POSTE : Ingénieur Support IT N1 H/F\nDESCRIPTION : La ligne de service Consulting & Solutions d'Akkodis France renforce ses équipes en région et recrute un Ingénieur Support N1 H/F en CDI. Ce poste...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6785012",
+      "description": "POSTE : Technicien Déploiement Solutions d'Impression H/F\nDESCRIPTION : \nRattaché(e) à la Direction Technique, vous intervenez directement sur site client pour assurer un déploiement fiable, propre...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7326500",
       "source": "france_travail",
-      "date_posted": "2026-09-10",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 42,
@@ -1753,14 +1754,14 @@
       }
     },
     {
-      "id": "ft_5530063",
+      "id": "ft_7288145",
       "title": "Product Support Engineer H/F",
-      "company": "Safran",
+      "company": "SafranCDI",
       "location": "33 - Bordeaux",
       "description": "POSTE : Product Support Engineer H/F\nDESCRIPTION : \nVous aimez la technique, la diversité des sujets à traiter, faire avancer vos sujets, être en support de nos clients utilisateurs et MRO ?  \n ...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5530063",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7288145",
       "source": "france_travail",
-      "date_posted": "2026-08-25",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 42,
@@ -1935,6 +1936,30 @@
       }
     },
     {
+      "id": "li_4464681666",
+      "title": "Ingénieur(e) Système Linux",
+      "company": "CGI",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-syst%C3%A8me-linux-at-cgi-4464681666",
+      "source": "linkedin",
+      "date_posted": "2026-09-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 34,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 2,
+        "matched_skills": [
+          "Linux",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4415697637",
       "title": "Expert Système Linux et OpenShift Senior (H/F)",
       "company": "CTS Consulting & Technical Support",
@@ -1983,14 +2008,14 @@
       }
     },
     {
-      "id": "ft_7127458",
-      "title": "Administrateur réseau H / F (CDI) (H/F)",
-      "company": "FreeWork",
-      "location": "33 - Haillan",
-      "description": "Chaque moment compte. Surtout ceux que vous vivez à fond. Bienvenue chez Consort Group.\n\nConsort Group, accompagne depuis plus de 30 ans les entreprises dans la valorisation de leurs données et...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7127458",
+      "id": "ft_7279833",
+      "title": "Administrateur Réseau H/F",
+      "company": "ConsortGroup",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Administrateur Réseau H/F\nDESCRIPTION : \nChaque moment compte. Surtout ceux que vous vivez à fond. Bienvenue chez Consort Group.\n \nConsort Group, accompagne depuis plus de 30 ans les...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7279833",
       "source": "france_travail",
-      "date_posted": "2026-09-23",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 33,
@@ -2006,14 +2031,14 @@
       }
     },
     {
-      "id": "ft_6923057",
-      "title": "Administrateur Réseau H/F",
-      "company": "ConsortGroup",
-      "location": "33 - Bordeaux",
-      "description": "POSTE : Administrateur Réseau H/F\nDESCRIPTION : \nChaque moment compte. Surtout ceux que vous vivez à fond. Bienvenue chez Consort Group.\n \nConsort Group, accompagne depuis plus de 30 ans les...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6923057",
+      "id": "ft_7127458",
+      "title": "Administrateur réseau H / F (CDI) (H/F)",
+      "company": "FreeWork",
+      "location": "33 - Haillan",
+      "description": "Chaque moment compte. Surtout ceux que vous vivez à fond. Bienvenue chez Consort Group.\n\nConsort Group, accompagne depuis plus de 30 ans les entreprises dans la valorisation de leurs données et...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7127458",
       "source": "france_travail",
-      "date_posted": "2026-09-16",
+      "date_posted": "2026-09-23",
       "contract_type": "CDI",
       "salary": "",
       "score": 33,
@@ -2144,6 +2169,52 @@
       }
     },
     {
+      "id": "li_4469697317",
+      "title": "Ingénieur systèmes et sécurité F/H",
+      "company": "Keolis Bordeaux Métropole Mobilités",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4469697317",
+      "source": "linkedin",
+      "date_posted": "2026-09-24",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4465961904",
+      "title": "Responsable Infrastructure et Sécurité des Systèmes d'Information H/F",
+      "company": "GROUPE CYBERTEK",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-infrastructure-et-s%C3%A9curit%C3%A9-des-syst%C3%A8mes-d-information-h-f-at-groupe-cybertek-4465961904",
+      "source": "linkedin",
+      "date_posted": "2026-09-16",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4468706788",
       "title": "Ingénieur Réseau & Sécurité H/F",
       "company": "SCC France",
@@ -2152,52 +2223,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-s%C3%A9curit%C3%A9-h-f-at-scc-france-4468706788",
       "source": "linkedin",
       "date_posted": "2026-09-21",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4197307766",
-      "title": "Ingénieur Réseaux (H/F)",
-      "company": "ITS Services",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seaux-h-f-at-its-services-4197307766",
-      "source": "linkedin",
-      "date_posted": "2026-09-14",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4465562016",
-      "title": "Ingénieur sécurité réseau/Ingénieure sécurité réseau",
-      "company": "Consort Group",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-r%C3%A9seau-ing%C3%A9nieure-s%C3%A9curit%C3%A9-r%C3%A9seau-at-consort-group-4465562016",
-      "source": "linkedin",
-      "date_posted": "2026-09-15",
       "contract_type": "",
       "salary": "",
       "score": 33,
@@ -2259,6 +2284,29 @@
       }
     },
     {
+      "id": "li_4465562016",
+      "title": "Ingénieur sécurité réseau/Ingénieure sécurité réseau",
+      "company": "Consort Group",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-r%C3%A9seau-ing%C3%A9nieure-s%C3%A9curit%C3%A9-r%C3%A9seau-at-consort-group-4465562016",
+      "source": "linkedin",
+      "date_posted": "2026-09-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4461059749",
       "title": "Ingénieur systèmes - Identité (AD/Entra ID) (H/F)",
       "company": "FAYAT IT",
@@ -2305,29 +2353,6 @@
       }
     },
     {
-      "id": "li_4469697317",
-      "title": "Ingénieur systèmes et sécurité F/H",
-      "company": "Keolis Bordeaux Métropole Mobilités",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4469697317",
-      "source": "linkedin",
-      "date_posted": "2026-09-24",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_214BMLQ",
       "title": "Technicien de maintenance tramway (H/F)",
       "company": "PROMAN",
@@ -2349,14 +2374,77 @@
       }
     },
     {
-      "id": "ft_6754902",
+      "id": "ft_7297453",
+      "title": "Technicien Robotique H/F",
+      "company": "NextepHR",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Technicien Robotique H/F\nDESCRIPTION : Dans le cadre de la modernisation et de l'automatisation avancée de ses lignes de production, notre client, groupe industriel de premier plan basé en...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7297453",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7319436",
+      "title": "Ingénieur Support Applicatif H/F",
+      "company": "Akkodis",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Ingénieur Support Applicatif H/F\nDESCRIPTION : La ligne de service Consulting & Solutions d'Akkodis France renforce ses équipes en région et recrute un Ingénieur Support Applicatif H/F en...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7319436",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7278669",
       "title": "Ingénieur Support Applicatif Confirmé H/F",
       "company": "ReactisServices",
       "location": "33 - Bordeaux",
       "description": "POSTE : Ingénieur Support Applicatif Confirmé H/F\nDESCRIPTION : \nVous serez intégré.e dans une équipe et serez chargé.e du support fonctionnel de Production d'une importante application métier au...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6754902",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7278669",
       "source": "france_travail",
-      "date_posted": "2026-09-09",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7335308",
+      "title": "Ingénieur Support - Maintenance Moteur H/F",
+      "company": "Atexis",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Ingénieur Support - Maintenance Moteur H/F\nDESCRIPTION : \nAfin d'accompagner notre développement dans le sud-ouest, nous recrutons un Ingénieur Support/Maintenance Moteur (H/F) pour...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7335308",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 32,
@@ -2412,14 +2500,14 @@
       }
     },
     {
-      "id": "li_4439141674",
+      "id": "li_4440686252",
       "title": "Technicien(ne) Comptabilité et/ou Paie",
       "company": "eiG sas",
       "location": "Bègles",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-comptabilit%C3%A9-et-ou-paie-at-eig-sas-4439141674",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-comptabilit%C3%A9-et-ou-paie-at-eig-sas-4440686252",
       "source": "linkedin",
-      "date_posted": "2026-07-13",
+      "date_posted": "2026-07-15",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2561,27 +2649,6 @@
       }
     },
     {
-      "id": "ft_213XGWR",
-      "title": "Architecte Cloud (H/F)",
-      "company": "StandSFEIR",
-      "location": "33 - BORDEAUX",
-      "description": "Pour accompagner la forte croissance de notre collectif Sud-Ouest, nous recherchons notre futur Architecte Cloud confirmé (F/H/NB).\n\nTes missions au quotidien : \n\nConcevoir et déployer des...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213XGWR",
-      "source": "france_travail",
-      "date_posted": "2026-09-15",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 25,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_6723226",
       "title": "Chef-fe de projet capacité mro sous-traitée nti3 & réparations pièces nti4 f/h (H/F)",
       "company": "Non précisé",
@@ -2645,35 +2712,14 @@
       }
     },
     {
-      "id": "ft_213TKVT",
-      "title": "Planificateur intervention de proximité (H/F)",
-      "company": "StandExperis",
-      "location": "33 - BORDEAUX",
-      "description": "Dans le cadre d'une mission au sein d'un environnement de services IT de proximité, Experis recherche un(e) Dispatcheur / Planificateur d'interventions de proximité F/H. Vous contribuerez à...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213TKVT",
-      "source": "france_travail",
-      "date_posted": "2026-09-11",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 25,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_7123117",
+      "id": "ft_7335148",
       "title": "Responsable Reseau et Securite H/F",
       "company": "Cdiscount",
       "location": "33 - Bordeaux",
       "description": "POSTE : Responsable Reseau et Securite H/F\nDESCRIPTION : Vos missions principales :  \n   \n* Garantir la disponibilité et la sécurité de l'infrastructure IT dans un environnement 24/7.  \n* Encadrer et...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7123117",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7335148",
       "source": "france_travail",
-      "date_posted": "2026-09-23",
+      "date_posted": "2026-09-24",
       "contract_type": "CDI",
       "salary": "",
       "score": 25,
@@ -2785,27 +2831,6 @@
       "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-e-de-support-et-d%E2%80%99accompagnement-applicatif-h-f-at-m%C3%A9solia-4464517280",
       "source": "linkedin",
       "date_posted": "2026-09-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4469854565",
-      "title": "Ingénieur Support Applicatif H/F",
-      "company": "Akkodis",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-support-applicatif-h-f-at-akkodis-4469854565",
-      "source": "linkedin",
-      "date_posted": "2026-09-21",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3704,10 +3729,10 @@
     }
   ],
   "stats": {
-    "total": 168,
+    "total": 169,
     "sources": {
-      "france_travail": 88,
-      "linkedin": 80
+      "france_travail": 90,
+      "linkedin": 79
     }
   }
 }
