@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T17:29:02.123967+00:00",
+  "last_updated": "2026-09-25T21:46:28.053308+00:00",
   "jobs": [
     {
       "id": "ft_1380967",
@@ -505,29 +505,6 @@
       }
     },
     {
-      "id": "ft_213DRDD",
-      "title": "Technicien réseaux informatiques (F/H)",
-      "company": "RANDSTADPROFESSIONAL",
-      "location": "33 - Bordeaux",
-      "description": "Missions :\nAu sein de l'équipe support, vous assurez l'assistance de proximité et à distance auprès des utilisateurs sur l'ensemble des problématiques liées au poste de travail et à l'environnement...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213DRDD",
-      "source": "france_travail",
-      "date_posted": "2026-08-31",
-      "contract_type": "Intérim",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_214CMXY",
       "title": "Technicien réseaux et télécommunications (H/F)",
       "company": "CONEXIOTELECOM",
@@ -721,6 +698,29 @@
       "source": "france_travail",
       "date_posted": "2026-09-18",
       "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_214BSYW",
+      "title": "Technicien réseaux informatiques (F/H)",
+      "company": "RANDSTADPROFESSIONAL",
+      "location": "33 - Haillan",
+      "description": "En tant que Technicien Support N2, vos mission seront :\n- Installer, configurer des matériels de l'environnement utilisateur à partir de procédures existantes ou non\n- Installer, configurer des...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214BSYW",
+      "source": "france_travail",
+      "date_posted": "2026-09-18",
+      "contract_type": "Intérim",
       "salary": "",
       "score": 66,
       "score_breakdown": {
@@ -1531,14 +1531,14 @@
       }
     },
     {
-      "id": "li_4461654531",
+      "id": "li_4461649565",
       "title": "Technicien de maintenance automatismes et informatique industrielle F/H",
       "company": "RTE Réseau de Transport d'Electricité",
       "location": "Floirac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461654531",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatismes-et-informatique-industrielle-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4461649565",
       "source": "linkedin",
-      "date_posted": "2026-09-03",
+      "date_posted": "2026-09-25",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -2330,29 +2330,6 @@
       }
     },
     {
-      "id": "li_4465961904",
-      "title": "Responsable Infrastructure et Sécurité des Systèmes d'Information H/F",
-      "company": "GROUPE CYBERTEK",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-infrastructure-et-s%C3%A9curit%C3%A9-des-syst%C3%A8mes-d-information-h-f-at-groupe-cybertek-4465961904",
-      "source": "linkedin",
-      "date_posted": "2026-09-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4468706788",
       "title": "Ingénieur Réseau & Sécurité H/F",
       "company": "SCC France",
@@ -2399,6 +2376,29 @@
       }
     },
     {
+      "id": "li_4465562016",
+      "title": "Ingénieur sécurité réseau/Ingénieure sécurité réseau",
+      "company": "Consort Group",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-r%C3%A9seau-ing%C3%A9nieure-s%C3%A9curit%C3%A9-r%C3%A9seau-at-consort-group-4465562016",
+      "source": "linkedin",
+      "date_posted": "2026-09-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4464371823",
       "title": "Contrôleur Réseaux Assainissement F/H",
       "company": "RAZEL-BEC | FAYAT Group",
@@ -2430,29 +2430,6 @@
       "url": "https://fr.linkedin.com/jobs/view/contr%C3%B4leur-r%C3%A9seaux-assainissement-f-h-at-fayat-group-4399541084",
       "source": "linkedin",
       "date_posted": "2026-05-09",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4465562016",
-      "title": "Ingénieur sécurité réseau/Ingénieure sécurité réseau",
-      "company": "Consort Group",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-r%C3%A9seau-ing%C3%A9nieure-s%C3%A9curit%C3%A9-r%C3%A9seau-at-consort-group-4465562016",
-      "source": "linkedin",
-      "date_posted": "2026-09-15",
       "contract_type": "",
       "salary": "",
       "score": 33,
@@ -3368,6 +3345,27 @@
       }
     },
     {
+      "id": "ft_213WFCT",
+      "title": "ELECTRICIEN COURANT FAIBLE (H/F)",
+      "company": "TRIANGLESOLUTIONSRH",
+      "location": "33 - Bordeaux",
+      "description": "Dans le cadre d'un besoin de notre client, l'agence TRIANGLE INTÉRIM BORDEAUX CHARTRONS recherche des Électriciens Courant Faible (H/F) pour intervenir sur des projets techniques à forte valeur...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213WFCT",
+      "source": "france_travail",
+      "date_posted": "2026-09-14",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 15,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "li_4443002098",
       "title": "EXPERT RESEAUX ET SECURITE SENIOR H/F",
       "company": "Inetum",
@@ -3793,8 +3791,8 @@
   "stats": {
     "total": 171,
     "sources": {
-      "france_travail": 92,
-      "linkedin": 79
+      "france_travail": 93,
+      "linkedin": 78
     }
   }
 }
