@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T11:42:52.176885+00:00",
+  "last_updated": "2026-09-26T16:39:02.487725+00:00",
   "jobs": [
     {
       "id": "ft_7231803",
@@ -1555,6 +1555,27 @@
       }
     },
     {
+      "id": "li_4457473486",
+      "title": "Technicien informatique de proximité environnement F/H",
+      "company": "Université de Bordeaux",
+      "location": "Gironde",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-de-proximit%C3%A9-environnement-f-h-at-universit%C3%A9-de-bordeaux-4457473486",
+      "source": "linkedin",
+      "date_posted": "2026-08-25",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4461649565",
       "title": "Technicien de maintenance automatismes et informatique industrielle F/H",
       "company": "RTE Réseau de Transport d'Electricité",
@@ -1584,27 +1605,6 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-ne-support-informatique-n1-n2-h-f-at-watsoft-distributor-for-msp-and-it-pro-s-since-2001-4472016917",
       "source": "linkedin",
       "date_posted": "2026-09-25",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4456929659",
-      "title": "Technicien Informatique - Bordeaux, France  (H/F)",
-      "company": "Tekneum by Astek",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-bordeaux-france-h-f-at-tekneum-by-astek-4456929659",
-      "source": "linkedin",
-      "date_posted": "2026-09-09",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1681,22 +1681,22 @@
       }
     },
     {
-      "id": "li_4469921512",
-      "title": "Technicien support/Technicienne support",
-      "company": "GUARANÍ",
-      "location": "Bordeaux et périphérie",
+      "id": "li_4456929659",
+      "title": "Technicien Informatique - Bordeaux, France  (H/F)",
+      "company": "Tekneum by Astek",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-support-technicienne-support-at-guaran%C3%AD-4469921512",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-bordeaux-france-h-f-at-tekneum-by-astek-4456929659",
       "source": "linkedin",
-      "date_posted": "2026-09-21",
+      "date_posted": "2026-09-09",
       "contract_type": "",
       "salary": "",
-      "score": 45,
+      "score": 55,
       "score_breakdown": {
         "title": 40,
         "skills": 0,
         "matched_skills": [],
-        "sector": 0,
+        "sector": 10,
         "recency": 5,
         "contract": 0
       }
@@ -1710,6 +1710,27 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-support-utilisateurs-h-f-at-sabena-technics-4470092059",
       "source": "linkedin",
       "date_posted": "2026-09-25",
+      "contract_type": "",
+      "salary": "",
+      "score": 45,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4469921512",
+      "title": "Technicien support/Technicienne support",
+      "company": "GUARANÍ",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-support-technicienne-support-at-guaran%C3%AD-4469921512",
+      "source": "linkedin",
+      "date_posted": "2026-09-21",
       "contract_type": "",
       "salary": "",
       "score": 45,
@@ -2059,7 +2080,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seaux-h-f-at-extia-4389835751",
       "source": "linkedin",
-      "date_posted": "2026-09-05",
+      "date_posted": "2026-09-26",
       "contract_type": "",
       "salary": "",
       "score": 40,
@@ -2303,29 +2324,6 @@
         "skills": 1,
         "matched_skills": [
           "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4448617213",
-      "title": "Ingénieur(e) Systèmes F/H",
-      "company": "CGI",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-syst%C3%A8mes-f-h-at-cgi-4448617213",
-      "source": "linkedin",
-      "date_posted": "2026-08-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -3495,6 +3493,27 @@
       }
     },
     {
+      "id": "li_4378763400",
+      "title": "Architecte Microsoft Modern Workplace",
+      "company": "Capgemini",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/architecte-microsoft-modern-workplace-at-capgemini-4378763400",
+      "source": "linkedin",
+      "date_posted": "2026-02-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 15,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4468559038",
       "title": "INGENIEUR SYSTEMES & RESEAUX (H/F)",
       "company": "SOLUTEC",
@@ -3769,10 +3788,10 @@
     }
   ],
   "stats": {
-    "total": 170,
+    "total": 171,
     "sources": {
       "france_travail": 93,
-      "linkedin": 77
+      "linkedin": 78
     }
   }
 }
