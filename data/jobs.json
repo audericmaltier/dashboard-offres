@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T21:04:10.913792+00:00",
+  "last_updated": "2026-09-26T10:46:07.532326+00:00",
   "jobs": [
     {
       "id": "ft_7098590",
@@ -364,7 +364,7 @@
       "description": "DESCRIPTION DU POSTE\nRattaché au Responsable Infrastructure, vous rejoignez une équipe composée d'administrateurs systèmes, techniciens réseaux et futurs alternants, dans un environnement...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2844111",
       "source": "france_travail",
-      "date_posted": "2026-08-26",
+      "date_posted": "2026-08-27",
       "contract_type": "CDI",
       "salary": "",
       "score": 65,
@@ -451,7 +451,7 @@
       "description": "1. Ingénierie & Méthodes de Maintenance\n\n- Élaborer et maintenir les plans de maintenance préventive conformément aux\nengagements contractuels et aux référentiels IDEX ENERGIES.\n- Assurer le support...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4865215",
       "source": "france_travail",
-      "date_posted": "2026-08-26",
+      "date_posted": "2026-08-27",
       "contract_type": "CDI",
       "salary": "",
       "score": 58,
@@ -590,7 +590,7 @@
       "description": "Description du poste :\n\nNotre cabinet recherche  un Ingénieur Études de Prix VRD (H/F)  pour renforcer une équipe dynamique et engagée. Vous interviendrez sur des projets d'aménagement variés, en...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5832046",
       "source": "france_travail",
-      "date_posted": "2026-08-26",
+      "date_posted": "2026-08-27",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -872,6 +872,29 @@
       }
     },
     {
+      "id": "ft_7424361",
+      "title": "Ingénieur responsable de lot - méthodes industrialisation spatial (H/F)",
+      "company": "Non précisé",
+      "location": "33 - Haillan",
+      "description": "Pour renforcer son pôle spatial, la Direction des compétences du groupe ALTEN recrute un responsable de lot spécialisé en méthodes/industrialisation, sous la responsabilité du chef de projet....",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7424361",
+      "source": "france_travail",
+      "date_posted": "2026-09-26",
+      "contract_type": "Intérim",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "ft_7300480",
       "title": "Ingénieur Méthodes H/F",
       "company": "Yes !",
@@ -911,6 +934,29 @@
         "skills": 1,
         "matched_skills": [
           "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4470532674",
+      "title": "Ingénieur supply chain / amélioration continue H/F",
+      "company": "Ingeliance",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-supply-chain-am%C3%A9lioration-continue-h-f-at-ingeliance-4470532674",
+      "source": "linkedin",
+      "date_posted": "2026-09-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "amélioration continue"
         ],
         "sector": 0,
         "recency": 5,
@@ -1147,7 +1193,7 @@
       "description": "AERONEFS SERVICES est un fournisseur stratégique des industries : aéronautique, spatial et défense depuis plus de 40 ans. Elle a plus récemment développé une activité de services dans le domaine des...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KPSG",
       "source": "france_travail",
-      "date_posted": "2026-08-26",
+      "date_posted": "2026-08-27",
       "contract_type": "CDI",
       "salary": "",
       "score": 43,
@@ -1254,7 +1300,7 @@
       "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5337119",
       "source": "france_travail",
-      "date_posted": "2026-08-26",
+      "date_posted": "2026-08-27",
       "contract_type": "CDI",
       "salary": "",
       "score": 42,
@@ -1345,7 +1391,7 @@
       "description": "RESPONSABILITÉS : \n\nPour renforcer nos équipes, nous recherchons notre :\nIngénieur Lean Manufacturing (H/F)\nAtelier de fabrication de Pompignac (33)\nRattaché.e au Responsable du Pôle LEAN National,...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6187669",
       "source": "france_travail",
-      "date_posted": "2026-08-26",
+      "date_posted": "2026-08-27",
       "contract_type": "CDD",
       "salary": "",
       "score": 33,
@@ -2263,27 +2309,6 @@
       }
     },
     {
-      "id": "li_4457756195",
-      "title": "Chargé d'affaires électricité (F/H)",
-      "company": "PRIME ENGINEERING",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-d-affaires-%C3%A9lectricit%C3%A9-f-h-at-prime-engineering-france-4457756195",
-      "source": "linkedin",
-      "date_posted": "2026-08-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 16,
-      "score_breakdown": {
-        "title": 11,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_213LSFR",
       "title": "Chef de ligne (H/F)",
       "company": "CASTEL FRERES",
@@ -2412,6 +2437,27 @@
       }
     },
     {
+      "id": "li_4468325734",
+      "title": "CDD Responsable d'exploitation adjoint(e) F/H",
+      "company": "VINCI Autoroutes",
+      "location": "Coutras",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/cdd-responsable-d-exploitation-adjoint-e-f-h-at-vinci-autoroutes-4468325734",
+      "source": "linkedin",
+      "date_posted": "2026-09-25",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4464096573",
       "title": "GBR- RAMS Engineer F/H",
       "company": "B-Hive Engineering",
@@ -2483,27 +2529,6 @@
       "url": "https://fr.linkedin.com/jobs/view/lead-mission-assurance-engineer-at-the-exploration-company-4410066098",
       "source": "linkedin",
       "date_posted": "2026-05-04",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4430409898",
-      "title": "Mechanical Engineer",
-      "company": "pony",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/mechanical-engineer-at-pony-4430409898",
-      "source": "linkedin",
-      "date_posted": "2026-06-18",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2665,9 +2690,9 @@
     }
   ],
   "stats": {
-    "total": 122,
+    "total": 123,
     "sources": {
-      "france_travail": 56,
+      "france_travail": 57,
       "linkedin": 66
     }
   }
