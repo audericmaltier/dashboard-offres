@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T12:22:06.910954+00:00",
+  "last_updated": "2026-09-27T17:12:26.674582+00:00",
   "jobs": [
     {
       "id": "ft_7231803",
@@ -1402,6 +1402,29 @@
       }
     },
     {
+      "id": "li_4469136991",
+      "title": "Technicien de Maintenance des Systèmes d'Alarme et de Télésurveillance H/F",
+      "company": "Aximea",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-des-syst%C3%A8mes-d-alarme-et-de-t%C3%A9l%C3%A9surveillance-h-f-at-aximea-4469136991",
+      "source": "linkedin",
+      "date_posted": "2026-09-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4472021249",
       "title": "Technicien Géomètre-Topographe & Détection de réseaux F/H",
       "company": "Groupe ADRÉ",
@@ -2289,29 +2312,6 @@
       }
     },
     {
-      "id": "li_4465961904",
-      "title": "Responsable Infrastructure et Sécurité des Systèmes d'Information H/F",
-      "company": "GROUPE CYBERTEK",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-infrastructure-et-s%C3%A9curit%C3%A9-des-syst%C3%A8mes-d-information-h-f-at-groupe-cybertek-4465961904",
-      "source": "linkedin",
-      "date_posted": "2026-09-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4468706788",
       "title": "Ingénieur Réseau & Sécurité H/F",
       "company": "SCC France",
@@ -2358,6 +2358,29 @@
       }
     },
     {
+      "id": "li_4465562016",
+      "title": "Ingénieur sécurité réseau/Ingénieure sécurité réseau",
+      "company": "Consort Group",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-r%C3%A9seau-ing%C3%A9nieure-s%C3%A9curit%C3%A9-r%C3%A9seau-at-consort-group-4465562016",
+      "source": "linkedin",
+      "date_posted": "2026-09-15",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4464371823",
       "title": "Contrôleur Réseaux Assainissement F/H",
       "company": "RAZEL-BEC | FAYAT Group",
@@ -2389,29 +2412,6 @@
       "url": "https://fr.linkedin.com/jobs/view/contr%C3%B4leur-r%C3%A9seaux-assainissement-f-h-at-fayat-group-4399541084",
       "source": "linkedin",
       "date_posted": "2026-05-09",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4465562016",
-      "title": "Ingénieur sécurité réseau/Ingénieure sécurité réseau",
-      "company": "Consort Group",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-s%C3%A9curit%C3%A9-r%C3%A9seau-ing%C3%A9nieure-s%C3%A9curit%C3%A9-r%C3%A9seau-at-consort-group-4465562016",
-      "source": "linkedin",
-      "date_posted": "2026-09-15",
       "contract_type": "",
       "salary": "",
       "score": 33,
@@ -3516,6 +3516,27 @@
       }
     },
     {
+      "id": "li_4378763400",
+      "title": "Architecte Microsoft Modern Workplace",
+      "company": "Capgemini",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/architecte-microsoft-modern-workplace-at-capgemini-4378763400",
+      "source": "linkedin",
+      "date_posted": "2026-02-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 15,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4468559038",
       "title": "INGENIEUR SYSTEMES & RESEAUX (H/F)",
       "company": "SOLUTEC",
@@ -3790,10 +3811,10 @@
     }
   ],
   "stats": {
-    "total": 171,
+    "total": 172,
     "sources": {
       "france_travail": 93,
-      "linkedin": 78
+      "linkedin": 79
     }
   }
 }
