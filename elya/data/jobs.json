@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T17:12:26.674582+00:00",
+  "last_updated": "2026-09-27T21:32:19.499953+00:00",
   "jobs": [
     {
       "id": "ft_7231803",
@@ -1379,29 +1379,6 @@
       }
     },
     {
-      "id": "li_4464881281",
-      "title": "Administrateur systèmes informatique industrielle (F/H)",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-informatique-industrielle-f-h-at-roxel-4464881281",
-      "source": "linkedin",
-      "date_posted": "2026-09-11",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4469136991",
       "title": "Technicien de Maintenance des Systèmes d'Alarme et de Télésurveillance H/F",
       "company": "Aximea",
@@ -2282,29 +2259,6 @@
         "skills": 1,
         "matched_skills": [
           "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4448617213",
-      "title": "Ingénieur(e) Systèmes F/H",
-      "company": "CGI",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-syst%C3%A8mes-f-h-at-cgi-4448617213",
-      "source": "linkedin",
-      "date_posted": "2026-08-03",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
         ],
         "sector": 10,
         "recency": 5,
@@ -3516,27 +3470,6 @@
       }
     },
     {
-      "id": "li_4378763400",
-      "title": "Architecte Microsoft Modern Workplace",
-      "company": "Capgemini",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/architecte-microsoft-modern-workplace-at-capgemini-4378763400",
-      "source": "linkedin",
-      "date_posted": "2026-02-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 15,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4468559038",
       "title": "INGENIEUR SYSTEMES & RESEAUX (H/F)",
       "company": "SOLUTEC",
@@ -3811,10 +3744,10 @@
     }
   ],
   "stats": {
-    "total": 172,
+    "total": 169,
     "sources": {
       "france_travail": 93,
-      "linkedin": 79
+      "linkedin": 76
     }
   }
 }
