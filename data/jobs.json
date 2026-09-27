@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T20:37:12.069103+00:00",
+  "last_updated": "2026-09-27T11:20:57.198019+00:00",
   "jobs": [
     {
       "id": "ft_7098590",
@@ -101,29 +101,6 @@
       "location": "33 - Bordeaux",
       "description": "POSTE : Ingénieur Méthodes et Procédés H/F\nDESCRIPTION : \nDans le cadre d'un projet industriel à forte exigence technique, nous recherchons un(e) Ingénieur Méthodes confirmé(e) afin d'intervenir sur...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7224193",
-      "source": "france_travail",
-      "date_posted": "2026-09-24",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 66,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_7196895",
-      "title": "Ingénieur Responsable de Lot - Méthodes Industrialisation H/F",
-      "company": "ALTEN",
-      "location": "33 - Mérignac",
-      "description": "POSTE : Ingénieur Responsable de Lot - Méthodes Industrialisation H/F\nDESCRIPTION : \nPour renforcer son pôle spatial défense, la Direction des compétences du groupe ALTEN recrute un responsable de...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7196895",
       "source": "france_travail",
       "date_posted": "2026-09-24",
       "contract_type": "CDI",
@@ -364,7 +341,7 @@
       "description": "DESCRIPTION DU POSTE\nRattaché au Responsable Infrastructure, vous rejoignez une équipe composée d'administrateurs systèmes, techniciens réseaux et futurs alternants, dans un environnement...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2844111",
       "source": "france_travail",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-08-28",
       "contract_type": "CDI",
       "salary": "",
       "score": 65,
@@ -451,7 +428,7 @@
       "description": "1. Ingénierie & Méthodes de Maintenance\n\n- Élaborer et maintenir les plans de maintenance préventive conformément aux\nengagements contractuels et aux référentiels IDEX ENERGIES.\n- Assurer le support...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4865215",
       "source": "france_travail",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-08-28",
       "contract_type": "CDI",
       "salary": "",
       "score": 58,
@@ -488,6 +465,29 @@
         "sector": 10,
         "recency": 5,
         "contract": 0
+      }
+    },
+    {
+      "id": "ft_7438270",
+      "title": "Ingénieur Responsable de Lot - Méthodes Industrialisation Spatial H/F",
+      "company": "ALTEN",
+      "location": "33 - Haillan",
+      "description": "POSTE : Ingénieur Responsable de Lot - Méthodes Industrialisation Spatial H/F\nDESCRIPTION : \nPour renforcer son pôle spatial, la Direction des compétences du groupe ALTEN recrute un responsable de...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7438270",
+      "source": "france_travail",
+      "date_posted": "2026-09-27",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
       }
     },
     {
@@ -590,7 +590,7 @@
       "description": "Description du poste :\n\nNotre cabinet recherche  un Ingénieur Études de Prix VRD (H/F)  pour renforcer une équipe dynamique et engagée. Vous interviendrez sur des projets d'aménagement variés, en...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5832046",
       "source": "france_travail",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-08-28",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -1193,7 +1193,7 @@
       "description": "AERONEFS SERVICES est un fournisseur stratégique des industries : aéronautique, spatial et défense depuis plus de 40 ans. Elle a plus récemment développé une activité de services dans le domaine des...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KPSG",
       "source": "france_travail",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-08-28",
       "contract_type": "CDI",
       "salary": "",
       "score": 43,
@@ -1300,7 +1300,7 @@
       "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5337119",
       "source": "france_travail",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-08-28",
       "contract_type": "CDI",
       "salary": "",
       "score": 42,
@@ -1361,29 +1361,6 @@
       }
     },
     {
-      "id": "ft_7329578",
-      "title": "Coordinateur Maintenance H/F",
-      "company": "LCRH",
-      "location": "33 - Bègles",
-      "description": "POSTE : Coordinateur Maintenance H/F\nDESCRIPTION : Poste en 2x8   \n  \nVous organisez et coordonnez l'ensemble des activités de maintenance préventive, corrective et réglementaire.  \n  \nÀ ce titre,...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7329578",
-      "source": "france_travail",
-      "date_posted": "2026-09-24",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "maintenance préventive"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_6187669",
       "title": "Ingénieur Lean Manufacturing H/F",
       "company": "KAEFER",
@@ -1391,7 +1368,7 @@
       "description": "RESPONSABILITÉS : \n\nPour renforcer nos équipes, nous recherchons notre :\nIngénieur Lean Manufacturing (H/F)\nAtelier de fabrication de Pompignac (33)\nRattaché.e au Responsable du Pôle LEAN National,...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6187669",
       "source": "france_travail",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-08-28",
       "contract_type": "CDD",
       "salary": "",
       "score": 33,
@@ -1541,6 +1518,27 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7198639",
       "source": "france_travail",
       "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7448284",
+      "title": "Ingénieur Projet Travaux Neufs - Cestas H/F",
+      "company": "Mondelez International",
+      "location": "33 - Cestas",
+      "description": "POSTE : Ingénieur Projet Travaux Neufs - Cestas H/F\nDESCRIPTION : \nVous aiderez à planifier, développer et exécuter les projets stratégiques, le développement technique, les perspectives de...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7448284",
+      "source": "france_travail",
+      "date_posted": "2026-09-27",
       "contract_type": "CDI",
       "salary": "",
       "score": 32,
@@ -2183,6 +2181,27 @@
       }
     },
     {
+      "id": "li_4467218607",
+      "title": "Ingénieur IVV (F/H)",
+      "company": "Groupe SII",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ivv-f-h-at-groupe-sii-4467218607",
+      "source": "linkedin",
+      "date_posted": "2026-09-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4411760075",
       "title": "Responsable d'Ingénierie / Responsable Process - H/F",
       "company": "NEO2",
@@ -2418,10 +2437,10 @@
     {
       "id": "li_4408025713",
       "title": "Responsable de site CVC",
-      "company": "VINCI Energies",
+      "company": "VINCI",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-cvc-at-vinci-energies-4408025713",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-cvc-at-vinci-4408025713",
       "source": "linkedin",
       "date_posted": "2026-04-29",
       "contract_type": "",
@@ -2437,14 +2456,14 @@
       }
     },
     {
-      "id": "li_4468325734",
+      "id": "li_4468240165",
       "title": "CDD Responsable d'exploitation adjoint(e) F/H",
-      "company": "VINCI Autoroutes",
+      "company": "VINCI Energies",
       "location": "Coutras",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdd-responsable-d-exploitation-adjoint-e-f-h-at-vinci-autoroutes-4468325734",
+      "url": "https://fr.linkedin.com/jobs/view/cdd-responsable-d-exploitation-adjoint-e-f-h-at-vinci-energies-4468240165",
       "source": "linkedin",
-      "date_posted": "2026-09-25",
+      "date_posted": "2026-09-16",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2690,10 +2709,10 @@
     }
   ],
   "stats": {
-    "total": 123,
+    "total": 124,
     "sources": {
       "france_travail": 57,
-      "linkedin": 66
+      "linkedin": 67
     }
   }
 }
