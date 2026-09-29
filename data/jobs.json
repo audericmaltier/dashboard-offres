@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T12:04:45.871977+00:00",
+  "last_updated": "2026-09-29T21:49:26.804016+00:00",
   "jobs": [
     {
       "id": "ft_7098590",
@@ -181,27 +181,6 @@
         "matched_skills": [
           "méthodes"
         ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_213GBHL",
-      "title": "Ingénieur Etudes Process & Utilités Industrielles F/H (H/F)",
-      "company": "CAP INGELEC",
-      "location": "33 - Bordeaux",
-      "description": "En tant qu'Ingénieur Etudes Process & Utilités Industrielles F/H nouvellement diplômé(e), vous intégrez notre promotion Jeunes Ingénieurs dans l'une de nos agences Lyon ou Bordeaux. \n\nAccompagné(e)...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213GBHL",
-      "source": "france_travail",
-      "date_posted": "2026-09-01",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 65,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
         "sector": 10,
         "recency": 5,
         "contract": 10
@@ -782,6 +761,27 @@
       }
     },
     {
+      "id": "li_4473099076",
+      "title": "Ingénieur Etudes Process & Utilités Industrielles F/H",
+      "company": "CAP INGELEC",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-etudes-process-utilit%C3%A9s-industrielles-f-h-at-cap-ingelec-4473099076",
+      "source": "linkedin",
+      "date_posted": "2026-09-29",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4466371130",
       "title": "Ingénieur Projet Procédés Industriels - H/F",
       "company": "NEO2",
@@ -985,14 +985,14 @@
       }
     },
     {
-      "id": "li_4470330124",
-      "title": "CDI - Ingénieure/Ingénieur Méthodes Procédés",
-      "company": "ArianeGroup",
-      "location": "Le Haillan",
+      "id": "li_4463931031",
+      "title": "Ingénieur Méthodes - Bordeaux, France  (H/F)",
+      "company": "Astek",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thodes-proc%C3%A9d%C3%A9s-at-arianegroup-4470330124",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-bordeaux-france-h-f-at-astek-4463931031",
       "source": "linkedin",
-      "date_posted": "2026-09-25",
+      "date_posted": "2026-09-11",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1008,14 +1008,14 @@
       }
     },
     {
-      "id": "li_4463931031",
-      "title": "Ingénieur Méthodes - Bordeaux, France  (H/F)",
+      "id": "li_4371929328",
+      "title": "Ingénieur Méthodes Composites  - Bordeaux, France  (H/F)",
       "company": "Astek",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-bordeaux-france-h-f-at-astek-4463931031",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-composites-bordeaux-france-h-f-at-astek-4371929328",
       "source": "linkedin",
-      "date_posted": "2026-09-11",
+      "date_posted": "2026-09-20",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1054,14 +1054,14 @@
       }
     },
     {
-      "id": "li_4371929328",
-      "title": "Ingénieur Méthodes Composites  - Bordeaux, France  (H/F)",
-      "company": "Astek",
-      "location": "Bordeaux",
+      "id": "li_4473280154",
+      "title": "Ingénieur électronique – Méthodes & Industrialisation (F/H)",
+      "company": "ACTEON France",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-composites-bordeaux-france-h-f-at-astek-4371929328",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-%C3%A9lectronique-%E2%80%93-m%C3%A9thodes-industrialisation-f-h-at-acteon-france-4473280154",
       "source": "linkedin",
-      "date_posted": "2026-09-20",
+      "date_posted": "2026-09-29",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1140,27 +1140,6 @@
       }
     },
     {
-      "id": "li_4370509362",
-      "title": "Ingénieur Qualité Production, Industrialisation et Fournisseur H/F",
-      "company": "Scalian",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-production-industrialisation-et-fournisseur-h-f-at-scalian-4370509362",
-      "source": "linkedin",
-      "date_posted": "2026-09-10",
-      "contract_type": "",
-      "salary": "",
-      "score": 45,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_212KPSG",
       "title": "Préparateur Méthodes et Industrialisation (H/F)",
       "company": "AERONEFS SERVICES",
@@ -1211,6 +1190,27 @@
       "location": "33 - Bordeaux",
       "description": "POSTE : Ingénieur Industrialisation H/F\nDESCRIPTION : Dans le cadre du développement de ses activités et de l'optimisation de ses processus de production, notre client, groupe industriel de référence...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7296497",
+      "source": "france_travail",
+      "date_posted": "2026-09-24",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 42,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7297533",
+      "title": "Ingénieur Industrialisations H/F",
+      "company": "Nextep HR",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Ingénieur Industrialisations H/F\nDESCRIPTION : Dans le cadre du développement de nos activités dans le secteur industriel, nous recherchons un(e) Ingénieur Industrialisation H/F afin de...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7297533",
       "source": "france_travail",
       "date_posted": "2026-09-24",
       "contract_type": "CDI",
@@ -1611,6 +1611,27 @@
       }
     },
     {
+      "id": "li_4471756700",
+      "title": "Technicien(ne) de maintenance industrielle itinérant(e) (H/F)",
+      "company": "GROUPE ANDQO",
+      "location": "Langon",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-ne-de-maintenance-industrielle-itin%C3%A9rant-e-h-f-at-groupe-andqo-4471756700",
+      "source": "linkedin",
+      "date_posted": "2026-09-29",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4464889749",
       "title": "Ingénieur Assurance Développement Aéronautique  - H/F",
       "company": "LGM",
@@ -1925,6 +1946,27 @@
       }
     },
     {
+      "id": "li_4471547021",
+      "title": "Responsable de site Maintenance multi technique H/F",
+      "company": "SE3M",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-maintenance-multi-technique-h-f-at-se3m-4471547021",
+      "source": "linkedin",
+      "date_posted": "2026-09-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4445499678",
       "title": "Ingenieur process et amelioration continue",
       "company": "Imerys",
@@ -1975,27 +2017,6 @@
       "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-maintenance-et-exploitation-cvc-et-plomberie-h-f-at-randstad-france-4461094844",
       "source": "linkedin",
       "date_posted": "2026-09-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4383748946",
-      "title": "Technicien d'études BE - Maintenance H/F",
-      "company": "FAUCHÉ",
-      "location": "Pessac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-d-%C3%A9tudes-be-maintenance-h-f-at-fauch%C3%A9-4383748946",
-      "source": "linkedin",
-      "date_posted": "2026-09-21",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2282,6 +2303,27 @@
       }
     },
     {
+      "id": "li_4468691386",
+      "title": "Ingénieur Projet_Vivier_France (H/F/X)",
+      "company": "Mondelēz International",
+      "location": "Cestas",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-projet-vivier-france-h-f-x-at-mondel%C4%93z-international-4468691386",
+      "source": "linkedin",
+      "date_posted": "2026-09-17",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4445973657",
       "title": "Ingénieur industrialisation Matériaux & Procédés (F/H)",
       "company": "STEP UP",
@@ -2387,6 +2429,27 @@
       }
     },
     {
+      "id": "li_4453097947",
+      "title": "Responsable Démarrage & Mise au point - F/H",
+      "company": "ENGIE Solutions France",
+      "location": "Cestas",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-solutions-france-4453097947",
+      "source": "linkedin",
+      "date_posted": "2026-09-23",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4449564574",
       "title": "Responsable Efficacité Energétique – PREDITY for Assets",
       "company": "ENGIE",
@@ -2416,48 +2479,6 @@
       "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-4441094584",
       "source": "linkedin",
       "date_posted": "2026-07-27",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4195837995",
-      "title": "Animateur Technique Pôle Usine",
-      "company": "O-I",
-      "location": "Vayres",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/animateur-technique-p%C3%B4le-usine-at-o-i-4195837995",
-      "source": "linkedin",
-      "date_posted": "2026-09-16",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4408025713",
-      "title": "Responsable de site CVC",
-      "company": "VINCI Energies",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-de-site-cvc-at-vinci-energies-4408025713",
-      "source": "linkedin",
-      "date_posted": "2026-04-29",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2605,27 +2626,6 @@
       "url": "https://fr.linkedin.com/jobs/view/expert-bms-h-f-at-t-s-technology-strategy-4464095894",
       "source": "linkedin",
       "date_posted": "2026-09-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4326270828",
-      "title": "Pilote d'Industrialisation (F/H)",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/pilote-d-industrialisation-f-h-at-roxel-4326270828",
-      "source": "linkedin",
-      "date_posted": "2025-12-08",
       "contract_type": "",
       "salary": "",
       "score": 5,
