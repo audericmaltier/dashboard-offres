@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T11:52:57.499206+00:00",
+  "last_updated": "2026-09-30T17:33:43.689697+00:00",
   "jobs": [
     {
       "id": "ft_7098590",
@@ -34,6 +34,29 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214BSDW",
       "source": "france_travail",
       "date_posted": "2026-09-18",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7525819",
+      "title": "Ingénieur Méthodes Procédés H/F",
+      "company": "Consept Ingenierie",
+      "location": "33 - Haillan",
+      "description": "Intégré(e) chez notre client dans le domaine de l'aéronautique, dans un projet confidentiel défense, vous intervenez sur les activités de parachèvement, étape clé pour garantir la conformité, la...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7525819",
+      "source": "france_travail",
+      "date_posted": "2026-09-30",
       "contract_type": "CDI",
       "salary": "",
       "score": 66,
@@ -2176,14 +2199,14 @@
       }
     },
     {
-      "id": "li_4292374596",
-      "title": "Ingénieure / Ingénieur Cloud GCP",
-      "company": "Capgemini",
-      "location": "Mérignac",
+      "id": "li_4472312529",
+      "title": "Ingénieur calcul dynamique rapide H/F",
+      "company": "Ingeliance",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-cloud-gcp-at-capgemini-4292374596",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-calcul-dynamique-rapide-h-f-at-ingeliance-4472312529",
       "source": "linkedin",
-      "date_posted": "2025-08-28",
+      "date_posted": "2026-09-30",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2197,14 +2220,14 @@
       }
     },
     {
-      "id": "li_4467218607",
-      "title": "Ingénieur IVV (F/H)",
-      "company": "Groupe SII",
-      "location": "Bordeaux",
+      "id": "li_4292374596",
+      "title": "Ingénieure / Ingénieur Cloud GCP",
+      "company": "Capgemini",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ivv-f-h-at-groupe-sii-4467218607",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-cloud-gcp-at-capgemini-4292374596",
       "source": "linkedin",
-      "date_posted": "2026-09-14",
+      "date_posted": "2025-08-28",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2428,27 +2451,6 @@
       }
     },
     {
-      "id": "li_4453097947",
-      "title": "Responsable Démarrage & Mise au point - F/H",
-      "company": "ENGIE Solutions France",
-      "location": "Cestas",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-solutions-france-4453097947",
-      "source": "linkedin",
-      "date_posted": "2026-09-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4449564574",
       "title": "Responsable Efficacité Energétique – PREDITY for Assets",
       "company": "ENGIE",
@@ -2478,6 +2480,27 @@
       "url": "https://fr.linkedin.com/jobs/view/responsable-d%C3%A9marrage-mise-au-point-f-h-at-engie-4441094584",
       "source": "linkedin",
       "date_posted": "2026-07-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4195837995",
+      "title": "Animateur Technique Pôle Usine",
+      "company": "O-I",
+      "location": "Vayres",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/animateur-technique-p%C3%B4le-usine-at-o-i-4195837995",
+      "source": "linkedin",
+      "date_posted": "2026-09-16",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2702,9 +2725,9 @@
     }
   ],
   "stats": {
-    "total": 124,
+    "total": 125,
     "sources": {
-      "france_travail": 58,
+      "france_travail": 59,
       "linkedin": 66
     }
   }
