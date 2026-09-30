@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T21:49:26.804016+00:00",
+  "last_updated": "2026-09-30T11:52:57.499206+00:00",
   "jobs": [
     {
       "id": "ft_7098590",
@@ -299,7 +299,7 @@
       "description": "DESCRIPTION DU POSTE\nRattaché au Responsable Infrastructure, vous rejoignez une équipe composée d'administrateurs systèmes, techniciens réseaux et futurs alternants, dans un environnement...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/2844111",
       "source": "france_travail",
-      "date_posted": "2026-08-30",
+      "date_posted": "2026-08-31",
       "contract_type": "CDI",
       "salary": "",
       "score": 65,
@@ -358,30 +358,6 @@
       }
     },
     {
-      "id": "ft_4865215",
-      "title": "Ingénieur Méthodes F/H (H/F)",
-      "company": "Non précisé",
-      "location": "33 - Floirac",
-      "description": "1. Ingénierie & Méthodes de Maintenance\n\n- Élaborer et maintenir les plans de maintenance préventive conformément aux\nengagements contractuels et aux référentiels IDEX ENERGIES.\n- Assurer le support...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4865215",
-      "source": "france_travail",
-      "date_posted": "2026-08-30",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 58,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 3,
-        "matched_skills": [
-          "maintenance préventive",
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_213ZTGL",
       "title": "Ingénieur méthodes industrialisation aéronautique (H/F)",
       "company": "PROMAN",
@@ -402,6 +378,29 @@
         "sector": 10,
         "recency": 5,
         "contract": 0
+      }
+    },
+    {
+      "id": "ft_7502028",
+      "title": "Ingénieur électronique - Méthodes & Industrialisation F/H",
+      "company": "FINAPOLLINE",
+      "location": "33 - Mérignac",
+      "description": "Descriptif du poste:\\n\\n \\n* Concevoir et prendre en charge la réalisation des outillages et machines spéciales, dans le respect de la qualité du produit, du planning d'industrialisation et des...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7502028",
+      "source": "france_travail",
+      "date_posted": "2026-09-30",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
       }
     },
     {
@@ -550,7 +549,7 @@
       "description": "Description du poste :\n\nNotre cabinet recherche  un Ingénieur Études de Prix VRD (H/F)  pour renforcer une équipe dynamique et engagée. Vous interviendrez sur des projets d'aménagement variés, en...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5832046",
       "source": "france_travail",
-      "date_posted": "2026-08-30",
+      "date_posted": "2026-08-31",
       "contract_type": "CDI",
       "salary": "",
       "score": 56,
@@ -1031,6 +1030,29 @@
       }
     },
     {
+      "id": "li_4470704732",
+      "title": "CDI – Ingénieure/Ingénieur Processus et Méthodes de la Supply Chain",
+      "company": "ArianeGroup",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-%E2%80%93-ing%C3%A9nieure-ing%C3%A9nieur-processus-et-m%C3%A9thodes-de-la-supply-chain-at-arianegroup-4470704732",
+      "source": "linkedin",
+      "date_posted": "2026-09-25",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4470088471",
       "title": "Ingénieur Méthodes (H/F)",
       "company": "ALTEN",
@@ -1062,6 +1084,29 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-%C3%A9lectronique-%E2%80%93-m%C3%A9thodes-industrialisation-f-h-at-acteon-france-4473280154",
       "source": "linkedin",
       "date_posted": "2026-09-29",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4471987254",
+      "title": "Ingénieur Méthodes et Procédés F/H",
+      "company": "Roxel",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-proc%C3%A9d%C3%A9s-f-h-at-roxel-4471987254",
+      "source": "linkedin",
+      "date_posted": "2026-09-30",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1147,7 +1192,7 @@
       "description": "AERONEFS SERVICES est un fournisseur stratégique des industries : aéronautique, spatial et défense depuis plus de 40 ans. Elle a plus récemment développé une activité de services dans le domaine des...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KPSG",
       "source": "france_travail",
-      "date_posted": "2026-08-30",
+      "date_posted": "2026-08-31",
       "contract_type": "CDI",
       "salary": "",
       "score": 43,
@@ -1254,7 +1299,7 @@
       "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer...",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5337119",
       "source": "france_travail",
-      "date_posted": "2026-08-30",
+      "date_posted": "2026-08-31",
       "contract_type": "CDI",
       "salary": "",
       "score": 42,
@@ -1308,29 +1353,6 @@
         "skills": 1,
         "matched_skills": [
           "maintenance préventive"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
-      "id": "ft_6187669",
-      "title": "Ingénieur Lean Manufacturing H/F",
-      "company": "KAEFER",
-      "location": "33 - Pompignac",
-      "description": "RESPONSABILITÉS : \n\nPour renforcer nos équipes, nous recherchons notre :\nIngénieur Lean Manufacturing (H/F)\nAtelier de fabrication de Pompignac (33)\nRattaché.e au Responsable du Pôle LEAN National,...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6187669",
-      "source": "france_travail",
-      "date_posted": "2026-08-30",
-      "contract_type": "CDD",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "lean"
         ],
         "sector": 0,
         "recency": 5,
@@ -1569,6 +1591,27 @@
       }
     },
     {
+      "id": "ft_7500807",
+      "title": "Chef d'équipe maintenance F/H",
+      "company": "SKILLSRH",
+      "location": "33 - Aubiac",
+      "description": "Descriptif du poste:\\nSKILLS, cabinet de recrutement spécialisé dans l'identification et la sélection de talents, accompagne ses clients dans leurs recrutements sur des fonctions techniques,...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7500807",
+      "source": "france_travail",
+      "date_posted": "2026-09-30",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "ft_7258321",
       "title": "Ingenieur de Production Cloud - DevOps H/F",
       "company": "Conserto",
@@ -1598,6 +1641,27 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6509935",
       "source": "france_travail",
       "date_posted": "2026-09-02",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_7510154",
+      "title": "Ingénieur Fabrication Additive Métallique H/F",
+      "company": "fortil group",
+      "location": "33 - Bordeaux",
+      "description": "POSTE : Ingénieur Fabrication Additive Métallique H/F\nDESCRIPTION : \nDESCRIPTION DE POSTE\n \nDans le cadre du développement de nos activités, nous recherchons un(e) Ingénieur(e) Fabrication Additive...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7510154",
+      "source": "france_travail",
+      "date_posted": "2026-09-30",
       "contract_type": "CDI",
       "salary": "",
       "score": 32,
@@ -1902,29 +1966,6 @@
       }
     },
     {
-      "id": "li_4464430831",
-      "title": "Ingénieur Mécanique – Traitement des non-conformités (H/F)",
-      "company": "fortil",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9canique-%E2%80%93-traitement-des-non-conformit%C3%A9s-h-f-at-fortil-4464430831",
-      "source": "linkedin",
-      "date_posted": "2026-09-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 23,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "mécanique"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4466974308",
       "title": "Responsable de maintenance (H/F)",
       "company": "L'Usine Nouvelle",
@@ -2198,27 +2239,6 @@
       }
     },
     {
-      "id": "li_4464459796",
-      "title": "Ingénieure Ingénieur méthode industrialisation",
-      "company": "Capgemini Engineering",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieure-ing%C3%A9nieur-m%C3%A9thode-industrialisation-at-capgemini-engineering-4464459796",
-      "source": "linkedin",
-      "date_posted": "2026-09-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4470842982",
       "title": "Ingénieur(e) Etudes Procédé Confirmé(e) F/H",
       "company": "Orano",
@@ -2290,27 +2310,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-traitement-des-eaux-at-filtralife-solution-4459183380",
       "source": "linkedin",
       "date_posted": "2026-08-26",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4468691386",
-      "title": "Ingénieur Projet_Vivier_France (H/F/X)",
-      "company": "Mondelēz International",
-      "location": "Cestas",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-projet-vivier-france-h-f-x-at-mondel%C4%93z-international-4468691386",
-      "source": "linkedin",
-      "date_posted": "2026-09-17",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2639,6 +2638,27 @@
       }
     },
     {
+      "id": "li_4326270828",
+      "title": "Pilote d'Industrialisation (F/H)",
+      "company": "Roxel",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/pilote-d-industrialisation-f-h-at-roxel-4326270828",
+      "source": "linkedin",
+      "date_posted": "2025-12-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4462835549",
       "title": "Responsable de lot industrialisation  (H/F)",
       "company": "Thales",
@@ -2682,9 +2702,9 @@
     }
   ],
   "stats": {
-    "total": 123,
+    "total": 124,
     "sources": {
-      "france_travail": 57,
+      "france_travail": 58,
       "linkedin": 66
     }
   }
