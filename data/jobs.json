@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T16:23:59.049517+00:00",
+  "last_updated": "2026-10-04T20:50:40.417023+00:00",
   "jobs": [
     {
       "id": "ft_7098590",
@@ -933,30 +933,6 @@
       }
     },
     {
-      "id": "li_4473718564",
-      "title": "Ingénieur mécanique – Méthodes & Industrialisation (F/H)",
-      "company": "ACTEON France",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9canique-%E2%80%93-m%C3%A9thodes-industrialisation-f-h-at-acteon-france-4473718564",
-      "source": "linkedin",
-      "date_posted": "2026-09-30",
-      "contract_type": "",
-      "salary": "",
-      "score": 48,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 3,
-        "matched_skills": [
-          "mécanique",
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "ft_7584974",
       "title": "Ingénieur Méthodes Parachèvement H/F",
       "company": "AURA",
@@ -1866,27 +1842,6 @@
       }
     },
     {
-      "id": "li_4471384598",
-      "title": "Pilote d'industrialisation maintenance (aéronautique) - H/F",
-      "company": "YEVO",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/pilote-d-industrialisation-maintenance-a%C3%A9ronautique-h-f-at-yevo-4471384598",
-      "source": "linkedin",
-      "date_posted": "2026-09-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4354627749",
       "title": "Responsable amélioration continue (H/F)",
       "company": "LISI AEROSPACE",
@@ -2052,6 +2007,52 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-maintenance-f-h-at-roxel-4472558526",
       "source": "linkedin",
       "date_posted": "2026-10-01",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4437652075",
+      "title": "Technicien Méthodes Process Formage à chaud des métaux (F/H)",
+      "company": "LISI GROUP",
+      "location": "Marmande",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-process-formage-%C3%A0-chaud-des-m%C3%A9taux-f-h-at-lisi-group-4437652075",
+      "source": "linkedin",
+      "date_posted": "2026-07-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 23,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4410980316",
+      "title": "Technicien Méthodes Process Formage à chaud des métaux (F/H)",
+      "company": "LISI AEROSPACE",
+      "location": "Marmande",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-process-formage-%C3%A0-chaud-des-m%C3%A9taux-f-h-at-lisi-aerospace-4410980316",
+      "source": "linkedin",
+      "date_posted": "2026-09-17",
       "contract_type": "",
       "salary": "",
       "score": 23,
@@ -2426,6 +2427,48 @@
       }
     },
     {
+      "id": "li_4445980112",
+      "title": "Ingénieur procédés parachèvement (F/H)",
+      "company": "STEP UP",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-proc%C3%A9d%C3%A9s-parach%C3%A8vement-f-h-at-step-up-4445980112",
+      "source": "linkedin",
+      "date_posted": "2026-07-27",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4460603247",
+      "title": "Ingénieur.e Aérospatial",
+      "company": "Bee Engineering",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-a%C3%A9rospatial-at-bee-engineering-4460603247",
+      "source": "linkedin",
+      "date_posted": "2026-09-29",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4455227335",
       "title": "Ingénieur(e) sénior génie chimique et data analyst (F/H)",
       "company": "Michelin",
@@ -2447,48 +2490,6 @@
       }
     },
     {
-      "id": "li_4468691386",
-      "title": "Ingénieur Projet_Vivier_France (H/F/X)",
-      "company": "Mondelēz International",
-      "location": "Cestas",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-projet-vivier-france-h-f-x-at-mondel%C4%93z-international-4468691386",
-      "source": "linkedin",
-      "date_posted": "2026-09-17",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4469447629",
-      "title": "Ingénieur CND F/H",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-cnd-f-h-at-roxel-4469447629",
-      "source": "linkedin",
-      "date_posted": "2026-09-23",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4472704639",
       "title": "Ingénieur Industrialisation – Manufacturing Engineer H/F",
       "company": "AYES - Management & Technology Consulting",
@@ -2497,27 +2498,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-industrialisation-%E2%80%93-manufacturing-engineer-h-f-at-ayes-management-technology-consulting-4472704639",
       "source": "linkedin",
       "date_posted": "2026-09-28",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4445980112",
-      "title": "Ingénieur procédés parachèvement (F/H)",
-      "company": "STEP UP",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-proc%C3%A9d%C3%A9s-parach%C3%A8vement-f-h-at-step-up-4445980112",
-      "source": "linkedin",
-      "date_posted": "2026-07-27",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2591,27 +2571,6 @@
         "sector": 0,
         "recency": 5,
         "contract": 10
-      }
-    },
-    {
-      "id": "li_4430132182",
-      "title": "Pilote de projet d'industrialisation aéronautique (H/F)",
-      "company": "SEGULA Technologies",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/pilote-de-projet-d-industrialisation-a%C3%A9ronautique-h-f-at-segula-technologies-4430132182",
-      "source": "linkedin",
-      "date_posted": "2026-10-04",
-      "contract_type": "",
-      "salary": "",
-      "score": 15,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
       }
     },
     {
@@ -2783,14 +2742,14 @@
       }
     },
     {
-      "id": "li_4415702628",
-      "title": "Leader Technique EIA H/F",
-      "company": "CTS Consulting & Technical Support",
-      "location": "Eysines",
+      "id": "li_4462835549",
+      "title": "Responsable de lot industrialisation  (H/F)",
+      "company": "Thales",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/leader-technique-eia-h-f-at-cts-consulting-technical-support-4415702628",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-de-lot-industrialisation-h-f-at-thales-4462835549",
       "source": "linkedin",
-      "date_posted": "2026-05-18",
+      "date_posted": "2026-09-24",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2805,10 +2764,10 @@
     }
   ],
   "stats": {
-    "total": 129,
+    "total": 127,
     "sources": {
       "france_travail": 62,
-      "linkedin": 67
+      "linkedin": 65
     }
   }
 }
