@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T17:35:17.174865+00:00",
+  "last_updated": "2026-10-21T21:55:38.937842+00:00",
   "jobs": [
     {
       "id": "ft_8114582",
@@ -1123,6 +1123,30 @@
       }
     },
     {
+      "id": "li_4464884172",
+      "title": "Administrateur Système Windows H/F",
+      "company": "CEA",
+      "location": "Le Barp",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-windows-h-f-at-cea-4464884172",
+      "source": "linkedin",
+      "date_posted": "2026-10-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 57,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "Windows",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4431653966",
       "title": "Administrateur Système et Virtualisation (H/F)",
       "company": "CHEOPS TECHNOLOGY",
@@ -1163,6 +1187,29 @@
         "skills": 2,
         "matched_skills": [
           "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4477984433",
+      "title": "Administrateur Systèmes Microsoft 365 / Modern Workplace H/F",
+      "company": "GROUPE SYD",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-microsoft-365-modern-workplace-h-f-at-groupe-syd-4477984433",
+      "source": "linkedin",
+      "date_posted": "2026-10-13",
+      "contract_type": "",
+      "salary": "",
+      "score": 56,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
           "système"
         ],
         "sector": 10,
@@ -1225,29 +1272,6 @@
       "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-microsoft-365-h-f-at-agap2it-france-4477532061",
       "source": "linkedin",
       "date_posted": "2026-10-12",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4477984433",
-      "title": "Administrateur Systèmes Microsoft 365 / Modern Workplace H/F",
-      "company": "GROUPE SYD",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8mes-microsoft-365-modern-workplace-h-f-at-groupe-syd-4477984433",
-      "source": "linkedin",
-      "date_posted": "2026-10-13",
       "contract_type": "",
       "salary": "",
       "score": 56,
@@ -1389,6 +1413,27 @@
       }
     },
     {
+      "id": "li_4471590885",
+      "title": "Technicien Informatique de proximité H/F",
+      "company": "DACHSER",
+      "location": "Bruges",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-de-proximit%C3%A9-h-f-at-dachser-4471590885",
+      "source": "linkedin",
+      "date_posted": "2026-09-29",
+      "contract_type": "",
+      "salary": "",
+      "score": 55,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4479634649",
       "title": "Assistant support informatique F/H",
       "company": "Université de Bordeaux",
@@ -1460,27 +1505,6 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-support-informatique-it-support-specialist-h-f-at-everping-4477987181",
       "source": "linkedin",
       "date_posted": "2026-10-13",
-      "contract_type": "",
-      "salary": "",
-      "score": 55,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4471590885",
-      "title": "Technicien Informatique de proximité H/F",
-      "company": "DACHSER",
-      "location": "Bruges",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-informatique-de-proximit%C3%A9-h-f-at-dachser-4471590885",
-      "source": "linkedin",
-      "date_posted": "2026-09-29",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -1972,27 +1996,6 @@
       }
     },
     {
-      "id": "ft_214PHPR",
-      "title": "Technicien de Fibre optique D3 Orange (H/F)",
-      "company": "INGRESEAUX",
-      "location": "33 - Pessac",
-      "description": "Sous la responsabilité du Responsable d'équipe vos missions seront :\n- Technique : lecture de plans, tirage de câbles et raccordement par soudure (en intérieur et à l'extérieur), pose de prises...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PHPR",
-      "source": "france_travail",
-      "date_posted": "2026-09-30",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 42,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "ft_8089393",
       "title": "Administrateur-e Supervision Dynatrace H/F",
       "company": "SafranCDI",
@@ -2011,6 +2014,54 @@
         "sector": 10,
         "recency": 5,
         "contract": 10
+      }
+    },
+    {
+      "id": "li_4437300542",
+      "title": "Ingénieur Système et Réseaux Confirmé (H/F)",
+      "company": "Extia",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seaux-confirm%C3%A9-h-f-at-extia-4437300542",
+      "source": "linkedin",
+      "date_posted": "2026-10-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 40,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4389835751",
+      "title": "Ingénieur Système et Réseaux (H/F)",
+      "company": "Extia",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8me-et-r%C3%A9seaux-h-f-at-extia-4389835751",
+      "source": "linkedin",
+      "date_posted": "2026-10-18",
+      "contract_type": "",
+      "salary": "",
+      "score": 40,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 2,
+        "matched_skills": [
+          "réseau",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
       }
     },
     {
@@ -2046,30 +2097,6 @@
       "source": "france_travail",
       "date_posted": "2026-09-21",
       "contract_type": "Profession",
-      "salary": "",
-      "score": 34,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 2,
-        "matched_skills": [
-          "réseau",
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4482132069",
-      "title": "Ingénieur réseau et systèmes",
-      "company": "TELELEC INFORMATIQUE",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-et-syst%C3%A8mes-at-telelec-informatique-4482132069",
-      "source": "linkedin",
-      "date_posted": "2026-10-21",
-      "contract_type": "",
       "salary": "",
       "score": 34,
       "score_breakdown": {
@@ -2178,29 +2205,6 @@
       }
     },
     {
-      "id": "li_4476793238",
-      "title": "Ingénieur réseau et sécurité H/F",
-      "company": "Lectra",
-      "location": "Cestas",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-et-s%C3%A9curit%C3%A9-h-f-at-lectra-4476793238",
-      "source": "linkedin",
-      "date_posted": "2026-10-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4482069872",
       "title": "Ingénieur Réseaux Sécurité support L2/L3 Palo Alto",
       "company": "Nomios France",
@@ -2247,6 +2251,75 @@
       }
     },
     {
+      "id": "li_4442286434",
+      "title": "Ingénieur systèmes et sécurité F/H",
+      "company": "Keolis Bordeaux Métropole Mobilités",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4442286434",
+      "source": "linkedin",
+      "date_posted": "2026-07-21",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4476793238",
+      "title": "Ingénieur réseau et sécurité H/F",
+      "company": "Lectra",
+      "location": "Cestas",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seau-et-s%C3%A9curit%C3%A9-h-f-at-lectra-4476793238",
+      "source": "linkedin",
+      "date_posted": "2026-10-07",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4197307766",
+      "title": "Ingénieur Réseaux (H/F)",
+      "company": "ITS Services",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seaux-h-f-at-its-services-4197307766",
+      "source": "linkedin",
+      "date_posted": "2026-10-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4461059749",
       "title": "Ingénieur systèmes - Identité (AD/Entra ID) (H/F)",
       "company": "FAYAT IT",
@@ -2278,29 +2351,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-identit%C3%A9-ad-entra-id-h-f-at-fayat-group-4445522685",
       "source": "linkedin",
       "date_posted": "2026-09-02",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4442286434",
-      "title": "Ingénieur systèmes et sécurité F/H",
-      "company": "Keolis Bordeaux Métropole Mobilités",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-syst%C3%A8mes-et-s%C3%A9curit%C3%A9-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4442286434",
-      "source": "linkedin",
-      "date_posted": "2026-07-21",
       "contract_type": "",
       "salary": "",
       "score": 33,
@@ -2864,6 +2914,27 @@
       }
     },
     {
+      "id": "ft_215DZBQ",
+      "title": "Directeur technique et projets multidisciplinaires (H/F)",
+      "company": "DOOWATT",
+      "location": "33 - MERIGNAC",
+      "description": "Pilotage de projets multidisciplinaires dans les domaines des datacenters, de la sûreté électronique, de l'énergie et des infrastructures Smart City.\nCoordination des audits, des études techniques,...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215DZBQ",
+      "source": "france_travail",
+      "date_posted": "2026-10-13",
+      "contract_type": "CDI",
+      "salary": "",
+      "score": 25,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
       "id": "li_4465925746",
       "title": "Administrateur réseau H / F",
       "company": "Consort Group",
@@ -2960,6 +3031,27 @@
       "url": "https://fr.linkedin.com/jobs/view/support-technique-h-f-at-agirc-arrco-4475776505",
       "source": "linkedin",
       "date_posted": "2026-10-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4472121082",
+      "title": "INGÉNIEUR SUPPORT FONCTIONNEL FINANCE H/F",
+      "company": "Kicklox",
+      "location": "Nouvelle-Aquitaine, France",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-support-fonctionnel-finance-h-f-at-kicklox-4472121082",
+      "source": "linkedin",
+      "date_posted": "2026-10-05",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3332,27 +3424,6 @@
       }
     },
     {
-      "id": "li_4458368848",
-      "title": "CDI - Spécialiste solutions digitales production & applications (F/H)",
-      "company": "ArianeGroup",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-sp%C3%A9cialiste-solutions-digitales-production-applications-f-h-at-arianegroup-4458368848",
-      "source": "linkedin",
-      "date_posted": "2026-10-19",
-      "contract_type": "",
-      "salary": "",
-      "score": 15,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4462174380",
       "title": "INGENIEUR DE PRODUCTION IT H/F",
       "company": "Inetum",
@@ -3474,6 +3545,29 @@
         "skills": 0,
         "matched_skills": [],
         "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4455403615",
+      "title": "Ingénieur Chargé(e) de Service Linux et Logiciels H/F",
+      "company": "CEA",
+      "location": "Le Barp",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-charg%C3%A9-e-de-service-linux-et-logiciels-h-f-at-cea-4455403615",
+      "source": "linkedin",
+      "date_posted": "2026-10-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 6,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 1,
+        "matched_skills": [
+          "Linux"
+        ],
+        "sector": 0,
         "recency": 5,
         "contract": 0
       }
@@ -3732,10 +3826,10 @@
     }
   ],
   "stats": {
-    "total": 170,
+    "total": 174,
     "sources": {
       "france_travail": 95,
-      "linkedin": 75
+      "linkedin": 79
     }
   }
 }
