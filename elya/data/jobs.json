@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T12:16:53.223281+00:00",
+  "last_updated": "2026-10-22T17:31:40.303874+00:00",
   "jobs": [
     {
       "id": "ft_8114582",
@@ -508,6 +508,29 @@
       "source": "france_travail",
       "date_posted": "2026-09-30",
       "contract_type": "CDI",
+      "salary": "",
+      "score": 66,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 10
+      }
+    },
+    {
+      "id": "ft_215NYJK",
+      "title": "Technicien réseaux informatiques (F/H)",
+      "company": "RANDSTADPROFESSIONAL",
+      "location": "33 - Braud-et-Saint-Louis",
+      "description": "En tant que Technicien de proximité informatique, vous allez devoir traiter des incidents et demandes, préparer des postes sur la plateforme d'intégration, gérer le stock (réception, inventaire,...",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NYJK",
+      "source": "france_travail",
+      "date_posted": "2026-10-22",
+      "contract_type": "Intérim",
       "salary": "",
       "score": 66,
       "score_breakdown": {
@@ -2253,6 +2276,29 @@
       }
     },
     {
+      "id": "li_4464532082",
+      "title": "Ingénieur Réseaux et Sécurité (F/H)",
+      "company": "Roxel",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seaux-et-s%C3%A9curit%C3%A9-f-h-at-roxel-4464532082",
+      "source": "linkedin",
+      "date_posted": "2026-09-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4461059749",
       "title": "Ingénieur systèmes - Identité (AD/Entra ID) (H/F)",
       "company": "FAYAT IT",
@@ -2870,27 +2916,6 @@
       }
     },
     {
-      "id": "ft_215DZBQ",
-      "title": "Directeur technique et projets multidisciplinaires (H/F)",
-      "company": "DOOWATT",
-      "location": "33 - MERIGNAC",
-      "description": "Pilotage de projets multidisciplinaires dans les domaines des datacenters, de la sûreté électronique, de l'énergie et des infrastructures Smart City.\nCoordination des audits, des études techniques,...",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215DZBQ",
-      "source": "france_travail",
-      "date_posted": "2026-10-13",
-      "contract_type": "CDI",
-      "salary": "",
-      "score": 25,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 10
-      }
-    },
-    {
       "id": "li_4465925746",
       "title": "Administrateur réseau H / F",
       "company": "Consort Group",
@@ -2937,27 +2962,6 @@
       }
     },
     {
-      "id": "li_4473166448",
-      "title": "Conseiller support logiciel germanophone - H/F",
-      "company": "IRIUM SOFTWARE",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/conseiller-support-logiciel-germanophone-h-f-at-irium-software-4473166448",
-      "source": "linkedin",
-      "date_posted": "2026-10-02",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4448176145",
       "title": "Consultant support (H/F)",
       "company": "Baryton",
@@ -2979,35 +2983,14 @@
       }
     },
     {
-      "id": "li_4478527680",
-      "title": "Technicien déploiement solutions d’impression H/F",
-      "company": "Groupe LBS",
+      "id": "li_4481701998",
+      "title": "Consultant support fonctionnel (H/F)",
+      "company": "YEVO",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-d%C3%A9ploiement-solutions-d%E2%80%99impression-h-f-at-groupe-lbs-4478527680",
+      "url": "https://fr.linkedin.com/jobs/view/consultant-support-fonctionnel-h-f-at-yevo-4481701998",
       "source": "linkedin",
-      "date_posted": "2026-10-12",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4419907709",
-      "title": "Consultant Implémentation & support PLM (H/F) (33)",
-      "company": "Percall Group",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/consultant-impl%C3%A9mentation-support-plm-h-f-33-at-percall-group-4419907709",
-      "source": "linkedin",
-      "date_posted": "2026-05-27",
+      "date_posted": "2026-10-20",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3042,14 +3025,77 @@
       }
     },
     {
-      "id": "li_4472121082",
-      "title": "INGÉNIEUR SUPPORT FONCTIONNEL FINANCE H/F",
-      "company": "Kicklox",
-      "location": "Nouvelle-Aquitaine, France",
+      "id": "li_4475222540",
+      "title": "Chargé de Support Clients (H/F) - Bordeaux",
+      "company": "HELPLINE",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-support-fonctionnel-finance-h-f-at-kicklox-4472121082",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-support-clients-h-f-bordeaux-at-helpline-4475222540",
       "source": "linkedin",
-      "date_posted": "2026-10-05",
+      "date_posted": "2026-10-09",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4478527680",
+      "title": "Technicien déploiement solutions d’impression H/F",
+      "company": "Groupe LBS",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-d%C3%A9ploiement-solutions-d%E2%80%99impression-h-f-at-groupe-lbs-4478527680",
+      "source": "linkedin",
+      "date_posted": "2026-10-12",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4474828206",
+      "title": "Administrateur SysOps (H/F)",
+      "company": "Thales",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-sysops-h-f-at-thales-4474828206",
+      "source": "linkedin",
+      "date_posted": "2026-10-08",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4407015894",
+      "title": "HOTLINER SUPPORT TECHNIQUE H/F",
+      "company": "JDC SA",
+      "location": "Bruges",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
+      "source": "linkedin",
+      "date_posted": "2026-04-29",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3126,27 +3172,6 @@
       }
     },
     {
-      "id": "li_4475443051",
-      "title": "Technicien de maintenance Bordeaux H/F",
-      "company": "BauWatch Group",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-bordeaux-h-f-at-bauwatch-group-4475443051",
-      "source": "linkedin",
-      "date_posted": "2026-10-07",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4479406325",
       "title": "Technicien(ne) Installation IRVE H/F",
       "company": "AXIMUM (Groupe COLAS)",
@@ -3168,14 +3193,14 @@
       }
     },
     {
-      "id": "li_4374089801",
-      "title": "Technicien sûreté électronique f/h",
-      "company": "Siemens",
-      "location": "Nouvelle-Aquitaine, France",
+      "id": "li_4361441593",
+      "title": "Technicien de maintenance SSI F/H",
+      "company": "Eiffage Énergie Systèmes",
+      "location": "Pessac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-s%C3%BBret%C3%A9-%C3%A9lectronique-f-h-at-siemens-4374089801",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-ssi-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4361441593",
       "source": "linkedin",
-      "date_posted": "2026-10-14",
+      "date_posted": "2026-10-02",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3189,14 +3214,35 @@
       }
     },
     {
-      "id": "li_4361441593",
-      "title": "Technicien de maintenance SSI F/H",
-      "company": "Eiffage Énergie Systèmes",
-      "location": "Pessac",
+      "id": "li_4478539252",
+      "title": "Technicien de maintenance solutions d’impression H/F",
+      "company": "Groupe LBS",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-ssi-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4361441593",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-solutions-d%E2%80%99impression-h-f-at-groupe-lbs-4478539252",
       "source": "linkedin",
-      "date_posted": "2026-10-02",
+      "date_posted": "2026-10-12",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4470434045",
+      "title": "Technicien Station (H/F)",
+      "company": "BT2i Group",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-station-h-f-at-bt2i-group-4470434045",
+      "source": "linkedin",
+      "date_posted": "2026-09-22",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3388,6 +3434,27 @@
       "url": "https://fr.linkedin.com/jobs/view/data-center-technician-france-bordeaux-on-site-at-reboot-monkey-4464399338",
       "source": "linkedin",
       "date_posted": "2026-08-13",
+      "contract_type": "",
+      "salary": "",
+      "score": 15,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4458368848",
+      "title": "CDI - Spécialiste solutions digitales production & applications (F/H)",
+      "company": "ArianeGroup",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/cdi-sp%C3%A9cialiste-solutions-digitales-production-applications-f-h-at-arianegroup-4458368848",
+      "source": "linkedin",
+      "date_posted": "2026-10-19",
       "contract_type": "",
       "salary": "",
       "score": 15,
@@ -3655,6 +3722,27 @@
       }
     },
     {
+      "id": "li_4478457402",
+      "title": "Ingénieur Applicatif ERP (H/F)",
+      "company": "Aleysia",
+      "location": "Bordeaux et périphérie",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-applicatif-erp-h-f-at-aleysia-4478457402",
+      "source": "linkedin",
+      "date_posted": "2026-10-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4470592775",
       "title": "Consultant(e) en solutions de gestion SAGE 100 - CDI (H/F)",
       "company": "L'Usine Nouvelle",
@@ -3782,10 +3870,10 @@
     }
   ],
   "stats": {
-    "total": 172,
+    "total": 176,
     "sources": {
       "france_travail": 95,
-      "linkedin": 77
+      "linkedin": 81
     }
   }
 }
