@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T16:11:20.372861+00:00",
+  "last_updated": "2026-10-24T21:06:37.564594+00:00",
   "jobs": [
     {
       "id": "ft_8249159",
@@ -1258,6 +1258,30 @@
       }
     },
     {
+      "id": "li_4464884172",
+      "title": "Administrateur Système Windows H/F",
+      "company": "CEA",
+      "location": "Le Barp",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/administrateur-syst%C3%A8me-windows-h-f-at-cea-4464884172",
+      "source": "linkedin",
+      "date_posted": "2026-10-24",
+      "contract_type": "",
+      "salary": "",
+      "score": 57,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 2,
+        "matched_skills": [
+          "Windows",
+          "système"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4472329148",
       "title": "Administrateur système réseau/Administratrice système réseau",
       "company": "agap2IT France",
@@ -1321,29 +1345,6 @@
         "skills": 1,
         "matched_skills": [
           "système"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4480129634",
-      "title": "Technicien Géomètre-Topographe & Détection de réseaux F/H",
-      "company": "Groupe ADRÉ",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-g%C3%A9om%C3%A8tre-topographe-d%C3%A9tection-de-r%C3%A9seaux-f-h-at-groupe-adr%C3%A9-4480129634",
-      "source": "linkedin",
-      "date_posted": "2026-10-15",
-      "contract_type": "",
-      "salary": "",
-      "score": 56,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "réseau"
         ],
         "sector": 10,
         "recency": 5,
@@ -2345,6 +2346,29 @@
       }
     },
     {
+      "id": "li_4464532082",
+      "title": "Ingénieur Réseaux et Sécurité (F/H)",
+      "company": "Roxel",
+      "location": "Saint-Médard-en-Jalles",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r%C3%A9seaux-et-s%C3%A9curit%C3%A9-f-h-at-roxel-4464532082",
+      "source": "linkedin",
+      "date_posted": "2026-09-10",
+      "contract_type": "",
+      "salary": "",
+      "score": 33,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 1,
+        "matched_skills": [
+          "réseau"
+        ],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4461059749",
       "title": "Ingénieur systèmes - Identité (AD/Entra ID) (H/F)",
       "company": "FAYAT IT",
@@ -2689,6 +2713,27 @@
       }
     },
     {
+      "id": "li_4344385404",
+      "title": "RESPONSABLE INFORMATIQUE",
+      "company": "Saica Groupe",
+      "location": "Bernos-Beaulac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-informatique-at-saica-group-4344385404",
+      "source": "linkedin",
+      "date_posted": "2025-12-17",
+      "contract_type": "",
+      "salary": "",
+      "score": 32,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 10,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4477313337",
       "title": "Technicien Électricien Sûreté sécurité électrique - H/F",
       "company": "ENSIO",
@@ -2718,27 +2763,6 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-d-inspection-electricit%C3%A9-h-f-at-groupe-qualiconsult-4473133407",
       "source": "linkedin",
       "date_posted": "2026-10-02",
-      "contract_type": "",
-      "salary": "",
-      "score": 32,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4465832332",
-      "title": "Technicien de contrôles réglementaires itinérant H/F",
-      "company": "TSG France",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-contr%C3%B4les-r%C3%A9glementaires-itin%C3%A9rant-h-f-at-tsg-france-4465832332",
-      "source": "linkedin",
-      "date_posted": "2026-09-10",
       "contract_type": "",
       "salary": "",
       "score": 32,
@@ -2968,14 +2992,14 @@
       }
     },
     {
-      "id": "li_4481698257",
-      "title": "ASSISTANT SUPPORT CLIENT H/F",
-      "company": "Groupe JVS",
-      "location": "Artigues-près-Bordeaux",
+      "id": "li_4448176145",
+      "title": "Consultant support (H/F)",
+      "company": "Baryton",
+      "location": "Montpouillan",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/assistant-support-client-h-f-at-groupe-jvs-4481698257",
+      "url": "https://fr.linkedin.com/jobs/view/consultant-support-h-f-at-baryton-4448176145",
       "source": "linkedin",
-      "date_posted": "2026-10-23",
+      "date_posted": "2026-08-03",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2989,14 +3013,14 @@
       }
     },
     {
-      "id": "li_4481701998",
-      "title": "Consultant support fonctionnel (H/F)",
-      "company": "YEVO",
-      "location": "Bordeaux",
+      "id": "li_4481698257",
+      "title": "ASSISTANT SUPPORT CLIENT H/F",
+      "company": "Groupe JVS",
+      "location": "Artigues-près-Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/consultant-support-fonctionnel-h-f-at-yevo-4481701998",
+      "url": "https://fr.linkedin.com/jobs/view/assistant-support-client-h-f-at-groupe-jvs-4481698257",
       "source": "linkedin",
-      "date_posted": "2026-10-20",
+      "date_posted": "2026-10-23",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3094,27 +3118,6 @@
       }
     },
     {
-      "id": "li_4478527680",
-      "title": "Technicien déploiement solutions d’impression H/F",
-      "company": "Groupe LBS",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-d%C3%A9ploiement-solutions-d%E2%80%99impression-h-f-at-groupe-lbs-4478527680",
-      "source": "linkedin",
-      "date_posted": "2026-10-12",
-      "contract_type": "",
-      "salary": "",
-      "score": 22,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
       "id": "li_4474828206",
       "title": "Administrateur SysOps (H/F)",
       "company": "Thales",
@@ -3136,14 +3139,14 @@
       }
     },
     {
-      "id": "li_4407015894",
+      "id": "li_4480270083",
       "title": "HOTLINER SUPPORT TECHNIQUE H/F",
       "company": "JDC SA",
       "location": "Bruges",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4407015894",
+      "url": "https://fr.linkedin.com/jobs/view/hotliner-support-technique-h-f-at-jdc-sa-4480270083",
       "source": "linkedin",
-      "date_posted": "2026-04-29",
+      "date_posted": "2026-10-19",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3291,6 +3294,48 @@
       "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-ssi-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4361441593",
       "source": "linkedin",
       "date_posted": "2026-10-24",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4478539252",
+      "title": "Technicien de maintenance solutions d’impression H/F",
+      "company": "Groupe LBS",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-solutions-d%E2%80%99impression-h-f-at-groupe-lbs-4478539252",
+      "source": "linkedin",
+      "date_posted": "2026-10-12",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4470434045",
+      "title": "Technicien Station (H/F)",
+      "company": "BT2i Group",
+      "location": "Mérignac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-station-h-f-at-bt2i-group-4470434045",
+      "source": "linkedin",
+      "date_posted": "2026-09-22",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -3457,27 +3502,6 @@
       "location": "Bordeaux",
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/data-center-technician-france-bordeaux-on-site-at-reboot-monkey-4464399338",
-      "source": "linkedin",
-      "date_posted": "2026-08-13",
-      "contract_type": "",
-      "salary": "",
-      "score": 15,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4464399637",
-      "title": "Data Center Technician - France - Bouliac - On-site",
-      "company": "Reboot Monkey",
-      "location": "Bouliac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/data-center-technician-france-bouliac-on-site-at-reboot-monkey-4464399637",
       "source": "linkedin",
       "date_posted": "2026-08-13",
       "contract_type": "",
@@ -3768,6 +3792,27 @@
       }
     },
     {
+      "id": "li_4481152367",
+      "title": "Métrologue H/F",
+      "company": "Régie de l'Eau Bordeaux Métropole",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/m%C3%A9trologue-h-f-at-r%C3%A9gie-de-l-eau-bordeaux-m%C3%A9tropole-4481152367",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4464630311",
       "title": "Modern Workplace Engineer F/M",
       "company": "Betclic Group",
@@ -3853,10 +3898,10 @@
     }
   ],
   "stats": {
-    "total": 175,
+    "total": 177,
     "sources": {
       "france_travail": 98,
-      "linkedin": 77
+      "linkedin": 79
     }
   }
 }
