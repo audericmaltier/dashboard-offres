@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T12:56:12.082411+00:00",
+  "last_updated": "2026-11-14T21:56:58.202465+00:00",
   "jobs": [
     {
       "id": "ft_8801511",
@@ -815,7 +815,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thode-et-processus-industriels-f-h-f-h-at-thales-4483186138",
       "source": "linkedin",
-      "date_posted": "2026-10-24",
+      "date_posted": "2026-11-14",
       "contract_type": "",
       "salary": "",
       "score": 55,
@@ -875,6 +875,29 @@
       }
     },
     {
+      "id": "li_4474469610",
+      "title": "Ingénieur méthodes principal H/F",
+      "company": "GCC, l’ETI de préférence",
+      "location": "Floirac",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-principal-h-f-at-gcc-l%E2%80%99eti-de-pr%C3%A9f%C3%A9rence-4474469610",
+      "source": "linkedin",
+      "date_posted": "2026-10-26",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4463931031",
       "title": "Ingénieur Méthodes - Bordeaux, France  (H/F)",
       "company": "Astek",
@@ -882,7 +905,7 @@
       "description": "",
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-bordeaux-france-h-f-at-astek-4463931031",
       "source": "linkedin",
-      "date_posted": "2026-10-23",
+      "date_posted": "2026-11-14",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -906,6 +929,29 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-composites-bordeaux-france-h-f-at-astek-4371929328",
       "source": "linkedin",
       "date_posted": "2026-11-03",
+      "contract_type": "",
+      "salary": "",
+      "score": 46,
+      "score_breakdown": {
+        "title": 40,
+        "skills": 1,
+        "matched_skills": [
+          "méthodes"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4478905278",
+      "title": "Ingénieur Méthodes Parachèvement (H/F)",
+      "company": "Aura Intérim & CDI",
+      "location": "Le Haillan",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-parach%C3%A8vement-h-f-at-aura-int%C3%A9rim-cdi-4478905278",
+      "source": "linkedin",
+      "date_posted": "2026-10-20",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -975,52 +1021,6 @@
       "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-h-f-at-alten-4487696249",
       "source": "linkedin",
       "date_posted": "2026-11-09",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4471987254",
-      "title": "Ingénieur Méthodes et Procédés F/H",
-      "company": "Roxel",
-      "location": "Saint-Médard-en-Jalles",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-et-proc%C3%A9d%C3%A9s-f-h-at-roxel-4471987254",
-      "source": "linkedin",
-      "date_posted": "2026-09-30",
-      "contract_type": "",
-      "salary": "",
-      "score": 46,
-      "score_breakdown": {
-        "title": 40,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4478905278",
-      "title": "Ingénieur Méthodes Parachèvement (H/F)",
-      "company": "Aura Intérim & CDI",
-      "location": "Le Haillan",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-m%C3%A9thodes-parach%C3%A8vement-h-f-at-aura-int%C3%A9rim-cdi-4478905278",
-      "source": "linkedin",
-      "date_posted": "2026-10-20",
       "contract_type": "",
       "salary": "",
       "score": 46,
@@ -1335,29 +1335,6 @@
         "sector": 0,
         "recency": 5,
         "contract": 10
-      }
-    },
-    {
-      "id": "li_4462845165",
-      "title": "Expert Méthodes Industrielles (F/H)",
-      "company": "Thales",
-      "location": "Bordeaux",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/expert-m%C3%A9thodes-industrielles-f-h-at-thales-4462845165",
-      "source": "linkedin",
-      "date_posted": "2026-11-06",
-      "contract_type": "",
-      "salary": "",
-      "score": 33,
-      "score_breakdown": {
-        "title": 17,
-        "skills": 1,
-        "matched_skills": [
-          "méthodes"
-        ],
-        "sector": 10,
-        "recency": 5,
-        "contract": 0
       }
     },
     {
@@ -1721,6 +1698,75 @@
       }
     },
     {
+      "id": "li_4482508009",
+      "title": "Responsable amélioration continue H/F",
+      "company": "Hays",
+      "location": "Marmande",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-am%C3%A9lioration-continue-h-f-at-hays-4482508009",
+      "source": "linkedin",
+      "date_posted": "2026-10-28",
+      "contract_type": "",
+      "salary": "",
+      "score": 29,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 1,
+        "matched_skills": [
+          "amélioration continue"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4354627749",
+      "title": "Responsable Amélioration Continue (H/F)",
+      "company": "LISI AEROSPACE",
+      "location": "Marmande",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-am%C3%A9lioration-continue-h-f-at-lisi-aerospace-4354627749",
+      "source": "linkedin",
+      "date_posted": "2026-11-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 29,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 1,
+        "matched_skills": [
+          "amélioration continue"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4476068754",
+      "title": "Responsable Amélioration Continue (H/F)",
+      "company": "LISI GROUP",
+      "location": "Marmande",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-am%C3%A9lioration-continue-h-f-at-lisi-group-4476068754",
+      "source": "linkedin",
+      "date_posted": "2026-10-12",
+      "contract_type": "",
+      "salary": "",
+      "score": 29,
+      "score_breakdown": {
+        "title": 23,
+        "skills": 1,
+        "matched_skills": [
+          "amélioration continue"
+        ],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
       "id": "li_4418017085",
       "title": "Technicien méthodes H/F",
       "company": "VINCI",
@@ -1813,14 +1859,14 @@
       }
     },
     {
-      "id": "li_4464443981",
-      "title": "Technicien méthodes/ Technicienne méthodes",
-      "company": "AptiSkills",
-      "location": "Nouvelle-Aquitaine, France",
+      "id": "li_4410980316",
+      "title": "Technicien Méthodes Process Formage à chaud des métaux (F/H)",
+      "company": "LISI AEROSPACE",
+      "location": "Marmande",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-technicienne-m%C3%A9thodes-at-aptiskills-4464443981",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-process-formage-%C3%A0-chaud-des-m%C3%A9taux-f-h-at-lisi-aerospace-4410980316",
       "source": "linkedin",
-      "date_posted": "2026-11-04",
+      "date_posted": "2026-11-01",
       "contract_type": "",
       "salary": "",
       "score": 23,
@@ -1878,14 +1924,14 @@
       }
     },
     {
-      "id": "li_4394373042",
-      "title": "Technicien de maintenance (F/H)",
-      "company": "LISI AEROSPACE",
-      "location": "Marmande",
+      "id": "li_4483007745",
+      "title": "Ingénieur/Ingénieure MCO électronique",
+      "company": "Capgemini Engineering",
+      "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-f-h-at-lisi-aerospace-4394373042",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ing%C3%A9nieure-mco-%C3%A9lectronique-at-capgemini-engineering-4483007745",
       "source": "linkedin",
-      "date_posted": "2026-11-01",
+      "date_posted": "2026-10-29",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2172,14 +2218,14 @@
       }
     },
     {
-      "id": "li_4480117400",
-      "title": "Ingénieur Industrialisation H/F",
-      "company": "Expleo Group",
-      "location": "Mérignac",
+      "id": "li_4482448665",
+      "title": "Ingénieur carrières et matériaux débutant Buzet sur Baïse 47 F/H",
+      "company": "VINCI Construction",
+      "location": "Buzet-sur-Baïse",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-industrialisation-h-f-at-expleo-group-4480117400",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-carri%C3%A8res-et-mat%C3%A9riaux-d%C3%A9butant-buzet-sur-ba%C3%AFse-47-f-h-at-vinci-construction-4482448665",
       "source": "linkedin",
-      "date_posted": "2026-11-06",
+      "date_posted": "2026-10-22",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2193,14 +2239,14 @@
       }
     },
     {
-      "id": "li_4485295768",
-      "title": "Ingénieur Qualité Fournisseurs (H/F)",
-      "company": "fortil",
-      "location": "Bordeaux",
+      "id": "li_4482078423",
+      "title": "Technicien de Maintenance",
+      "company": "Serioplast",
+      "location": "Lavardac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-qualit%C3%A9-fournisseurs-h-f-at-fortil-4485295768",
+      "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-at-serioplast-4482078423",
       "source": "linkedin",
-      "date_posted": "2026-10-30",
+      "date_posted": "2026-10-23",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2214,14 +2260,35 @@
       }
     },
     {
-      "id": "li_4482956149",
-      "title": "CDI - Inspecteur / technicien méthode production (F/H)",
-      "company": "ArianeGroup",
-      "location": "Biscarrosse",
+      "id": "li_4482437342",
+      "title": "Ingénieur carrières et matériaux débutant Buzet sur Baïse 47 F/H",
+      "company": "VINCI Construction en France",
+      "location": "Buzet-sur-Baïse",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdi-inspecteur-technicien-m%C3%A9thode-production-f-h-at-arianegroup-4482956149",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-carri%C3%A8res-et-mat%C3%A9riaux-d%C3%A9butant-buzet-sur-ba%C3%AFse-47-f-h-at-vinci-construction-france-4482437342",
       "source": "linkedin",
-      "date_posted": "2026-10-26",
+      "date_posted": "2026-10-22",
+      "contract_type": "",
+      "salary": "",
+      "score": 22,
+      "score_breakdown": {
+        "title": 17,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4482442988",
+      "title": "Ingénieur carrières et matériaux débutant Buzet sur Baïse 47 F/H",
+      "company": "VINCI Energies",
+      "location": "Buzet-sur-Baïse",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-carri%C3%A8res-et-mat%C3%A9riaux-d%C3%A9butant-buzet-sur-ba%C3%AFse-47-f-h-at-vinci-energies-4482442988",
+      "source": "linkedin",
+      "date_posted": "2026-10-22",
       "contract_type": "",
       "salary": "",
       "score": 22,
@@ -2258,14 +2325,14 @@
       }
     },
     {
-      "id": "li_4478854259",
-      "title": "Chargé d'Audit & Coaching Garantie H/F",
-      "company": "NOVAE",
+      "id": "li_4484444731",
+      "title": "Chargé.e d’exploitation éolien expérimenté.e - H/F",
+      "company": "JP Energie Environnement",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-d-audit-coaching-garantie-h-f-at-novae-4478854259",
+      "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-e-d%E2%80%99exploitation-%C3%A9olien-exp%C3%A9riment%C3%A9-e-h-f-at-jp-energie-environnement-4484444731",
       "source": "linkedin",
-      "date_posted": "2026-10-15",
+      "date_posted": "2026-11-02",
       "contract_type": "",
       "salary": "",
       "score": 16,
@@ -2405,77 +2472,35 @@
       }
     },
     {
-      "id": "li_4476207057",
-      "title": "Responsable technique – Métrologie H/F",
-      "company": "Manumesure - Chauvin Arnoux group",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-%E2%80%93-m%C3%A9trologie-h-f-at-manumesure-chauvin-arnoux-group-4476207057",
-      "source": "linkedin",
-      "date_posted": "2026-10-08",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4485374078",
-      "title": "Agent Bureau Technique Structure Équipements H/F",
-      "company": "Sabena technics",
-      "location": "Mérignac",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/agent-bureau-technique-structure-%C3%A9quipements-h-f-at-sabena-technics-4485374078",
-      "source": "linkedin",
-      "date_posted": "2026-10-30",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4488160274",
-      "title": "CDD Responsable d'exploitation adjoint(e) F/H",
-      "company": "VINCI Autoroutes",
-      "location": "Coutras",
-      "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/cdd-responsable-d-exploitation-adjoint-e-f-h-at-vinci-autoroutes-4488160274",
-      "source": "linkedin",
-      "date_posted": "2026-11-06",
-      "contract_type": "",
-      "salary": "",
-      "score": 5,
-      "score_breakdown": {
-        "title": 0,
-        "skills": 0,
-        "matched_skills": [],
-        "sector": 0,
-        "recency": 5,
-        "contract": 0
-      }
-    },
-    {
-      "id": "li_4442286440",
+      "id": "li_4489331933",
       "title": "Chef de projet infrastructures Tramway F/H",
       "company": "Keolis Bordeaux Métropole Mobilités",
       "location": "Bordeaux",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/chef-de-projet-infrastructures-tramway-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4442286440",
+      "url": "https://fr.linkedin.com/jobs/view/chef-de-projet-infrastructures-tramway-f-h-at-keolis-bordeaux-m%C3%A9tropole-mobilit%C3%A9s-4489331933",
       "source": "linkedin",
-      "date_posted": "2026-07-21",
+      "date_posted": "2026-11-14",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4476682716",
+      "title": "INGENIEUR TRAVAUX TECHNIQUES ELECTRIQUES GH PELLEGRIN - H/F",
+      "company": "CHU de Bordeaux",
+      "location": "Bordeaux",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/ingenieur-travaux-techniques-electriques-gh-pellegrin-h-f-at-chu-de-bordeaux-4476682716",
+      "source": "linkedin",
+      "date_posted": "2026-10-14",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2510,14 +2535,14 @@
       }
     },
     {
-      "id": "li_4476682716",
-      "title": "INGENIEUR TRAVAUX TECHNIQUES ELECTRIQUES GH PELLEGRIN - H/F",
-      "company": "CHU de Bordeaux",
-      "location": "Bordeaux",
+      "id": "li_4476718553",
+      "title": "Responsable technique H/F",
+      "company": "Korian France",
+      "location": "Talence",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/ingenieur-travaux-techniques-electriques-gh-pellegrin-h-f-at-chu-de-bordeaux-4476682716",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-technique-h-f-at-korian-4476718553",
       "source": "linkedin",
-      "date_posted": "2026-10-14",
+      "date_posted": "2026-10-07",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2720,14 +2745,14 @@
       }
     },
     {
-      "id": "li_4415702628",
-      "title": "Leader Technique EIA H/F",
-      "company": "CTS Consulting & Technical Support",
-      "location": "Eysines",
+      "id": "li_4465044476",
+      "title": "Chef.fe de Projet Industrialisation MOD Interne H/F",
+      "company": "Sabena technics",
+      "location": "Mérignac",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/leader-technique-eia-h-f-at-cts-consulting-technical-support-4415702628",
+      "url": "https://fr.linkedin.com/jobs/view/chef-fe-de-projet-industrialisation-mod-interne-h-f-at-sabena-technics-4465044476",
       "source": "linkedin",
-      "date_posted": "2026-05-18",
+      "date_posted": "2026-11-13",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2741,14 +2766,77 @@
       }
     },
     {
-      "id": "li_4481564102",
-      "title": "MANUFACTURING INSPECTION METHODS ENGINEER – METHODE CONTRÔLE (H/F)",
-      "company": "FLYING WHALES",
-      "location": "Bordeaux",
+      "id": "li_4484380429",
+      "title": "Chef d'atelier",
+      "company": "TAQUIPNEU - Euromaster",
+      "location": "Langon",
       "description": "",
-      "url": "https://fr.linkedin.com/jobs/view/manufacturing-inspection-methods-engineer-%E2%80%93-methode-contr%C3%B4le-h-f-at-flying-whales-4481564102",
+      "url": "https://fr.linkedin.com/jobs/view/chef-d-atelier-at-taquipneu-euromaster-4484380429",
       "source": "linkedin",
-      "date_posted": "2026-10-20",
+      "date_posted": "2026-11-02",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4476163801",
+      "title": "Chef d'équipe logistique H/F",
+      "company": "GROUPE PRIMEVER",
+      "location": "Marmande",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/chef-d-%C3%A9quipe-logistique-h-f-at-groupe-primever-4476163801",
+      "source": "linkedin",
+      "date_posted": "2026-10-06",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4485174524",
+      "title": "RESPONSABLE SILO ( CASTILLONNES - 47) H/F",
+      "company": "Auraïa",
+      "location": "Castillonnès",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/responsable-silo-castillonnes-47-h-f-at-aura%C3%AFa-4485174524",
+      "source": "linkedin",
+      "date_posted": "2026-10-31",
+      "contract_type": "",
+      "salary": "",
+      "score": 5,
+      "score_breakdown": {
+        "title": 0,
+        "skills": 0,
+        "matched_skills": [],
+        "sector": 0,
+        "recency": 5,
+        "contract": 0
+      }
+    },
+    {
+      "id": "li_4489472725",
+      "title": "Encadrant technique d'insertion",
+      "company": "ASSOCIATION SERVICE ENVIRONNEMENT",
+      "location": "Tonneins",
+      "description": "",
+      "url": "https://fr.linkedin.com/jobs/view/encadrant-technique-d-insertion-at-association-service-environnement-4489472725",
+      "source": "linkedin",
+      "date_posted": "2026-11-10",
       "contract_type": "",
       "salary": "",
       "score": 5,
@@ -2763,10 +2851,10 @@
     }
   ],
   "stats": {
-    "total": 127,
+    "total": 131,
     "sources": {
       "france_travail": 60,
-      "linkedin": 67
+      "linkedin": 71
     }
   }
 }
